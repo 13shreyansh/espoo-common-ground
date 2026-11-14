@@ -1,0 +1,22 @@
+{
+  "version": "release-audit-v1.1",
+  "sealedAt": "2026-11-14T16:23:16.967Z",
+  "note": "Known-set replay after independent shared-table finding. Original first audit retained. No untouched held-out claim after remediation.",
+  "sha256": {
+    "EVAL_SPEC.md": "2b3c0acdd08076107238f2508b5b330c6dda2959863b3cda3328fedaeb53d5d3",
+    "src/engine.mjs": "4ba30a1634063aeb4154c9f01327139fd1d2bb2655de5bc1a456c4b057e55cd7",
+    "eval/fixtures.json": "0b30889c47f3eefb9a719a3e2acf17cd008af0a84991847f9f22acfa2f66d1d1",
+    "eval/graders.mjs": "179e1cceadb258823b03b3dc4ffce90b46621b3c1ddc5c7a7f2b4891f8645292",
+    "eval/run.mjs": "b065967810d1ac5d1fc1fa946b912d9d839cb7d8bb0377c9d0eb68429cda5468",
+    "eval/results.json": "ddc206098c9368bf8adc35919c7c41d47b77801bbc30bb5f2a08676ff2a5c2fd",
+    "eval/LEDGER.md": "782a6c25261d44456d8fe814e2cb55acd33a2e1fec1a2d3cf5f7c8b6aa21a9ef",
+    "eval/REVIEW.md": "575f1837784714b0184022369a6bfd5598ff063024fb7e7b434e8378f9dec5ea",
+    "eval/verify.mjs": "bb1a43b35094e992e2ba11b4d8c717f13b5ad04943bfe06d422f9090a87e8ebc",
+    "tests/engine.test.mjs": "9249da3d97e0243e4dc7cfba1c1052a1baa570fbf105c6643f94d3a9f45357af",
+    "eval/archive-v1/results.json": "0849e7f0b5d7479ae13f0ae479750c26b98ebbb6b13420ccfdd6ce299dcb19c7",
+    "eval/archive-v1/engine.mjs": "76e56e6a22dbdaf33954cf56f873a8505877058c2097143c4f9396b2469b7b7f",
+    "eval/archive-v1/graders.mjs": "8356946208550567302ca735ce3f56ae7a99309d25ccd40f005ba9c6656b0ad7",
+    "eval/archive-v1/run.mjs": "ef69fbab73d07de91f4940929e8764f116bd1a7b40dd3cc8eb3d020e832248ca",
+    "eval/archive-v1/EVAL_SPEC.md": "2b3c0acdd08076107238f2508b5b330c6dda2959863b3cda3328fedaeb53d5d3"
+  }
+}

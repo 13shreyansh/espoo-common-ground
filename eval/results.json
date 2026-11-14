@@ -1,6 +1,7 @@
 {
-  "version": "audit-v1",
-  "at": "2026-11-14T16:17:01.997Z",
+  "auditNote": "Physical-table occupancy corrected after fresh review; original first audit/policy/grader preserved in eval/archive-v1. This is a known-set replay, not a newly untouched held-out audit.",
+  "version": "audit-v1.1-known-set-replay",
+  "at": "2026-11-14T16:21:29.547Z",
   "provenance": "Builder-authored synthetic assertions. No human hiring quality labels.",
   "dev": {
     "total": 12,
@@ -2037,15 +2038,15 @@
   ],
   "failures": [],
   "timing": {
-    "policyMs": 1.5692869999999903,
+    "policyMs": 1.6075809999999997,
     "runs": 28,
-    "meanPolicyMs": 0.05604596428571394,
+    "meanPolicyMs": 0.057413607142857134,
     "environment": "Node v24.21.0; local darwin/arm64; single pass; not a service latency benchmark"
   },
   "hashes": {
-    "src/engine.mjs": "76e56e6a22dbdaf33954cf56f873a8505877058c2097143c4f9396b2469b7b7f",
+    "src/engine.mjs": "4ba30a1634063aeb4154c9f01327139fd1d2bb2655de5bc1a456c4b057e55cd7",
     "eval/fixtures.json": "0b30889c47f3eefb9a719a3e2acf17cd008af0a84991847f9f22acfa2f66d1d1",
-    "eval/graders.mjs": "8356946208550567302ca735ce3f56ae7a99309d25ccd40f005ba9c6656b0ad7",
+    "eval/graders.mjs": "179e1cceadb258823b03b3dc4ffce90b46621b3c1ddc5c7a7f2b4891f8645292",
     "EVAL_SPEC.md": "2b3c0acdd08076107238f2508b5b330c6dda2959863b3cda3328fedaeb53d5d3"
   },
   "familySplits": {

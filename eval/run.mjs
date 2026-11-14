@@ -1,4 +1,5 @@
-import {readFile,writeFile} from 'node:fs/promises';
+import {readFile,writeFile,mkdir} from 'node:fs/promises';
+import {dirname} from 'node:path';
 import {createHash} from 'node:crypto';
 import {performance} from 'node:perf_hooks';
 import {schedule,keywordBaseline,meetingKey,approvalKey} from '../src/engine.mjs';
@@ -7,7 +8,7 @@ const fixtures=JSON.parse(await readFile('eval/fixtures.json','utf8'));
 const hash=async path=>createHash('sha256').update(await readFile(path)).digest('hex');
 const canonical=ms=>ms.map(meetingKey).sort().join('|');
 const metrics=()=>({total:0,valid:0,baselineValid:0,optimal:0,meetings:0,baselineMeetings:0,eligibleBaselinePairs:0});
-const results={version:'audit-v1',at:new Date().toISOString(),provenance:fixtures.provenance,dev:metrics(),heldout:metrics(),nuisance:{total:0,passed:0},cancellation:{total:0,passed:0},fairness:{},traces:[],failures:[],timing:{policyMs:0,runs:0},hashes:{}};
+const results={auditNote:'Physical-table occupancy corrected after fresh review; original first audit/policy/grader preserved in eval/archive-v1. This is a known-set replay, not a newly untouched held-out audit.',version:'audit-v1.1-known-set-replay',at:new Date().toISOString(),provenance:fixtures.provenance,dev:metrics(),heldout:metrics(),nuisance:{total:0,passed:0},cancellation:{total:0,passed:0},fairness:{},traces:[],failures:[],timing:{policyMs:0,runs:0},hashes:{}};
 const familySplits={};
 for(const fixture of fixtures.scenarios){
   if(familySplits[fixture.family]&&familySplits[fixture.family]!==fixture.split)throw Error('Family leakage');
@@ -46,6 +47,11 @@ results.familySplits=familySplits;
 results.timing.meanPolicyMs=results.timing.policyMs/results.timing.runs;
 results.timing.environment=`Node ${process.version}; local ${process.platform}/${process.arch}; single pass; not a service latency benchmark`;
 for(const p of ['src/engine.mjs','eval/fixtures.json','eval/graders.mjs','EVAL_SPEC.md'])results.hashes[p]=await hash(p);
-await writeFile('eval/results.json',JSON.stringify(results,null,2)+'\n');
+const output='work/replay-results.json';
+await mkdir(dirname(output),{recursive:true});
+await writeFile(output,JSON.stringify(results,null,2)+'\n');
+const sealed=JSON.parse(await readFile('eval/results.json','utf8'));
+for(const key of ['dev','heldout','nuisance','cancellation','fairness','familySplits'])if(JSON.stringify(sealed[key])!==JSON.stringify(results[key]))throw Error(`Replay differs from sealed evidence: ${key}`);
+console.log(`Known-set replay written to ${output}; sealed results were not overwritten.`);
 console.log(JSON.stringify({dev:results.dev,heldout:results.heldout,nuisance:results.nuisance,cancellation:results.cancellation,fairness:results.fairness,failures:results.failures,timing:results.timing,hashes:results.hashes},null,2));
 if(results.failures.length)process.exitCode=1;

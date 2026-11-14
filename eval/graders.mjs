@@ -14,9 +14,9 @@ export function grade(data,meetings,{unavailable=[],excluded=[]}={}) {
     if(unavailable.includes(p.id)||excluded.includes(`${p.id}:${c.id}`))failures.push('cancelled-pair-or-absence');
     if(!data.slots.includes(m.slot)||!p.slots.includes(m.slot)||!c.slots.includes(m.slot))failures.push('availability');
     if(seenPeople.has(p.id))failures.push('talent-double-booking');
-    if(seenSlots.has(`${c.id}:${m.slot}`))failures.push('table-double-booking');
+    if(seenSlots.has(`${c.table}:${m.slot}`))failures.push('table-double-booking');
     counts[c.id]=(counts[c.id]||0)+1;if(counts[c.id]>c.capacity)failures.push('capacity');
-    seenPeople.add(p.id);seenSlots.add(`${c.id}:${m.slot}`);
+    seenPeople.add(p.id);seenSlots.add(`${c.table}:${m.slot}`);
   }
   return failures;
 }
@@ -24,14 +24,14 @@ export function cardinalityOracle(data,{unavailable=[],excluded=[]}={}) {
   // Independent exhaustive enumeration by table/time cells rather than talent recursion.
   const cells=data.companies.flatMap(c=>data.slots.filter(s=>c.slots.includes(s)).map(slot=>({c,slot})));
   let best=0;
-  function walk(i,people,counts){
+  function walk(i,people,counts,occupied){
     if(i===cells.length){best=Math.max(best,people.size);return;}
-    walk(i+1,people,counts);
-    const {c,slot}=cells[i];if((counts[c.id]||0)>=c.capacity)return;
+    walk(i+1,people,counts,occupied);
+    const {c,slot}=cells[i];if((counts[c.id]||0)>=c.capacity||occupied.has(`${c.table}:${slot}`))return;
     for(const p of data.people){
       if(people.has(p.id)||unavailable.includes(p.id)||excluded.includes(`${p.id}:${c.id}`)||!p.slots.includes(slot)||!allowed(data,{personId:p.id,companyId:c.id}))continue;
-      const next=new Set(people);next.add(p.id);walk(i+1,next,{...counts,[c.id]:(counts[c.id]||0)+1});
+      const next=new Set(people);next.add(p.id);const taken=new Set(occupied);taken.add(`${c.table}:${slot}`);walk(i+1,next,{...counts,[c.id]:(counts[c.id]||0)+1},taken);
     }
   }
-  walk(0,new Set(),{});return best;
+  walk(0,new Set(),{},new Set());return best;
 }

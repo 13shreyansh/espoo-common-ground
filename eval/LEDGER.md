@@ -1,17 +1,19 @@
 # Evaluation ledger
 
-## Audit v1
+## Audit v1 and v1.1 replay
 
-Policy, fixture and grader hashes are recorded in [results.json](results.json). This first frozen audit has not been tuned against its held-out results. UI-only fixes may follow without changing those hashes. Reproducing the audit changes its timestamp and local runtime, not expected decisions.
+Policy, fixture and grader hashes are recorded in [results.json](results.json). The original first audit is preserved in [archive-v1](archive-v1/results.json), with its original policy, grader, runner and spec. A fresh reviewer subsequently found that physical tables were keyed by company ID. That defect was fixed in the policy and both graders, and an explicit shared-table regression was added. The current results are a known-set replay after that fix. Held-out scenarios were already observed; this replay is not new untouched evidence. Fixture and spec hashes stayed unchanged; policy and grader hashes changed. Archive runner source is provenance, not a standalone runnable entry point. Initial commit 6285396 reproduces the original layout. Reproducing the audit changes its timestamp and local runtime, not expected decisions.
 
 The same builder authored the policy and synthetic scenario families. No independent human, recruiter or domain-expert labels exist. A fresh code reviewer may inspect spec and evidence separately; that is not external hiring-quality validation. No model inference or LLM grader was run, and no human agreement percentage is claimed.
 
 | Version | Change | Dev | Held-out | Cost | Local policy runtime |
 |---|---|---|---|---|---|
 | keyword-v1 | Greedy CV substring hits with free time/capacity | 3/12 fully valid schedules, 15/32 eligible pairs | 8/16 fully valid schedules, 19/31 eligible pairs | No model/API calls | Not separately benchmarked |
-| evidence-v1 | Explicit essential tags, mutual interest, exact schedule search | 12/12 valid, 12/12 oracle cardinality, 26 meetings | 16/16 valid, 16/16 oracle cardinality, 41 meetings | No model/API calls | First audit 1.5693 ms total / 28 policy runs, mean 0.0560 ms on Node 24.21, darwin/arm64; single pass |
+| evidence-v1, archived | Explicit essential tags, mutual interest, exact schedule search | 12/12 valid, 12/12 oracle cardinality, 26 meetings | 16/16 valid, 16/16 oracle cardinality, 41 meetings | No model/API calls | First audit 1.5693 ms total / 28 policy runs, mean 0.0560 ms on Node 24.21, darwin/arm64; single pass |
 
-Timing covers policy calls only on tiny local fixtures. It excludes the browser, network, human review and the independent oracle. It is not a production latency or scale claim. The exact first-run machine-readable timing is in results.json.
+| evidence-v1.1, known-set replay | Key occupancy by physical table; shared-table regression added | 12/12 valid, 12/12 oracle cardinality, 26 meetings | 16/16 valid, 16/16 oracle cardinality, 41 meetings | No model/API calls | 1.6076 ms total / 28 runs, mean 0.0574 ms; same local environment |
+
+Timing covers policy calls only on tiny local fixtures. It excludes the browser, network, human review and the independent oracle. It is not a production latency or scale claim. The exact original first-run timing is in archive-v1/results.json; the corrected known-set replay timing is in results.json.
 
 ## Frozen split and checks
 
@@ -34,7 +36,7 @@ The builder inspected all 28 primary trace summaries and eight cancellation/reas
 | Missing or unknown evidence leaves no eligible meeting | incomplete-2 | 1/28 empty schedules | Correct abstention under this policy; still a product limitation for a learner |
 | Semantically repeated variants can overstate diversity | transfer/vocabulary and cancellation variants repeat decisions | Several variants | Publish family count and construction. Do not call the 28 rows independent events |
 
-No policy constraints failed in this audit. This does not imply the product has no failures.
+The original fixtures did not catch the physical-table collision. The fresh reviewer constructed two companies sharing one table/time; the original policy, validator and oracle all accepted the collision. This is a shared-specification blind spot. The corrected release prevents it and adds a regression checking the schedule, both validators, cardinality and conflicting locked meetings. Original fixture counts remain unchanged. No claim of completeness follows from either audit.
 
 ## Synthetic group diagnostic and unresolved failure
 
@@ -50,3 +52,9 @@ Absolute gap 24.19 percentage points. Group swaps leave allocations unchanged, y
 ## Next evidence needed
 
 Observe whether real, consented participants can describe samples and understand the why-you-two explanation. Validate essential tags with employers and domain experts. Test an organiser-reviewed allocation policy for scarce slots, including access for newcomers and incomplete evidence. Run independently authored events, larger performance tests, secure multi-user agreement, and privacy/legal review before a real pilot.
+
+## Independent review provenance and resolution
+
+[REVIEW.md](REVIEW.md) preserves the fresh-context review and its bounded follow-up. The reviewer received only the specification and project evidence, never the builder conversation. This is a same-model-family AI review because Fable was unavailable. It is not human or independent-domain validation. It reproduced primary traces and hashes, independently enumerated 100 small cases for the objective, discovered the shared physical-table blind spot, and checked the fix. It refused visual, live-deployment, real-hiring, fairness and legal conclusions without evidence. The owner corrected the timing reference and added the missing policy-validator regression assertion mentioned in its follow-up. The review's historical wording is preserved.
+
+`npm run eval` now writes only to gitignored work/replay-results.json and checks summary counts against the sealed release. It does not overwrite this audit. `npm run verify:audit` checks FINAL_FREEZE.json's artifact hashes. Sealing proves file identity, not historical preregistration or absence of undisclosed experimentation.

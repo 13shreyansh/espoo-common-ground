@@ -16,7 +16,7 @@ Demo one pair and a card. Keep this project at the same table as the other solo 
 
 2:25–3:00: Cancel the pair and rebuild. Explain that existing mutually agreed meetings are locked. A replacement has no inherited consent. Open Company needs to show Harbour Works' missing task, or Work evidence to mark someone absent.
 
-3:00–4:05: Audit tab. 12 development variants across three families, 16 held-out variants across four whole families. Evidence schedules valid 16/16 held-out versus 8/16 for a deliberately simple keyword-CV baseline. Independent enumeration confirms maximum cardinality. 168 nuisance and 12 cancellation checks pass. These measure synthetic rule conformance, not human hiring relevance or a deployed-scale advantage.
+3:00–4:05: Audit tab. 12 development variants across three families, 16 held-out variants across four whole families. After a fresh reviewer found and we fixed a shared-table collision, the known-set replay is valid 16/16 versus 8/16 for a deliberately simple keyword-CV baseline. Independent enumeration confirms maximum cardinality. 168 nuisance and 12 cancellation checks pass. These measure synthetic rule conformance, not human hiring relevance or a deployed-scale advantage.
 
 4:05–4:40: Show the failure. Scarcity leaves some eligible people without slots. The synthetic career-change group gets 40/42 slots and the direct-path group 27/38. Group labels are ignored, yet allocation differs. Real deployment needs a reviewed access policy, human evidence review, secure shared confirmation, consent/privacy controls and legal assessment.
 

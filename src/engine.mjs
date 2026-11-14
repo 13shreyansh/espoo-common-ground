@@ -31,10 +31,10 @@ export function schedule(data, {excluded = [], unavailable = [], locked = []} = 
     const p = people.find(p => p.id === m.personId), c = companies.find(c => c.id === m.companyId);
     if (!p || !c || !eligible(p,c) || absent.has(p.id) || excludedSet.has(pairId(p,c)) ||
         !p.slots.includes(m.slot) || !c.slots.includes(m.slot) || !data.slots.includes(m.slot) ||
-        occupied.has(`${c.id}:${m.slot}`) || usedPeople.has(p.id) || (counts.get(c.id) || 0) >= c.capacity) {
+        occupied.has(`${c.table}:${m.slot}`) || usedPeople.has(p.id) || (counts.get(c.id) || 0) >= c.capacity) {
       throw new Error('A confirmed meeting conflicts with availability, capacity or current evidence. Review it before replanning.');
     }
-    initial.push({...m}); occupied.add(`${c.id}:${m.slot}`); usedPeople.add(p.id);
+    initial.push({...m}); occupied.add(`${c.table}:${m.slot}`); usedPeople.add(p.id);
     counts.set(c.id, (counts.get(c.id) || 0) + 1);
   }
   let best = null;
@@ -63,7 +63,7 @@ export function schedule(data, {excluded = [], unavailable = [], locked = []} = 
     for (const c of companies) {
       if (!eligible(p,c) || excludedSet.has(pairId(p,c)) || (counts.get(c.id) || 0) >= c.capacity) continue;
       for (const slot of [...data.slots].sort(compare)) {
-        const key = `${c.id}:${slot}`;
+        const key = `${c.table}:${slot}`;
         if (!p.slots.includes(slot) || !c.slots.includes(slot) || occupied.has(key)) continue;
         occupied.add(key); counts.set(c.id, (counts.get(c.id) || 0) + 1);
         meetings.push({personId:p.id, companyId:c.id, slot});
@@ -84,8 +84,8 @@ export function violations(data, meetings) {
     if (!eligible(p,c)) errors.push('missing evidence or mutual opt-in');
     if (!data.slots.includes(m.slot) || !p.slots.includes(m.slot) || !c.slots.includes(m.slot)) errors.push('availability');
     if (people.has(p.id)) errors.push('talent double booked');
-    if (tables.has(`${c.id}:${m.slot}`)) errors.push('table double booked');
-    people.add(p.id); tables.add(`${c.id}:${m.slot}`);
+    if (tables.has(`${c.table}:${m.slot}`)) errors.push('table double booked');
+    people.add(p.id); tables.add(`${c.table}:${m.slot}`);
     counts.set(c.id, (counts.get(c.id) || 0) + 1);
     if (counts.get(c.id) > c.capacity) errors.push('capacity');
   }
@@ -104,10 +104,10 @@ export function keywordBaseline(data) {
   const meetings = [], used = new Set(), occupied = new Set(), counts = new Map();
   for (const {p,c} of options) {
     if (used.has(p.id) || (counts.get(c.id)||0) >= c.capacity) continue;
-    const slot = data.slots.find(s => p.slots.includes(s) && c.slots.includes(s) && !occupied.has(`${c.id}:${s}`));
+    const slot = data.slots.find(s => p.slots.includes(s) && c.slots.includes(s) && !occupied.has(`${c.table}:${s}`));
     if (!slot) continue;
     meetings.push({personId:p.id, companyId:c.id, slot});
-    used.add(p.id); occupied.add(`${c.id}:${slot}`); counts.set(c.id,(counts.get(c.id)||0)+1);
+    used.add(p.id); occupied.add(`${c.table}:${slot}`); counts.set(c.id,(counts.get(c.id)||0)+1);
   }
   return meetings;
 }

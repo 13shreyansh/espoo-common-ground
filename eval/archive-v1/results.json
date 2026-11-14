@@ -1,0 +1,2060 @@
+{
+  "version": "audit-v1",
+  "at": "2026-11-14T16:17:01.997Z",
+  "provenance": "Builder-authored synthetic assertions. No human hiring quality labels.",
+  "dev": {
+    "total": 12,
+    "valid": 12,
+    "baselineValid": 3,
+    "optimal": 12,
+    "meetings": 26,
+    "baselineMeetings": 32,
+    "eligibleBaselinePairs": 15
+  },
+  "heldout": {
+    "total": 16,
+    "valid": 16,
+    "baselineValid": 8,
+    "optimal": 16,
+    "meetings": 41,
+    "baselineMeetings": 31,
+    "eligibleBaselinePairs": 19
+  },
+  "nuisance": {
+    "total": 168,
+    "passed": 168
+  },
+  "cancellation": {
+    "total": 12,
+    "passed": 12
+  },
+  "fairness": {
+    "career change": {
+      "eligible": 42,
+      "selected": 40
+    },
+    "direct path": {
+      "eligible": 38,
+      "selected": 27
+    }
+  },
+  "traces": [
+    {
+      "id": "transfer-0",
+      "family": "transfer",
+      "split": "dev",
+      "meetings": [
+        {
+          "personId": "p0",
+          "companyId": "c0",
+          "slot": "14:00"
+        },
+        {
+          "personId": "p2",
+          "companyId": "c0",
+          "slot": "14:15"
+        }
+      ],
+      "baseline": [
+        {
+          "personId": "p1",
+          "companyId": "c0",
+          "slot": "14:00"
+        },
+        {
+          "personId": "p3",
+          "companyId": "c0",
+          "slot": "14:15"
+        }
+      ],
+      "oracle": 2,
+      "failures": [],
+      "baselineFailures": [
+        "evidence-or-opt-in",
+        "evidence-or-opt-in"
+      ],
+      "nuisance": [
+        {
+          "kind": "rename",
+          "pass": true
+        },
+        {
+          "kind": "demographic-removal",
+          "pass": true
+        },
+        {
+          "kind": "reorder",
+          "pass": true
+        },
+        {
+          "kind": "rephrase",
+          "pass": true
+        },
+        {
+          "kind": "cv-polish",
+          "pass": true
+        },
+        {
+          "kind": "group-swap",
+          "pass": true
+        }
+      ]
+    },
+    {
+      "id": "transfer-1",
+      "family": "transfer",
+      "split": "dev",
+      "meetings": [
+        {
+          "personId": "p0",
+          "companyId": "c0",
+          "slot": "14:00"
+        },
+        {
+          "personId": "p2",
+          "companyId": "c0",
+          "slot": "14:15"
+        }
+      ],
+      "baseline": [
+        {
+          "personId": "p1",
+          "companyId": "c0",
+          "slot": "14:00"
+        },
+        {
+          "personId": "p3",
+          "companyId": "c0",
+          "slot": "14:15"
+        }
+      ],
+      "oracle": 2,
+      "failures": [],
+      "baselineFailures": [
+        "evidence-or-opt-in",
+        "evidence-or-opt-in"
+      ],
+      "nuisance": [
+        {
+          "kind": "rename",
+          "pass": true
+        },
+        {
+          "kind": "demographic-removal",
+          "pass": true
+        },
+        {
+          "kind": "reorder",
+          "pass": true
+        },
+        {
+          "kind": "rephrase",
+          "pass": true
+        },
+        {
+          "kind": "cv-polish",
+          "pass": true
+        },
+        {
+          "kind": "group-swap",
+          "pass": true
+        }
+      ]
+    },
+    {
+      "id": "transfer-2",
+      "family": "transfer",
+      "split": "dev",
+      "meetings": [
+        {
+          "personId": "p0",
+          "companyId": "c0",
+          "slot": "14:00"
+        },
+        {
+          "personId": "p2",
+          "companyId": "c0",
+          "slot": "14:15"
+        }
+      ],
+      "baseline": [
+        {
+          "personId": "p1",
+          "companyId": "c0",
+          "slot": "14:00"
+        },
+        {
+          "personId": "p3",
+          "companyId": "c0",
+          "slot": "14:15"
+        }
+      ],
+      "oracle": 2,
+      "failures": [],
+      "baselineFailures": [
+        "evidence-or-opt-in",
+        "evidence-or-opt-in"
+      ],
+      "nuisance": [
+        {
+          "kind": "rename",
+          "pass": true
+        },
+        {
+          "kind": "demographic-removal",
+          "pass": true
+        },
+        {
+          "kind": "reorder",
+          "pass": true
+        },
+        {
+          "kind": "rephrase",
+          "pass": true
+        },
+        {
+          "kind": "cv-polish",
+          "pass": true
+        },
+        {
+          "kind": "group-swap",
+          "pass": true
+        }
+      ]
+    },
+    {
+      "id": "transfer-3",
+      "family": "transfer",
+      "split": "dev",
+      "meetings": [
+        {
+          "personId": "p0",
+          "companyId": "c0",
+          "slot": "14:00"
+        },
+        {
+          "personId": "p2",
+          "companyId": "c0",
+          "slot": "14:15"
+        }
+      ],
+      "baseline": [
+        {
+          "personId": "p1",
+          "companyId": "c0",
+          "slot": "14:00"
+        },
+        {
+          "personId": "p3",
+          "companyId": "c0",
+          "slot": "14:15"
+        }
+      ],
+      "oracle": 2,
+      "failures": [],
+      "baselineFailures": [
+        "evidence-or-opt-in",
+        "evidence-or-opt-in"
+      ],
+      "nuisance": [
+        {
+          "kind": "rename",
+          "pass": true
+        },
+        {
+          "kind": "demographic-removal",
+          "pass": true
+        },
+        {
+          "kind": "reorder",
+          "pass": true
+        },
+        {
+          "kind": "rephrase",
+          "pass": true
+        },
+        {
+          "kind": "cv-polish",
+          "pass": true
+        },
+        {
+          "kind": "group-swap",
+          "pass": true
+        }
+      ]
+    },
+    {
+      "id": "vocabulary-0",
+      "family": "vocabulary",
+      "split": "dev",
+      "meetings": [
+        {
+          "personId": "p1",
+          "companyId": "c0",
+          "slot": "14:00"
+        },
+        {
+          "personId": "p3",
+          "companyId": "c0",
+          "slot": "14:15"
+        }
+      ],
+      "baseline": [
+        {
+          "personId": "p0",
+          "companyId": "c0",
+          "slot": "14:00"
+        },
+        {
+          "personId": "p1",
+          "companyId": "c0",
+          "slot": "14:15"
+        },
+        {
+          "personId": "p2",
+          "companyId": "c1",
+          "slot": "14:00"
+        },
+        {
+          "personId": "p3",
+          "companyId": "c1",
+          "slot": "14:15"
+        }
+      ],
+      "oracle": 2,
+      "failures": [],
+      "baselineFailures": [
+        "evidence-or-opt-in",
+        "evidence-or-opt-in"
+      ],
+      "nuisance": [
+        {
+          "kind": "rename",
+          "pass": true
+        },
+        {
+          "kind": "demographic-removal",
+          "pass": true
+        },
+        {
+          "kind": "reorder",
+          "pass": true
+        },
+        {
+          "kind": "rephrase",
+          "pass": true
+        },
+        {
+          "kind": "cv-polish",
+          "pass": true
+        },
+        {
+          "kind": "group-swap",
+          "pass": true
+        }
+      ]
+    },
+    {
+      "id": "vocabulary-1",
+      "family": "vocabulary",
+      "split": "dev",
+      "meetings": [
+        {
+          "personId": "p1",
+          "companyId": "c0",
+          "slot": "14:00"
+        },
+        {
+          "personId": "p3",
+          "companyId": "c0",
+          "slot": "14:15"
+        }
+      ],
+      "baseline": [
+        {
+          "personId": "p0",
+          "companyId": "c0",
+          "slot": "14:00"
+        },
+        {
+          "personId": "p1",
+          "companyId": "c0",
+          "slot": "14:15"
+        },
+        {
+          "personId": "p2",
+          "companyId": "c1",
+          "slot": "14:00"
+        },
+        {
+          "personId": "p3",
+          "companyId": "c1",
+          "slot": "14:15"
+        }
+      ],
+      "oracle": 2,
+      "failures": [],
+      "baselineFailures": [
+        "evidence-or-opt-in",
+        "evidence-or-opt-in"
+      ],
+      "nuisance": [
+        {
+          "kind": "rename",
+          "pass": true
+        },
+        {
+          "kind": "demographic-removal",
+          "pass": true
+        },
+        {
+          "kind": "reorder",
+          "pass": true
+        },
+        {
+          "kind": "rephrase",
+          "pass": true
+        },
+        {
+          "kind": "cv-polish",
+          "pass": true
+        },
+        {
+          "kind": "group-swap",
+          "pass": true
+        }
+      ]
+    },
+    {
+      "id": "vocabulary-2",
+      "family": "vocabulary",
+      "split": "dev",
+      "meetings": [
+        {
+          "personId": "p1",
+          "companyId": "c0",
+          "slot": "14:00"
+        },
+        {
+          "personId": "p3",
+          "companyId": "c0",
+          "slot": "14:15"
+        }
+      ],
+      "baseline": [
+        {
+          "personId": "p0",
+          "companyId": "c0",
+          "slot": "14:00"
+        },
+        {
+          "personId": "p1",
+          "companyId": "c0",
+          "slot": "14:15"
+        },
+        {
+          "personId": "p2",
+          "companyId": "c1",
+          "slot": "14:00"
+        },
+        {
+          "personId": "p3",
+          "companyId": "c1",
+          "slot": "14:15"
+        }
+      ],
+      "oracle": 2,
+      "failures": [],
+      "baselineFailures": [
+        "evidence-or-opt-in",
+        "evidence-or-opt-in"
+      ],
+      "nuisance": [
+        {
+          "kind": "rename",
+          "pass": true
+        },
+        {
+          "kind": "demographic-removal",
+          "pass": true
+        },
+        {
+          "kind": "reorder",
+          "pass": true
+        },
+        {
+          "kind": "rephrase",
+          "pass": true
+        },
+        {
+          "kind": "cv-polish",
+          "pass": true
+        },
+        {
+          "kind": "group-swap",
+          "pass": true
+        }
+      ]
+    },
+    {
+      "id": "vocabulary-3",
+      "family": "vocabulary",
+      "split": "dev",
+      "meetings": [
+        {
+          "personId": "p1",
+          "companyId": "c0",
+          "slot": "14:00"
+        },
+        {
+          "personId": "p3",
+          "companyId": "c0",
+          "slot": "14:15"
+        }
+      ],
+      "baseline": [
+        {
+          "personId": "p0",
+          "companyId": "c0",
+          "slot": "14:00"
+        },
+        {
+          "personId": "p1",
+          "companyId": "c0",
+          "slot": "14:15"
+        },
+        {
+          "personId": "p2",
+          "companyId": "c1",
+          "slot": "14:00"
+        },
+        {
+          "personId": "p3",
+          "companyId": "c1",
+          "slot": "14:15"
+        }
+      ],
+      "oracle": 2,
+      "failures": [],
+      "baselineFailures": [
+        "evidence-or-opt-in",
+        "evidence-or-opt-in"
+      ],
+      "nuisance": [
+        {
+          "kind": "rename",
+          "pass": true
+        },
+        {
+          "kind": "demographic-removal",
+          "pass": true
+        },
+        {
+          "kind": "reorder",
+          "pass": true
+        },
+        {
+          "kind": "rephrase",
+          "pass": true
+        },
+        {
+          "kind": "cv-polish",
+          "pass": true
+        },
+        {
+          "kind": "group-swap",
+          "pass": true
+        }
+      ]
+    },
+    {
+      "id": "scarcity-0",
+      "family": "scarcity",
+      "split": "dev",
+      "meetings": [
+        {
+          "personId": "p0",
+          "companyId": "c0",
+          "slot": "14:00"
+        },
+        {
+          "personId": "p1",
+          "companyId": "c1",
+          "slot": "14:00"
+        },
+        {
+          "personId": "p2",
+          "companyId": "c1",
+          "slot": "14:15"
+        }
+      ],
+      "baseline": [
+        {
+          "personId": "p1",
+          "companyId": "c0",
+          "slot": "14:00"
+        },
+        {
+          "personId": "p3",
+          "companyId": "c1",
+          "slot": "14:00"
+        }
+      ],
+      "oracle": 3,
+      "failures": [],
+      "baselineFailures": [],
+      "nuisance": [
+        {
+          "kind": "rename",
+          "pass": true
+        },
+        {
+          "kind": "demographic-removal",
+          "pass": true
+        },
+        {
+          "kind": "reorder",
+          "pass": true
+        },
+        {
+          "kind": "rephrase",
+          "pass": true
+        },
+        {
+          "kind": "cv-polish",
+          "pass": true
+        },
+        {
+          "kind": "group-swap",
+          "pass": true
+        }
+      ]
+    },
+    {
+      "id": "scarcity-1",
+      "family": "scarcity",
+      "split": "dev",
+      "meetings": [
+        {
+          "personId": "p0",
+          "companyId": "c0",
+          "slot": "14:00"
+        },
+        {
+          "personId": "p2",
+          "companyId": "c1",
+          "slot": "14:00"
+        }
+      ],
+      "baseline": [
+        {
+          "personId": "p1",
+          "companyId": "c0",
+          "slot": "14:00"
+        },
+        {
+          "personId": "p3",
+          "companyId": "c1",
+          "slot": "14:00"
+        }
+      ],
+      "oracle": 2,
+      "failures": [],
+      "baselineFailures": [],
+      "nuisance": [
+        {
+          "kind": "rename",
+          "pass": true
+        },
+        {
+          "kind": "demographic-removal",
+          "pass": true
+        },
+        {
+          "kind": "reorder",
+          "pass": true
+        },
+        {
+          "kind": "rephrase",
+          "pass": true
+        },
+        {
+          "kind": "cv-polish",
+          "pass": true
+        },
+        {
+          "kind": "group-swap",
+          "pass": true
+        }
+      ]
+    },
+    {
+      "id": "scarcity-2",
+      "family": "scarcity",
+      "split": "dev",
+      "meetings": [
+        {
+          "personId": "p0",
+          "companyId": "c0",
+          "slot": "14:00"
+        },
+        {
+          "personId": "p1",
+          "companyId": "c1",
+          "slot": "14:00"
+        },
+        {
+          "personId": "p3",
+          "companyId": "c1",
+          "slot": "14:15"
+        }
+      ],
+      "baseline": [
+        {
+          "personId": "p1",
+          "companyId": "c0",
+          "slot": "14:00"
+        },
+        {
+          "personId": "p3",
+          "companyId": "c1",
+          "slot": "14:00"
+        }
+      ],
+      "oracle": 3,
+      "failures": [],
+      "baselineFailures": [],
+      "nuisance": [
+        {
+          "kind": "rename",
+          "pass": true
+        },
+        {
+          "kind": "demographic-removal",
+          "pass": true
+        },
+        {
+          "kind": "reorder",
+          "pass": true
+        },
+        {
+          "kind": "rephrase",
+          "pass": true
+        },
+        {
+          "kind": "cv-polish",
+          "pass": true
+        },
+        {
+          "kind": "group-swap",
+          "pass": true
+        }
+      ]
+    },
+    {
+      "id": "scarcity-3",
+      "family": "scarcity",
+      "split": "dev",
+      "meetings": [
+        {
+          "personId": "p0",
+          "companyId": "c0",
+          "slot": "14:00"
+        },
+        {
+          "personId": "p1",
+          "companyId": "c1",
+          "slot": "14:00"
+        }
+      ],
+      "baseline": [
+        {
+          "personId": "p1",
+          "companyId": "c0",
+          "slot": "14:00"
+        },
+        {
+          "personId": "p3",
+          "companyId": "c1",
+          "slot": "14:00"
+        }
+      ],
+      "oracle": 2,
+      "failures": [],
+      "baselineFailures": [
+        "evidence-or-opt-in"
+      ],
+      "nuisance": [
+        {
+          "kind": "rename",
+          "pass": true
+        },
+        {
+          "kind": "demographic-removal",
+          "pass": true
+        },
+        {
+          "kind": "reorder",
+          "pass": true
+        },
+        {
+          "kind": "rephrase",
+          "pass": true
+        },
+        {
+          "kind": "cv-polish",
+          "pass": true
+        },
+        {
+          "kind": "group-swap",
+          "pass": true
+        }
+      ]
+    },
+    {
+      "id": "availability-0",
+      "family": "availability",
+      "split": "heldout",
+      "meetings": [
+        {
+          "personId": "p0",
+          "companyId": "c0",
+          "slot": "14:00"
+        },
+        {
+          "personId": "p1",
+          "companyId": "c1",
+          "slot": "14:00"
+        },
+        {
+          "personId": "p2",
+          "companyId": "c1",
+          "slot": "14:15"
+        }
+      ],
+      "baseline": [
+        {
+          "personId": "p1",
+          "companyId": "c0",
+          "slot": "14:00"
+        },
+        {
+          "personId": "p3",
+          "companyId": "c1",
+          "slot": "14:00"
+        }
+      ],
+      "oracle": 3,
+      "failures": [],
+      "baselineFailures": [],
+      "nuisance": [
+        {
+          "kind": "rename",
+          "pass": true
+        },
+        {
+          "kind": "demographic-removal",
+          "pass": true
+        },
+        {
+          "kind": "reorder",
+          "pass": true
+        },
+        {
+          "kind": "rephrase",
+          "pass": true
+        },
+        {
+          "kind": "cv-polish",
+          "pass": true
+        },
+        {
+          "kind": "group-swap",
+          "pass": true
+        }
+      ]
+    },
+    {
+      "id": "availability-1",
+      "family": "availability",
+      "split": "heldout",
+      "meetings": [
+        {
+          "personId": "p0",
+          "companyId": "c1",
+          "slot": "14:00"
+        },
+        {
+          "personId": "p2",
+          "companyId": "c0",
+          "slot": "14:15"
+        },
+        {
+          "personId": "p3",
+          "companyId": "c1",
+          "slot": "14:15"
+        }
+      ],
+      "baseline": [
+        {
+          "personId": "p1",
+          "companyId": "c1",
+          "slot": "14:00"
+        },
+        {
+          "personId": "p3",
+          "companyId": "c0",
+          "slot": "14:15"
+        }
+      ],
+      "oracle": 3,
+      "failures": [],
+      "baselineFailures": [],
+      "nuisance": [
+        {
+          "kind": "rename",
+          "pass": true
+        },
+        {
+          "kind": "demographic-removal",
+          "pass": true
+        },
+        {
+          "kind": "reorder",
+          "pass": true
+        },
+        {
+          "kind": "rephrase",
+          "pass": true
+        },
+        {
+          "kind": "cv-polish",
+          "pass": true
+        },
+        {
+          "kind": "group-swap",
+          "pass": true
+        }
+      ]
+    },
+    {
+      "id": "availability-2",
+      "family": "availability",
+      "split": "heldout",
+      "meetings": [
+        {
+          "personId": "p0",
+          "companyId": "c0",
+          "slot": "14:00"
+        },
+        {
+          "personId": "p1",
+          "companyId": "c1",
+          "slot": "14:00"
+        },
+        {
+          "personId": "p2",
+          "companyId": "c1",
+          "slot": "14:15"
+        }
+      ],
+      "baseline": [
+        {
+          "personId": "p1",
+          "companyId": "c0",
+          "slot": "14:00"
+        },
+        {
+          "personId": "p3",
+          "companyId": "c1",
+          "slot": "14:00"
+        }
+      ],
+      "oracle": 3,
+      "failures": [],
+      "baselineFailures": [],
+      "nuisance": [
+        {
+          "kind": "rename",
+          "pass": true
+        },
+        {
+          "kind": "demographic-removal",
+          "pass": true
+        },
+        {
+          "kind": "reorder",
+          "pass": true
+        },
+        {
+          "kind": "rephrase",
+          "pass": true
+        },
+        {
+          "kind": "cv-polish",
+          "pass": true
+        },
+        {
+          "kind": "group-swap",
+          "pass": true
+        }
+      ]
+    },
+    {
+      "id": "availability-3",
+      "family": "availability",
+      "split": "heldout",
+      "meetings": [
+        {
+          "personId": "p0",
+          "companyId": "c1",
+          "slot": "14:00"
+        },
+        {
+          "personId": "p2",
+          "companyId": "c0",
+          "slot": "14:15"
+        }
+      ],
+      "baseline": [
+        {
+          "personId": "p1",
+          "companyId": "c1",
+          "slot": "14:00"
+        }
+      ],
+      "oracle": 2,
+      "failures": [],
+      "baselineFailures": [],
+      "nuisance": [
+        {
+          "kind": "rename",
+          "pass": true
+        },
+        {
+          "kind": "demographic-removal",
+          "pass": true
+        },
+        {
+          "kind": "reorder",
+          "pass": true
+        },
+        {
+          "kind": "rephrase",
+          "pass": true
+        },
+        {
+          "kind": "cv-polish",
+          "pass": true
+        },
+        {
+          "kind": "group-swap",
+          "pass": true
+        }
+      ]
+    },
+    {
+      "id": "opt-in-0",
+      "family": "opt-in",
+      "split": "heldout",
+      "meetings": [
+        {
+          "personId": "p3",
+          "companyId": "c0",
+          "slot": "14:00"
+        },
+        {
+          "personId": "p2",
+          "companyId": "c1",
+          "slot": "14:00"
+        }
+      ],
+      "baseline": [
+        {
+          "personId": "p1",
+          "companyId": "c0",
+          "slot": "14:00"
+        },
+        {
+          "personId": "p3",
+          "companyId": "c0",
+          "slot": "14:15"
+        }
+      ],
+      "oracle": 2,
+      "failures": [],
+      "baselineFailures": [
+        "evidence-or-opt-in"
+      ],
+      "nuisance": [
+        {
+          "kind": "rename",
+          "pass": true
+        },
+        {
+          "kind": "demographic-removal",
+          "pass": true
+        },
+        {
+          "kind": "reorder",
+          "pass": true
+        },
+        {
+          "kind": "rephrase",
+          "pass": true
+        },
+        {
+          "kind": "cv-polish",
+          "pass": true
+        },
+        {
+          "kind": "group-swap",
+          "pass": true
+        }
+      ]
+    },
+    {
+      "id": "opt-in-1",
+      "family": "opt-in",
+      "split": "heldout",
+      "meetings": [
+        {
+          "personId": "p3",
+          "companyId": "c0",
+          "slot": "14:00"
+        },
+        {
+          "personId": "p2",
+          "companyId": "c1",
+          "slot": "14:00"
+        }
+      ],
+      "baseline": [
+        {
+          "personId": "p1",
+          "companyId": "c0",
+          "slot": "14:00"
+        },
+        {
+          "personId": "p3",
+          "companyId": "c0",
+          "slot": "14:15"
+        }
+      ],
+      "oracle": 2,
+      "failures": [],
+      "baselineFailures": [
+        "evidence-or-opt-in"
+      ],
+      "nuisance": [
+        {
+          "kind": "rename",
+          "pass": true
+        },
+        {
+          "kind": "demographic-removal",
+          "pass": true
+        },
+        {
+          "kind": "reorder",
+          "pass": true
+        },
+        {
+          "kind": "rephrase",
+          "pass": true
+        },
+        {
+          "kind": "cv-polish",
+          "pass": true
+        },
+        {
+          "kind": "group-swap",
+          "pass": true
+        }
+      ]
+    },
+    {
+      "id": "opt-in-2",
+      "family": "opt-in",
+      "split": "heldout",
+      "meetings": [
+        {
+          "personId": "p3",
+          "companyId": "c0",
+          "slot": "14:00"
+        },
+        {
+          "personId": "p2",
+          "companyId": "c1",
+          "slot": "14:00"
+        }
+      ],
+      "baseline": [
+        {
+          "personId": "p1",
+          "companyId": "c0",
+          "slot": "14:00"
+        },
+        {
+          "personId": "p3",
+          "companyId": "c0",
+          "slot": "14:15"
+        }
+      ],
+      "oracle": 2,
+      "failures": [],
+      "baselineFailures": [
+        "evidence-or-opt-in"
+      ],
+      "nuisance": [
+        {
+          "kind": "rename",
+          "pass": true
+        },
+        {
+          "kind": "demographic-removal",
+          "pass": true
+        },
+        {
+          "kind": "reorder",
+          "pass": true
+        },
+        {
+          "kind": "rephrase",
+          "pass": true
+        },
+        {
+          "kind": "cv-polish",
+          "pass": true
+        },
+        {
+          "kind": "group-swap",
+          "pass": true
+        }
+      ]
+    },
+    {
+      "id": "opt-in-3",
+      "family": "opt-in",
+      "split": "heldout",
+      "meetings": [
+        {
+          "personId": "p3",
+          "companyId": "c0",
+          "slot": "14:00"
+        },
+        {
+          "personId": "p2",
+          "companyId": "c1",
+          "slot": "14:00"
+        }
+      ],
+      "baseline": [
+        {
+          "personId": "p1",
+          "companyId": "c0",
+          "slot": "14:00"
+        },
+        {
+          "personId": "p3",
+          "companyId": "c0",
+          "slot": "14:15"
+        }
+      ],
+      "oracle": 2,
+      "failures": [],
+      "baselineFailures": [
+        "evidence-or-opt-in"
+      ],
+      "nuisance": [
+        {
+          "kind": "rename",
+          "pass": true
+        },
+        {
+          "kind": "demographic-removal",
+          "pass": true
+        },
+        {
+          "kind": "reorder",
+          "pass": true
+        },
+        {
+          "kind": "rephrase",
+          "pass": true
+        },
+        {
+          "kind": "cv-polish",
+          "pass": true
+        },
+        {
+          "kind": "group-swap",
+          "pass": true
+        }
+      ]
+    },
+    {
+      "id": "incomplete-0",
+      "family": "incomplete",
+      "split": "heldout",
+      "meetings": [
+        {
+          "personId": "p0",
+          "companyId": "c1",
+          "slot": "14:00"
+        },
+        {
+          "personId": "p2",
+          "companyId": "c1",
+          "slot": "14:15"
+        }
+      ],
+      "baseline": [
+        {
+          "personId": "p1",
+          "companyId": "c0",
+          "slot": "14:00"
+        },
+        {
+          "personId": "p3",
+          "companyId": "c0",
+          "slot": "14:15"
+        }
+      ],
+      "oracle": 2,
+      "failures": [],
+      "baselineFailures": [
+        "evidence-or-opt-in",
+        "evidence-or-opt-in"
+      ],
+      "nuisance": [
+        {
+          "kind": "rename",
+          "pass": true
+        },
+        {
+          "kind": "demographic-removal",
+          "pass": true
+        },
+        {
+          "kind": "reorder",
+          "pass": true
+        },
+        {
+          "kind": "rephrase",
+          "pass": true
+        },
+        {
+          "kind": "cv-polish",
+          "pass": true
+        },
+        {
+          "kind": "group-swap",
+          "pass": true
+        }
+      ]
+    },
+    {
+      "id": "incomplete-1",
+      "family": "incomplete",
+      "split": "heldout",
+      "meetings": [
+        {
+          "personId": "p0",
+          "companyId": "c1",
+          "slot": "14:00"
+        },
+        {
+          "personId": "p2",
+          "companyId": "c1",
+          "slot": "14:15"
+        }
+      ],
+      "baseline": [
+        {
+          "personId": "p1",
+          "companyId": "c0",
+          "slot": "14:00"
+        },
+        {
+          "personId": "p3",
+          "companyId": "c0",
+          "slot": "14:15"
+        }
+      ],
+      "oracle": 2,
+      "failures": [],
+      "baselineFailures": [
+        "evidence-or-opt-in",
+        "evidence-or-opt-in"
+      ],
+      "nuisance": [
+        {
+          "kind": "rename",
+          "pass": true
+        },
+        {
+          "kind": "demographic-removal",
+          "pass": true
+        },
+        {
+          "kind": "reorder",
+          "pass": true
+        },
+        {
+          "kind": "rephrase",
+          "pass": true
+        },
+        {
+          "kind": "cv-polish",
+          "pass": true
+        },
+        {
+          "kind": "group-swap",
+          "pass": true
+        }
+      ]
+    },
+    {
+      "id": "incomplete-2",
+      "family": "incomplete",
+      "split": "heldout",
+      "meetings": [],
+      "baseline": [
+        {
+          "personId": "p1",
+          "companyId": "c0",
+          "slot": "14:00"
+        },
+        {
+          "personId": "p3",
+          "companyId": "c0",
+          "slot": "14:15"
+        }
+      ],
+      "oracle": 0,
+      "failures": [],
+      "baselineFailures": [
+        "evidence-or-opt-in",
+        "evidence-or-opt-in"
+      ],
+      "nuisance": [
+        {
+          "kind": "rename",
+          "pass": true
+        },
+        {
+          "kind": "demographic-removal",
+          "pass": true
+        },
+        {
+          "kind": "reorder",
+          "pass": true
+        },
+        {
+          "kind": "rephrase",
+          "pass": true
+        },
+        {
+          "kind": "cv-polish",
+          "pass": true
+        },
+        {
+          "kind": "group-swap",
+          "pass": true
+        }
+      ]
+    },
+    {
+      "id": "incomplete-3",
+      "family": "incomplete",
+      "split": "heldout",
+      "meetings": [
+        {
+          "personId": "p0",
+          "companyId": "c1",
+          "slot": "14:00"
+        },
+        {
+          "personId": "p2",
+          "companyId": "c1",
+          "slot": "14:15"
+        }
+      ],
+      "baseline": [
+        {
+          "personId": "p1",
+          "companyId": "c0",
+          "slot": "14:00"
+        },
+        {
+          "personId": "p3",
+          "companyId": "c0",
+          "slot": "14:15"
+        }
+      ],
+      "oracle": 2,
+      "failures": [],
+      "baselineFailures": [
+        "evidence-or-opt-in",
+        "evidence-or-opt-in"
+      ],
+      "nuisance": [
+        {
+          "kind": "rename",
+          "pass": true
+        },
+        {
+          "kind": "demographic-removal",
+          "pass": true
+        },
+        {
+          "kind": "reorder",
+          "pass": true
+        },
+        {
+          "kind": "rephrase",
+          "pass": true
+        },
+        {
+          "kind": "cv-polish",
+          "pass": true
+        },
+        {
+          "kind": "group-swap",
+          "pass": true
+        }
+      ]
+    },
+    {
+      "id": "cancellation-0",
+      "kind": "absence-and-lock",
+      "pass": true,
+      "meetings": [
+        {
+          "personId": "p1",
+          "companyId": "c0",
+          "slot": "14:00"
+        },
+        {
+          "personId": "p2",
+          "companyId": "c1",
+          "slot": "14:00"
+        },
+        {
+          "personId": "p3",
+          "companyId": "c0",
+          "slot": "14:15"
+        }
+      ],
+      "locked": [
+        {
+          "personId": "p2",
+          "companyId": "c1",
+          "slot": "14:00"
+        }
+      ]
+    },
+    {
+      "id": "cancellation-0",
+      "kind": "cancel-and-reassign",
+      "pass": true,
+      "meetings": [
+        {
+          "personId": "p1",
+          "companyId": "c0",
+          "slot": "14:00"
+        },
+        {
+          "personId": "p0",
+          "companyId": "c1",
+          "slot": "14:00"
+        },
+        {
+          "personId": "p2",
+          "companyId": "c0",
+          "slot": "14:15"
+        },
+        {
+          "personId": "p3",
+          "companyId": "c1",
+          "slot": "14:15"
+        }
+      ],
+      "excluded": [
+        "p0:c0"
+      ]
+    },
+    {
+      "id": "cancellation-0",
+      "family": "cancellation",
+      "split": "heldout",
+      "meetings": [
+        {
+          "personId": "p0",
+          "companyId": "c0",
+          "slot": "14:00"
+        },
+        {
+          "personId": "p2",
+          "companyId": "c1",
+          "slot": "14:00"
+        },
+        {
+          "personId": "p1",
+          "companyId": "c0",
+          "slot": "14:15"
+        },
+        {
+          "personId": "p3",
+          "companyId": "c1",
+          "slot": "14:15"
+        }
+      ],
+      "baseline": [
+        {
+          "personId": "p1",
+          "companyId": "c0",
+          "slot": "14:00"
+        },
+        {
+          "personId": "p3",
+          "companyId": "c0",
+          "slot": "14:15"
+        }
+      ],
+      "oracle": 4,
+      "failures": [],
+      "baselineFailures": [],
+      "nuisance": [
+        {
+          "kind": "rename",
+          "pass": true
+        },
+        {
+          "kind": "demographic-removal",
+          "pass": true
+        },
+        {
+          "kind": "reorder",
+          "pass": true
+        },
+        {
+          "kind": "rephrase",
+          "pass": true
+        },
+        {
+          "kind": "cv-polish",
+          "pass": true
+        },
+        {
+          "kind": "group-swap",
+          "pass": true
+        }
+      ]
+    },
+    {
+      "id": "cancellation-1",
+      "kind": "absence-and-lock",
+      "pass": true,
+      "meetings": [
+        {
+          "personId": "p0",
+          "companyId": "c0",
+          "slot": "14:00"
+        },
+        {
+          "personId": "p3",
+          "companyId": "c1",
+          "slot": "14:00"
+        },
+        {
+          "personId": "p2",
+          "companyId": "c0",
+          "slot": "14:15"
+        }
+      ],
+      "locked": [
+        {
+          "personId": "p0",
+          "companyId": "c0",
+          "slot": "14:00"
+        }
+      ]
+    },
+    {
+      "id": "cancellation-1",
+      "kind": "cancel-and-reassign",
+      "pass": true,
+      "meetings": [
+        {
+          "personId": "p1",
+          "companyId": "c0",
+          "slot": "14:00"
+        },
+        {
+          "personId": "p0",
+          "companyId": "c1",
+          "slot": "14:00"
+        },
+        {
+          "personId": "p2",
+          "companyId": "c0",
+          "slot": "14:15"
+        },
+        {
+          "personId": "p3",
+          "companyId": "c1",
+          "slot": "14:15"
+        }
+      ],
+      "excluded": [
+        "p0:c0"
+      ]
+    },
+    {
+      "id": "cancellation-1",
+      "family": "cancellation",
+      "split": "heldout",
+      "meetings": [
+        {
+          "personId": "p0",
+          "companyId": "c0",
+          "slot": "14:00"
+        },
+        {
+          "personId": "p2",
+          "companyId": "c1",
+          "slot": "14:00"
+        },
+        {
+          "personId": "p1",
+          "companyId": "c0",
+          "slot": "14:15"
+        },
+        {
+          "personId": "p3",
+          "companyId": "c1",
+          "slot": "14:15"
+        }
+      ],
+      "baseline": [
+        {
+          "personId": "p1",
+          "companyId": "c0",
+          "slot": "14:00"
+        },
+        {
+          "personId": "p3",
+          "companyId": "c0",
+          "slot": "14:15"
+        }
+      ],
+      "oracle": 4,
+      "failures": [],
+      "baselineFailures": [],
+      "nuisance": [
+        {
+          "kind": "rename",
+          "pass": true
+        },
+        {
+          "kind": "demographic-removal",
+          "pass": true
+        },
+        {
+          "kind": "reorder",
+          "pass": true
+        },
+        {
+          "kind": "rephrase",
+          "pass": true
+        },
+        {
+          "kind": "cv-polish",
+          "pass": true
+        },
+        {
+          "kind": "group-swap",
+          "pass": true
+        }
+      ]
+    },
+    {
+      "id": "cancellation-2",
+      "kind": "absence-and-lock",
+      "pass": true,
+      "meetings": [
+        {
+          "personId": "p0",
+          "companyId": "c0",
+          "slot": "14:00"
+        },
+        {
+          "personId": "p3",
+          "companyId": "c1",
+          "slot": "14:00"
+        },
+        {
+          "personId": "p1",
+          "companyId": "c0",
+          "slot": "14:15"
+        }
+      ],
+      "locked": [
+        {
+          "personId": "p0",
+          "companyId": "c0",
+          "slot": "14:00"
+        }
+      ]
+    },
+    {
+      "id": "cancellation-2",
+      "kind": "cancel-and-reassign",
+      "pass": true,
+      "meetings": [
+        {
+          "personId": "p1",
+          "companyId": "c0",
+          "slot": "14:00"
+        },
+        {
+          "personId": "p0",
+          "companyId": "c1",
+          "slot": "14:00"
+        },
+        {
+          "personId": "p2",
+          "companyId": "c0",
+          "slot": "14:15"
+        },
+        {
+          "personId": "p3",
+          "companyId": "c1",
+          "slot": "14:15"
+        }
+      ],
+      "excluded": [
+        "p0:c0"
+      ]
+    },
+    {
+      "id": "cancellation-2",
+      "family": "cancellation",
+      "split": "heldout",
+      "meetings": [
+        {
+          "personId": "p0",
+          "companyId": "c0",
+          "slot": "14:00"
+        },
+        {
+          "personId": "p2",
+          "companyId": "c1",
+          "slot": "14:00"
+        },
+        {
+          "personId": "p1",
+          "companyId": "c0",
+          "slot": "14:15"
+        },
+        {
+          "personId": "p3",
+          "companyId": "c1",
+          "slot": "14:15"
+        }
+      ],
+      "baseline": [
+        {
+          "personId": "p1",
+          "companyId": "c0",
+          "slot": "14:00"
+        },
+        {
+          "personId": "p3",
+          "companyId": "c0",
+          "slot": "14:15"
+        }
+      ],
+      "oracle": 4,
+      "failures": [],
+      "baselineFailures": [],
+      "nuisance": [
+        {
+          "kind": "rename",
+          "pass": true
+        },
+        {
+          "kind": "demographic-removal",
+          "pass": true
+        },
+        {
+          "kind": "reorder",
+          "pass": true
+        },
+        {
+          "kind": "rephrase",
+          "pass": true
+        },
+        {
+          "kind": "cv-polish",
+          "pass": true
+        },
+        {
+          "kind": "group-swap",
+          "pass": true
+        }
+      ]
+    },
+    {
+      "id": "cancellation-3",
+      "kind": "absence-and-lock",
+      "pass": true,
+      "meetings": [
+        {
+          "personId": "p0",
+          "companyId": "c0",
+          "slot": "14:00"
+        },
+        {
+          "personId": "p2",
+          "companyId": "c1",
+          "slot": "14:00"
+        },
+        {
+          "personId": "p1",
+          "companyId": "c0",
+          "slot": "14:15"
+        }
+      ],
+      "locked": [
+        {
+          "personId": "p0",
+          "companyId": "c0",
+          "slot": "14:00"
+        }
+      ]
+    },
+    {
+      "id": "cancellation-3",
+      "kind": "cancel-and-reassign",
+      "pass": true,
+      "meetings": [
+        {
+          "personId": "p1",
+          "companyId": "c0",
+          "slot": "14:00"
+        },
+        {
+          "personId": "p0",
+          "companyId": "c1",
+          "slot": "14:00"
+        },
+        {
+          "personId": "p2",
+          "companyId": "c0",
+          "slot": "14:15"
+        },
+        {
+          "personId": "p3",
+          "companyId": "c1",
+          "slot": "14:15"
+        }
+      ],
+      "excluded": [
+        "p0:c0"
+      ]
+    },
+    {
+      "id": "cancellation-3",
+      "family": "cancellation",
+      "split": "heldout",
+      "meetings": [
+        {
+          "personId": "p0",
+          "companyId": "c0",
+          "slot": "14:00"
+        },
+        {
+          "personId": "p2",
+          "companyId": "c1",
+          "slot": "14:00"
+        },
+        {
+          "personId": "p1",
+          "companyId": "c0",
+          "slot": "14:15"
+        },
+        {
+          "personId": "p3",
+          "companyId": "c1",
+          "slot": "14:15"
+        }
+      ],
+      "baseline": [
+        {
+          "personId": "p1",
+          "companyId": "c0",
+          "slot": "14:00"
+        },
+        {
+          "personId": "p3",
+          "companyId": "c0",
+          "slot": "14:15"
+        }
+      ],
+      "oracle": 4,
+      "failures": [],
+      "baselineFailures": [],
+      "nuisance": [
+        {
+          "kind": "rename",
+          "pass": true
+        },
+        {
+          "kind": "demographic-removal",
+          "pass": true
+        },
+        {
+          "kind": "reorder",
+          "pass": true
+        },
+        {
+          "kind": "rephrase",
+          "pass": true
+        },
+        {
+          "kind": "cv-polish",
+          "pass": true
+        },
+        {
+          "kind": "group-swap",
+          "pass": true
+        }
+      ]
+    }
+  ],
+  "failures": [],
+  "timing": {
+    "policyMs": 1.5692869999999903,
+    "runs": 28,
+    "meanPolicyMs": 0.05604596428571394,
+    "environment": "Node v24.21.0; local darwin/arm64; single pass; not a service latency benchmark"
+  },
+  "hashes": {
+    "src/engine.mjs": "76e56e6a22dbdaf33954cf56f873a8505877058c2097143c4f9396b2469b7b7f",
+    "eval/fixtures.json": "0b30889c47f3eefb9a719a3e2acf17cd008af0a84991847f9f22acfa2f66d1d1",
+    "eval/graders.mjs": "8356946208550567302ca735ce3f56ae7a99309d25ccd40f005ba9c6656b0ad7",
+    "EVAL_SPEC.md": "2b3c0acdd08076107238f2508b5b330c6dda2959863b3cda3328fedaeb53d5d3"
+  },
+  "familySplits": {
+    "transfer": "dev",
+    "vocabulary": "dev",
+    "scarcity": "dev",
+    "availability": "heldout",
+    "opt-in": "heldout",
+    "incomplete": "heldout",
+    "cancellation": "heldout"
+  }
+}

@@ -46,6 +46,15 @@ test('organiser can agree, issue, export, cancel, reassign and invalidate change
   assert.equal(q('#task-c1').value,'<img src=x onerror=alert(1)> A different task');
   assert(!q('img'));const after=JSON.parse(localStorage.getItem('common-ground-v1'));
   assert.equal(after.data.companies[0].needs.length,0);assert.equal(Object.keys(after.state.approvals).length,0);assert.equal(after.state.issued.length,0);
+  // An explicit organiser review restores a changed task's mapping without resetting the whole demo.
+  q('#task-c1').value='Review the stock tracker and improve the ordering process.';
+  const form=q('[data-company="c1"]');
+  form.querySelector('[name="needs"][value="data analysis"]').checked=true;
+  form.querySelector('[name="needs"][value="process improvement"]').checked=true;
+  form.querySelector('[name="reviewed"]').checked=true;
+  form.dispatchEvent(new window.Event('submit',{bubbles:true,cancelable:true}));
+  const mapped=JSON.parse(localStorage.getItem('common-ground-v1'));
+  assert.equal(mapped.data.companies[0].needs.length,2);assert(mapped.state.meetings.some(m=>m.companyId==='c1'));
   click('#reset');await route('#desk');assert.equal(document.querySelectorAll('.meeting').length,6);assert(q('#issue').disabled);
   dom.window.close();
 });
