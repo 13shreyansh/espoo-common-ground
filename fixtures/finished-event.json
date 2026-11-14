@@ -743,8 +743,7 @@
         "prompt_version": "cg-2.1",
         "at": "2026-11-14T22:54:19.565Z",
         "input_hash": "25d839870fdaa350a9ef14c1bd90026b269ac99a1fbc54e1d53374d473d71bba"
-      },
-      "finding_sentence": "Daniela Rojas ran a café in Tapiola. Their own words prove 3 skills."
+      }
     },
     {
       "key": "baf92b2dc2d5e2625e159de9",
@@ -3823,8 +3822,8 @@
       "companies_ranked": 4,
       "rank_of_person_for_company": 1,
       "people_ranked": 16,
-      "created_by": "build-0-2026-11-14T23:03:48.246Z",
-      "created_at": "2026-11-14T23:03:48.246Z",
+      "created_by": "build-0-2026-11-14T23:21:08.721Z",
+      "created_at": "2026-11-14T23:21:08.721Z",
       "took_place": false
     },
     {
@@ -3848,8 +3847,8 @@
       "companies_ranked": 4,
       "rank_of_person_for_company": 2,
       "people_ranked": 16,
-      "created_by": "build-0-2026-11-14T23:03:48.246Z",
-      "created_at": "2026-11-14T23:03:48.246Z",
+      "created_by": "build-0-2026-11-14T23:21:08.721Z",
+      "created_at": "2026-11-14T23:21:08.721Z",
       "took_place": true,
       "next_step_company": {
         "value": "not_yet",
@@ -3881,8 +3880,8 @@
       "companies_ranked": 4,
       "rank_of_person_for_company": 3,
       "people_ranked": 16,
-      "created_by": "build-0-2026-11-14T23:03:48.246Z",
-      "created_at": "2026-11-14T23:03:48.246Z",
+      "created_by": "build-0-2026-11-14T23:21:08.721Z",
+      "created_at": "2026-11-14T23:21:08.721Z",
       "took_place": true,
       "next_step_company": {
         "value": "not_yet",
@@ -3914,8 +3913,8 @@
       "companies_ranked": 4,
       "rank_of_person_for_company": 4,
       "people_ranked": 16,
-      "created_by": "build-0-2026-11-14T23:03:48.246Z",
-      "created_at": "2026-11-14T23:03:48.246Z",
+      "created_by": "build-0-2026-11-14T23:21:08.721Z",
+      "created_at": "2026-11-14T23:21:08.721Z",
       "took_place": true,
       "next_step_company": {
         "value": "yes",
@@ -3947,8 +3946,8 @@
       "companies_ranked": 4,
       "rank_of_person_for_company": 5,
       "people_ranked": 16,
-      "created_by": "build-0-2026-11-14T23:03:48.246Z",
-      "created_at": "2026-11-14T23:03:48.246Z",
+      "created_by": "build-0-2026-11-14T23:21:08.721Z",
+      "created_at": "2026-11-14T23:21:08.721Z",
       "took_place": true,
       "next_step_company": {
         "value": "not_yet",
@@ -3976,8 +3975,8 @@
       "companies_ranked": 4,
       "rank_of_person_for_company": 6,
       "people_ranked": 16,
-      "created_by": "build-0-2026-11-14T23:03:48.246Z",
-      "created_at": "2026-11-14T23:03:48.246Z",
+      "created_by": "build-0-2026-11-14T23:21:08.721Z",
+      "created_at": "2026-11-14T23:21:08.721Z",
       "took_place": true,
       "next_step_person": {
         "value": "not_yet",
@@ -4005,8 +4004,8 @@
       "companies_ranked": 4,
       "rank_of_person_for_company": 7,
       "people_ranked": 16,
-      "created_by": "build-0-2026-11-14T23:03:48.246Z",
-      "created_at": "2026-11-14T23:03:48.246Z",
+      "created_by": "build-0-2026-11-14T23:21:08.721Z",
+      "created_at": "2026-11-14T23:21:08.721Z",
       "took_place": true,
       "next_step_company": {
         "value": "yes",
@@ -4038,8 +4037,8 @@
       "companies_ranked": 3,
       "rank_of_person_for_company": 8,
       "people_ranked": 16,
-      "created_by": "build-0-2026-11-14T23:03:48.246Z",
-      "created_at": "2026-11-14T23:03:48.246Z",
+      "created_by": "build-0-2026-11-14T23:21:08.721Z",
+      "created_at": "2026-11-14T23:21:08.721Z",
       "took_place": true,
       "next_step_company": {
         "value": "not_yet",
@@ -4071,8 +4070,8 @@
       "companies_ranked": 3,
       "rank_of_person_for_company": 9,
       "people_ranked": 16,
-      "created_by": "build-0-2026-11-14T23:03:48.246Z",
-      "created_at": "2026-11-14T23:03:48.246Z",
+      "created_by": "build-0-2026-11-14T23:21:08.721Z",
+      "created_at": "2026-11-14T23:21:08.721Z",
       "took_place": true,
       "next_step_company": {
         "value": "not_yet",
@@ -4100,8 +4099,8 @@
       "companies_ranked": 3,
       "rank_of_person_for_company": 10,
       "people_ranked": 16,
-      "created_by": "build-0-2026-11-14T23:03:48.246Z",
-      "created_at": "2026-11-14T23:03:48.246Z",
+      "created_by": "build-0-2026-11-14T23:21:08.721Z",
+      "created_at": "2026-11-14T23:21:08.721Z",
       "took_place": false
     },
     {
@@ -4125,8 +4124,8 @@
       "companies_ranked": 4,
       "rank_of_person_for_company": 3,
       "people_ranked": 10,
-      "created_by": "build-0-2026-11-14T23:03:48.246Z",
-      "created_at": "2026-11-14T23:03:48.246Z",
+      "created_by": "build-0-2026-11-14T23:21:08.721Z",
+      "created_at": "2026-11-14T23:21:08.721Z",
       "took_place": true,
       "next_step_person": {
         "value": "not_yet",
@@ -4154,8 +4153,8 @@
       "companies_ranked": 4,
       "rank_of_person_for_company": 5,
       "people_ranked": 16,
-      "created_by": "build-0-2026-11-14T23:03:48.246Z",
-      "created_at": "2026-11-14T23:03:48.246Z",
+      "created_by": "build-0-2026-11-14T23:21:08.721Z",
+      "created_at": "2026-11-14T23:21:08.721Z",
       "took_place": true,
       "next_step_company": {
         "value": "not_yet",
@@ -4187,8 +4186,8 @@
       "companies_ranked": 3,
       "rank_of_person_for_company": 1,
       "people_ranked": 16,
-      "created_by": "build-0-2026-11-14T23:03:48.246Z",
-      "created_at": "2026-11-14T23:03:48.246Z",
+      "created_by": "build-0-2026-11-14T23:21:08.721Z",
+      "created_at": "2026-11-14T23:21:08.721Z",
       "took_place": true,
       "next_step_company": {
         "value": "yes",
@@ -4216,8 +4215,8 @@
       "companies_ranked": 4,
       "rank_of_person_for_company": 6,
       "people_ranked": 16,
-      "created_by": "build-0-2026-11-14T23:03:48.246Z",
-      "created_at": "2026-11-14T23:03:48.246Z",
+      "created_by": "build-0-2026-11-14T23:21:08.721Z",
+      "created_at": "2026-11-14T23:21:08.721Z",
       "took_place": true,
       "next_step_company": {
         "value": "not_yet",
@@ -4249,8 +4248,8 @@
       "companies_ranked": 4,
       "rank_of_person_for_company": 7,
       "people_ranked": 16,
-      "created_by": "build-0-2026-11-14T23:03:48.246Z",
-      "created_at": "2026-11-14T23:03:48.246Z",
+      "created_by": "build-0-2026-11-14T23:21:08.721Z",
+      "created_at": "2026-11-14T23:21:08.721Z",
       "took_place": true,
       "next_step_company": {
         "value": "not_yet",
@@ -4282,8 +4281,8 @@
       "companies_ranked": 3,
       "rank_of_person_for_company": 8,
       "people_ranked": 16,
-      "created_by": "build-0-2026-11-14T23:03:48.246Z",
-      "created_at": "2026-11-14T23:03:48.246Z",
+      "created_by": "build-0-2026-11-14T23:21:08.721Z",
+      "created_at": "2026-11-14T23:21:08.721Z",
       "took_place": true,
       "next_step_person": {
         "value": "yes",
@@ -4311,8 +4310,8 @@
       "companies_ranked": 3,
       "rank_of_person_for_company": 9,
       "people_ranked": 16,
-      "created_by": "build-0-2026-11-14T23:03:48.246Z",
-      "created_at": "2026-11-14T23:03:48.246Z",
+      "created_by": "build-0-2026-11-14T23:21:08.721Z",
+      "created_at": "2026-11-14T23:21:08.721Z",
       "took_place": true,
       "next_step_company": {
         "value": "not_yet",
@@ -4340,8 +4339,8 @@
       "companies_ranked": 3,
       "rank_of_person_for_company": 2,
       "people_ranked": 16,
-      "created_by": "build-0-2026-11-14T23:03:48.246Z",
-      "created_at": "2026-11-14T23:03:48.246Z",
+      "created_by": "build-0-2026-11-14T23:21:08.721Z",
+      "created_at": "2026-11-14T23:21:08.721Z",
       "took_place": true,
       "next_step_company": {
         "value": "not_yet",
@@ -4373,8 +4372,8 @@
       "companies_ranked": 4,
       "rank_of_person_for_company": 3,
       "people_ranked": 16,
-      "created_by": "build-0-2026-11-14T23:03:48.246Z",
-      "created_at": "2026-11-14T23:03:48.246Z",
+      "created_by": "build-0-2026-11-14T23:21:08.721Z",
+      "created_at": "2026-11-14T23:21:08.721Z",
       "took_place": false
     },
     {
@@ -4398,8 +4397,8 @@
       "companies_ranked": 4,
       "rank_of_person_for_company": 4,
       "people_ranked": 16,
-      "created_by": "build-0-2026-11-14T23:03:48.246Z",
-      "created_at": "2026-11-14T23:03:48.246Z",
+      "created_by": "build-0-2026-11-14T23:21:08.721Z",
+      "created_at": "2026-11-14T23:21:08.721Z",
       "took_place": true,
       "next_step_company": {
         "value": "not_yet",
@@ -4431,8 +4430,8 @@
       "companies_ranked": 3,
       "rank_of_person_for_company": 10,
       "people_ranked": 16,
-      "created_by": "build-0-2026-11-14T23:03:48.246Z",
-      "created_at": "2026-11-14T23:03:48.246Z",
+      "created_by": "build-0-2026-11-14T23:21:08.721Z",
+      "created_at": "2026-11-14T23:21:08.721Z",
       "took_place": true
     },
     {
@@ -4456,8 +4455,8 @@
       "companies_ranked": 4,
       "rank_of_person_for_company": 1,
       "people_ranked": 15,
-      "created_by": "build-0-2026-11-14T23:03:48.246Z",
-      "created_at": "2026-11-14T23:03:48.246Z",
+      "created_by": "build-0-2026-11-14T23:21:08.721Z",
+      "created_at": "2026-11-14T23:21:08.721Z",
       "took_place": true,
       "next_step_company": {
         "value": "yes",
@@ -4489,8 +4488,8 @@
       "companies_ranked": 4,
       "rank_of_person_for_company": 4,
       "people_ranked": 15,
-      "created_by": "build-0-2026-11-14T23:03:48.246Z",
-      "created_at": "2026-11-14T23:03:48.246Z",
+      "created_by": "build-0-2026-11-14T23:21:08.721Z",
+      "created_at": "2026-11-14T23:21:08.721Z",
       "took_place": true,
       "next_step_company": {
         "value": "not_yet",
@@ -4522,8 +4521,8 @@
       "companies_ranked": 4,
       "rank_of_person_for_company": 5,
       "people_ranked": 15,
-      "created_by": "build-0-2026-11-14T23:03:48.246Z",
-      "created_at": "2026-11-14T23:03:48.246Z",
+      "created_by": "build-0-2026-11-14T23:21:08.721Z",
+      "created_at": "2026-11-14T23:21:08.721Z",
       "took_place": true,
       "next_step_company": {
         "value": "not_yet",
@@ -4555,8 +4554,8 @@
       "companies_ranked": 4,
       "rank_of_person_for_company": 3,
       "people_ranked": 15,
-      "created_by": "build-0-2026-11-14T23:03:48.246Z",
-      "created_at": "2026-11-14T23:03:48.246Z",
+      "created_by": "build-0-2026-11-14T23:21:08.721Z",
+      "created_at": "2026-11-14T23:21:08.721Z",
       "took_place": true,
       "next_step_company": {
         "value": "yes",
@@ -4584,8 +4583,8 @@
       "companies_ranked": 1,
       "rank_of_person_for_company": 2,
       "people_ranked": 15,
-      "created_by": "build-0-2026-11-14T23:03:48.246Z",
-      "created_at": "2026-11-14T23:03:48.246Z",
+      "created_by": "build-0-2026-11-14T23:21:08.721Z",
+      "created_at": "2026-11-14T23:21:08.721Z",
       "took_place": true,
       "next_step_person": {
         "value": "not_yet",
@@ -4613,8 +4612,8 @@
       "companies_ranked": 1,
       "rank_of_person_for_company": 6,
       "people_ranked": 15,
-      "created_by": "build-0-2026-11-14T23:03:48.246Z",
-      "created_at": "2026-11-14T23:03:48.246Z",
+      "created_by": "build-0-2026-11-14T23:21:08.721Z",
+      "created_at": "2026-11-14T23:21:08.721Z",
       "took_place": true,
       "next_step_company": {
         "value": "not_yet",
@@ -4646,8 +4645,8 @@
       "companies_ranked": 4,
       "rank_of_person_for_company": 7,
       "people_ranked": 15,
-      "created_by": "build-0-2026-11-14T23:03:48.246Z",
-      "created_at": "2026-11-14T23:03:48.246Z",
+      "created_by": "build-0-2026-11-14T23:21:08.721Z",
+      "created_at": "2026-11-14T23:21:08.721Z",
       "took_place": false
     },
     {
@@ -4671,8 +4670,8 @@
       "companies_ranked": 5,
       "rank_of_person_for_company": 8,
       "people_ranked": 15,
-      "created_by": "build-0-2026-11-14T23:03:48.246Z",
-      "created_at": "2026-11-14T23:03:48.246Z",
+      "created_by": "build-0-2026-11-14T23:21:08.721Z",
+      "created_at": "2026-11-14T23:21:08.721Z",
       "took_place": true,
       "next_step_company": {
         "value": "not_yet",
@@ -4700,8 +4699,8 @@
       "companies_ranked": 4,
       "rank_of_person_for_company": 9,
       "people_ranked": 15,
-      "created_by": "build-0-2026-11-14T23:03:48.246Z",
-      "created_at": "2026-11-14T23:03:48.246Z",
+      "created_by": "build-0-2026-11-14T23:21:08.721Z",
+      "created_at": "2026-11-14T23:21:08.721Z",
       "took_place": true,
       "next_step_company": {
         "value": "not_yet",
@@ -4733,8 +4732,8 @@
       "companies_ranked": 1,
       "rank_of_person_for_company": 10,
       "people_ranked": 15,
-      "created_by": "build-0-2026-11-14T23:03:48.246Z",
-      "created_at": "2026-11-14T23:03:48.246Z",
+      "created_by": "build-0-2026-11-14T23:21:08.721Z",
+      "created_at": "2026-11-14T23:21:08.721Z",
       "took_place": true,
       "next_step_person": {
         "value": "yes",
@@ -4762,8 +4761,8 @@
       "companies_ranked": 5,
       "rank_of_person_for_company": 9,
       "people_ranked": 10,
-      "created_by": "build-0-2026-11-14T23:03:48.246Z",
-      "created_at": "2026-11-14T23:03:48.246Z",
+      "created_by": "build-0-2026-11-14T23:21:08.721Z",
+      "created_at": "2026-11-14T23:21:08.721Z",
       "took_place": true,
       "next_step_company": {
         "value": "not_yet",
@@ -4795,8 +4794,8 @@
       "companies_ranked": 1,
       "rank_of_person_for_company": 1,
       "people_ranked": 10,
-      "created_by": "build-0-2026-11-14T23:03:48.246Z",
-      "created_at": "2026-11-14T23:03:48.246Z",
+      "created_by": "build-0-2026-11-14T23:21:08.721Z",
+      "created_at": "2026-11-14T23:21:08.721Z",
       "took_place": true,
       "next_step_company": {
         "value": "not_yet",
@@ -4824,8 +4823,8 @@
       "companies_ranked": 1,
       "rank_of_person_for_company": 2,
       "people_ranked": 10,
-      "created_by": "build-0-2026-11-14T23:03:48.246Z",
-      "created_at": "2026-11-14T23:03:48.246Z",
+      "created_by": "build-0-2026-11-14T23:21:08.721Z",
+      "created_at": "2026-11-14T23:21:08.721Z",
       "took_place": true,
       "next_step_company": {
         "value": "yes",
@@ -4857,8 +4856,8 @@
       "companies_ranked": 1,
       "rank_of_person_for_company": 4,
       "people_ranked": 10,
-      "created_by": "build-0-2026-11-14T23:03:48.246Z",
-      "created_at": "2026-11-14T23:03:48.246Z",
+      "created_by": "build-0-2026-11-14T23:21:08.721Z",
+      "created_at": "2026-11-14T23:21:08.721Z",
       "took_place": true,
       "next_step_company": {
         "value": "not_yet",
@@ -4890,8 +4889,8 @@
       "companies_ranked": 1,
       "rank_of_person_for_company": 5,
       "people_ranked": 10,
-      "created_by": "build-0-2026-11-14T23:03:48.246Z",
-      "created_at": "2026-11-14T23:03:48.246Z",
+      "created_by": "build-0-2026-11-14T23:21:08.721Z",
+      "created_at": "2026-11-14T23:21:08.721Z",
       "took_place": true,
       "next_step_person": {
         "value": "yes",
@@ -4919,8 +4918,8 @@
       "companies_ranked": 3,
       "rank_of_person_for_company": 6,
       "people_ranked": 10,
-      "created_by": "build-0-2026-11-14T23:03:48.246Z",
-      "created_at": "2026-11-14T23:03:48.246Z",
+      "created_by": "build-0-2026-11-14T23:21:08.721Z",
+      "created_at": "2026-11-14T23:21:08.721Z",
       "took_place": false
     },
     {
@@ -4944,8 +4943,8 @@
       "companies_ranked": 3,
       "rank_of_person_for_company": 7,
       "people_ranked": 10,
-      "created_by": "build-0-2026-11-14T23:03:48.246Z",
-      "created_at": "2026-11-14T23:03:48.246Z",
+      "created_by": "build-0-2026-11-14T23:21:08.721Z",
+      "created_at": "2026-11-14T23:21:08.721Z",
       "took_place": true,
       "next_step_company": {
         "value": "not_yet",
@@ -4977,8 +4976,8 @@
       "companies_ranked": 3,
       "rank_of_person_for_company": 8,
       "people_ranked": 10,
-      "created_by": "build-0-2026-11-14T23:03:48.246Z",
-      "created_at": "2026-11-14T23:03:48.246Z",
+      "created_by": "build-0-2026-11-14T23:21:08.721Z",
+      "created_at": "2026-11-14T23:21:08.721Z",
       "took_place": true,
       "next_step_company": {
         "value": "not_yet",
@@ -5010,8 +5009,8 @@
       "companies_ranked": 5,
       "rank_of_person_for_company": 10,
       "people_ranked": 10,
-      "created_by": "build-0-2026-11-14T23:03:48.246Z",
-      "created_at": "2026-11-14T23:03:48.246Z",
+      "created_by": "build-0-2026-11-14T23:21:08.721Z",
+      "created_at": "2026-11-14T23:21:08.721Z",
       "took_place": true,
       "next_step_company": {
         "value": "yes",
@@ -5043,8 +5042,8 @@
       "companies_ranked": 3,
       "rank_of_person_for_company": 14,
       "people_ranked": 31,
-      "created_by": "build-0-2026-11-14T23:03:48.246Z",
-      "created_at": "2026-11-14T23:03:48.246Z",
+      "created_by": "build-0-2026-11-14T23:21:08.721Z",
+      "created_at": "2026-11-14T23:21:08.721Z",
       "took_place": true
     },
     {
@@ -5068,8 +5067,8 @@
       "companies_ranked": 3,
       "rank_of_person_for_company": 15,
       "people_ranked": 31,
-      "created_by": "build-0-2026-11-14T23:03:48.246Z",
-      "created_at": "2026-11-14T23:03:48.246Z",
+      "created_by": "build-0-2026-11-14T23:21:08.721Z",
+      "created_at": "2026-11-14T23:21:08.721Z",
       "took_place": true,
       "next_step_company": {
         "value": "not_yet",
@@ -5101,8 +5100,8 @@
       "companies_ranked": 3,
       "rank_of_person_for_company": 6,
       "people_ranked": 31,
-      "created_by": "build-0-2026-11-14T23:03:48.246Z",
-      "created_at": "2026-11-14T23:03:48.246Z",
+      "created_by": "build-0-2026-11-14T23:21:08.721Z",
+      "created_at": "2026-11-14T23:21:08.721Z",
       "took_place": true,
       "next_step_company": {
         "value": "yes",
@@ -5134,8 +5133,8 @@
       "companies_ranked": 3,
       "rank_of_person_for_company": 13,
       "people_ranked": 31,
-      "created_by": "build-0-2026-11-14T23:03:48.246Z",
-      "created_at": "2026-11-14T23:03:48.246Z",
+      "created_by": "build-0-2026-11-14T23:21:08.721Z",
+      "created_at": "2026-11-14T23:21:08.721Z",
       "took_place": true,
       "next_step_company": {
         "value": "not_yet",
@@ -5167,8 +5166,8 @@
       "companies_ranked": 2,
       "rank_of_person_for_company": 1,
       "people_ranked": 31,
-      "created_by": "build-0-2026-11-14T23:03:48.246Z",
-      "created_at": "2026-11-14T23:03:48.246Z",
+      "created_by": "build-0-2026-11-14T23:21:08.721Z",
+      "created_at": "2026-11-14T23:21:08.721Z",
       "took_place": true,
       "next_step_company": {
         "value": "not_yet",
@@ -5196,8 +5195,8 @@
       "companies_ranked": 2,
       "rank_of_person_for_company": 2,
       "people_ranked": 31,
-      "created_by": "build-0-2026-11-14T23:03:48.246Z",
-      "created_at": "2026-11-14T23:03:48.246Z",
+      "created_by": "build-0-2026-11-14T23:21:08.721Z",
+      "created_at": "2026-11-14T23:21:08.721Z",
       "took_place": false
     },
     {
@@ -5221,8 +5220,8 @@
       "companies_ranked": 2,
       "rank_of_person_for_company": 4,
       "people_ranked": 31,
-      "created_by": "build-0-2026-11-14T23:03:48.246Z",
-      "created_at": "2026-11-14T23:03:48.246Z",
+      "created_by": "build-0-2026-11-14T23:21:08.721Z",
+      "created_at": "2026-11-14T23:21:08.721Z",
       "took_place": true,
       "next_step_company": {
         "value": "not_yet",
@@ -5254,8 +5253,8 @@
       "companies_ranked": 2,
       "rank_of_person_for_company": 7,
       "people_ranked": 31,
-      "created_by": "build-0-2026-11-14T23:03:48.246Z",
-      "created_at": "2026-11-14T23:03:48.246Z",
+      "created_by": "build-0-2026-11-14T23:21:08.721Z",
+      "created_at": "2026-11-14T23:21:08.721Z",
       "took_place": true,
       "next_step_company": {
         "value": "not_yet",
@@ -5287,8 +5286,8 @@
       "companies_ranked": 2,
       "rank_of_person_for_company": 10,
       "people_ranked": 31,
-      "created_by": "build-0-2026-11-14T23:03:48.246Z",
-      "created_at": "2026-11-14T23:03:48.246Z",
+      "created_by": "build-0-2026-11-14T23:21:08.721Z",
+      "created_at": "2026-11-14T23:21:08.721Z",
       "took_place": true,
       "next_step_company": {
         "value": "yes",
@@ -5316,8 +5315,8 @@
       "companies_ranked": 2,
       "rank_of_person_for_company": 12,
       "people_ranked": 31,
-      "created_by": "build-0-2026-11-14T23:03:48.246Z",
-      "created_at": "2026-11-14T23:03:48.246Z",
+      "created_by": "build-0-2026-11-14T23:21:08.721Z",
+      "created_at": "2026-11-14T23:21:08.721Z",
       "took_place": true,
       "next_step_company": {
         "value": "not_yet",
@@ -5349,8 +5348,8 @@
       "companies_ranked": 3,
       "rank_of_person_for_company": 2,
       "people_ranked": 15,
-      "created_by": "build-0-2026-11-14T23:03:48.246Z",
-      "created_at": "2026-11-14T23:03:48.246Z",
+      "created_by": "build-0-2026-11-14T23:21:08.721Z",
+      "created_at": "2026-11-14T23:21:08.721Z",
       "took_place": true,
       "next_step_person": {
         "value": "not_yet",
@@ -5378,8 +5377,8 @@
       "companies_ranked": 3,
       "rank_of_person_for_company": 5,
       "people_ranked": 15,
-      "created_by": "build-0-2026-11-14T23:03:48.246Z",
-      "created_at": "2026-11-14T23:03:48.246Z",
+      "created_by": "build-0-2026-11-14T23:21:08.721Z",
+      "created_at": "2026-11-14T23:21:08.721Z",
       "took_place": true,
       "next_step_company": {
         "value": "yes",
@@ -5411,8 +5410,8 @@
       "companies_ranked": 2,
       "rank_of_person_for_company": 1,
       "people_ranked": 15,
-      "created_by": "build-0-2026-11-14T23:03:48.246Z",
-      "created_at": "2026-11-14T23:03:48.246Z",
+      "created_by": "build-0-2026-11-14T23:21:08.721Z",
+      "created_at": "2026-11-14T23:21:08.721Z",
       "took_place": true,
       "next_step_company": {
         "value": "not_yet",
@@ -5440,8 +5439,8 @@
       "companies_ranked": 2,
       "rank_of_person_for_company": 3,
       "people_ranked": 15,
-      "created_by": "build-0-2026-11-14T23:03:48.246Z",
-      "created_at": "2026-11-14T23:03:48.246Z",
+      "created_by": "build-0-2026-11-14T23:21:08.721Z",
+      "created_at": "2026-11-14T23:21:08.721Z",
       "took_place": true,
       "next_step_company": {
         "value": "not_yet",
@@ -5473,8 +5472,8 @@
       "companies_ranked": 2,
       "rank_of_person_for_company": 4,
       "people_ranked": 15,
-      "created_by": "build-0-2026-11-14T23:03:48.246Z",
-      "created_at": "2026-11-14T23:03:48.246Z",
+      "created_by": "build-0-2026-11-14T23:21:08.721Z",
+      "created_at": "2026-11-14T23:21:08.721Z",
       "took_place": false
     },
     {
@@ -5498,8 +5497,8 @@
       "companies_ranked": 3,
       "rank_of_person_for_company": 8,
       "people_ranked": 15,
-      "created_by": "build-0-2026-11-14T23:03:48.246Z",
-      "created_at": "2026-11-14T23:03:48.246Z",
+      "created_by": "build-0-2026-11-14T23:21:08.721Z",
+      "created_at": "2026-11-14T23:21:08.721Z",
       "took_place": true,
       "next_step_person": {
         "value": "not_yet",
@@ -5527,8 +5526,8 @@
       "companies_ranked": 2,
       "rank_of_person_for_company": 6,
       "people_ranked": 15,
-      "created_by": "build-0-2026-11-14T23:03:48.246Z",
-      "created_at": "2026-11-14T23:03:48.246Z",
+      "created_by": "build-0-2026-11-14T23:21:08.721Z",
+      "created_at": "2026-11-14T23:21:08.721Z",
       "took_place": true,
       "next_step_company": {
         "value": "not_yet",
@@ -5556,8 +5555,8 @@
       "companies_ranked": 2,
       "rank_of_person_for_company": 7,
       "people_ranked": 15,
-      "created_by": "build-0-2026-11-14T23:03:48.246Z",
-      "created_at": "2026-11-14T23:03:48.246Z",
+      "created_by": "build-0-2026-11-14T23:21:08.721Z",
+      "created_at": "2026-11-14T23:21:08.721Z",
       "took_place": true,
       "next_step_company": {
         "value": "yes",
@@ -5589,8 +5588,8 @@
       "companies_ranked": 2,
       "rank_of_person_for_company": 9,
       "people_ranked": 15,
-      "created_by": "build-0-2026-11-14T23:03:48.246Z",
-      "created_at": "2026-11-14T23:03:48.246Z",
+      "created_by": "build-0-2026-11-14T23:21:08.721Z",
+      "created_at": "2026-11-14T23:21:08.721Z",
       "took_place": true,
       "next_step_company": {
         "value": "not_yet",
@@ -5622,8 +5621,8 @@
       "companies_ranked": 2,
       "rank_of_person_for_company": 10,
       "people_ranked": 15,
-      "created_by": "build-0-2026-11-14T23:03:48.246Z",
-      "created_at": "2026-11-14T23:03:48.246Z",
+      "created_by": "build-0-2026-11-14T23:21:08.721Z",
+      "created_at": "2026-11-14T23:21:08.721Z",
       "took_place": true,
       "next_step_company": {
         "value": "not_yet",
@@ -5637,8 +5636,8 @@
   ],
   "builds": [
     {
-      "id": "build-0-2026-11-14T23:03:48.246Z",
-      "at": "2026-11-14T23:03:48.246Z",
+      "id": "build-0-2026-11-14T23:21:08.721Z",
+      "at": "2026-11-14T23:21:08.721Z",
       "kind": "full",
       "rounds": [
         {
@@ -7266,6 +7265,6 @@
       ]
     }
   ],
-  "built_at": "2026-11-14T23:03:48.246Z",
+  "built_at": "2026-11-14T23:21:08.721Z",
   "sent_at": "2026-10-26T09:00:00Z"
 }
