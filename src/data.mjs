@@ -1,0 +1,43 @@
+export const demo = {
+  event: {name:'Espoo meets talent', date:'19 November 2026', place:'Demo hall · Helsinki time', synthetic:true},
+  slots:['14:00','14:15'],
+  companies:[
+    {id:'c1',name:'Loop Kitchen',initials:'LK',sector:'Food systems',table:'A',capacity:2,slots:['14:00','14:15'],
+      task:'Find where food is wasted across five kitchens, and make a weekly tracker the team will actually use.',
+      needs:['data analysis','process improvement'],teach:'Our kitchen operations and inventory tools',
+      choices:['p1','p4','p7'],prompt:'What would you measure during your first week in a kitchen?'},
+    {id:'c2',name:'Northline Energy',initials:'NE',sector:'Clean energy',table:'B',capacity:2,slots:['14:00','14:15'],
+      task:'Help new customers understand their energy reports, then turn repeated questions into a clearer guide.',
+      needs:['customer support','plain language'],teach:'Energy terminology and our reporting platform',
+      choices:['p2','p5','p7'],prompt:'How would you explain a confusing energy bill to a new customer?'},
+    {id:'c3',name:'Morrow Studio',initials:'MS',sector:'Digital services',table:'C',capacity:2,slots:['14:00','14:15'],
+      task:'Watch people use our booking service and prototype a simpler path when they get stuck.',
+      needs:['user research','prototyping'],teach:'Our design system and research tools',
+      choices:['p3','p6'],prompt:'Which part of your sample would you test with a first-time user?'},
+    {id:'c4',name:'Harbour Works',initials:'HW',sector:'Need not ready',table:'D',capacity:1,slots:['14:00'],
+      task:'We need a talented all-rounder.',needs:[],teach:'Not specified yet',choices:['p1','p2'],prompt:''}
+  ],
+  people:[
+    {id:'p1',name:'Talent 01',background:'Hospitality → operations',slots:['14:00','14:15'],choices:['c1'],
+      cv:'Hospitality professional, stock sheets and shift handovers.',
+      auditGroup:'career change', evidence:[{id:'e1',title:'A café stock and waste tracker',text:'Compared daily stock with meals served, found recurring over-ordering and changed the next order sheet.',tags:['data analysis','process improvement']}]},
+    {id:'p2',name:'Talent 02',background:'Library services → customer experience',slots:['14:00','14:15'],choices:['c2'],
+      cv:'Library assistant helping visitors use public services.',auditGroup:'career change',
+      evidence:[{id:'e2',title:'A guide visitors could use alone',text:'Logged common questions at the library desk and rewrote the membership guide using short, tested steps.',tags:['customer support','plain language']}]},
+    {id:'p3',name:'Talent 03',background:'Community organiser → service design',slots:['14:00'],choices:['c3'],
+      cv:'Community volunteer who built a sign-up page.',auditGroup:'career change',
+      evidence:[{id:'e3',title:'Fixing a volunteer sign-up flow',text:'Observed five volunteers signing up, sketched two alternatives, then made a clickable version for another try.',tags:['user research','prototyping']}]},
+    {id:'p4',name:'Talent 04',background:'Business analytics',slots:['14:00','14:15'],choices:['c1'],
+      cv:'Data analysis process improvement inventory kitchen analytics.',auditGroup:'direct path',
+      evidence:[{id:'e4',title:'A supplier lead-time workbook',text:'Grouped late deliveries by supplier and redesigned the ordering checklist around the recurring delays.',tags:['data analysis','process improvement']}]},
+    {id:'p5',name:'Talent 05',background:'Customer operations',slots:['14:15'],choices:['c2'],
+      cv:'Customer support plain language energy customer report guide.',auditGroup:'direct path',
+      evidence:[{id:'e5',title:'Support answers tested with customers',text:'Turned ten recurring support questions into a troubleshooting page, then checked whether readers could follow it.',tags:['customer support','plain language']}]},
+    {id:'p6',name:'Talent 06',background:'Interaction design',slots:['14:00','14:15'],choices:['c3'],
+      cv:'User research prototyping design booking services.',auditGroup:'direct path',
+      evidence:[{id:'e6',title:'Testing a clinic appointment prototype',text:'Interviewed reception staff and tested a clickable appointment flow with three fictional user journeys.',tags:['user research','prototyping']}]},
+    {id:'p7',name:'Talent 07',background:'Retail → operations and support',slots:['14:00','14:15'],choices:['c2','c1'],
+      cv:'Retail shift lead with spreadsheets, support, process improvement and data analysis.',auditGroup:'career change',
+      evidence:[{id:'e7a',title:'A returns tracker and clearer desk guide',text:'Categorised returns, changed the stock handover process, and wrote a short guide for customers and new staff.',tags:['data analysis','process improvement','customer support','plain language']}]}
+  ]
+};

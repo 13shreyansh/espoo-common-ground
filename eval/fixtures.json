@@ -1,0 +1,5380 @@
+{
+  "version": "fixture-v1",
+  "provenance": "Builder-authored synthetic assertions. No human hiring quality labels.",
+  "scenarios": [
+    {
+      "id": "transfer-0",
+      "family": "transfer",
+      "split": "dev",
+      "data": {
+        "event": {
+          "name": "Synthetic family audit",
+          "synthetic": true
+        },
+        "slots": [
+          "14:00",
+          "14:15"
+        ],
+        "companies": [
+          {
+            "id": "c0",
+            "name": "Synthetic company 0",
+            "table": "A",
+            "capacity": 2,
+            "task": "Analysis planning documentation task guide dashboard 0.",
+            "needs": [
+              "analysis",
+              "documentation"
+            ],
+            "choices": [
+              "p0",
+              "p1",
+              "p2",
+              "p3",
+              "p4"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ],
+            "teach": "Domain tools",
+            "prompt": "Discuss the example."
+          },
+          {
+            "id": "c1",
+            "name": "Synthetic company 1",
+            "table": "B",
+            "capacity": 2,
+            "task": "Analysis planning documentation task guide dashboard 1.",
+            "needs": [
+              "analysis",
+              "documentation"
+            ],
+            "choices": [
+              "p0",
+              "p1",
+              "p2",
+              "p3",
+              "p4"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ],
+            "teach": "Domain tools",
+            "prompt": "Discuss the example."
+          }
+        ],
+        "people": [
+          {
+            "id": "p0",
+            "name": "Synthetic talent 0",
+            "background": "career change",
+            "auditGroup": "career change",
+            "cv": "Helped a community group with its weekly rota.",
+            "evidence": [
+              {
+                "id": "e0",
+                "title": "Constructed work 0",
+                "text": "A fixture assertion, not a verified work sample.",
+                "tags": [
+                  "analysis",
+                  "documentation"
+                ]
+              }
+            ],
+            "choices": [
+              "c0",
+              "c1"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ]
+          },
+          {
+            "id": "p1",
+            "name": "Synthetic talent 1",
+            "background": "direct path",
+            "auditGroup": "direct path",
+            "cv": "Analysis planning documentation task guide dashboard.",
+            "evidence": [
+              {
+                "id": "e1",
+                "title": "Constructed work 1",
+                "text": "A fixture assertion, not a verified work sample.",
+                "tags": [
+                  "planning"
+                ]
+              }
+            ],
+            "choices": [
+              "c0",
+              "c1"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ]
+          },
+          {
+            "id": "p2",
+            "name": "Synthetic talent 2",
+            "background": "career change",
+            "auditGroup": "career change",
+            "cv": "Helped a community group with its weekly rota.",
+            "evidence": [
+              {
+                "id": "e2",
+                "title": "Constructed work 2",
+                "text": "A fixture assertion, not a verified work sample.",
+                "tags": [
+                  "analysis",
+                  "documentation"
+                ]
+              }
+            ],
+            "choices": [
+              "c0",
+              "c1"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ]
+          },
+          {
+            "id": "p3",
+            "name": "Synthetic talent 3",
+            "background": "direct path",
+            "auditGroup": "direct path",
+            "cv": "Analysis planning documentation task guide dashboard.",
+            "evidence": [
+              {
+                "id": "e3",
+                "title": "Constructed work 3",
+                "text": "A fixture assertion, not a verified work sample.",
+                "tags": []
+              }
+            ],
+            "choices": [
+              "c0",
+              "c1"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ]
+          },
+          {
+            "id": "p4",
+            "name": "Synthetic talent 4",
+            "background": "career change",
+            "auditGroup": "career change",
+            "cv": "Helped a community group with its weekly rota.",
+            "evidence": [
+              {
+                "id": "e4",
+                "title": "Constructed work 4",
+                "text": "A fixture assertion, not a verified work sample.",
+                "tags": [
+                  "planning"
+                ]
+              }
+            ],
+            "choices": [
+              "c0",
+              "c1"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ]
+          }
+        ]
+      },
+      "cancellation": null
+    },
+    {
+      "id": "transfer-1",
+      "family": "transfer",
+      "split": "dev",
+      "data": {
+        "event": {
+          "name": "Synthetic family audit",
+          "synthetic": true
+        },
+        "slots": [
+          "14:00",
+          "14:15"
+        ],
+        "companies": [
+          {
+            "id": "c0",
+            "name": "Synthetic company 0",
+            "table": "A",
+            "capacity": 2,
+            "task": "Analysis planning documentation task guide dashboard 0.",
+            "needs": [
+              "planning",
+              "documentation"
+            ],
+            "choices": [
+              "p0",
+              "p1",
+              "p2",
+              "p3",
+              "p4"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ],
+            "teach": "Domain tools",
+            "prompt": "Discuss the example."
+          },
+          {
+            "id": "c1",
+            "name": "Synthetic company 1",
+            "table": "B",
+            "capacity": 2,
+            "task": "Analysis planning documentation task guide dashboard 1.",
+            "needs": [
+              "planning",
+              "documentation"
+            ],
+            "choices": [
+              "p0",
+              "p1",
+              "p2",
+              "p3",
+              "p4"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ],
+            "teach": "Domain tools",
+            "prompt": "Discuss the example."
+          }
+        ],
+        "people": [
+          {
+            "id": "p0",
+            "name": "Synthetic talent 0",
+            "background": "career change",
+            "auditGroup": "career change",
+            "cv": "Helped a community group with its weekly rota.",
+            "evidence": [
+              {
+                "id": "e0",
+                "title": "Constructed work 0",
+                "text": "A fixture assertion, not a verified work sample.",
+                "tags": [
+                  "planning",
+                  "documentation"
+                ]
+              }
+            ],
+            "choices": [
+              "c0",
+              "c1"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ]
+          },
+          {
+            "id": "p1",
+            "name": "Synthetic talent 1",
+            "background": "direct path",
+            "auditGroup": "direct path",
+            "cv": "Analysis planning documentation task guide dashboard.",
+            "evidence": [
+              {
+                "id": "e1",
+                "title": "Constructed work 1",
+                "text": "A fixture assertion, not a verified work sample.",
+                "tags": [
+                  "planning"
+                ]
+              }
+            ],
+            "choices": [
+              "c0",
+              "c1"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ]
+          },
+          {
+            "id": "p2",
+            "name": "Synthetic talent 2",
+            "background": "career change",
+            "auditGroup": "career change",
+            "cv": "Helped a community group with its weekly rota.",
+            "evidence": [
+              {
+                "id": "e2",
+                "title": "Constructed work 2",
+                "text": "A fixture assertion, not a verified work sample.",
+                "tags": [
+                  "planning",
+                  "documentation"
+                ]
+              }
+            ],
+            "choices": [
+              "c0",
+              "c1"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ]
+          },
+          {
+            "id": "p3",
+            "name": "Synthetic talent 3",
+            "background": "direct path",
+            "auditGroup": "direct path",
+            "cv": "Analysis planning documentation task guide dashboard.",
+            "evidence": [
+              {
+                "id": "e3",
+                "title": "Constructed work 3",
+                "text": "A fixture assertion, not a verified work sample.",
+                "tags": []
+              }
+            ],
+            "choices": [
+              "c0",
+              "c1"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ]
+          },
+          {
+            "id": "p4",
+            "name": "Synthetic talent 4",
+            "background": "career change",
+            "auditGroup": "career change",
+            "cv": "Helped a community group with its weekly rota.",
+            "evidence": [
+              {
+                "id": "e4",
+                "title": "Constructed work 4",
+                "text": "A fixture assertion, not a verified work sample.",
+                "tags": [
+                  "planning"
+                ]
+              }
+            ],
+            "choices": [
+              "c0",
+              "c1"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ]
+          }
+        ]
+      },
+      "cancellation": null
+    },
+    {
+      "id": "transfer-2",
+      "family": "transfer",
+      "split": "dev",
+      "data": {
+        "event": {
+          "name": "Synthetic family audit",
+          "synthetic": true
+        },
+        "slots": [
+          "14:00",
+          "14:15"
+        ],
+        "companies": [
+          {
+            "id": "c0",
+            "name": "Synthetic company 0",
+            "table": "A",
+            "capacity": 2,
+            "task": "Analysis planning documentation task guide dashboard 0.",
+            "needs": [
+              "analysis",
+              "documentation"
+            ],
+            "choices": [
+              "p0",
+              "p1",
+              "p2",
+              "p3",
+              "p4"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ],
+            "teach": "Domain tools",
+            "prompt": "Discuss the example."
+          },
+          {
+            "id": "c1",
+            "name": "Synthetic company 1",
+            "table": "B",
+            "capacity": 2,
+            "task": "Analysis planning documentation task guide dashboard 1.",
+            "needs": [
+              "analysis",
+              "documentation"
+            ],
+            "choices": [
+              "p0",
+              "p1",
+              "p2",
+              "p3",
+              "p4"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ],
+            "teach": "Domain tools",
+            "prompt": "Discuss the example."
+          }
+        ],
+        "people": [
+          {
+            "id": "p0",
+            "name": "Synthetic talent 0",
+            "background": "career change",
+            "auditGroup": "career change",
+            "cv": "Helped a community group with its weekly rota.",
+            "evidence": [
+              {
+                "id": "e0",
+                "title": "Constructed work 0",
+                "text": "A fixture assertion, not a verified work sample.",
+                "tags": [
+                  "analysis",
+                  "documentation"
+                ]
+              }
+            ],
+            "choices": [
+              "c0",
+              "c1"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ]
+          },
+          {
+            "id": "p1",
+            "name": "Synthetic talent 1",
+            "background": "direct path",
+            "auditGroup": "direct path",
+            "cv": "Analysis planning documentation task guide dashboard.",
+            "evidence": [
+              {
+                "id": "e1",
+                "title": "Constructed work 1",
+                "text": "A fixture assertion, not a verified work sample.",
+                "tags": [
+                  "planning"
+                ]
+              }
+            ],
+            "choices": [
+              "c0",
+              "c1"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ]
+          },
+          {
+            "id": "p2",
+            "name": "Synthetic talent 2",
+            "background": "career change",
+            "auditGroup": "career change",
+            "cv": "Helped a community group with its weekly rota.",
+            "evidence": [
+              {
+                "id": "e2",
+                "title": "Constructed work 2",
+                "text": "A fixture assertion, not a verified work sample.",
+                "tags": [
+                  "analysis",
+                  "documentation"
+                ]
+              }
+            ],
+            "choices": [
+              "c0",
+              "c1"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ]
+          },
+          {
+            "id": "p3",
+            "name": "Synthetic talent 3",
+            "background": "direct path",
+            "auditGroup": "direct path",
+            "cv": "Analysis planning documentation task guide dashboard.",
+            "evidence": [
+              {
+                "id": "e3",
+                "title": "Constructed work 3",
+                "text": "A fixture assertion, not a verified work sample.",
+                "tags": []
+              }
+            ],
+            "choices": [
+              "c0",
+              "c1"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ]
+          },
+          {
+            "id": "p4",
+            "name": "Synthetic talent 4",
+            "background": "career change",
+            "auditGroup": "career change",
+            "cv": "Helped a community group with its weekly rota.",
+            "evidence": [
+              {
+                "id": "e4",
+                "title": "Constructed work 4",
+                "text": "A fixture assertion, not a verified work sample.",
+                "tags": [
+                  "planning"
+                ]
+              }
+            ],
+            "choices": [
+              "c0",
+              "c1"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ]
+          }
+        ]
+      },
+      "cancellation": null
+    },
+    {
+      "id": "transfer-3",
+      "family": "transfer",
+      "split": "dev",
+      "data": {
+        "event": {
+          "name": "Synthetic family audit",
+          "synthetic": true
+        },
+        "slots": [
+          "14:00",
+          "14:15"
+        ],
+        "companies": [
+          {
+            "id": "c0",
+            "name": "Synthetic company 0",
+            "table": "A",
+            "capacity": 2,
+            "task": "Analysis planning documentation task guide dashboard 0.",
+            "needs": [
+              "planning",
+              "documentation"
+            ],
+            "choices": [
+              "p0",
+              "p1",
+              "p2",
+              "p3",
+              "p4"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ],
+            "teach": "Domain tools",
+            "prompt": "Discuss the example."
+          },
+          {
+            "id": "c1",
+            "name": "Synthetic company 1",
+            "table": "B",
+            "capacity": 2,
+            "task": "Analysis planning documentation task guide dashboard 1.",
+            "needs": [
+              "planning",
+              "documentation"
+            ],
+            "choices": [
+              "p0",
+              "p1",
+              "p2",
+              "p3",
+              "p4"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ],
+            "teach": "Domain tools",
+            "prompt": "Discuss the example."
+          }
+        ],
+        "people": [
+          {
+            "id": "p0",
+            "name": "Synthetic talent 0",
+            "background": "career change",
+            "auditGroup": "career change",
+            "cv": "Helped a community group with its weekly rota.",
+            "evidence": [
+              {
+                "id": "e0",
+                "title": "Constructed work 0",
+                "text": "A fixture assertion, not a verified work sample.",
+                "tags": [
+                  "planning",
+                  "documentation"
+                ]
+              }
+            ],
+            "choices": [
+              "c0",
+              "c1"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ]
+          },
+          {
+            "id": "p1",
+            "name": "Synthetic talent 1",
+            "background": "direct path",
+            "auditGroup": "direct path",
+            "cv": "Analysis planning documentation task guide dashboard.",
+            "evidence": [
+              {
+                "id": "e1",
+                "title": "Constructed work 1",
+                "text": "A fixture assertion, not a verified work sample.",
+                "tags": [
+                  "planning"
+                ]
+              }
+            ],
+            "choices": [
+              "c0",
+              "c1"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ]
+          },
+          {
+            "id": "p2",
+            "name": "Synthetic talent 2",
+            "background": "career change",
+            "auditGroup": "career change",
+            "cv": "Helped a community group with its weekly rota.",
+            "evidence": [
+              {
+                "id": "e2",
+                "title": "Constructed work 2",
+                "text": "A fixture assertion, not a verified work sample.",
+                "tags": [
+                  "planning",
+                  "documentation"
+                ]
+              }
+            ],
+            "choices": [
+              "c0",
+              "c1"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ]
+          },
+          {
+            "id": "p3",
+            "name": "Synthetic talent 3",
+            "background": "direct path",
+            "auditGroup": "direct path",
+            "cv": "Analysis planning documentation task guide dashboard.",
+            "evidence": [
+              {
+                "id": "e3",
+                "title": "Constructed work 3",
+                "text": "A fixture assertion, not a verified work sample.",
+                "tags": []
+              }
+            ],
+            "choices": [
+              "c0",
+              "c1"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ]
+          },
+          {
+            "id": "p4",
+            "name": "Synthetic talent 4",
+            "background": "career change",
+            "auditGroup": "career change",
+            "cv": "Helped a community group with its weekly rota.",
+            "evidence": [
+              {
+                "id": "e4",
+                "title": "Constructed work 4",
+                "text": "A fixture assertion, not a verified work sample.",
+                "tags": [
+                  "planning"
+                ]
+              }
+            ],
+            "choices": [
+              "c0",
+              "c1"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ]
+          }
+        ]
+      },
+      "cancellation": null
+    },
+    {
+      "id": "vocabulary-0",
+      "family": "vocabulary",
+      "split": "dev",
+      "data": {
+        "event": {
+          "name": "Synthetic family audit",
+          "synthetic": true
+        },
+        "slots": [
+          "14:00",
+          "14:15"
+        ],
+        "companies": [
+          {
+            "id": "c0",
+            "name": "Synthetic company 0",
+            "table": "A",
+            "capacity": 2,
+            "task": "Analysis planning documentation task guide dashboard 0.",
+            "needs": [
+              "analysis",
+              "documentation"
+            ],
+            "choices": [
+              "p0",
+              "p1",
+              "p2",
+              "p3",
+              "p4"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ],
+            "teach": "Domain tools",
+            "prompt": "Discuss the example."
+          },
+          {
+            "id": "c1",
+            "name": "Synthetic company 1",
+            "table": "B",
+            "capacity": 2,
+            "task": "Analysis planning documentation task guide dashboard 1.",
+            "needs": [
+              "analysis",
+              "documentation"
+            ],
+            "choices": [
+              "p0",
+              "p1",
+              "p2",
+              "p3",
+              "p4"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ],
+            "teach": "Domain tools",
+            "prompt": "Discuss the example."
+          }
+        ],
+        "people": [
+          {
+            "id": "p0",
+            "name": "Synthetic talent 0",
+            "background": "career change",
+            "auditGroup": "career change",
+            "cv": "Analysis planning documentation task guide dashboard 0.Analysis planning documentation task guide dashboard 0.Analysis planning documentation task guide dashboard 0.",
+            "evidence": [
+              {
+                "id": "e0",
+                "title": "Constructed work 0",
+                "text": "A fixture assertion, not a verified work sample.",
+                "tags": []
+              }
+            ],
+            "choices": [
+              "c0",
+              "c1"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ]
+          },
+          {
+            "id": "p1",
+            "name": "Synthetic talent 1",
+            "background": "direct path",
+            "auditGroup": "direct path",
+            "cv": "Analysis planning documentation task guide dashboard.",
+            "evidence": [
+              {
+                "id": "e1",
+                "title": "Constructed work 1",
+                "text": "A fixture assertion, not a verified work sample.",
+                "tags": [
+                  "analysis",
+                  "documentation"
+                ]
+              }
+            ],
+            "choices": [
+              "c0",
+              "c1"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ]
+          },
+          {
+            "id": "p2",
+            "name": "Synthetic talent 2",
+            "background": "career change",
+            "auditGroup": "career change",
+            "cv": "Analysis planning documentation task guide dashboard 1.Analysis planning documentation task guide dashboard 1.Analysis planning documentation task guide dashboard 1.Analysis planning documentation task guide dashboard 1.",
+            "evidence": [
+              {
+                "id": "e2",
+                "title": "Constructed work 2",
+                "text": "A fixture assertion, not a verified work sample.",
+                "tags": []
+              }
+            ],
+            "choices": [
+              "c0",
+              "c1"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ]
+          },
+          {
+            "id": "p3",
+            "name": "Synthetic talent 3",
+            "background": "direct path",
+            "auditGroup": "direct path",
+            "cv": "Analysis planning documentation task guide dashboard.",
+            "evidence": [
+              {
+                "id": "e3",
+                "title": "Constructed work 3",
+                "text": "A fixture assertion, not a verified work sample.",
+                "tags": [
+                  "analysis",
+                  "documentation"
+                ]
+              }
+            ],
+            "choices": [
+              "c0",
+              "c1"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ]
+          },
+          {
+            "id": "p4",
+            "name": "Synthetic talent 4",
+            "background": "career change",
+            "auditGroup": "career change",
+            "cv": "Helped a community group with its weekly rota.",
+            "evidence": [
+              {
+                "id": "e4",
+                "title": "Constructed work 4",
+                "text": "A fixture assertion, not a verified work sample.",
+                "tags": [
+                  "planning"
+                ]
+              }
+            ],
+            "choices": [
+              "c0",
+              "c1"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ]
+          }
+        ]
+      },
+      "cancellation": null
+    },
+    {
+      "id": "vocabulary-1",
+      "family": "vocabulary",
+      "split": "dev",
+      "data": {
+        "event": {
+          "name": "Synthetic family audit",
+          "synthetic": true
+        },
+        "slots": [
+          "14:00",
+          "14:15"
+        ],
+        "companies": [
+          {
+            "id": "c0",
+            "name": "Synthetic company 0",
+            "table": "A",
+            "capacity": 2,
+            "task": "Analysis planning documentation task guide dashboard 0.",
+            "needs": [
+              "planning",
+              "documentation"
+            ],
+            "choices": [
+              "p0",
+              "p1",
+              "p2",
+              "p3",
+              "p4"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ],
+            "teach": "Domain tools",
+            "prompt": "Discuss the example."
+          },
+          {
+            "id": "c1",
+            "name": "Synthetic company 1",
+            "table": "B",
+            "capacity": 2,
+            "task": "Analysis planning documentation task guide dashboard 1.",
+            "needs": [
+              "planning",
+              "documentation"
+            ],
+            "choices": [
+              "p0",
+              "p1",
+              "p2",
+              "p3",
+              "p4"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ],
+            "teach": "Domain tools",
+            "prompt": "Discuss the example."
+          }
+        ],
+        "people": [
+          {
+            "id": "p0",
+            "name": "Synthetic talent 0",
+            "background": "career change",
+            "auditGroup": "career change",
+            "cv": "Analysis planning documentation task guide dashboard 0.Analysis planning documentation task guide dashboard 0.Analysis planning documentation task guide dashboard 0.",
+            "evidence": [
+              {
+                "id": "e0",
+                "title": "Constructed work 0",
+                "text": "A fixture assertion, not a verified work sample.",
+                "tags": []
+              }
+            ],
+            "choices": [
+              "c0",
+              "c1"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ]
+          },
+          {
+            "id": "p1",
+            "name": "Synthetic talent 1",
+            "background": "direct path",
+            "auditGroup": "direct path",
+            "cv": "Analysis planning documentation task guide dashboard.",
+            "evidence": [
+              {
+                "id": "e1",
+                "title": "Constructed work 1",
+                "text": "A fixture assertion, not a verified work sample.",
+                "tags": [
+                  "planning",
+                  "documentation"
+                ]
+              }
+            ],
+            "choices": [
+              "c0",
+              "c1"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ]
+          },
+          {
+            "id": "p2",
+            "name": "Synthetic talent 2",
+            "background": "career change",
+            "auditGroup": "career change",
+            "cv": "Analysis planning documentation task guide dashboard 1.Analysis planning documentation task guide dashboard 1.Analysis planning documentation task guide dashboard 1.Analysis planning documentation task guide dashboard 1.",
+            "evidence": [
+              {
+                "id": "e2",
+                "title": "Constructed work 2",
+                "text": "A fixture assertion, not a verified work sample.",
+                "tags": []
+              }
+            ],
+            "choices": [
+              "c0",
+              "c1"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ]
+          },
+          {
+            "id": "p3",
+            "name": "Synthetic talent 3",
+            "background": "direct path",
+            "auditGroup": "direct path",
+            "cv": "Analysis planning documentation task guide dashboard.",
+            "evidence": [
+              {
+                "id": "e3",
+                "title": "Constructed work 3",
+                "text": "A fixture assertion, not a verified work sample.",
+                "tags": [
+                  "planning",
+                  "documentation"
+                ]
+              }
+            ],
+            "choices": [
+              "c0",
+              "c1"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ]
+          },
+          {
+            "id": "p4",
+            "name": "Synthetic talent 4",
+            "background": "career change",
+            "auditGroup": "career change",
+            "cv": "Helped a community group with its weekly rota.",
+            "evidence": [
+              {
+                "id": "e4",
+                "title": "Constructed work 4",
+                "text": "A fixture assertion, not a verified work sample.",
+                "tags": [
+                  "planning"
+                ]
+              }
+            ],
+            "choices": [
+              "c0",
+              "c1"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ]
+          }
+        ]
+      },
+      "cancellation": null
+    },
+    {
+      "id": "vocabulary-2",
+      "family": "vocabulary",
+      "split": "dev",
+      "data": {
+        "event": {
+          "name": "Synthetic family audit",
+          "synthetic": true
+        },
+        "slots": [
+          "14:00",
+          "14:15"
+        ],
+        "companies": [
+          {
+            "id": "c0",
+            "name": "Synthetic company 0",
+            "table": "A",
+            "capacity": 2,
+            "task": "Analysis planning documentation task guide dashboard 0.",
+            "needs": [
+              "analysis",
+              "documentation"
+            ],
+            "choices": [
+              "p0",
+              "p1",
+              "p2",
+              "p3",
+              "p4"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ],
+            "teach": "Domain tools",
+            "prompt": "Discuss the example."
+          },
+          {
+            "id": "c1",
+            "name": "Synthetic company 1",
+            "table": "B",
+            "capacity": 2,
+            "task": "Analysis planning documentation task guide dashboard 1.",
+            "needs": [
+              "analysis",
+              "documentation"
+            ],
+            "choices": [
+              "p0",
+              "p1",
+              "p2",
+              "p3",
+              "p4"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ],
+            "teach": "Domain tools",
+            "prompt": "Discuss the example."
+          }
+        ],
+        "people": [
+          {
+            "id": "p0",
+            "name": "Synthetic talent 0",
+            "background": "career change",
+            "auditGroup": "career change",
+            "cv": "Analysis planning documentation task guide dashboard 0.Analysis planning documentation task guide dashboard 0.Analysis planning documentation task guide dashboard 0.",
+            "evidence": [
+              {
+                "id": "e0",
+                "title": "Constructed work 0",
+                "text": "A fixture assertion, not a verified work sample.",
+                "tags": []
+              }
+            ],
+            "choices": [
+              "c0",
+              "c1"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ]
+          },
+          {
+            "id": "p1",
+            "name": "Synthetic talent 1",
+            "background": "direct path",
+            "auditGroup": "direct path",
+            "cv": "Analysis planning documentation task guide dashboard.",
+            "evidence": [
+              {
+                "id": "e1",
+                "title": "Constructed work 1",
+                "text": "A fixture assertion, not a verified work sample.",
+                "tags": [
+                  "analysis",
+                  "documentation"
+                ]
+              }
+            ],
+            "choices": [
+              "c0",
+              "c1"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ]
+          },
+          {
+            "id": "p2",
+            "name": "Synthetic talent 2",
+            "background": "career change",
+            "auditGroup": "career change",
+            "cv": "Analysis planning documentation task guide dashboard 1.Analysis planning documentation task guide dashboard 1.Analysis planning documentation task guide dashboard 1.Analysis planning documentation task guide dashboard 1.",
+            "evidence": [
+              {
+                "id": "e2",
+                "title": "Constructed work 2",
+                "text": "A fixture assertion, not a verified work sample.",
+                "tags": []
+              }
+            ],
+            "choices": [
+              "c0",
+              "c1"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ]
+          },
+          {
+            "id": "p3",
+            "name": "Synthetic talent 3",
+            "background": "direct path",
+            "auditGroup": "direct path",
+            "cv": "Analysis planning documentation task guide dashboard.",
+            "evidence": [
+              {
+                "id": "e3",
+                "title": "Constructed work 3",
+                "text": "A fixture assertion, not a verified work sample.",
+                "tags": [
+                  "analysis",
+                  "documentation"
+                ]
+              }
+            ],
+            "choices": [
+              "c0",
+              "c1"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ]
+          },
+          {
+            "id": "p4",
+            "name": "Synthetic talent 4",
+            "background": "career change",
+            "auditGroup": "career change",
+            "cv": "Helped a community group with its weekly rota.",
+            "evidence": [
+              {
+                "id": "e4",
+                "title": "Constructed work 4",
+                "text": "A fixture assertion, not a verified work sample.",
+                "tags": [
+                  "planning"
+                ]
+              }
+            ],
+            "choices": [
+              "c0",
+              "c1"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ]
+          }
+        ]
+      },
+      "cancellation": null
+    },
+    {
+      "id": "vocabulary-3",
+      "family": "vocabulary",
+      "split": "dev",
+      "data": {
+        "event": {
+          "name": "Synthetic family audit",
+          "synthetic": true
+        },
+        "slots": [
+          "14:00",
+          "14:15"
+        ],
+        "companies": [
+          {
+            "id": "c0",
+            "name": "Synthetic company 0",
+            "table": "A",
+            "capacity": 2,
+            "task": "Analysis planning documentation task guide dashboard 0.",
+            "needs": [
+              "planning",
+              "documentation"
+            ],
+            "choices": [
+              "p0",
+              "p1",
+              "p2",
+              "p3",
+              "p4"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ],
+            "teach": "Domain tools",
+            "prompt": "Discuss the example."
+          },
+          {
+            "id": "c1",
+            "name": "Synthetic company 1",
+            "table": "B",
+            "capacity": 2,
+            "task": "Analysis planning documentation task guide dashboard 1.",
+            "needs": [
+              "planning",
+              "documentation"
+            ],
+            "choices": [
+              "p0",
+              "p1",
+              "p2",
+              "p3",
+              "p4"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ],
+            "teach": "Domain tools",
+            "prompt": "Discuss the example."
+          }
+        ],
+        "people": [
+          {
+            "id": "p0",
+            "name": "Synthetic talent 0",
+            "background": "career change",
+            "auditGroup": "career change",
+            "cv": "Analysis planning documentation task guide dashboard 0.Analysis planning documentation task guide dashboard 0.Analysis planning documentation task guide dashboard 0.",
+            "evidence": [
+              {
+                "id": "e0",
+                "title": "Constructed work 0",
+                "text": "A fixture assertion, not a verified work sample.",
+                "tags": []
+              }
+            ],
+            "choices": [
+              "c0",
+              "c1"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ]
+          },
+          {
+            "id": "p1",
+            "name": "Synthetic talent 1",
+            "background": "direct path",
+            "auditGroup": "direct path",
+            "cv": "Analysis planning documentation task guide dashboard.",
+            "evidence": [
+              {
+                "id": "e1",
+                "title": "Constructed work 1",
+                "text": "A fixture assertion, not a verified work sample.",
+                "tags": [
+                  "planning",
+                  "documentation"
+                ]
+              }
+            ],
+            "choices": [
+              "c0",
+              "c1"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ]
+          },
+          {
+            "id": "p2",
+            "name": "Synthetic talent 2",
+            "background": "career change",
+            "auditGroup": "career change",
+            "cv": "Analysis planning documentation task guide dashboard 1.Analysis planning documentation task guide dashboard 1.Analysis planning documentation task guide dashboard 1.Analysis planning documentation task guide dashboard 1.",
+            "evidence": [
+              {
+                "id": "e2",
+                "title": "Constructed work 2",
+                "text": "A fixture assertion, not a verified work sample.",
+                "tags": []
+              }
+            ],
+            "choices": [
+              "c0",
+              "c1"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ]
+          },
+          {
+            "id": "p3",
+            "name": "Synthetic talent 3",
+            "background": "direct path",
+            "auditGroup": "direct path",
+            "cv": "Analysis planning documentation task guide dashboard.",
+            "evidence": [
+              {
+                "id": "e3",
+                "title": "Constructed work 3",
+                "text": "A fixture assertion, not a verified work sample.",
+                "tags": [
+                  "planning",
+                  "documentation"
+                ]
+              }
+            ],
+            "choices": [
+              "c0",
+              "c1"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ]
+          },
+          {
+            "id": "p4",
+            "name": "Synthetic talent 4",
+            "background": "career change",
+            "auditGroup": "career change",
+            "cv": "Helped a community group with its weekly rota.",
+            "evidence": [
+              {
+                "id": "e4",
+                "title": "Constructed work 4",
+                "text": "A fixture assertion, not a verified work sample.",
+                "tags": [
+                  "planning"
+                ]
+              }
+            ],
+            "choices": [
+              "c0",
+              "c1"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ]
+          }
+        ]
+      },
+      "cancellation": null
+    },
+    {
+      "id": "scarcity-0",
+      "family": "scarcity",
+      "split": "dev",
+      "data": {
+        "event": {
+          "name": "Synthetic family audit",
+          "synthetic": true
+        },
+        "slots": [
+          "14:00",
+          "14:15"
+        ],
+        "companies": [
+          {
+            "id": "c0",
+            "name": "Synthetic company 0",
+            "table": "A",
+            "capacity": 1,
+            "task": "Analysis planning documentation task guide dashboard 0.",
+            "needs": [
+              "analysis",
+              "documentation"
+            ],
+            "choices": [
+              "p0",
+              "p1",
+              "p2",
+              "p3",
+              "p4"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ],
+            "teach": "Domain tools",
+            "prompt": "Discuss the example."
+          },
+          {
+            "id": "c1",
+            "name": "Synthetic company 1",
+            "table": "B",
+            "capacity": 2,
+            "task": "Analysis planning documentation task guide dashboard 1.",
+            "needs": [
+              "analysis",
+              "documentation"
+            ],
+            "choices": [
+              "p0",
+              "p1",
+              "p2",
+              "p3",
+              "p4"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ],
+            "teach": "Domain tools",
+            "prompt": "Discuss the example."
+          }
+        ],
+        "people": [
+          {
+            "id": "p0",
+            "name": "Synthetic talent 0",
+            "background": "career change",
+            "auditGroup": "career change",
+            "cv": "Helped a community group with its weekly rota.",
+            "evidence": [
+              {
+                "id": "e0",
+                "title": "Constructed work 0",
+                "text": "A fixture assertion, not a verified work sample.",
+                "tags": [
+                  "analysis",
+                  "documentation"
+                ]
+              }
+            ],
+            "choices": [
+              "c0"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ]
+          },
+          {
+            "id": "p1",
+            "name": "Synthetic talent 1",
+            "background": "direct path",
+            "auditGroup": "direct path",
+            "cv": "Analysis planning documentation task guide dashboard.",
+            "evidence": [
+              {
+                "id": "e1",
+                "title": "Constructed work 1",
+                "text": "A fixture assertion, not a verified work sample.",
+                "tags": [
+                  "analysis",
+                  "documentation"
+                ]
+              }
+            ],
+            "choices": [
+              "c0",
+              "c1"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ]
+          },
+          {
+            "id": "p2",
+            "name": "Synthetic talent 2",
+            "background": "career change",
+            "auditGroup": "career change",
+            "cv": "Helped a community group with its weekly rota.",
+            "evidence": [
+              {
+                "id": "e2",
+                "title": "Constructed work 2",
+                "text": "A fixture assertion, not a verified work sample.",
+                "tags": [
+                  "analysis",
+                  "documentation"
+                ]
+              }
+            ],
+            "choices": [
+              "c0",
+              "c1"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ]
+          },
+          {
+            "id": "p3",
+            "name": "Synthetic talent 3",
+            "background": "direct path",
+            "auditGroup": "direct path",
+            "cv": "Analysis planning documentation task guide dashboard.",
+            "evidence": [
+              {
+                "id": "e3",
+                "title": "Constructed work 3",
+                "text": "A fixture assertion, not a verified work sample.",
+                "tags": [
+                  "analysis",
+                  "documentation"
+                ]
+              }
+            ],
+            "choices": [
+              "c0",
+              "c1"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ]
+          },
+          {
+            "id": "p4",
+            "name": "Synthetic talent 4",
+            "background": "career change",
+            "auditGroup": "career change",
+            "cv": "Helped a community group with its weekly rota.",
+            "evidence": [
+              {
+                "id": "e4",
+                "title": "Constructed work 4",
+                "text": "A fixture assertion, not a verified work sample.",
+                "tags": [
+                  "planning"
+                ]
+              }
+            ],
+            "choices": [
+              "c0",
+              "c1"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ]
+          }
+        ]
+      },
+      "cancellation": null
+    },
+    {
+      "id": "scarcity-1",
+      "family": "scarcity",
+      "split": "dev",
+      "data": {
+        "event": {
+          "name": "Synthetic family audit",
+          "synthetic": true
+        },
+        "slots": [
+          "14:00",
+          "14:15"
+        ],
+        "companies": [
+          {
+            "id": "c0",
+            "name": "Synthetic company 0",
+            "table": "A",
+            "capacity": 1,
+            "task": "Analysis planning documentation task guide dashboard 0.",
+            "needs": [
+              "planning",
+              "documentation"
+            ],
+            "choices": [
+              "p0",
+              "p1",
+              "p2",
+              "p3",
+              "p4"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ],
+            "teach": "Domain tools",
+            "prompt": "Discuss the example."
+          },
+          {
+            "id": "c1",
+            "name": "Synthetic company 1",
+            "table": "B",
+            "capacity": 1,
+            "task": "Analysis planning documentation task guide dashboard 1.",
+            "needs": [
+              "planning",
+              "documentation"
+            ],
+            "choices": [
+              "p0",
+              "p1",
+              "p2",
+              "p3",
+              "p4"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ],
+            "teach": "Domain tools",
+            "prompt": "Discuss the example."
+          }
+        ],
+        "people": [
+          {
+            "id": "p0",
+            "name": "Synthetic talent 0",
+            "background": "career change",
+            "auditGroup": "career change",
+            "cv": "Helped a community group with its weekly rota.",
+            "evidence": [
+              {
+                "id": "e0",
+                "title": "Constructed work 0",
+                "text": "A fixture assertion, not a verified work sample.",
+                "tags": [
+                  "planning",
+                  "documentation"
+                ]
+              }
+            ],
+            "choices": [
+              "c0",
+              "c1"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ]
+          },
+          {
+            "id": "p1",
+            "name": "Synthetic talent 1",
+            "background": "direct path",
+            "auditGroup": "direct path",
+            "cv": "Analysis planning documentation task guide dashboard.",
+            "evidence": [
+              {
+                "id": "e1",
+                "title": "Constructed work 1",
+                "text": "A fixture assertion, not a verified work sample.",
+                "tags": [
+                  "planning",
+                  "documentation"
+                ]
+              }
+            ],
+            "choices": [
+              "c0"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ]
+          },
+          {
+            "id": "p2",
+            "name": "Synthetic talent 2",
+            "background": "career change",
+            "auditGroup": "career change",
+            "cv": "Helped a community group with its weekly rota.",
+            "evidence": [
+              {
+                "id": "e2",
+                "title": "Constructed work 2",
+                "text": "A fixture assertion, not a verified work sample.",
+                "tags": [
+                  "planning",
+                  "documentation"
+                ]
+              }
+            ],
+            "choices": [
+              "c0",
+              "c1"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ]
+          },
+          {
+            "id": "p3",
+            "name": "Synthetic talent 3",
+            "background": "direct path",
+            "auditGroup": "direct path",
+            "cv": "Analysis planning documentation task guide dashboard.",
+            "evidence": [
+              {
+                "id": "e3",
+                "title": "Constructed work 3",
+                "text": "A fixture assertion, not a verified work sample.",
+                "tags": [
+                  "planning",
+                  "documentation"
+                ]
+              }
+            ],
+            "choices": [
+              "c0",
+              "c1"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ]
+          },
+          {
+            "id": "p4",
+            "name": "Synthetic talent 4",
+            "background": "career change",
+            "auditGroup": "career change",
+            "cv": "Helped a community group with its weekly rota.",
+            "evidence": [
+              {
+                "id": "e4",
+                "title": "Constructed work 4",
+                "text": "A fixture assertion, not a verified work sample.",
+                "tags": [
+                  "planning"
+                ]
+              }
+            ],
+            "choices": [
+              "c0",
+              "c1"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ]
+          }
+        ]
+      },
+      "cancellation": null
+    },
+    {
+      "id": "scarcity-2",
+      "family": "scarcity",
+      "split": "dev",
+      "data": {
+        "event": {
+          "name": "Synthetic family audit",
+          "synthetic": true
+        },
+        "slots": [
+          "14:00",
+          "14:15"
+        ],
+        "companies": [
+          {
+            "id": "c0",
+            "name": "Synthetic company 0",
+            "table": "A",
+            "capacity": 1,
+            "task": "Analysis planning documentation task guide dashboard 0.",
+            "needs": [
+              "analysis",
+              "documentation"
+            ],
+            "choices": [
+              "p0",
+              "p1",
+              "p2",
+              "p3",
+              "p4"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ],
+            "teach": "Domain tools",
+            "prompt": "Discuss the example."
+          },
+          {
+            "id": "c1",
+            "name": "Synthetic company 1",
+            "table": "B",
+            "capacity": 2,
+            "task": "Analysis planning documentation task guide dashboard 1.",
+            "needs": [
+              "analysis",
+              "documentation"
+            ],
+            "choices": [
+              "p0",
+              "p1",
+              "p2",
+              "p3",
+              "p4"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ],
+            "teach": "Domain tools",
+            "prompt": "Discuss the example."
+          }
+        ],
+        "people": [
+          {
+            "id": "p0",
+            "name": "Synthetic talent 0",
+            "background": "career change",
+            "auditGroup": "career change",
+            "cv": "Helped a community group with its weekly rota.",
+            "evidence": [
+              {
+                "id": "e0",
+                "title": "Constructed work 0",
+                "text": "A fixture assertion, not a verified work sample.",
+                "tags": [
+                  "analysis",
+                  "documentation"
+                ]
+              }
+            ],
+            "choices": [
+              "c0",
+              "c1"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ]
+          },
+          {
+            "id": "p1",
+            "name": "Synthetic talent 1",
+            "background": "direct path",
+            "auditGroup": "direct path",
+            "cv": "Analysis planning documentation task guide dashboard.",
+            "evidence": [
+              {
+                "id": "e1",
+                "title": "Constructed work 1",
+                "text": "A fixture assertion, not a verified work sample.",
+                "tags": [
+                  "analysis",
+                  "documentation"
+                ]
+              }
+            ],
+            "choices": [
+              "c0",
+              "c1"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ]
+          },
+          {
+            "id": "p2",
+            "name": "Synthetic talent 2",
+            "background": "career change",
+            "auditGroup": "career change",
+            "cv": "Helped a community group with its weekly rota.",
+            "evidence": [
+              {
+                "id": "e2",
+                "title": "Constructed work 2",
+                "text": "A fixture assertion, not a verified work sample.",
+                "tags": [
+                  "analysis",
+                  "documentation"
+                ]
+              }
+            ],
+            "choices": [
+              "c0"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ]
+          },
+          {
+            "id": "p3",
+            "name": "Synthetic talent 3",
+            "background": "direct path",
+            "auditGroup": "direct path",
+            "cv": "Analysis planning documentation task guide dashboard.",
+            "evidence": [
+              {
+                "id": "e3",
+                "title": "Constructed work 3",
+                "text": "A fixture assertion, not a verified work sample.",
+                "tags": [
+                  "analysis",
+                  "documentation"
+                ]
+              }
+            ],
+            "choices": [
+              "c0",
+              "c1"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ]
+          },
+          {
+            "id": "p4",
+            "name": "Synthetic talent 4",
+            "background": "career change",
+            "auditGroup": "career change",
+            "cv": "Helped a community group with its weekly rota.",
+            "evidence": [
+              {
+                "id": "e4",
+                "title": "Constructed work 4",
+                "text": "A fixture assertion, not a verified work sample.",
+                "tags": [
+                  "planning"
+                ]
+              }
+            ],
+            "choices": [
+              "c0",
+              "c1"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ]
+          }
+        ]
+      },
+      "cancellation": null
+    },
+    {
+      "id": "scarcity-3",
+      "family": "scarcity",
+      "split": "dev",
+      "data": {
+        "event": {
+          "name": "Synthetic family audit",
+          "synthetic": true
+        },
+        "slots": [
+          "14:00",
+          "14:15"
+        ],
+        "companies": [
+          {
+            "id": "c0",
+            "name": "Synthetic company 0",
+            "table": "A",
+            "capacity": 1,
+            "task": "Analysis planning documentation task guide dashboard 0.",
+            "needs": [
+              "planning",
+              "documentation"
+            ],
+            "choices": [
+              "p0",
+              "p1",
+              "p2",
+              "p3",
+              "p4"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ],
+            "teach": "Domain tools",
+            "prompt": "Discuss the example."
+          },
+          {
+            "id": "c1",
+            "name": "Synthetic company 1",
+            "table": "B",
+            "capacity": 1,
+            "task": "Analysis planning documentation task guide dashboard 1.",
+            "needs": [
+              "planning",
+              "documentation"
+            ],
+            "choices": [
+              "p0",
+              "p1",
+              "p2",
+              "p3",
+              "p4"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ],
+            "teach": "Domain tools",
+            "prompt": "Discuss the example."
+          }
+        ],
+        "people": [
+          {
+            "id": "p0",
+            "name": "Synthetic talent 0",
+            "background": "career change",
+            "auditGroup": "career change",
+            "cv": "Helped a community group with its weekly rota.",
+            "evidence": [
+              {
+                "id": "e0",
+                "title": "Constructed work 0",
+                "text": "A fixture assertion, not a verified work sample.",
+                "tags": [
+                  "planning",
+                  "documentation"
+                ]
+              }
+            ],
+            "choices": [
+              "c0",
+              "c1"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ]
+          },
+          {
+            "id": "p1",
+            "name": "Synthetic talent 1",
+            "background": "direct path",
+            "auditGroup": "direct path",
+            "cv": "Analysis planning documentation task guide dashboard.",
+            "evidence": [
+              {
+                "id": "e1",
+                "title": "Constructed work 1",
+                "text": "A fixture assertion, not a verified work sample.",
+                "tags": [
+                  "planning",
+                  "documentation"
+                ]
+              }
+            ],
+            "choices": [
+              "c0",
+              "c1"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ]
+          },
+          {
+            "id": "p2",
+            "name": "Synthetic talent 2",
+            "background": "career change",
+            "auditGroup": "career change",
+            "cv": "Helped a community group with its weekly rota.",
+            "evidence": [
+              {
+                "id": "e2",
+                "title": "Constructed work 2",
+                "text": "A fixture assertion, not a verified work sample.",
+                "tags": [
+                  "planning",
+                  "documentation"
+                ]
+              }
+            ],
+            "choices": [
+              "c0",
+              "c1"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ]
+          },
+          {
+            "id": "p3",
+            "name": "Synthetic talent 3",
+            "background": "direct path",
+            "auditGroup": "direct path",
+            "cv": "Analysis planning documentation task guide dashboard.",
+            "evidence": [
+              {
+                "id": "e3",
+                "title": "Constructed work 3",
+                "text": "A fixture assertion, not a verified work sample.",
+                "tags": [
+                  "planning",
+                  "documentation"
+                ]
+              }
+            ],
+            "choices": [
+              "c0"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ]
+          },
+          {
+            "id": "p4",
+            "name": "Synthetic talent 4",
+            "background": "career change",
+            "auditGroup": "career change",
+            "cv": "Helped a community group with its weekly rota.",
+            "evidence": [
+              {
+                "id": "e4",
+                "title": "Constructed work 4",
+                "text": "A fixture assertion, not a verified work sample.",
+                "tags": [
+                  "planning"
+                ]
+              }
+            ],
+            "choices": [
+              "c0",
+              "c1"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ]
+          }
+        ]
+      },
+      "cancellation": null
+    },
+    {
+      "id": "availability-0",
+      "family": "availability",
+      "split": "heldout",
+      "data": {
+        "event": {
+          "name": "Synthetic family audit",
+          "synthetic": true
+        },
+        "slots": [
+          "14:00",
+          "14:15"
+        ],
+        "companies": [
+          {
+            "id": "c0",
+            "name": "Synthetic company 0",
+            "table": "A",
+            "capacity": 1,
+            "task": "Analysis planning documentation task guide dashboard 0.",
+            "needs": [
+              "analysis",
+              "documentation"
+            ],
+            "choices": [
+              "p0",
+              "p1",
+              "p2",
+              "p3",
+              "p4"
+            ],
+            "slots": [
+              "14:00"
+            ],
+            "teach": "Domain tools",
+            "prompt": "Discuss the example."
+          },
+          {
+            "id": "c1",
+            "name": "Synthetic company 1",
+            "table": "B",
+            "capacity": 2,
+            "task": "Analysis planning documentation task guide dashboard 1.",
+            "needs": [
+              "analysis",
+              "documentation"
+            ],
+            "choices": [
+              "p0",
+              "p1",
+              "p2",
+              "p3",
+              "p4"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ],
+            "teach": "Domain tools",
+            "prompt": "Discuss the example."
+          }
+        ],
+        "people": [
+          {
+            "id": "p0",
+            "name": "Synthetic talent 0",
+            "background": "career change",
+            "auditGroup": "career change",
+            "cv": "Helped a community group with its weekly rota.",
+            "evidence": [
+              {
+                "id": "e0",
+                "title": "Constructed work 0",
+                "text": "A fixture assertion, not a verified work sample.",
+                "tags": [
+                  "analysis",
+                  "documentation"
+                ]
+              }
+            ],
+            "choices": [
+              "c0",
+              "c1"
+            ],
+            "slots": [
+              "14:00"
+            ]
+          },
+          {
+            "id": "p1",
+            "name": "Synthetic talent 1",
+            "background": "direct path",
+            "auditGroup": "direct path",
+            "cv": "Analysis planning documentation task guide dashboard.",
+            "evidence": [
+              {
+                "id": "e1",
+                "title": "Constructed work 1",
+                "text": "A fixture assertion, not a verified work sample.",
+                "tags": [
+                  "analysis",
+                  "documentation"
+                ]
+              }
+            ],
+            "choices": [
+              "c0",
+              "c1"
+            ],
+            "slots": [
+              "14:00"
+            ]
+          },
+          {
+            "id": "p2",
+            "name": "Synthetic talent 2",
+            "background": "career change",
+            "auditGroup": "career change",
+            "cv": "Helped a community group with its weekly rota.",
+            "evidence": [
+              {
+                "id": "e2",
+                "title": "Constructed work 2",
+                "text": "A fixture assertion, not a verified work sample.",
+                "tags": [
+                  "analysis",
+                  "documentation"
+                ]
+              }
+            ],
+            "choices": [
+              "c0",
+              "c1"
+            ],
+            "slots": [
+              "14:15"
+            ]
+          },
+          {
+            "id": "p3",
+            "name": "Synthetic talent 3",
+            "background": "direct path",
+            "auditGroup": "direct path",
+            "cv": "Analysis planning documentation task guide dashboard.",
+            "evidence": [
+              {
+                "id": "e3",
+                "title": "Constructed work 3",
+                "text": "A fixture assertion, not a verified work sample.",
+                "tags": [
+                  "analysis",
+                  "documentation"
+                ]
+              }
+            ],
+            "choices": [
+              "c0",
+              "c1"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ]
+          },
+          {
+            "id": "p4",
+            "name": "Synthetic talent 4",
+            "background": "career change",
+            "auditGroup": "career change",
+            "cv": "Helped a community group with its weekly rota.",
+            "evidence": [
+              {
+                "id": "e4",
+                "title": "Constructed work 4",
+                "text": "A fixture assertion, not a verified work sample.",
+                "tags": [
+                  "planning"
+                ]
+              }
+            ],
+            "choices": [
+              "c0",
+              "c1"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ]
+          }
+        ]
+      },
+      "cancellation": null
+    },
+    {
+      "id": "availability-1",
+      "family": "availability",
+      "split": "heldout",
+      "data": {
+        "event": {
+          "name": "Synthetic family audit",
+          "synthetic": true
+        },
+        "slots": [
+          "14:00",
+          "14:15"
+        ],
+        "companies": [
+          {
+            "id": "c0",
+            "name": "Synthetic company 0",
+            "table": "A",
+            "capacity": 1,
+            "task": "Analysis planning documentation task guide dashboard 0.",
+            "needs": [
+              "planning",
+              "documentation"
+            ],
+            "choices": [
+              "p0",
+              "p1",
+              "p2",
+              "p3",
+              "p4"
+            ],
+            "slots": [
+              "14:15"
+            ],
+            "teach": "Domain tools",
+            "prompt": "Discuss the example."
+          },
+          {
+            "id": "c1",
+            "name": "Synthetic company 1",
+            "table": "B",
+            "capacity": 2,
+            "task": "Analysis planning documentation task guide dashboard 1.",
+            "needs": [
+              "planning",
+              "documentation"
+            ],
+            "choices": [
+              "p0",
+              "p1",
+              "p2",
+              "p3",
+              "p4"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ],
+            "teach": "Domain tools",
+            "prompt": "Discuss the example."
+          }
+        ],
+        "people": [
+          {
+            "id": "p0",
+            "name": "Synthetic talent 0",
+            "background": "career change",
+            "auditGroup": "career change",
+            "cv": "Helped a community group with its weekly rota.",
+            "evidence": [
+              {
+                "id": "e0",
+                "title": "Constructed work 0",
+                "text": "A fixture assertion, not a verified work sample.",
+                "tags": [
+                  "planning",
+                  "documentation"
+                ]
+              }
+            ],
+            "choices": [
+              "c0",
+              "c1"
+            ],
+            "slots": [
+              "14:00"
+            ]
+          },
+          {
+            "id": "p1",
+            "name": "Synthetic talent 1",
+            "background": "direct path",
+            "auditGroup": "direct path",
+            "cv": "Analysis planning documentation task guide dashboard.",
+            "evidence": [
+              {
+                "id": "e1",
+                "title": "Constructed work 1",
+                "text": "A fixture assertion, not a verified work sample.",
+                "tags": [
+                  "planning",
+                  "documentation"
+                ]
+              }
+            ],
+            "choices": [
+              "c0",
+              "c1"
+            ],
+            "slots": [
+              "14:00"
+            ]
+          },
+          {
+            "id": "p2",
+            "name": "Synthetic talent 2",
+            "background": "career change",
+            "auditGroup": "career change",
+            "cv": "Helped a community group with its weekly rota.",
+            "evidence": [
+              {
+                "id": "e2",
+                "title": "Constructed work 2",
+                "text": "A fixture assertion, not a verified work sample.",
+                "tags": [
+                  "planning",
+                  "documentation"
+                ]
+              }
+            ],
+            "choices": [
+              "c0",
+              "c1"
+            ],
+            "slots": [
+              "14:15"
+            ]
+          },
+          {
+            "id": "p3",
+            "name": "Synthetic talent 3",
+            "background": "direct path",
+            "auditGroup": "direct path",
+            "cv": "Analysis planning documentation task guide dashboard.",
+            "evidence": [
+              {
+                "id": "e3",
+                "title": "Constructed work 3",
+                "text": "A fixture assertion, not a verified work sample.",
+                "tags": [
+                  "planning",
+                  "documentation"
+                ]
+              }
+            ],
+            "choices": [
+              "c0",
+              "c1"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ]
+          },
+          {
+            "id": "p4",
+            "name": "Synthetic talent 4",
+            "background": "career change",
+            "auditGroup": "career change",
+            "cv": "Helped a community group with its weekly rota.",
+            "evidence": [
+              {
+                "id": "e4",
+                "title": "Constructed work 4",
+                "text": "A fixture assertion, not a verified work sample.",
+                "tags": [
+                  "planning"
+                ]
+              }
+            ],
+            "choices": [
+              "c0",
+              "c1"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ]
+          }
+        ]
+      },
+      "cancellation": null
+    },
+    {
+      "id": "availability-2",
+      "family": "availability",
+      "split": "heldout",
+      "data": {
+        "event": {
+          "name": "Synthetic family audit",
+          "synthetic": true
+        },
+        "slots": [
+          "14:00",
+          "14:15"
+        ],
+        "companies": [
+          {
+            "id": "c0",
+            "name": "Synthetic company 0",
+            "table": "A",
+            "capacity": 1,
+            "task": "Analysis planning documentation task guide dashboard 0.",
+            "needs": [
+              "analysis",
+              "documentation"
+            ],
+            "choices": [
+              "p0",
+              "p1",
+              "p2",
+              "p3",
+              "p4"
+            ],
+            "slots": [
+              "14:00"
+            ],
+            "teach": "Domain tools",
+            "prompt": "Discuss the example."
+          },
+          {
+            "id": "c1",
+            "name": "Synthetic company 1",
+            "table": "B",
+            "capacity": 2,
+            "task": "Analysis planning documentation task guide dashboard 1.",
+            "needs": [
+              "analysis",
+              "documentation"
+            ],
+            "choices": [
+              "p0",
+              "p1",
+              "p2",
+              "p3",
+              "p4"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ],
+            "teach": "Domain tools",
+            "prompt": "Discuss the example."
+          }
+        ],
+        "people": [
+          {
+            "id": "p0",
+            "name": "Synthetic talent 0",
+            "background": "career change",
+            "auditGroup": "career change",
+            "cv": "Helped a community group with its weekly rota.",
+            "evidence": [
+              {
+                "id": "e0",
+                "title": "Constructed work 0",
+                "text": "A fixture assertion, not a verified work sample.",
+                "tags": [
+                  "analysis",
+                  "documentation"
+                ]
+              }
+            ],
+            "choices": [
+              "c0",
+              "c1"
+            ],
+            "slots": [
+              "14:00"
+            ]
+          },
+          {
+            "id": "p1",
+            "name": "Synthetic talent 1",
+            "background": "direct path",
+            "auditGroup": "direct path",
+            "cv": "Analysis planning documentation task guide dashboard.",
+            "evidence": [
+              {
+                "id": "e1",
+                "title": "Constructed work 1",
+                "text": "A fixture assertion, not a verified work sample.",
+                "tags": [
+                  "analysis",
+                  "documentation"
+                ]
+              }
+            ],
+            "choices": [
+              "c0",
+              "c1"
+            ],
+            "slots": [
+              "14:00"
+            ]
+          },
+          {
+            "id": "p2",
+            "name": "Synthetic talent 2",
+            "background": "career change",
+            "auditGroup": "career change",
+            "cv": "Helped a community group with its weekly rota.",
+            "evidence": [
+              {
+                "id": "e2",
+                "title": "Constructed work 2",
+                "text": "A fixture assertion, not a verified work sample.",
+                "tags": [
+                  "analysis",
+                  "documentation"
+                ]
+              }
+            ],
+            "choices": [
+              "c0",
+              "c1"
+            ],
+            "slots": [
+              "14:15"
+            ]
+          },
+          {
+            "id": "p3",
+            "name": "Synthetic talent 3",
+            "background": "direct path",
+            "auditGroup": "direct path",
+            "cv": "Analysis planning documentation task guide dashboard.",
+            "evidence": [
+              {
+                "id": "e3",
+                "title": "Constructed work 3",
+                "text": "A fixture assertion, not a verified work sample.",
+                "tags": [
+                  "analysis",
+                  "documentation"
+                ]
+              }
+            ],
+            "choices": [
+              "c0",
+              "c1"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ]
+          },
+          {
+            "id": "p4",
+            "name": "Synthetic talent 4",
+            "background": "career change",
+            "auditGroup": "career change",
+            "cv": "Helped a community group with its weekly rota.",
+            "evidence": [
+              {
+                "id": "e4",
+                "title": "Constructed work 4",
+                "text": "A fixture assertion, not a verified work sample.",
+                "tags": [
+                  "planning"
+                ]
+              }
+            ],
+            "choices": [
+              "c0",
+              "c1"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ]
+          }
+        ]
+      },
+      "cancellation": null
+    },
+    {
+      "id": "availability-3",
+      "family": "availability",
+      "split": "heldout",
+      "data": {
+        "event": {
+          "name": "Synthetic family audit",
+          "synthetic": true
+        },
+        "slots": [
+          "14:00",
+          "14:15"
+        ],
+        "companies": [
+          {
+            "id": "c0",
+            "name": "Synthetic company 0",
+            "table": "A",
+            "capacity": 1,
+            "task": "Analysis planning documentation task guide dashboard 0.",
+            "needs": [
+              "planning",
+              "documentation"
+            ],
+            "choices": [
+              "p0",
+              "p1",
+              "p2",
+              "p3",
+              "p4"
+            ],
+            "slots": [
+              "14:15"
+            ],
+            "teach": "Domain tools",
+            "prompt": "Discuss the example."
+          },
+          {
+            "id": "c1",
+            "name": "Synthetic company 1",
+            "table": "B",
+            "capacity": 2,
+            "task": "Analysis planning documentation task guide dashboard 1.",
+            "needs": [
+              "planning",
+              "documentation"
+            ],
+            "choices": [
+              "p0",
+              "p1",
+              "p2",
+              "p3",
+              "p4"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ],
+            "teach": "Domain tools",
+            "prompt": "Discuss the example."
+          }
+        ],
+        "people": [
+          {
+            "id": "p0",
+            "name": "Synthetic talent 0",
+            "background": "career change",
+            "auditGroup": "career change",
+            "cv": "Helped a community group with its weekly rota.",
+            "evidence": [
+              {
+                "id": "e0",
+                "title": "Constructed work 0",
+                "text": "A fixture assertion, not a verified work sample.",
+                "tags": [
+                  "planning",
+                  "documentation"
+                ]
+              }
+            ],
+            "choices": [
+              "c0",
+              "c1"
+            ],
+            "slots": [
+              "14:00"
+            ]
+          },
+          {
+            "id": "p1",
+            "name": "Synthetic talent 1",
+            "background": "direct path",
+            "auditGroup": "direct path",
+            "cv": "Analysis planning documentation task guide dashboard.",
+            "evidence": [
+              {
+                "id": "e1",
+                "title": "Constructed work 1",
+                "text": "A fixture assertion, not a verified work sample.",
+                "tags": [
+                  "planning",
+                  "documentation"
+                ]
+              }
+            ],
+            "choices": [
+              "c0",
+              "c1"
+            ],
+            "slots": [
+              "14:00"
+            ]
+          },
+          {
+            "id": "p2",
+            "name": "Synthetic talent 2",
+            "background": "career change",
+            "auditGroup": "career change",
+            "cv": "Helped a community group with its weekly rota.",
+            "evidence": [
+              {
+                "id": "e2",
+                "title": "Constructed work 2",
+                "text": "A fixture assertion, not a verified work sample.",
+                "tags": [
+                  "planning",
+                  "documentation"
+                ]
+              }
+            ],
+            "choices": [
+              "c0",
+              "c1"
+            ],
+            "slots": [
+              "14:15"
+            ]
+          },
+          {
+            "id": "p3",
+            "name": "Synthetic talent 3",
+            "background": "direct path",
+            "auditGroup": "direct path",
+            "cv": "Analysis planning documentation task guide dashboard.",
+            "evidence": [
+              {
+                "id": "e3",
+                "title": "Constructed work 3",
+                "text": "A fixture assertion, not a verified work sample.",
+                "tags": [
+                  "planning",
+                  "documentation"
+                ]
+              }
+            ],
+            "choices": [
+              "c0",
+              "c1"
+            ],
+            "slots": []
+          },
+          {
+            "id": "p4",
+            "name": "Synthetic talent 4",
+            "background": "career change",
+            "auditGroup": "career change",
+            "cv": "Helped a community group with its weekly rota.",
+            "evidence": [
+              {
+                "id": "e4",
+                "title": "Constructed work 4",
+                "text": "A fixture assertion, not a verified work sample.",
+                "tags": [
+                  "planning"
+                ]
+              }
+            ],
+            "choices": [
+              "c0",
+              "c1"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ]
+          }
+        ]
+      },
+      "cancellation": null
+    },
+    {
+      "id": "opt-in-0",
+      "family": "opt-in",
+      "split": "heldout",
+      "data": {
+        "event": {
+          "name": "Synthetic family audit",
+          "synthetic": true
+        },
+        "slots": [
+          "14:00",
+          "14:15"
+        ],
+        "companies": [
+          {
+            "id": "c0",
+            "name": "Synthetic company 0",
+            "table": "A",
+            "capacity": 2,
+            "task": "Analysis planning documentation task guide dashboard 0.",
+            "needs": [
+              "analysis",
+              "documentation"
+            ],
+            "choices": [
+              "p1",
+              "p3"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ],
+            "teach": "Domain tools",
+            "prompt": "Discuss the example."
+          },
+          {
+            "id": "c1",
+            "name": "Synthetic company 1",
+            "table": "B",
+            "capacity": 2,
+            "task": "Analysis planning documentation task guide dashboard 1.",
+            "needs": [
+              "analysis",
+              "documentation"
+            ],
+            "choices": [
+              "p2",
+              "p3"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ],
+            "teach": "Domain tools",
+            "prompt": "Discuss the example."
+          }
+        ],
+        "people": [
+          {
+            "id": "p0",
+            "name": "Synthetic talent 0",
+            "background": "career change",
+            "auditGroup": "career change",
+            "cv": "Helped a community group with its weekly rota.",
+            "evidence": [
+              {
+                "id": "e0",
+                "title": "Constructed work 0",
+                "text": "A fixture assertion, not a verified work sample.",
+                "tags": [
+                  "analysis",
+                  "documentation"
+                ]
+              }
+            ],
+            "choices": [],
+            "slots": [
+              "14:00",
+              "14:15"
+            ]
+          },
+          {
+            "id": "p1",
+            "name": "Synthetic talent 1",
+            "background": "direct path",
+            "auditGroup": "direct path",
+            "cv": "Analysis planning documentation task guide dashboard.",
+            "evidence": [
+              {
+                "id": "e1",
+                "title": "Constructed work 1",
+                "text": "A fixture assertion, not a verified work sample.",
+                "tags": [
+                  "analysis",
+                  "documentation"
+                ]
+              }
+            ],
+            "choices": [
+              "c1"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ]
+          },
+          {
+            "id": "p2",
+            "name": "Synthetic talent 2",
+            "background": "career change",
+            "auditGroup": "career change",
+            "cv": "Helped a community group with its weekly rota.",
+            "evidence": [
+              {
+                "id": "e2",
+                "title": "Constructed work 2",
+                "text": "A fixture assertion, not a verified work sample.",
+                "tags": [
+                  "analysis",
+                  "documentation"
+                ]
+              }
+            ],
+            "choices": [
+              "c0",
+              "c1"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ]
+          },
+          {
+            "id": "p3",
+            "name": "Synthetic talent 3",
+            "background": "direct path",
+            "auditGroup": "direct path",
+            "cv": "Analysis planning documentation task guide dashboard.",
+            "evidence": [
+              {
+                "id": "e3",
+                "title": "Constructed work 3",
+                "text": "A fixture assertion, not a verified work sample.",
+                "tags": [
+                  "analysis",
+                  "documentation"
+                ]
+              }
+            ],
+            "choices": [
+              "c0",
+              "c1"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ]
+          },
+          {
+            "id": "p4",
+            "name": "Synthetic talent 4",
+            "background": "career change",
+            "auditGroup": "career change",
+            "cv": "Helped a community group with its weekly rota.",
+            "evidence": [
+              {
+                "id": "e4",
+                "title": "Constructed work 4",
+                "text": "A fixture assertion, not a verified work sample.",
+                "tags": [
+                  "planning"
+                ]
+              }
+            ],
+            "choices": [
+              "c0",
+              "c1"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ]
+          }
+        ]
+      },
+      "cancellation": null
+    },
+    {
+      "id": "opt-in-1",
+      "family": "opt-in",
+      "split": "heldout",
+      "data": {
+        "event": {
+          "name": "Synthetic family audit",
+          "synthetic": true
+        },
+        "slots": [
+          "14:00",
+          "14:15"
+        ],
+        "companies": [
+          {
+            "id": "c0",
+            "name": "Synthetic company 0",
+            "table": "A",
+            "capacity": 2,
+            "task": "Analysis planning documentation task guide dashboard 0.",
+            "needs": [
+              "planning",
+              "documentation"
+            ],
+            "choices": [
+              "p1",
+              "p3"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ],
+            "teach": "Domain tools",
+            "prompt": "Discuss the example."
+          },
+          {
+            "id": "c1",
+            "name": "Synthetic company 1",
+            "table": "B",
+            "capacity": 2,
+            "task": "Analysis planning documentation task guide dashboard 1.",
+            "needs": [
+              "planning",
+              "documentation"
+            ],
+            "choices": [
+              "p2"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ],
+            "teach": "Domain tools",
+            "prompt": "Discuss the example."
+          }
+        ],
+        "people": [
+          {
+            "id": "p0",
+            "name": "Synthetic talent 0",
+            "background": "career change",
+            "auditGroup": "career change",
+            "cv": "Helped a community group with its weekly rota.",
+            "evidence": [
+              {
+                "id": "e0",
+                "title": "Constructed work 0",
+                "text": "A fixture assertion, not a verified work sample.",
+                "tags": [
+                  "planning",
+                  "documentation"
+                ]
+              }
+            ],
+            "choices": [],
+            "slots": [
+              "14:00",
+              "14:15"
+            ]
+          },
+          {
+            "id": "p1",
+            "name": "Synthetic talent 1",
+            "background": "direct path",
+            "auditGroup": "direct path",
+            "cv": "Analysis planning documentation task guide dashboard.",
+            "evidence": [
+              {
+                "id": "e1",
+                "title": "Constructed work 1",
+                "text": "A fixture assertion, not a verified work sample.",
+                "tags": [
+                  "planning",
+                  "documentation"
+                ]
+              }
+            ],
+            "choices": [
+              "c1"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ]
+          },
+          {
+            "id": "p2",
+            "name": "Synthetic talent 2",
+            "background": "career change",
+            "auditGroup": "career change",
+            "cv": "Helped a community group with its weekly rota.",
+            "evidence": [
+              {
+                "id": "e2",
+                "title": "Constructed work 2",
+                "text": "A fixture assertion, not a verified work sample.",
+                "tags": [
+                  "planning",
+                  "documentation"
+                ]
+              }
+            ],
+            "choices": [
+              "c0",
+              "c1"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ]
+          },
+          {
+            "id": "p3",
+            "name": "Synthetic talent 3",
+            "background": "direct path",
+            "auditGroup": "direct path",
+            "cv": "Analysis planning documentation task guide dashboard.",
+            "evidence": [
+              {
+                "id": "e3",
+                "title": "Constructed work 3",
+                "text": "A fixture assertion, not a verified work sample.",
+                "tags": [
+                  "planning",
+                  "documentation"
+                ]
+              }
+            ],
+            "choices": [
+              "c0",
+              "c1"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ]
+          },
+          {
+            "id": "p4",
+            "name": "Synthetic talent 4",
+            "background": "career change",
+            "auditGroup": "career change",
+            "cv": "Helped a community group with its weekly rota.",
+            "evidence": [
+              {
+                "id": "e4",
+                "title": "Constructed work 4",
+                "text": "A fixture assertion, not a verified work sample.",
+                "tags": [
+                  "planning"
+                ]
+              }
+            ],
+            "choices": [
+              "c0",
+              "c1"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ]
+          }
+        ]
+      },
+      "cancellation": null
+    },
+    {
+      "id": "opt-in-2",
+      "family": "opt-in",
+      "split": "heldout",
+      "data": {
+        "event": {
+          "name": "Synthetic family audit",
+          "synthetic": true
+        },
+        "slots": [
+          "14:00",
+          "14:15"
+        ],
+        "companies": [
+          {
+            "id": "c0",
+            "name": "Synthetic company 0",
+            "table": "A",
+            "capacity": 2,
+            "task": "Analysis planning documentation task guide dashboard 0.",
+            "needs": [
+              "analysis",
+              "documentation"
+            ],
+            "choices": [
+              "p1",
+              "p3"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ],
+            "teach": "Domain tools",
+            "prompt": "Discuss the example."
+          },
+          {
+            "id": "c1",
+            "name": "Synthetic company 1",
+            "table": "B",
+            "capacity": 2,
+            "task": "Analysis planning documentation task guide dashboard 1.",
+            "needs": [
+              "analysis",
+              "documentation"
+            ],
+            "choices": [
+              "p2",
+              "p3"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ],
+            "teach": "Domain tools",
+            "prompt": "Discuss the example."
+          }
+        ],
+        "people": [
+          {
+            "id": "p0",
+            "name": "Synthetic talent 0",
+            "background": "career change",
+            "auditGroup": "career change",
+            "cv": "Helped a community group with its weekly rota.",
+            "evidence": [
+              {
+                "id": "e0",
+                "title": "Constructed work 0",
+                "text": "A fixture assertion, not a verified work sample.",
+                "tags": [
+                  "analysis",
+                  "documentation"
+                ]
+              }
+            ],
+            "choices": [],
+            "slots": [
+              "14:00",
+              "14:15"
+            ]
+          },
+          {
+            "id": "p1",
+            "name": "Synthetic talent 1",
+            "background": "direct path",
+            "auditGroup": "direct path",
+            "cv": "Analysis planning documentation task guide dashboard.",
+            "evidence": [
+              {
+                "id": "e1",
+                "title": "Constructed work 1",
+                "text": "A fixture assertion, not a verified work sample.",
+                "tags": [
+                  "analysis",
+                  "documentation"
+                ]
+              }
+            ],
+            "choices": [
+              "c1"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ]
+          },
+          {
+            "id": "p2",
+            "name": "Synthetic talent 2",
+            "background": "career change",
+            "auditGroup": "career change",
+            "cv": "Helped a community group with its weekly rota.",
+            "evidence": [
+              {
+                "id": "e2",
+                "title": "Constructed work 2",
+                "text": "A fixture assertion, not a verified work sample.",
+                "tags": [
+                  "analysis",
+                  "documentation"
+                ]
+              }
+            ],
+            "choices": [
+              "c0",
+              "c1"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ]
+          },
+          {
+            "id": "p3",
+            "name": "Synthetic talent 3",
+            "background": "direct path",
+            "auditGroup": "direct path",
+            "cv": "Analysis planning documentation task guide dashboard.",
+            "evidence": [
+              {
+                "id": "e3",
+                "title": "Constructed work 3",
+                "text": "A fixture assertion, not a verified work sample.",
+                "tags": [
+                  "analysis",
+                  "documentation"
+                ]
+              }
+            ],
+            "choices": [
+              "c0",
+              "c1"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ]
+          },
+          {
+            "id": "p4",
+            "name": "Synthetic talent 4",
+            "background": "career change",
+            "auditGroup": "career change",
+            "cv": "Helped a community group with its weekly rota.",
+            "evidence": [
+              {
+                "id": "e4",
+                "title": "Constructed work 4",
+                "text": "A fixture assertion, not a verified work sample.",
+                "tags": [
+                  "planning"
+                ]
+              }
+            ],
+            "choices": [
+              "c0",
+              "c1"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ]
+          }
+        ]
+      },
+      "cancellation": null
+    },
+    {
+      "id": "opt-in-3",
+      "family": "opt-in",
+      "split": "heldout",
+      "data": {
+        "event": {
+          "name": "Synthetic family audit",
+          "synthetic": true
+        },
+        "slots": [
+          "14:00",
+          "14:15"
+        ],
+        "companies": [
+          {
+            "id": "c0",
+            "name": "Synthetic company 0",
+            "table": "A",
+            "capacity": 2,
+            "task": "Analysis planning documentation task guide dashboard 0.",
+            "needs": [
+              "planning",
+              "documentation"
+            ],
+            "choices": [
+              "p1",
+              "p3"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ],
+            "teach": "Domain tools",
+            "prompt": "Discuss the example."
+          },
+          {
+            "id": "c1",
+            "name": "Synthetic company 1",
+            "table": "B",
+            "capacity": 2,
+            "task": "Analysis planning documentation task guide dashboard 1.",
+            "needs": [
+              "planning",
+              "documentation"
+            ],
+            "choices": [
+              "p2"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ],
+            "teach": "Domain tools",
+            "prompt": "Discuss the example."
+          }
+        ],
+        "people": [
+          {
+            "id": "p0",
+            "name": "Synthetic talent 0",
+            "background": "career change",
+            "auditGroup": "career change",
+            "cv": "Helped a community group with its weekly rota.",
+            "evidence": [
+              {
+                "id": "e0",
+                "title": "Constructed work 0",
+                "text": "A fixture assertion, not a verified work sample.",
+                "tags": [
+                  "planning",
+                  "documentation"
+                ]
+              }
+            ],
+            "choices": [],
+            "slots": [
+              "14:00",
+              "14:15"
+            ]
+          },
+          {
+            "id": "p1",
+            "name": "Synthetic talent 1",
+            "background": "direct path",
+            "auditGroup": "direct path",
+            "cv": "Analysis planning documentation task guide dashboard.",
+            "evidence": [
+              {
+                "id": "e1",
+                "title": "Constructed work 1",
+                "text": "A fixture assertion, not a verified work sample.",
+                "tags": [
+                  "planning",
+                  "documentation"
+                ]
+              }
+            ],
+            "choices": [
+              "c1"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ]
+          },
+          {
+            "id": "p2",
+            "name": "Synthetic talent 2",
+            "background": "career change",
+            "auditGroup": "career change",
+            "cv": "Helped a community group with its weekly rota.",
+            "evidence": [
+              {
+                "id": "e2",
+                "title": "Constructed work 2",
+                "text": "A fixture assertion, not a verified work sample.",
+                "tags": [
+                  "planning",
+                  "documentation"
+                ]
+              }
+            ],
+            "choices": [
+              "c0",
+              "c1"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ]
+          },
+          {
+            "id": "p3",
+            "name": "Synthetic talent 3",
+            "background": "direct path",
+            "auditGroup": "direct path",
+            "cv": "Analysis planning documentation task guide dashboard.",
+            "evidence": [
+              {
+                "id": "e3",
+                "title": "Constructed work 3",
+                "text": "A fixture assertion, not a verified work sample.",
+                "tags": [
+                  "planning",
+                  "documentation"
+                ]
+              }
+            ],
+            "choices": [
+              "c0",
+              "c1"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ]
+          },
+          {
+            "id": "p4",
+            "name": "Synthetic talent 4",
+            "background": "career change",
+            "auditGroup": "career change",
+            "cv": "Helped a community group with its weekly rota.",
+            "evidence": [
+              {
+                "id": "e4",
+                "title": "Constructed work 4",
+                "text": "A fixture assertion, not a verified work sample.",
+                "tags": [
+                  "planning"
+                ]
+              }
+            ],
+            "choices": [
+              "c0",
+              "c1"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ]
+          }
+        ]
+      },
+      "cancellation": null
+    },
+    {
+      "id": "incomplete-0",
+      "family": "incomplete",
+      "split": "heldout",
+      "data": {
+        "event": {
+          "name": "Synthetic family audit",
+          "synthetic": true
+        },
+        "slots": [
+          "14:00",
+          "14:15"
+        ],
+        "companies": [
+          {
+            "id": "c0",
+            "name": "Synthetic company 0",
+            "table": "A",
+            "capacity": 2,
+            "task": "Analysis planning documentation task guide dashboard 0.",
+            "needs": [],
+            "choices": [
+              "p0",
+              "p1",
+              "p2",
+              "p3",
+              "p4"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ],
+            "teach": "Domain tools",
+            "prompt": "Discuss the example."
+          },
+          {
+            "id": "c1",
+            "name": "Synthetic company 1",
+            "table": "B",
+            "capacity": 2,
+            "task": "Analysis planning documentation task guide dashboard 1.",
+            "needs": [
+              "analysis",
+              "documentation"
+            ],
+            "choices": [
+              "p0",
+              "p1",
+              "p2",
+              "p3",
+              "p4"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ],
+            "teach": "Domain tools",
+            "prompt": "Discuss the example."
+          }
+        ],
+        "people": [
+          {
+            "id": "p0",
+            "name": "Synthetic talent 0",
+            "background": "career change",
+            "auditGroup": "career change",
+            "cv": "Helped a community group with its weekly rota.",
+            "evidence": [
+              {
+                "id": "e0",
+                "title": "Constructed work 0",
+                "text": "A fixture assertion, not a verified work sample.",
+                "tags": [
+                  "analysis",
+                  "documentation"
+                ]
+              }
+            ],
+            "choices": [
+              "c0",
+              "c1"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ]
+          },
+          {
+            "id": "p1",
+            "name": "Synthetic talent 1",
+            "background": "direct path",
+            "auditGroup": "direct path",
+            "cv": "Analysis planning documentation task guide dashboard.",
+            "evidence": [],
+            "choices": [
+              "c0",
+              "c1"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ]
+          },
+          {
+            "id": "p2",
+            "name": "Synthetic talent 2",
+            "background": "career change",
+            "auditGroup": "career change",
+            "cv": "Helped a community group with its weekly rota.",
+            "evidence": [
+              {
+                "id": "e2",
+                "title": "Constructed work 2",
+                "text": "A fixture assertion, not a verified work sample.",
+                "tags": [
+                  "analysis",
+                  "documentation"
+                ]
+              }
+            ],
+            "choices": [
+              "c0",
+              "c1"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ]
+          },
+          {
+            "id": "p3",
+            "name": "Synthetic talent 3",
+            "background": "direct path",
+            "auditGroup": "direct path",
+            "cv": "Analysis planning documentation task guide dashboard.",
+            "evidence": [
+              {
+                "id": "e3",
+                "title": "Constructed work 3",
+                "text": "A fixture assertion, not a verified work sample.",
+                "tags": [
+                  "analysis",
+                  "documentation"
+                ]
+              }
+            ],
+            "choices": [
+              "c0",
+              "c1"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ]
+          },
+          {
+            "id": "p4",
+            "name": "Synthetic talent 4",
+            "background": "career change",
+            "auditGroup": "career change",
+            "cv": "Helped a community group with its weekly rota.",
+            "evidence": [
+              {
+                "id": "e4",
+                "title": "Constructed work 4",
+                "text": "A fixture assertion, not a verified work sample.",
+                "tags": [
+                  "planning"
+                ]
+              }
+            ],
+            "choices": [
+              "c0",
+              "c1"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ]
+          }
+        ]
+      },
+      "cancellation": null
+    },
+    {
+      "id": "incomplete-1",
+      "family": "incomplete",
+      "split": "heldout",
+      "data": {
+        "event": {
+          "name": "Synthetic family audit",
+          "synthetic": true
+        },
+        "slots": [
+          "14:00",
+          "14:15"
+        ],
+        "companies": [
+          {
+            "id": "c0",
+            "name": "Synthetic company 0",
+            "table": "A",
+            "capacity": 2,
+            "task": "Analysis planning documentation task guide dashboard 0.",
+            "needs": [],
+            "choices": [
+              "p0",
+              "p1",
+              "p2",
+              "p3",
+              "p4"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ],
+            "teach": "Domain tools",
+            "prompt": "Discuss the example."
+          },
+          {
+            "id": "c1",
+            "name": "Synthetic company 1",
+            "table": "B",
+            "capacity": 2,
+            "task": "Analysis planning documentation task guide dashboard 1.",
+            "needs": [
+              "planning",
+              "documentation"
+            ],
+            "choices": [
+              "p0",
+              "p1",
+              "p2",
+              "p3",
+              "p4"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ],
+            "teach": "Domain tools",
+            "prompt": "Discuss the example."
+          }
+        ],
+        "people": [
+          {
+            "id": "p0",
+            "name": "Synthetic talent 0",
+            "background": "career change",
+            "auditGroup": "career change",
+            "cv": "Helped a community group with its weekly rota.",
+            "evidence": [
+              {
+                "id": "e0",
+                "title": "Constructed work 0",
+                "text": "A fixture assertion, not a verified work sample.",
+                "tags": [
+                  "planning",
+                  "documentation"
+                ]
+              }
+            ],
+            "choices": [
+              "c0",
+              "c1"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ]
+          },
+          {
+            "id": "p1",
+            "name": "Synthetic talent 1",
+            "background": "direct path",
+            "auditGroup": "direct path",
+            "cv": "Analysis planning documentation task guide dashboard.",
+            "evidence": [],
+            "choices": [
+              "c0",
+              "c1"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ]
+          },
+          {
+            "id": "p2",
+            "name": "Synthetic talent 2",
+            "background": "career change",
+            "auditGroup": "career change",
+            "cv": "Helped a community group with its weekly rota.",
+            "evidence": [
+              {
+                "id": "e2",
+                "title": "Constructed work 2",
+                "text": "A fixture assertion, not a verified work sample.",
+                "tags": [
+                  "planning",
+                  "documentation"
+                ]
+              }
+            ],
+            "choices": [
+              "c0",
+              "c1"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ]
+          },
+          {
+            "id": "p3",
+            "name": "Synthetic talent 3",
+            "background": "direct path",
+            "auditGroup": "direct path",
+            "cv": "Analysis planning documentation task guide dashboard.",
+            "evidence": [
+              {
+                "id": "e3",
+                "title": "Constructed work 3",
+                "text": "A fixture assertion, not a verified work sample.",
+                "tags": [
+                  "planning",
+                  "documentation"
+                ]
+              }
+            ],
+            "choices": [
+              "c0",
+              "c1"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ]
+          },
+          {
+            "id": "p4",
+            "name": "Synthetic talent 4",
+            "background": "career change",
+            "auditGroup": "career change",
+            "cv": "Helped a community group with its weekly rota.",
+            "evidence": [
+              {
+                "id": "e4",
+                "title": "Constructed work 4",
+                "text": "A fixture assertion, not a verified work sample.",
+                "tags": [
+                  "planning"
+                ]
+              }
+            ],
+            "choices": [
+              "c0",
+              "c1"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ]
+          }
+        ]
+      },
+      "cancellation": null
+    },
+    {
+      "id": "incomplete-2",
+      "family": "incomplete",
+      "split": "heldout",
+      "data": {
+        "event": {
+          "name": "Synthetic family audit",
+          "synthetic": true
+        },
+        "slots": [
+          "14:00",
+          "14:15"
+        ],
+        "companies": [
+          {
+            "id": "c0",
+            "name": "Synthetic company 0",
+            "table": "A",
+            "capacity": 2,
+            "task": "Analysis planning documentation task guide dashboard 0.",
+            "needs": [],
+            "choices": [
+              "p0",
+              "p1",
+              "p2",
+              "p3",
+              "p4"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ],
+            "teach": "Domain tools",
+            "prompt": "Discuss the example."
+          },
+          {
+            "id": "c1",
+            "name": "Synthetic company 1",
+            "table": "B",
+            "capacity": 2,
+            "task": "Analysis planning documentation task guide dashboard 1.",
+            "needs": [
+              "unknown capability"
+            ],
+            "choices": [
+              "p0",
+              "p1",
+              "p2",
+              "p3",
+              "p4"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ],
+            "teach": "Domain tools",
+            "prompt": "Discuss the example."
+          }
+        ],
+        "people": [
+          {
+            "id": "p0",
+            "name": "Synthetic talent 0",
+            "background": "career change",
+            "auditGroup": "career change",
+            "cv": "Helped a community group with its weekly rota.",
+            "evidence": [
+              {
+                "id": "e0",
+                "title": "Constructed work 0",
+                "text": "A fixture assertion, not a verified work sample.",
+                "tags": [
+                  "analysis",
+                  "documentation"
+                ]
+              }
+            ],
+            "choices": [
+              "c0",
+              "c1"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ]
+          },
+          {
+            "id": "p1",
+            "name": "Synthetic talent 1",
+            "background": "direct path",
+            "auditGroup": "direct path",
+            "cv": "Analysis planning documentation task guide dashboard.",
+            "evidence": [],
+            "choices": [
+              "c0",
+              "c1"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ]
+          },
+          {
+            "id": "p2",
+            "name": "Synthetic talent 2",
+            "background": "career change",
+            "auditGroup": "career change",
+            "cv": "Helped a community group with its weekly rota.",
+            "evidence": [
+              {
+                "id": "e2",
+                "title": "Constructed work 2",
+                "text": "A fixture assertion, not a verified work sample.",
+                "tags": [
+                  "analysis",
+                  "documentation"
+                ]
+              }
+            ],
+            "choices": [
+              "c0",
+              "c1"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ]
+          },
+          {
+            "id": "p3",
+            "name": "Synthetic talent 3",
+            "background": "direct path",
+            "auditGroup": "direct path",
+            "cv": "Analysis planning documentation task guide dashboard.",
+            "evidence": [
+              {
+                "id": "e3",
+                "title": "Constructed work 3",
+                "text": "A fixture assertion, not a verified work sample.",
+                "tags": [
+                  "analysis",
+                  "documentation"
+                ]
+              }
+            ],
+            "choices": [
+              "c0",
+              "c1"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ]
+          },
+          {
+            "id": "p4",
+            "name": "Synthetic talent 4",
+            "background": "career change",
+            "auditGroup": "career change",
+            "cv": "Helped a community group with its weekly rota.",
+            "evidence": [
+              {
+                "id": "e4",
+                "title": "Constructed work 4",
+                "text": "A fixture assertion, not a verified work sample.",
+                "tags": [
+                  "planning"
+                ]
+              }
+            ],
+            "choices": [
+              "c0",
+              "c1"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ]
+          }
+        ]
+      },
+      "cancellation": null
+    },
+    {
+      "id": "incomplete-3",
+      "family": "incomplete",
+      "split": "heldout",
+      "data": {
+        "event": {
+          "name": "Synthetic family audit",
+          "synthetic": true
+        },
+        "slots": [
+          "14:00",
+          "14:15"
+        ],
+        "companies": [
+          {
+            "id": "c0",
+            "name": "Synthetic company 0",
+            "table": "A",
+            "capacity": 2,
+            "task": "Analysis planning documentation task guide dashboard 0.",
+            "needs": [],
+            "choices": [
+              "p0",
+              "p1",
+              "p2",
+              "p3",
+              "p4"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ],
+            "teach": "Domain tools",
+            "prompt": "Discuss the example."
+          },
+          {
+            "id": "c1",
+            "name": "Synthetic company 1",
+            "table": "B",
+            "capacity": 2,
+            "task": "Analysis planning documentation task guide dashboard 1.",
+            "needs": [
+              "planning",
+              "documentation"
+            ],
+            "choices": [
+              "p0",
+              "p1",
+              "p2",
+              "p3",
+              "p4"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ],
+            "teach": "Domain tools",
+            "prompt": "Discuss the example."
+          }
+        ],
+        "people": [
+          {
+            "id": "p0",
+            "name": "Synthetic talent 0",
+            "background": "career change",
+            "auditGroup": "career change",
+            "cv": "Helped a community group with its weekly rota.",
+            "evidence": [
+              {
+                "id": "e0",
+                "title": "Constructed work 0",
+                "text": "A fixture assertion, not a verified work sample.",
+                "tags": [
+                  "planning",
+                  "documentation"
+                ]
+              }
+            ],
+            "choices": [
+              "c0",
+              "c1"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ]
+          },
+          {
+            "id": "p1",
+            "name": "Synthetic talent 1",
+            "background": "direct path",
+            "auditGroup": "direct path",
+            "cv": "Analysis planning documentation task guide dashboard.",
+            "evidence": [],
+            "choices": [
+              "c0",
+              "c1"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ]
+          },
+          {
+            "id": "p2",
+            "name": "Synthetic talent 2",
+            "background": "career change",
+            "auditGroup": "career change",
+            "cv": "Helped a community group with its weekly rota.",
+            "evidence": [
+              {
+                "id": "e2",
+                "title": "Constructed work 2",
+                "text": "A fixture assertion, not a verified work sample.",
+                "tags": [
+                  "planning",
+                  "documentation"
+                ]
+              }
+            ],
+            "choices": [
+              "c0",
+              "c1"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ]
+          },
+          {
+            "id": "p3",
+            "name": "Synthetic talent 3",
+            "background": "direct path",
+            "auditGroup": "direct path",
+            "cv": "Analysis planning documentation task guide dashboard.",
+            "evidence": [
+              {
+                "id": "e3",
+                "title": "Constructed work 3",
+                "text": "A fixture assertion, not a verified work sample.",
+                "tags": [
+                  "planning",
+                  "documentation"
+                ]
+              }
+            ],
+            "choices": [
+              "c0",
+              "c1"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ]
+          },
+          {
+            "id": "p4",
+            "name": "Synthetic talent 4",
+            "background": "career change",
+            "auditGroup": "career change",
+            "cv": "Helped a community group with its weekly rota.",
+            "evidence": [
+              {
+                "id": "e4",
+                "title": "Constructed work 4",
+                "text": "A fixture assertion, not a verified work sample.",
+                "tags": [
+                  "planning"
+                ]
+              }
+            ],
+            "choices": [
+              "c0",
+              "c1"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ]
+          }
+        ]
+      },
+      "cancellation": null
+    },
+    {
+      "id": "cancellation-0",
+      "family": "cancellation",
+      "split": "heldout",
+      "data": {
+        "event": {
+          "name": "Synthetic family audit",
+          "synthetic": true
+        },
+        "slots": [
+          "14:00",
+          "14:15"
+        ],
+        "companies": [
+          {
+            "id": "c0",
+            "name": "Synthetic company 0",
+            "table": "A",
+            "capacity": 2,
+            "task": "Analysis planning documentation task guide dashboard 0.",
+            "needs": [
+              "analysis",
+              "documentation"
+            ],
+            "choices": [
+              "p0",
+              "p1",
+              "p2",
+              "p3",
+              "p4"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ],
+            "teach": "Domain tools",
+            "prompt": "Discuss the example."
+          },
+          {
+            "id": "c1",
+            "name": "Synthetic company 1",
+            "table": "B",
+            "capacity": 2,
+            "task": "Analysis planning documentation task guide dashboard 1.",
+            "needs": [
+              "analysis",
+              "documentation"
+            ],
+            "choices": [
+              "p0",
+              "p1",
+              "p2",
+              "p3",
+              "p4"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ],
+            "teach": "Domain tools",
+            "prompt": "Discuss the example."
+          }
+        ],
+        "people": [
+          {
+            "id": "p0",
+            "name": "Synthetic talent 0",
+            "background": "career change",
+            "auditGroup": "career change",
+            "cv": "Helped a community group with its weekly rota.",
+            "evidence": [
+              {
+                "id": "e0",
+                "title": "Constructed work 0",
+                "text": "A fixture assertion, not a verified work sample.",
+                "tags": [
+                  "analysis",
+                  "documentation"
+                ]
+              }
+            ],
+            "choices": [
+              "c0",
+              "c1"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ]
+          },
+          {
+            "id": "p1",
+            "name": "Synthetic talent 1",
+            "background": "direct path",
+            "auditGroup": "direct path",
+            "cv": "Analysis planning documentation task guide dashboard.",
+            "evidence": [
+              {
+                "id": "e1",
+                "title": "Constructed work 1",
+                "text": "A fixture assertion, not a verified work sample.",
+                "tags": [
+                  "analysis",
+                  "documentation"
+                ]
+              }
+            ],
+            "choices": [
+              "c0",
+              "c1"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ]
+          },
+          {
+            "id": "p2",
+            "name": "Synthetic talent 2",
+            "background": "career change",
+            "auditGroup": "career change",
+            "cv": "Helped a community group with its weekly rota.",
+            "evidence": [
+              {
+                "id": "e2",
+                "title": "Constructed work 2",
+                "text": "A fixture assertion, not a verified work sample.",
+                "tags": [
+                  "analysis",
+                  "documentation"
+                ]
+              }
+            ],
+            "choices": [
+              "c0",
+              "c1"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ]
+          },
+          {
+            "id": "p3",
+            "name": "Synthetic talent 3",
+            "background": "direct path",
+            "auditGroup": "direct path",
+            "cv": "Analysis planning documentation task guide dashboard.",
+            "evidence": [
+              {
+                "id": "e3",
+                "title": "Constructed work 3",
+                "text": "A fixture assertion, not a verified work sample.",
+                "tags": [
+                  "analysis",
+                  "documentation"
+                ]
+              }
+            ],
+            "choices": [
+              "c0",
+              "c1"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ]
+          },
+          {
+            "id": "p4",
+            "name": "Synthetic talent 4",
+            "background": "career change",
+            "auditGroup": "career change",
+            "cv": "Helped a community group with its weekly rota.",
+            "evidence": [
+              {
+                "id": "e4",
+                "title": "Constructed work 4",
+                "text": "A fixture assertion, not a verified work sample.",
+                "tags": [
+                  "planning"
+                ]
+              }
+            ],
+            "choices": [
+              "c0",
+              "c1"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ]
+          }
+        ]
+      },
+      "cancellation": {
+        "unavailable": [
+          "p0"
+        ]
+      }
+    },
+    {
+      "id": "cancellation-1",
+      "family": "cancellation",
+      "split": "heldout",
+      "data": {
+        "event": {
+          "name": "Synthetic family audit",
+          "synthetic": true
+        },
+        "slots": [
+          "14:00",
+          "14:15"
+        ],
+        "companies": [
+          {
+            "id": "c0",
+            "name": "Synthetic company 0",
+            "table": "A",
+            "capacity": 2,
+            "task": "Analysis planning documentation task guide dashboard 0.",
+            "needs": [
+              "planning",
+              "documentation"
+            ],
+            "choices": [
+              "p0",
+              "p1",
+              "p2",
+              "p3",
+              "p4"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ],
+            "teach": "Domain tools",
+            "prompt": "Discuss the example."
+          },
+          {
+            "id": "c1",
+            "name": "Synthetic company 1",
+            "table": "B",
+            "capacity": 2,
+            "task": "Analysis planning documentation task guide dashboard 1.",
+            "needs": [
+              "planning",
+              "documentation"
+            ],
+            "choices": [
+              "p0",
+              "p1",
+              "p2",
+              "p3",
+              "p4"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ],
+            "teach": "Domain tools",
+            "prompt": "Discuss the example."
+          }
+        ],
+        "people": [
+          {
+            "id": "p0",
+            "name": "Synthetic talent 0",
+            "background": "career change",
+            "auditGroup": "career change",
+            "cv": "Helped a community group with its weekly rota.",
+            "evidence": [
+              {
+                "id": "e0",
+                "title": "Constructed work 0",
+                "text": "A fixture assertion, not a verified work sample.",
+                "tags": [
+                  "planning",
+                  "documentation"
+                ]
+              }
+            ],
+            "choices": [
+              "c0",
+              "c1"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ]
+          },
+          {
+            "id": "p1",
+            "name": "Synthetic talent 1",
+            "background": "direct path",
+            "auditGroup": "direct path",
+            "cv": "Analysis planning documentation task guide dashboard.",
+            "evidence": [
+              {
+                "id": "e1",
+                "title": "Constructed work 1",
+                "text": "A fixture assertion, not a verified work sample.",
+                "tags": [
+                  "planning",
+                  "documentation"
+                ]
+              }
+            ],
+            "choices": [
+              "c0",
+              "c1"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ]
+          },
+          {
+            "id": "p2",
+            "name": "Synthetic talent 2",
+            "background": "career change",
+            "auditGroup": "career change",
+            "cv": "Helped a community group with its weekly rota.",
+            "evidence": [
+              {
+                "id": "e2",
+                "title": "Constructed work 2",
+                "text": "A fixture assertion, not a verified work sample.",
+                "tags": [
+                  "planning",
+                  "documentation"
+                ]
+              }
+            ],
+            "choices": [
+              "c0",
+              "c1"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ]
+          },
+          {
+            "id": "p3",
+            "name": "Synthetic talent 3",
+            "background": "direct path",
+            "auditGroup": "direct path",
+            "cv": "Analysis planning documentation task guide dashboard.",
+            "evidence": [
+              {
+                "id": "e3",
+                "title": "Constructed work 3",
+                "text": "A fixture assertion, not a verified work sample.",
+                "tags": [
+                  "planning",
+                  "documentation"
+                ]
+              }
+            ],
+            "choices": [
+              "c0",
+              "c1"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ]
+          },
+          {
+            "id": "p4",
+            "name": "Synthetic talent 4",
+            "background": "career change",
+            "auditGroup": "career change",
+            "cv": "Helped a community group with its weekly rota.",
+            "evidence": [
+              {
+                "id": "e4",
+                "title": "Constructed work 4",
+                "text": "A fixture assertion, not a verified work sample.",
+                "tags": [
+                  "planning"
+                ]
+              }
+            ],
+            "choices": [
+              "c0",
+              "c1"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ]
+          }
+        ]
+      },
+      "cancellation": {
+        "unavailable": [
+          "p1"
+        ]
+      }
+    },
+    {
+      "id": "cancellation-2",
+      "family": "cancellation",
+      "split": "heldout",
+      "data": {
+        "event": {
+          "name": "Synthetic family audit",
+          "synthetic": true
+        },
+        "slots": [
+          "14:00",
+          "14:15"
+        ],
+        "companies": [
+          {
+            "id": "c0",
+            "name": "Synthetic company 0",
+            "table": "A",
+            "capacity": 2,
+            "task": "Analysis planning documentation task guide dashboard 0.",
+            "needs": [
+              "analysis",
+              "documentation"
+            ],
+            "choices": [
+              "p0",
+              "p1",
+              "p2",
+              "p3",
+              "p4"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ],
+            "teach": "Domain tools",
+            "prompt": "Discuss the example."
+          },
+          {
+            "id": "c1",
+            "name": "Synthetic company 1",
+            "table": "B",
+            "capacity": 2,
+            "task": "Analysis planning documentation task guide dashboard 1.",
+            "needs": [
+              "analysis",
+              "documentation"
+            ],
+            "choices": [
+              "p0",
+              "p1",
+              "p2",
+              "p3",
+              "p4"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ],
+            "teach": "Domain tools",
+            "prompt": "Discuss the example."
+          }
+        ],
+        "people": [
+          {
+            "id": "p0",
+            "name": "Synthetic talent 0",
+            "background": "career change",
+            "auditGroup": "career change",
+            "cv": "Helped a community group with its weekly rota.",
+            "evidence": [
+              {
+                "id": "e0",
+                "title": "Constructed work 0",
+                "text": "A fixture assertion, not a verified work sample.",
+                "tags": [
+                  "analysis",
+                  "documentation"
+                ]
+              }
+            ],
+            "choices": [
+              "c0",
+              "c1"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ]
+          },
+          {
+            "id": "p1",
+            "name": "Synthetic talent 1",
+            "background": "direct path",
+            "auditGroup": "direct path",
+            "cv": "Analysis planning documentation task guide dashboard.",
+            "evidence": [
+              {
+                "id": "e1",
+                "title": "Constructed work 1",
+                "text": "A fixture assertion, not a verified work sample.",
+                "tags": [
+                  "analysis",
+                  "documentation"
+                ]
+              }
+            ],
+            "choices": [
+              "c0",
+              "c1"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ]
+          },
+          {
+            "id": "p2",
+            "name": "Synthetic talent 2",
+            "background": "career change",
+            "auditGroup": "career change",
+            "cv": "Helped a community group with its weekly rota.",
+            "evidence": [
+              {
+                "id": "e2",
+                "title": "Constructed work 2",
+                "text": "A fixture assertion, not a verified work sample.",
+                "tags": [
+                  "analysis",
+                  "documentation"
+                ]
+              }
+            ],
+            "choices": [
+              "c0",
+              "c1"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ]
+          },
+          {
+            "id": "p3",
+            "name": "Synthetic talent 3",
+            "background": "direct path",
+            "auditGroup": "direct path",
+            "cv": "Analysis planning documentation task guide dashboard.",
+            "evidence": [
+              {
+                "id": "e3",
+                "title": "Constructed work 3",
+                "text": "A fixture assertion, not a verified work sample.",
+                "tags": [
+                  "analysis",
+                  "documentation"
+                ]
+              }
+            ],
+            "choices": [
+              "c0",
+              "c1"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ]
+          },
+          {
+            "id": "p4",
+            "name": "Synthetic talent 4",
+            "background": "career change",
+            "auditGroup": "career change",
+            "cv": "Helped a community group with its weekly rota.",
+            "evidence": [
+              {
+                "id": "e4",
+                "title": "Constructed work 4",
+                "text": "A fixture assertion, not a verified work sample.",
+                "tags": [
+                  "planning"
+                ]
+              }
+            ],
+            "choices": [
+              "c0",
+              "c1"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ]
+          }
+        ]
+      },
+      "cancellation": {
+        "unavailable": [
+          "p2"
+        ]
+      }
+    },
+    {
+      "id": "cancellation-3",
+      "family": "cancellation",
+      "split": "heldout",
+      "data": {
+        "event": {
+          "name": "Synthetic family audit",
+          "synthetic": true
+        },
+        "slots": [
+          "14:00",
+          "14:15"
+        ],
+        "companies": [
+          {
+            "id": "c0",
+            "name": "Synthetic company 0",
+            "table": "A",
+            "capacity": 2,
+            "task": "Analysis planning documentation task guide dashboard 0.",
+            "needs": [
+              "planning",
+              "documentation"
+            ],
+            "choices": [
+              "p0",
+              "p1",
+              "p2",
+              "p3",
+              "p4"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ],
+            "teach": "Domain tools",
+            "prompt": "Discuss the example."
+          },
+          {
+            "id": "c1",
+            "name": "Synthetic company 1",
+            "table": "B",
+            "capacity": 2,
+            "task": "Analysis planning documentation task guide dashboard 1.",
+            "needs": [
+              "planning",
+              "documentation"
+            ],
+            "choices": [
+              "p0",
+              "p1",
+              "p2",
+              "p3",
+              "p4"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ],
+            "teach": "Domain tools",
+            "prompt": "Discuss the example."
+          }
+        ],
+        "people": [
+          {
+            "id": "p0",
+            "name": "Synthetic talent 0",
+            "background": "career change",
+            "auditGroup": "career change",
+            "cv": "Helped a community group with its weekly rota.",
+            "evidence": [
+              {
+                "id": "e0",
+                "title": "Constructed work 0",
+                "text": "A fixture assertion, not a verified work sample.",
+                "tags": [
+                  "planning",
+                  "documentation"
+                ]
+              }
+            ],
+            "choices": [
+              "c0",
+              "c1"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ]
+          },
+          {
+            "id": "p1",
+            "name": "Synthetic talent 1",
+            "background": "direct path",
+            "auditGroup": "direct path",
+            "cv": "Analysis planning documentation task guide dashboard.",
+            "evidence": [
+              {
+                "id": "e1",
+                "title": "Constructed work 1",
+                "text": "A fixture assertion, not a verified work sample.",
+                "tags": [
+                  "planning",
+                  "documentation"
+                ]
+              }
+            ],
+            "choices": [
+              "c0",
+              "c1"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ]
+          },
+          {
+            "id": "p2",
+            "name": "Synthetic talent 2",
+            "background": "career change",
+            "auditGroup": "career change",
+            "cv": "Helped a community group with its weekly rota.",
+            "evidence": [
+              {
+                "id": "e2",
+                "title": "Constructed work 2",
+                "text": "A fixture assertion, not a verified work sample.",
+                "tags": [
+                  "planning",
+                  "documentation"
+                ]
+              }
+            ],
+            "choices": [
+              "c0",
+              "c1"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ]
+          },
+          {
+            "id": "p3",
+            "name": "Synthetic talent 3",
+            "background": "direct path",
+            "auditGroup": "direct path",
+            "cv": "Analysis planning documentation task guide dashboard.",
+            "evidence": [
+              {
+                "id": "e3",
+                "title": "Constructed work 3",
+                "text": "A fixture assertion, not a verified work sample.",
+                "tags": [
+                  "planning",
+                  "documentation"
+                ]
+              }
+            ],
+            "choices": [
+              "c0",
+              "c1"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ]
+          },
+          {
+            "id": "p4",
+            "name": "Synthetic talent 4",
+            "background": "career change",
+            "auditGroup": "career change",
+            "cv": "Helped a community group with its weekly rota.",
+            "evidence": [
+              {
+                "id": "e4",
+                "title": "Constructed work 4",
+                "text": "A fixture assertion, not a verified work sample.",
+                "tags": [
+                  "planning"
+                ]
+              }
+            ],
+            "choices": [
+              "c0",
+              "c1"
+            ],
+            "slots": [
+              "14:00",
+              "14:15"
+            ]
+          }
+        ]
+      },
+      "cancellation": {
+        "unavailable": [
+          "p3"
+        ]
+      }
+    }
+  ]
+}
