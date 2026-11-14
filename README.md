@@ -1,74 +1,54 @@
 # Common Ground
 
-## Judge quick path
+An organiser tool for City of Espoo recruitment events. Companies turn a need into concrete tasks. People approve skills backed by exact quotes from their own work stories. The organiser builds ten-minute meetings, reviews the reason for each pair and sends proposals. A meeting is agreed only after both sides say yes.
 
-| Criterion | Try it | Inspect the proof |
-|---|---|---|
-| Impact & relevance, 45% | At the introduction desk, open Talent 01 + Loop Kitchen. Read the kitchen task beside the café waste-tracker sample. | [Synthetic event](src/data.mjs), [why-you-two policy](src/engine.mjs), video script 0:18–0:43 |
-| Innovation & UX, 35% | Record talent's yes and company's yes, create a card and save the calendar entry. Print/PDF remains unverified. Cancel a meeting and build a replacement proposal. | [Public browser evidence](docs/VERIFICATION.md), [interface](src/app.mjs), [workflow tests](tests), video script 0:43–1:24 |
-| Responsible & feasible execution, 20% | Open Audit & limits. Compare the CV keyword baseline, inspect the family split, read the selection-rate gap. | [Specification](EVAL_SPEC.md), [ledger and failures](eval/LEDGER.md), [fresh-context review](eval/REVIEW.md), [frozen traces](eval/results.json), [fixtures](eval/fixtures.json) |
+**Live:** https://espoo-common-ground.vercel.app  
+**Source:** https://github.com/13shreyansh/espoo-common-ground
 
-[Open the live demo](https://espoo-common-ground.vercel.app/) · [Public MIT source](https://github.com/13shreyansh/espoo-common-ground) · [Desktop/mobile verification](docs/VERIFICATION.md)
+The binding screen specification is [DESIGN-DIRECTION.md](DESIGN-DIRECTION.md). [STATUS.md](STATUS.md) distinguishes measured results, review status and remaining decisions. All people, companies and outcomes are synthetic. The venue is Keilaniemi, Espoo; no real employer is represented.
 
-An organiser's desk for a small Espoo recruitment event. Concrete company needs meet transferable work evidence, then both people agree to a practical in-person introduction. Built for Junction 2026 by Shreyansh, team The CS Guy. Independent prototype, no official City of Espoo affiliation implied.
+## What works
 
-The running demo contains fictional companies, fictional work samples, seven talent entries, three active tables and six available meeting slots. No real applicants, model API, CV upload or automatic employment decision. The numbers describe synthetic rule conformance, not hiring quality or observed real meetings.
+- Fifteen fictional companies, checked against PRH/YTJ, and 120 people with three work stories each. Public job-ad provenance is in `fixtures/job-ad-sources.json`.
+- Live Gemini guided questions, task extraction and story-to-skill suggestions. Exact-input caches retain the model, prompt version and timestamp. A quotation must exist at verified offsets before a skill is kept. People can choose ESCO skills manually if the model fails or reaches its global daily cap.
+- Official ESCO API labels, URIs and cached responses. Generated mappings choose reviewed API concepts; a fuzzy search result is never silently accepted as a task skill.
+- Talent-proposing many-to-many deferred acceptance, followed by exact constrained edge colouring. The engine records proposals, holds and passes for each round. The independent checker evaluates the placed schedule. Infeasible or unstable rebuilds preserve the previous schedule and explain the failure.
+- Fixed agreed meetings, respected human declines, separate consent endpoints, immutable meeting explanations and a company API that omits unagreed people’s names and keys.
+- Static personal schedules with JavaScript-off rendering, an offline service-worker cache, individual calendar files and an IndexedDB outbox for follow-up answers.
+- Separate October event, report CSV, meeting-access audit and a Method page with the actual benchmark, failure cases and limitations.
 
-## Run and reproduce
+## The benchmark is weaker than hoped
 
-Node 24+ is required for the verified development workflow. Runtime has no third-party dependency. The development dependency is jsdom for DOM workflow verification.
+Labels were committed in `ca410e3` before extraction or matching. The protocol, held-out results, both real model baselines and every run are in [eval/v2](eval/v2). Common Ground beats the keyword baseline on these synthetic labels, but **does not beat AI-polished CV ranking**. The Method page and STATUS report this directly. Repeated runs vary details within one synthetic population; they do not establish field accuracy, fairness or legal compliance.
+
+Six initially empty draft story fields were completed from their original pre-labelled scenarios. Extraction and both baselines were rerun for all 120 people. The original result remains in the Phase A artifacts and git history. No label or scoring-rule tuning followed the held-out result.
+
+## Run and verify
+
+Requires Node 24 or newer.
 
 ```sh
 npm ci
 npm test
-npm run eval
 npm run build
 npm run dev
 ```
 
-Open `http://127.0.0.1:4173`. To serve the release build, use `node scripts/serve.mjs --dist`. Vercel uses `npm run build` and the `dist` directory. No environment variables or API keys are needed. `npm run eval` replays the known fixtures to gitignored `work/replay-results.json` and checks counts against the sealed results without overwriting them; local timing and timestamp differ. `npm run verify:audit` verifies the release evidence hashes. Fixture regeneration refuses to overwrite the existing file.
+The writing helper reads `GEMINI_API_KEY` from the process environment. Do not put a key in source, command output or a committed file. The local development store is in ignored `work/data/`. The default fixtures and cached model outputs work without a key; new model requests need the environment variable. ESCO search uses its public API.
 
-The Chief verified the public Vercel runtime at code commit `9575f5a` on 14 November 2026, approximately 18:27–18:30 Helsinki. See [release status](docs/RELEASE.md) and [observed browser evidence](docs/VERIFICATION.md). Later documentation-only commits do not change the tested runtime.
+```sh
+npx playwright install chromium
+npm run test:e2e
+```
 
-## What to try
+The E2E runner targets the deployed URL by default, at 1440×900 and 390×844, and checks that its frontend and backend commits equal HEAD. It creates an isolated visitor workspace and deletes it in `finally`. `E2E_URL` can select a local test server. Screenshots and receipts are in `artifacts/e2e/` and `screenshots/commonground/`.
 
-1. Start at the introduction desk. All meetings are proposals, with neither answer recorded.
-2. Select a meeting. Inspect the exact company need, matching work sample and mutual interest.
-3. Record each party's demo answer. The card becomes available only after both agree. Nothing is sent.
-4. Create an introduction card. It has a table letter, time and a specific opening question. Save a calendar entry or record a simulated in-person introduction. The Print card control exists, but its browser interaction blocked verification; print/PDF output remains unverified and no physical print was submitted.
-5. Cancel the meeting, then build a proposal. A replacement needs fresh agreement. Existing mutually agreed meetings stay fixed.
-6. Open Work evidence and mark someone unavailable. Their meeting and confirmations are removed. Rebuild to suggest replacements.
-7. Open Company needs. Harbour Works is deliberately vague and receives no meeting. Editing any task clears old confirmations. Select essential tags and explicitly record organiser review to save a new evidence mapping. Saving without review abstains for that company. Reset demo restores the prepared samples.
-8. Open Audit & limits to compare the keyword baseline and read honest limitations.
+`npm run eval` reruns the frozen evaluation using cached polished CVs and model rankings. It does not make model calls. `scripts/polish-baseline.mjs` is the separate, explicit model-baseline generation step. Existing engine tests remain; the retired UI test is archived under `tests/archive-v1/`.
 
-Demo task edits, agreements and activity notes persist in local browser storage. Reset demo replaces that local state. CSV and calendar exports contain synthetic records only. There is no server-side participant database or shared confirmation state.
+## Hosting and data boundaries
 
-## How it works
+Vercel serves the static interface and proxies this entry’s API and static schedule files to its isolated cloud service. SQLite, schedules and live caches are on the cloud host, so the Mac is not part of the runtime. The cloud key is transported over SSH stdin; only host-bound encrypted ciphertext is persisted, then decrypted into the process’s memory at startup. The API has a shared 500-call daily reservation counter. No email or text message leaves the system.
 
-The organiser-entered fixture declares evidence tags, essential company needs, ranked interest lists, availability and capacity. A pair is eligible only if both explicitly chose each other and its samples cover every essential tag. The policy enumerates feasible schedules for this small event, maximises meeting count, then explicit preference rank points, then uses stable IDs to break ties. It does not read names, CV text, nationality, education or audit-group labels. The interface shows evidence, not a candidate score.
+A silent cookie gives each visitor an independent copy of the fixtures. Link possession is the only actor authentication in this prototype. A real pilot needs authenticated, expiring invitations, transport hardening, operational monitoring and an EU AI Act assessment. The matcher’s closed input type excludes identity, story text and optional audit attributes. Group records are joined only for the audit; small groups are suppressed.
 
-This is not Gale-Shapley and makes no stable-matching guarantee. A maximum-cardinality allocation can leave blocking pairs. ID tie-breaking can allocate scarce slots unevenly; an organiser must help people who have no meeting. A real pilot would require a reviewed, participant-understandable allocation policy.
-
-## Measured synthetic results
-
-| Check | Development, 3 families / 12 variants | Held-out, 4 families / 16 variants |
-|---|---:|---:|
-| Valid evidence schedules | 12/12 | 16/16 |
-| Valid keyword baseline schedules | 3/12 | 8/16 |
-| Maximum feasible meeting count | 12/12 | 16/16 |
-| Evidence-policy meetings | 26 | 41 |
-| Baseline pairs meeting fixture evidence and opt-in rules | 15/32 | 19/31 |
-
-All 168 nuisance checks and 12 cancellation/stale-confirmation checks passed. A fresh reviewer found a physical shared-table collision missing from the initial policy and graders. The corrected policy has an added shared-table regression; its displayed 16/16 is a known-set replay after that fix. The [original first audit](eval/archive-v1/results.json) is preserved. No new untouched held-out claim is made. The held-out incomplete-2 fixture correctly produced zero meetings; empty schedules count as valid, and cardinality is reported separately. These are 28 small fixtures from seven builder-authored scenario families, not independent sources or human relevance labels.
-
-The synthetic aggregate selected 40/42 eligible career-change entries and 27/38 direct-path entries. That 24.19 percentage-point gap is a known allocation limitation, even though swapping the group labels changes no decisions. See [ledger](eval/LEDGER.md) for denominators, hashes, runtime and the failure taxonomy.
-
-## What this does not establish
-
-No real-world conversion, recruiter time saving, human hiring quality, calibrated confidence, model inference, large-event latency, equal access or legal compliance was measured. A false or misleading evidence tag can fool this policy. A real deployment needs consented evidence review, accessible workflows, participant authentication, privacy/retention/deletion controls, multi-user state and a legal assessment.
-
-## Presentation material
-
-[Public-video script, at most 2:00](docs/VIDEO_SCRIPT.md). [Combined peer-pitch segment and 5-minute notes](docs/PITCH.md). Recording, public video publication and final competition submission remain separate actions. Final submission deadline: Sunday 15 November 2026, 10:00 Helsinki.
-
-MIT code. Public Sans retains its [font license](public/fonts/LICENSE.md). Challenge context is based on the organiser-provided local official brief; live official pages were not rechecked because this chat's inbuilt browser was unavailable. The saved Klick pattern inspired the practical in-person handoff; no Klick code or unverified performance claim was reused.
+Approved cards and agreed meeting explanations are preserved while drafts change. Deleting a person clears their stories, evidence, relevant answers and cached extraction. Server event records and their static schedules expire 30 days after the event. Offline or printed copies on a person’s own device cannot be remotely recalled.

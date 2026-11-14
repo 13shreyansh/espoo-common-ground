@@ -1,0 +1,97 @@
+✔ company HTML payload cannot leak a proposed person name or key, and only reveals agreed people (34.443459ms)
+✔ the organiser endpoint cannot answer for either side (0.679208ms)
+✔ manual moves refuse clashes and agreed changes need a fresh yes (23.996459ms)
+✔ card edits cannot accept a forged proof offset or unknown skill (0.586292ms)
+✖ a refill respects a human decline and cannot create duplicate meeting IDs (46.808875ms)
+✖ an agreed table-only move requires renewed consent (22.42475ms)
+✔ failed edits cannot change approved proof used by companies or the matcher (1.103375ms)
+✖ saved evidence labels are canonical and offsets and highlights must be finite nonempty spans (0.64325ms)
+✖ editing a published brief keeps the original task on an already agreed meeting (23.057042ms)
+ℹ tests 9
+ℹ suites 0
+ℹ pass 5
+ℹ fail 4
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 202.902042
+
+✖ failing tests:
+
+test at tests/api-v2.test.mjs:7:1
+✖ a refill respects a human decline and cannot create duplicate meeting IDs (46.808875ms)
+  AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+  
+    assert(!e.meetings.some(x=>x.state==='proposed'&&x.person_key===pair[0]&&x.company_key===pair[1]))
+  
+      at TestContext.<anonymous> (file:///Users/shreyansh/Documents/ChatGPT/Junction/espoo/tests/api-v2.test.mjs:7:269)
+      at Test.runInAsyncScope (node:async_hooks:227:14)
+      at Test.run (node:internal/test_runner/test:1402:25)
+      at Test.processPendingSubtests (node:internal/test_runner/test:974:18)
+      at Test.postRun (node:internal/test_runner/test:1542:19)
+      at Test.run (node:internal/test_runner/test:1467:12)
+      at async Test.processPendingSubtests (node:internal/test_runner/test:974:7) {
+    generatedMessage: true,
+    code: 'ERR_ASSERTION',
+    actual: false,
+    expected: true,
+    operator: '==',
+    diff: 'simple'
+  }
+
+test at tests/api-v2.test.mjs:8:1
+✖ an agreed table-only move requires renewed consent (22.42475ms)
+  AssertionError [ERR_ASSERTION]: Expected values to be strictly equal:
+  + actual - expected
+  
+  + 'agreed'
+  - 'proposed'
+  
+      at TestContext.<anonymous> (file:///Users/shreyansh/Documents/ChatGPT/Junction/espoo/tests/api-v2.test.mjs:8:578)
+      at async Test.run (node:internal/test_runner/test:1409:7)
+      at async Test.processPendingSubtests (node:internal/test_runner/test:974:7) {
+    generatedMessage: true,
+    code: 'ERR_ASSERTION',
+    actual: 'agreed',
+    expected: 'proposed',
+    operator: 'strictEqual',
+    diff: 'simple'
+  }
+
+test at tests/api-v2.test.mjs:10:1
+✖ saved evidence labels are canonical and offsets and highlights must be finite nonempty spans (0.64325ms)
+  AssertionError [ERR_ASSERTION]: Expected values to be strictly equal:
+  + actual - expected
+  
+  + 'NOT AN ESCO LABEL'
+  - 'use spreadsheets software'
+  
+      at TestContext.<anonymous> (file:///Users/shreyansh/Documents/ChatGPT/Junction/espoo/tests/api-v2.test.mjs:10:280)
+      at async Test.run (node:internal/test_runner/test:1409:7)
+      at async Test.processPendingSubtests (node:internal/test_runner/test:974:7) {
+    generatedMessage: true,
+    code: 'ERR_ASSERTION',
+    actual: 'NOT AN ESCO LABEL',
+    expected: 'use spreadsheets software',
+    operator: 'strictEqual',
+    diff: 'simple'
+  }
+
+test at tests/api-v2.test.mjs:11:1
+✖ editing a published brief keeps the original task on an already agreed meeting (23.057042ms)
+  AssertionError [ERR_ASSERTION]: Expected values to be strictly equal:
+  + actual - expected
+  
+  + 'Automate checks for the main customer journeys before each release.'
+  - 'Reproduce intermittent errors and record the steps to fix them.'
+  
+      at TestContext.<anonymous> (file:///Users/shreyansh/Documents/ChatGPT/Junction/espoo/tests/api-v2.test.mjs:11:607)
+      at async Test.run (node:internal/test_runner/test:1409:7)
+      at async Test.processPendingSubtests (node:internal/test_runner/test:974:7) {
+    generatedMessage: true,
+    code: 'ERR_ASSERTION',
+    actual: 'Automate checks for the main customer journeys before each release.',
+    expected: 'Reproduce intermittent errors and record the steps to fix them.',
+    operator: 'strictEqual',
+    diff: 'simple'
+  }

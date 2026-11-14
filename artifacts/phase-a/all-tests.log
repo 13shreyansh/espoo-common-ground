@@ -1,0 +1,51 @@
+
+> espoo-common-ground@2.0.0 test
+> node --test tests/*.test.mjs
+
+✔ company HTML payload cannot leak a proposed person name or key, and only reveals agreed people (39.7965ms)
+✔ the organiser endpoint cannot answer for either side (0.769667ms)
+✔ manual moves refuse clashes and agreed changes need a fresh yes (27.521583ms)
+✔ card edits cannot accept a forged proof offset or unknown skill (0.732084ms)
+✔ a refill respects a human decline and cannot create duplicate meeting IDs (50.798833ms)
+✔ an agreed table-only move requires renewed consent (24.546833ms)
+✔ failed edits cannot change approved proof used by companies or the matcher (1.37625ms)
+✔ saved evidence labels are canonical and offsets and highlights must be finite nonempty spans (0.690167ms)
+✔ editing a published brief keeps the original task on an already agreed meeting (27.022584ms)
+✔ previewing tasks does not publish them or change scoring input (1.409708ms)
+✔ manual entry remains available without calling a model (0.998791ms)
+✔ question answers persist as each answer is given (0.592708ms)
+✔ one-meeting calendar contains exactly that meeting and no other meeting (1.600042ms)
+✔ retention is based on the event end time plus thirty days (0.342416ms)
+✔ next-step fairness denominator is people who met, never all approved people (0.314084ms)
+✔ all six demo table slots are used with independent validity check (3.054125ms)
+✔ candidate absence preserves a mutually agreed meeting and needs no double booking (0.277541ms)
+✔ cancelled pair cannot return and a waiting talent can take the slot (0.238416ms)
+✔ a time or task edit invalidates exact-meeting agreement key (0.566208ms)
+✔ vague needs and one-sided opt-in abstain (0.13525ms)
+✔ infeasible confirmed meeting is refused rather than silently moved (0.334625ms)
+✔ different companies cannot use the same physical table at the same time (1.061458ms)
+✔ an invented quote, mismatched story and unknown ESCO URI are dropped (0.557833ms)
+✔ fuzzy ESCO first hits cannot turn a software dashboard into cleaning vehicles or background research (0.316708ms)
+✔ task mappings resolve exact model labels to canonical API URIs and drop hallucinated UUIDs (0.051459ms)
+✔ every extracted proof is an exact span and every skill has a cached ESCO preferred label (1.428834ms)
+✔ task counts are independently recomputed from approved exact evidence (7.208417ms)
+✔ shuffling names and all audit labels cannot alter the engine input or schedule (52.840541ms)
+✔ audit groups are separate, rates are independently countable and groups under ten are hidden (0.731417ms)
+✔ every one of the 120 registered people has three work stories (0.108833ms)
+✔ blind scoring rejects identity, story and protected fields, with a closed TypeScript input type (152.246125ms)
+✔ 200 random many-to-many fixtures: independent final stability, capacities, no clashes and determinism (58.139625ms)
+✔ agreed pairs stay fixed after a fill (0.540125ms)
+✔ a pair with no common free slot is ineligible (0.21725ms)
+✔ single-meeting strategy property: no proposer improves through any reported permutation or truncation, 150 small random instances (162.779ms)
+✔ oracle catches a deliberately unstable placed schedule independently (0.154625ms)
+✔ common-slot eligibility alone does not guarantee global placement: unplaced count is reported (0.191417ms)
+✔ interest in any eligible task raises its company on an otherwise tied list (0.084375ms)
+✔ nested scoring task and skill fields are closed against identity or source text (0.117875ms)
+ℹ tests 39
+ℹ suites 0
+ℹ pass 39
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 414.417458

@@ -1,0 +1,17 @@
+✔ company HTML payload cannot leak a proposed person name or key, and only reveals agreed people (34.850208ms)
+✔ the organiser endpoint cannot answer for either side (0.680166ms)
+✔ manual moves refuse clashes and agreed changes need a fresh yes (24.898083ms)
+✔ card edits cannot accept a forged proof offset or unknown skill (0.651875ms)
+✔ a refill respects a human decline and cannot create duplicate meeting IDs (46.840375ms)
+✔ an agreed table-only move requires renewed consent (22.596417ms)
+✔ failed edits cannot change approved proof used by companies or the matcher (1.269667ms)
+✔ saved evidence labels are canonical and offsets and highlights must be finite nonempty spans (0.633625ms)
+✔ editing a published brief keeps the original task on an already agreed meeting (24.366709ms)
+ℹ tests 9
+ℹ suites 0
+ℹ pass 9
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 199.604916
