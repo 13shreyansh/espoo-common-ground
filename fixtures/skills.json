@@ -1,0 +1,212 @@
+[
+  {
+    "query": "perform data analysis",
+    "uri": "http://data.europa.eu/esco/skill/2b92a5b2-6758-4ee3-9fb4-b6387a55cc8f",
+    "label": "perform data analysis",
+    "description": "Collect data and statistics to test and evaluate in order to generate assertions and pattern predictions, with the aim of discovering useful information in a decision-making process.",
+    "narrower": []
+  },
+  {
+    "query": "use spreadsheets software",
+    "uri": "http://data.europa.eu/esco/skill/1973c966-f236-40c9-b2d4-5d71a89019be",
+    "label": "use spreadsheets software",
+    "description": "Use software tools to create and edit tabular data to carry out mathematical calculations, organise data and information, create diagrams based on data and to retrieve them.",
+    "narrower": []
+  },
+  {
+    "query": "manage databases",
+    "uri": "http://data.europa.eu/esco/skill/29fb0fb5-dfc4-4098-ac9b-3a712000f48f",
+    "label": "manage database",
+    "description": "Apply database design schemes and models, define data dependencies, use query languages and database management systems (DBMS) to develop and manage databases.",
+    "narrower": []
+  },
+  {
+    "query": "develop software prototype",
+    "uri": "http://data.europa.eu/esco/skill/797a4416-0b8d-44f3-8fcd-eb10bd0be6b4",
+    "label": "develop software prototype",
+    "description": "Create a first incomplete or preliminary version of a piece of software application to simulate some specific aspects of the final product.",
+    "narrower": []
+  },
+  {
+    "query": "develop software test procedures",
+    "uri": "http://data.europa.eu/esco/skill/85f46538-ae70-498a-bfbc-b8ddafe96c7d",
+    "label": "levels of software testing",
+    "description": "The levels of testing in the software development process, such as unit testing, integration testing, system testing and acceptance testing.",
+    "narrower": []
+  },
+  {
+    "query": "debug software",
+    "uri": "http://data.europa.eu/esco/skill/2522a6ce-3202-4ac8-9f5b-b9cb5a3a83a1",
+    "label": "debug software",
+    "description": "Repair computer code by analysing testing results, locating the defects causing the software to output an incorrect or unexpected result and removing these faults.",
+    "narrower": []
+  },
+  {
+    "query": "create data models",
+    "uri": "http://data.europa.eu/esco/skill/fbafa41f-cd05-4109-a649-8b44d306d779",
+    "label": "create data models",
+    "description": "Use specific techniques and methodologies to analyse the data requirements of an organisation's business processes in order to create models for these data, such as conceptual, logical and physical models. These models have a specific structure and format.",
+    "narrower": []
+  },
+  {
+    "query": "analyse business processes",
+    "uri": "http://data.europa.eu/esco/skill/56042303-972b-41be-9310-58467599ff7e",
+    "label": "analyse business processes",
+    "description": "Study the contribution of the work processes to the business goals and monitor their efficiency and productivity.",
+    "narrower": []
+  },
+  {
+    "query": "manage projects",
+    "uri": "http://data.europa.eu/esco/skill/c881ddd2-9c0e-4743-bd24-36be650493dd",
+    "label": "manage several projects",
+    "description": "Oversee and direct the development of several projects running independently. Ensure coherence and leveraging forces among projects in order to secure an overall success and profitability.",
+    "narrower": []
+  },
+  {
+    "query": "provide technical documentation",
+    "uri": "http://data.europa.eu/esco/skill/04dfd9fb-e0cf-40f6-96c6-9d2280c4347e",
+    "label": "provide technical documentation",
+    "description": "Prepare documentation for existing and upcoming products or services, describing their functionality and composition in such a way that it is understandable for a wide audience without technical background and compliant with defined requirements and standards. Keep documentation up to date.",
+    "narrower": []
+  },
+  {
+    "query": "assess risks",
+    "uri": "http://data.europa.eu/esco/skill/4e8a2547-c91e-41ff-ad92-170e02e95a8d",
+    "label": "assess risk in the outdoors",
+    "description": "Elaborate and accomplish risk analysis.",
+    "narrower": []
+  },
+  {
+    "query": "manage inventory",
+    "uri": "http://data.europa.eu/esco/skill/ab6265f2-a9bf-49e8-a9a5-67cbab4de38b",
+    "label": "manage inventory",
+    "description": "Control product inventory in balance of availability and storage costs.",
+    "narrower": []
+  },
+  {
+    "query": "train employees",
+    "uri": "http://data.europa.eu/esco/skill/e54ff029-1ce9-447d-a5b2-eb7283a23e6e",
+    "label": "train employees",
+    "description": "Lead and guide employees through a process in which they are taught the necessary skills for the perspective job. Organise activities aimed at introducing the work and systems or improving the performance of individuals and groups in organisational settings.",
+    "narrower": []
+  },
+  {
+    "query": "user interface design",
+    "uri": "http://data.europa.eu/esco/skill/95ee5e38-5c1e-4cd2-a21d-6921390025a9",
+    "label": "usability engineering",
+    "description": "The methods of assessing usability and deriving structured recommendations from the results of an usability test with respect to user needs and behaviours in order to achieve efficient and elegant user interface design.",
+    "narrower": []
+  },
+  {
+    "query": "develop automated software tests",
+    "uri": "http://data.europa.eu/esco/skill/6a322874-e32f-4cd8-9683-badce67a7f73",
+    "label": "develop automated software tests",
+    "description": "Create software test sets in an automated manner, ​using specialised languages or tools, that can be performed by testing tools in order to save resources, gain efficiency and effectiveness in test execution.",
+    "narrower": []
+  },
+  {
+    "query": "computer programming",
+    "uri": "http://data.europa.eu/esco/skill/42ed3bfb-1a01-4c8b-9758-fc6438865734",
+    "label": "Smalltalk (computer programming)",
+    "description": "The techniques and principles of software development, such as analysis, algorithms, coding, testing and compiling of programming paradigms in Smalltalk.",
+    "narrower": []
+  },
+  {
+    "query": "monitor system performance",
+    "uri": "http://data.europa.eu/esco/skill/9190d87f-9792-42e0-bb7f-64294a656bcd",
+    "label": "monitor system performance",
+    "description": "Measure system reliability and performance before, during and after component integration and during system operation and maintenance. Select and use performance monitoring tools and techniques, such as special software.",
+    "narrower": []
+  },
+  {
+    "query": "manage data",
+    "uri": "http://data.europa.eu/esco/skill/9ff9db9d-d14b-426e-83f3-e7449af6c79f",
+    "label": "manage data",
+    "description": "Administer all types of data resources through their lifecycle by performing data profiling, parsing, standardisation, identity resolution, cleansing, enhancement and auditing. Ensure the data is fit for purpose, using specialised ICT tools to fulfil the data quality criteria.",
+    "narrower": []
+  },
+  {
+    "query": "customer service",
+    "uri": "http://data.europa.eu/esco/skill/15a33d76-4640-438d-ae64-fdc0c1d3eebc",
+    "label": "customer service",
+    "description": "Processes and principles related to the customer, client, service user and to personal services; these may include procedures to evaluate customer's or service user's satisfaction.",
+    "narrower": []
+  },
+  {
+    "query": "collect data",
+    "uri": "http://data.europa.eu/esco/skill/0d6714c6-720e-4985-9791-5ab85d28da79",
+    "label": "gather data",
+    "description": "Extract exportable data from multiple sources.",
+    "narrower": []
+  },
+  {
+    "query": "quality assurance",
+    "uri": "http://data.europa.eu/esco/skill/b535516b-9f8a-4c29-b6aa-a0a4561e1086",
+    "label": "call quality assurance management",
+    "description": "Recording systems and monitoring procedures used in keeping track of call quality and methods for improvement.",
+    "narrower": []
+  },
+  {
+    "query": "information security",
+    "uri": "http://data.europa.eu/esco/skill/6833e58b-eceb-4599-9375-1b7e6ec64087",
+    "label": "ensure information security",
+    "description": "Ensure that the information gathered during surveillance or investigations remains in the hands of those authorised to receive and use it, and does not fall into enemy or otherwise non-authorised individuals' hands.",
+    "narrower": []
+  },
+  {
+    "query": "electrical engineering",
+    "uri": "http://data.europa.eu/esco/skill/3e40c7d0-0e36-4b33-bc33-0aa87eda0561",
+    "label": "electrical engineering",
+    "description": "Understand electrical engineering, a field of engineering that deals with the study and application of electricity, electronics, and electromagnetism.",
+    "narrower": []
+  },
+  {
+    "query": "design embedded systems",
+    "uri": "http://data.europa.eu/esco/skill/2180bd8c-86de-4889-8165-adac902eee9d",
+    "label": "embedded systems",
+    "description": "The computer systems and components with a specialised and autonomous function within a larger system or machine such as embedded systems software architectures, embedded peripherals, design principles and development tools.",
+    "narrower": []
+  },
+  {
+    "query": "SQL",
+    "uri": "http://data.europa.eu/esco/skill/598de5b0-5b58-4ea7-8058-a4bc4d18c742",
+    "label": "SQL",
+    "description": "The computer language SQL is a query language for retrieval of information from a database and of documents containing the needed information. It is developed by the American National Standards Institute and the International Organization for Standardization.",
+    "narrower": []
+  },
+  {
+    "query": "Python",
+    "uri": "http://data.europa.eu/esco/skill/ccd0a1d9-afda-43d9-b901-96344886e14d",
+    "label": "Python (computer programming)",
+    "description": "The techniques and principles of software development, such as analysis, algorithms, coding, testing and compiling of programming paradigms in Python.",
+    "narrower": []
+  },
+  {
+    "query": "JavaScript",
+    "uri": "http://data.europa.eu/esco/skill/3cd569a2-4f88-4c1e-9995-8dce8c5e51a7",
+    "label": "JavaScript",
+    "description": "The techniques and principles of software development, such as analysis, algorithms, coding, testing and compiling of programming paradigms in JavaScript.",
+    "narrower": []
+  },
+  {
+    "query": "cloud technologies",
+    "uri": "http://data.europa.eu/esco/skill/bd14968e-e409-45af-b362-3495ed7b10e0",
+    "label": "cloud technologies",
+    "description": "The technologies which enable access to hardware, software, data and services through remote servers and software networks irrespective of their location and architecture.",
+    "narrower": []
+  },
+  {
+    "query": "analyse test data",
+    "uri": "http://data.europa.eu/esco/skill/81a2db2c-7e55-44d0-9cd9-74c25147d7cd",
+    "label": "analyse test data",
+    "description": "Interpret and analyse data collected during testing in order to formulate conclusions, new insights or solutions.",
+    "narrower": []
+  },
+  {
+    "query": "coordinate engineering teams",
+    "uri": "http://data.europa.eu/esco/skill/7af6e9e8-1e11-4c0b-b7c6-ac96bbbbc674",
+    "label": "coordinate engineering teams",
+    "description": "Plan, coordinate and supervise engineering activities together with engineers and engineering technicians. Ensure clear and effective channels of communication across all departments. Make sure the team is aware of the standards and objectives of the research and development.",
+    "narrower": []
+  }
+]

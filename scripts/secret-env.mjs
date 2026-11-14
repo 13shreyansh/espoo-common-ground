@@ -1,0 +1,2 @@
+import {readFile} from 'node:fs/promises';
+export async function geminiKey(){if(process.env.GEMINI_API_KEY)return process.env.GEMINI_API_KEY;for(const p of ['/Users/shreyansh/.config/junction-audio-transcription/gemini.env','/Users/shreyansh/.config/junction-2026/afterquery.env']){try{const s=await readFile(p,'utf8');const m=s.match(/(?:^|\n)(?:export\s+)?GEMINI_API_KEY\s*=\s*["']?([^\s"'\n]+)/);if(m)return m[1];}catch{}}throw Error('GEMINI_API_KEY is unavailable');}

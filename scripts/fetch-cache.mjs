@@ -1,0 +1,2 @@
+import {mkdir,writeFile,readFile} from 'node:fs/promises';import {createHash} from 'node:crypto';
+export async function cached(url,dir){await mkdir('cache/'+dir,{recursive:true});const file=`cache/${dir}/${createHash('sha256').update(url).digest('hex')}.json`;try{return JSON.parse(await readFile(file,'utf8')).response;}catch{}const r=await fetch(url,{signal:AbortSignal.timeout(30000)});if(!r.ok)throw Error('Source unavailable: '+r.status);const response=await r.json();await writeFile(file,JSON.stringify({url,at:new Date().toISOString(),response},null,2));return response;}

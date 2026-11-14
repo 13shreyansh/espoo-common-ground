@@ -1,0 +1,170 @@
+[
+  {
+    "domain": "operations data",
+    "brief": "we need a full-stack dev",
+    "qs": [
+      "perform data analysis",
+      "use spreadsheets software",
+      "analyse business processes",
+      "manage inventory"
+    ],
+    "tasks": [
+      "Build a simple tracker for late deliveries using the driver export.",
+      "Find out each week why deliveries arrive late, using the app export.",
+      "Help dispatchers use the tracker and document what changed."
+    ],
+    "work": "ran a café in Tapiola for four years",
+    "stories": [
+      "I managed the morning team at a café in Tapiola. Orders used to arrive on loose pieces of paper and we kept losing them during the rush. I made a shared order sheet, checked it with the kitchen every morning and taught the team to keep it current. We stopped preparing the same order twice.",
+      "I built a spreadsheet that logged everything we threw away, by day and by reason. I compared the totals each week and found that most waste came from sandwiches prepared after lunch. I changed the preparation quantities and checked the following weeks. After three months our waste was down by about a third.",
+      "I organised stock checks and showed six new colleagues how to update the ordering sheet. I wrote a one-page guide with examples of the mistakes we had made. Each person tried a practice order while I watched. When the supplier changed its pack sizes, I updated the formulas and checked the next delivery."
+    ]
+  },
+  {
+    "domain": "web tools",
+    "brief": "a developer for internal tools",
+    "qs": [
+      "develop software prototype",
+      "debug software",
+      "develop software test procedures",
+      "provide technical documentation"
+    ],
+    "tasks": [
+      "Build an internal web tool to track support requests.",
+      "Find and fix bugs in the customer portal before release.",
+      "Write a short guide for the team using the new tool."
+    ],
+    "work": "built booking tools for a community workshop",
+    "stories": [
+      "I built a booking form for our community workshop using JavaScript and a small web server. I first drew the screens with the volunteers, then made a working prototype they could try on their phones. We changed the form after watching where people got stuck. The workshop now uses it for weekly sessions.",
+      "Our booking page sometimes recorded the same booking twice. I reproduced the problem, traced the request logs and found a missing check when a phone retried a slow request. I fixed the check and wrote test cases for repeated requests and missing fields. I ran them before the next release.",
+      "I wrote a practical guide for the volunteers who maintain the booking tool. It explains how to publish a session, fix an incorrect booking and restore the previous version. I showed two volunteers how to use the guide and asked them to complete the tasks without my help. Their questions made the instructions clearer."
+    ]
+  },
+  {
+    "domain": "data systems",
+    "brief": "help with reporting and reliable data",
+    "qs": [
+      "manage databases",
+      "create data models",
+      "perform data analysis",
+      "collect data"
+    ],
+    "tasks": [
+      "Combine order exports into a database with consistent identifiers.",
+      "Compare weekly changes and explain which records are missing.",
+      "Create a data model for repeatable monthly reports."
+    ],
+    "work": "kept reporting data for a small distributor",
+    "stories": [
+      "I combined monthly order files into a PostgreSQL database for a small distributor. The files used different customer codes, so I made a mapping table and checked duplicates before importing anything. I wrote SQL queries to compare the old totals with the new database. The finance team could trace every total back to an order.",
+      "I compared the weekly returns report with the warehouse records. I grouped the differences by product and reason, checked a sample with the packing team and found that damaged items were recorded twice. I documented the correction and repeated the comparison the following week. The figures then agreed with the physical count.",
+      "I drew a data model showing customers, orders and returns and explained it to the finance team. I wrote the import checks next to the diagram, including how to handle a missing identifier. A colleague followed the guide to prepare the next report and told me which steps needed examples. I added those examples."
+    ]
+  },
+  {
+    "domain": "software quality",
+    "brief": "someone to make releases more reliable",
+    "qs": [
+      "develop automated software tests",
+      "develop software test procedures",
+      "debug software",
+      "analyse test data"
+    ],
+    "tasks": [
+      "Automate checks for the main customer journeys before each release.",
+      "Reproduce intermittent errors and record the steps to fix them.",
+      "Compare failed test runs to find recurring release problems."
+    ],
+    "work": "tested a membership service for a sports club",
+    "stories": [
+      "I wrote automated browser tests for a sports club membership service. The tests cover joining, changing an address and cancelling a booking. I used separate test accounts so no real member records changed. I added these checks to the release process and made a short report the volunteers could read when a check failed.",
+      "A booking error only happened when a session had one place left. I made a repeatable example with two simultaneous requests, captured the logs and showed the developer exactly what happened. After the fix, I repeated the test with empty sessions and full sessions as well. I recorded the expected result for each case.",
+      "I collected the results from several test runs and grouped failures by screen and browser. Most came from the same date field on small screens. I compared the failed cases, wrote a clear issue and checked the change after it was released. I then updated our test checklist so the issue would be caught earlier."
+    ]
+  },
+  {
+    "domain": "reliable systems",
+    "brief": "support for our cloud operations",
+    "qs": [
+      "monitor system performance",
+      "ensure information security",
+      "provide technical documentation",
+      "assess risks"
+    ],
+    "tasks": [
+      "Monitor the service and explain slow requests from the logs.",
+      "Review service access and document a safe recovery procedure.",
+      "Write a runbook for the team handling service interruptions."
+    ],
+    "work": "maintained the systems at a community media studio",
+    "stories": [
+      "I monitored a community media server during live broadcasts. I recorded response times and disk usage, compared them with the broadcast schedule and found a backup job running during the busiest hour. I moved the job and checked the next three broadcasts. The audio uploads completed without the earlier delays.",
+      "I reviewed the accounts that could access our shared server. Former volunteers still had access, so I checked the list with the studio manager and removed accounts after approval. I enabled separate accounts for new volunteers and wrote down the restore procedure. We tested restoring a sample folder before relying on the backup.",
+      "I wrote a runbook for the person on duty when the media server stopped responding. It lists the checks in order and says when to call the supplier. I asked a new volunteer to follow it using a practice failure. Their questions helped me replace unclear instructions and add the missing screenshots."
+    ]
+  },
+  {
+    "domain": "team learning",
+    "brief": "help people adopt our new tools",
+    "qs": [
+      "train employees",
+      "manage projects",
+      "analyse business processes",
+      "provide technical documentation"
+    ],
+    "tasks": [
+      "Teach the service team to use the new case-management tool.",
+      "Map the handover process and remove repeated manual steps.",
+      "Document the rollout and organise practice sessions."
+    ],
+    "work": "organised a volunteer repair group",
+    "stories": [
+      "I organised the launch of a tool-sharing service for our neighbourhood repair group. I divided the work into small tasks, agreed dates with the volunteers and kept a shared list of decisions. When a supplier was late, I changed the order of the tasks and explained the new plan. We opened with the equipment we had.",
+      "I mapped how a repair request moved between the reception desk and the volunteer fixing it. We were copying the same information into two notebooks. I drew the steps with the team, tried one shared form for a week and checked whether anything was missing. We kept the simpler process and wrote down who updates each field.",
+      "I taught new volunteers how to record a repair and find the safety instructions. I made a short practice exercise, watched each person try it and changed the guide where they hesitated. I checked in the following week to see what still caused problems. The guide now includes examples from the questions they asked."
+    ]
+  },
+  {
+    "domain": "customer operations",
+    "brief": "help with customer support and stock records",
+    "qs": [
+      "customer service",
+      "manage inventory",
+      "use spreadsheets software",
+      "train employees"
+    ],
+    "tasks": [
+      "Track stock shortages and show the team what to reorder.",
+      "Resolve customer requests and record recurring causes.",
+      "Train the support team to keep consistent case notes."
+    ],
+    "work": "coordinated a small equipment rental desk",
+    "stories": [
+      "I kept the stock records at an equipment rental desk. I built a spreadsheet listing each item, its return date and its condition, then checked it against the shelf every Friday. I used formulas to flag overdue returns and low stock. The team used the sheet to decide what to repair or reorder before the weekend.",
+      "I handled customer questions when a rented tool stopped working. I asked what had happened, checked the return notes and agreed a replacement with the supervisor. I recorded the cause and the action in the case log. At the end of the month I grouped repeated problems so we could improve the instructions supplied with the tools.",
+      "I taught two new colleagues how to check returns and update the stock sheet. We practised with damaged items and missing parts before their first busy shift. I wrote a checklist and asked them to explain the process back to me. Their feedback helped me put the safety check before the paperwork."
+    ]
+  },
+  {
+    "domain": "hardware measurements",
+    "brief": "help with sensor data and testing",
+    "qs": [
+      "collect data",
+      "analyse test data",
+      "perform data analysis",
+      "provide technical documentation"
+    ],
+    "tasks": [
+      "Collect sensor measurements and flag readings outside the expected range.",
+      "Compare bench test results and explain repeatable faults.",
+      "Document the measurement setup so the team can repeat it."
+    ],
+    "work": "recorded measurements in a bicycle repair workshop",
+    "stories": [
+      "I collected brake and battery measurements in a bicycle repair workshop. I labelled each bike, recorded the tool settings and repeated unusual readings before entering them in the sheet. I kept the original readings alongside the summary. The technician could compare a repaired bike with its first measurement without guessing which record belonged to it.",
+      "I compared the results from repeated battery tests and plotted the readings by temperature. One test stand gave consistently lower readings, so I swapped the measuring leads and repeated the test. The difference followed the damaged lead. I recorded the result and checked the replacement before returning the stand to use.",
+      "I wrote down the measurement setup with a diagram, the tool settings and the order of the checks. A colleague repeated the measurements using only the guide and noted where a step was unclear. I added an example of an unusual result and explained when to stop and ask the technician rather than change a value."
+    ]
+  }
+]

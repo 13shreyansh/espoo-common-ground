@@ -1,0 +1,95 @@
+[
+  {
+    "name": "Routa Logistics",
+    "count": 0,
+    "at": "2026-11-14T22:51:31.432Z",
+    "url": "https://avoindata.prh.fi/opendata-ytj-api/v3/companies?name=Routa%20Logistics"
+  },
+  {
+    "name": "Kuura Cloud",
+    "count": 0,
+    "at": "2026-11-14T22:51:32.417Z",
+    "url": "https://avoindata.prh.fi/opendata-ytj-api/v3/companies?name=Kuura%20Cloud"
+  },
+  {
+    "name": "Havu Robotics",
+    "count": 0,
+    "at": "2026-11-14T22:51:32.998Z",
+    "url": "https://avoindata.prh.fi/opendata-ytj-api/v3/companies?name=Havu%20Robotics"
+  },
+  {
+    "name": "Vellamo Marine Systems",
+    "count": 0,
+    "at": "2026-11-14T22:51:33.826Z",
+    "url": "https://avoindata.prh.fi/opendata-ytj-api/v3/companies?name=Vellamo%20Marine%20Systems"
+  },
+  {
+    "name": "Sirkka Analytics",
+    "count": 0,
+    "at": "2026-11-14T22:51:34.765Z",
+    "url": "https://avoindata.prh.fi/opendata-ytj-api/v3/companies?name=Sirkka%20Analytics"
+  },
+  {
+    "name": "Lakka Payments",
+    "count": 0,
+    "at": "2026-11-14T22:51:35.346Z",
+    "url": "https://avoindata.prh.fi/opendata-ytj-api/v3/companies?name=Lakka%20Payments"
+  },
+  {
+    "name": "Tyrsky Games",
+    "count": 0,
+    "at": "2026-11-14T22:51:36.217Z",
+    "url": "https://avoindata.prh.fi/opendata-ytj-api/v3/companies?name=Tyrsky%20Games"
+  },
+  {
+    "name": "Ruska Health",
+    "count": 0,
+    "at": "2026-11-14T22:51:36.786Z",
+    "url": "https://avoindata.prh.fi/opendata-ytj-api/v3/companies?name=Ruska%20Health"
+  },
+  {
+    "name": "Merituuli Grid",
+    "count": 0,
+    "at": "2026-11-14T22:51:37.454Z",
+    "url": "https://avoindata.prh.fi/opendata-ytj-api/v3/companies?name=Merituuli%20Grid"
+  },
+  {
+    "name": "Sarastus Software",
+    "count": 0,
+    "at": "2026-11-14T22:51:38.096Z",
+    "url": "https://avoindata.prh.fi/opendata-ytj-api/v3/companies?name=Sarastus%20Software"
+  },
+  {
+    "name": "Kelo Sensors",
+    "count": 0,
+    "at": "2026-11-14T22:51:38.979Z",
+    "url": "https://avoindata.prh.fi/opendata-ytj-api/v3/companies?name=Kelo%20Sensors"
+  },
+  {
+    "name": "Louhi Security",
+    "count": 1,
+    "at": "2026-11-14T22:51:40.040Z",
+    "url": "https://avoindata.prh.fi/opendata-ytj-api/v3/companies?name=Louhi%20Security",
+    "replacement": "Louhi Security Works",
+    "replacement_url": "https://avoindata.prh.fi/opendata-ytj-api/v3/companies?name=Louhi%20Security%20Works",
+    "replacement_count": 0
+  },
+  {
+    "name": "Nuotio Learning",
+    "count": 0,
+    "at": "2026-11-14T22:51:40.640Z",
+    "url": "https://avoindata.prh.fi/opendata-ytj-api/v3/companies?name=Nuotio%20Learning"
+  },
+  {
+    "name": "Pilke Mobility",
+    "count": 0,
+    "at": "2026-11-14T22:51:41.214Z",
+    "url": "https://avoindata.prh.fi/opendata-ytj-api/v3/companies?name=Pilke%20Mobility"
+  },
+  {
+    "name": "Pohjanvalo Energy",
+    "count": 0,
+    "at": "2026-11-14T22:51:41.789Z",
+    "url": "https://avoindata.prh.fi/opendata-ytj-api/v3/companies?name=Pohjanvalo%20Energy"
+  }
+]
