@@ -14,4 +14,6 @@ The audit is explicitly a known-set replay after a fresh reviewer found a physic
 
 Commit `1859c4b` only recorded public-source availability. The subsequent closure commit adds the production URL, Chief verification report/captures and print limitation to the README and handoff. Neither changes the tested runtime, scheduling policy, fixtures, grader, audit results or sealed evidence. Its exact commit is recorded in git and the Junction bridge; any documentation-only Vercel deployment should be logged separately from the tested runtime deployment above. A push alone is not represented as proof of a second production deployment.
 
+The Chief recorded documentation-only commit `bfe3148` separately. A follow-up IAB navigation to the production `/docs/VERIFICATION.md` URL returned `net::ERR_BLOCKED_BY_CLIENT`. There is no deployed-document browser pass. This does not overturn the previously observed live runtime workflow checks, and it does not establish that the document is absent or broken. Read the committed report in the public repository.
+
 C-14 build deliverables and Espoo's C-16 component are complete. Public video recording/publication and final competition submission have not been performed. The under-two-minute script and combined peer-pitch notes are ready. Final competition deadline is Sunday 15 November 2026, 10:00 Helsinki.

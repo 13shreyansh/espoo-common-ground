@@ -28,3 +28,7 @@ The Print card click invoked a blocking IAB print interaction and the click time
 [Desktop capture](proof/desktop.jpg), [mobile capture](proof/mobile.jpg), [mobile audit capture](proof/audit-mobile.jpg). These are synthetic demo screens captured by the Chief. The project owner inspected the desktop/mobile captures in a bounded final review and found no new release-blocking visual issue. No further live features, policy changes or audit tuning followed.
 
 Viewport overrides and synthetic workspace were reset at the end. No applicant data, final competition form, Discord message, public video publication, purchase or account-setting change was involved. This evidence does not establish real hiring quality, fairness, legal compliance, participant-authenticated consent, scale or concurrent multi-user behavior.
+
+## Documentation follow-up
+
+After documentation-only commit `bfe3148`, the Chief's direct IAB navigation to the production `/docs/VERIFICATION.md` URL returned `net::ERR_BLOCKED_BY_CLIENT`. No deployed-document browser pass is claimed. This is separate from the live runtime checks above; it does not prove that the document is missing or broken. The committed report remains available in the public repository.

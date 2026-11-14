@@ -16,4 +16,6 @@ The displayed 16/16 valid held-out schedules versus 8/16 keyword-baseline schedu
 
 [Release status](RELEASE.md) separates tested-runtime deployment from later documentation-only commits. Closure documentation updates only the README, handoff, browser report and captures. Any later documentation-only deployment needs its own observed deployment ID; a source push alone is not that evidence.
 
+The Chief recorded docs-only `bfe3148` separately. Its follow-up IAB request to the production `/docs/VERIFICATION.md` URL returned `net::ERR_BLOCKED_BY_CLIENT`, so deployed-document browser verification is not claimed. The existing public runtime workflow proof still stands; the report is available in the committed public source.
+
 Remaining presentation actions: [record the public video](VIDEO_SCRIPT.md), target 1:50 and hard stop 2:00; use the [35-second combined peer-pitch segment or five-minute notes](PITCH.md). No video publication or final competition submission has been performed. Final deadline: Sunday 15 November 2026, 10:00 Helsinki. Those actions remain outside this build closure.
