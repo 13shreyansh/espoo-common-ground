@@ -8,6 +8,8 @@
 | Innovation & UX, 35% | Record talent's yes and company's yes, create a card, print it or save the calendar entry. Cancel a meeting and build a replacement proposal. | [Interface](src/app.mjs), [workflow tests](tests), video script 0:43–1:24 |
 | Responsible & feasible execution, 20% | Open Audit & limits. Compare the CV keyword baseline, inspect the family split, read the selection-rate gap. | [Specification](EVAL_SPEC.md), [ledger and failures](eval/LEDGER.md), [fresh-context review](eval/REVIEW.md), [frozen traces](eval/results.json), [fixtures](eval/fixtures.json) |
 
+[Public MIT source](https://github.com/13shreyansh/espoo-common-ground). Vercel publication and real-browser verification are tracked in the release status below.
+
 An organiser's desk for a small Espoo recruitment event. Concrete company needs meet transferable work evidence, then both people agree to a practical in-person introduction. Built for Junction 2026 by Shreyansh, team The CS Guy. Independent prototype, no official City of Espoo affiliation implied.
 
 The running demo contains fictional companies, fictional work samples, seven talent entries, three active tables and six available meeting slots. No real applicants, model API, CV upload or automatic employment decision. The numbers describe synthetic rule conformance, not hiring quality or observed real meetings.
