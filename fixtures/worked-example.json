@@ -1,0 +1,709 @@
+{
+  "input": {
+    "people": [
+      {
+        "id": "b793bc620197b308cd85f77f",
+        "skills": [
+          "example"
+        ],
+        "interested": [],
+        "slots": [
+          "13:00",
+          "13:10",
+          "13:20",
+          "13:30"
+        ],
+        "max": 1
+      },
+      {
+        "id": "baf92b2dc2d5e2625e159de9",
+        "skills": [
+          "example"
+        ],
+        "interested": [],
+        "slots": [
+          "13:00",
+          "13:10",
+          "13:20",
+          "13:30"
+        ],
+        "max": 1
+      },
+      {
+        "id": "448a5ddc6ed48e1c21ba85a5",
+        "skills": [
+          "example"
+        ],
+        "interested": [],
+        "slots": [
+          "13:00",
+          "13:10",
+          "13:20",
+          "13:30"
+        ],
+        "max": 1
+      },
+      {
+        "id": "4f07fa9a404775ddc0838ca8",
+        "skills": [
+          "example"
+        ],
+        "interested": [],
+        "slots": [
+          "13:00",
+          "13:10",
+          "13:20",
+          "13:30"
+        ],
+        "max": 1
+      },
+      {
+        "id": "5e86806fc4ec247ea16ce061",
+        "skills": [
+          "example"
+        ],
+        "interested": [],
+        "slots": [
+          "13:00",
+          "13:10",
+          "13:20",
+          "13:30"
+        ],
+        "max": 1
+      },
+      {
+        "id": "89d4e1ac59fe9f467031806f",
+        "skills": [
+          "example"
+        ],
+        "interested": [],
+        "slots": [
+          "13:00",
+          "13:10",
+          "13:20",
+          "13:30"
+        ],
+        "max": 1
+      }
+    ],
+    "companies": [
+      {
+        "id": "example-0",
+        "tasks": [
+          {
+            "id": "task-0",
+            "skills": [
+              {
+                "uri": "example"
+              }
+            ]
+          }
+        ],
+        "interest": [],
+        "tables": [
+          1
+        ],
+        "slots": [
+          "13:00",
+          "13:10"
+        ]
+      },
+      {
+        "id": "example-1",
+        "tasks": [
+          {
+            "id": "task-1",
+            "skills": [
+              {
+                "uri": "example"
+              }
+            ]
+          }
+        ],
+        "interest": [],
+        "tables": [
+          2
+        ],
+        "slots": [
+          "13:00",
+          "13:10"
+        ]
+      },
+      {
+        "id": "example-2",
+        "tasks": [
+          {
+            "id": "task-2",
+            "skills": [
+              {
+                "uri": "example"
+              }
+            ]
+          }
+        ],
+        "interest": [],
+        "tables": [
+          3
+        ],
+        "slots": [
+          "13:00",
+          "13:10"
+        ]
+      }
+    ]
+  },
+  "people": [
+    {
+      "id": "b793bc620197b308cd85f77f",
+      "name": "Daniela R."
+    },
+    {
+      "id": "baf92b2dc2d5e2625e159de9",
+      "name": "Aino K."
+    },
+    {
+      "id": "448a5ddc6ed48e1c21ba85a5",
+      "name": "Farhan A."
+    },
+    {
+      "id": "4f07fa9a404775ddc0838ca8",
+      "name": "Oksana K."
+    },
+    {
+      "id": "5e86806fc4ec247ea16ce061",
+      "name": "Mikael N."
+    },
+    {
+      "id": "89d4e1ac59fe9f467031806f",
+      "name": "Li W."
+    }
+  ],
+  "matched": [
+    {
+      "person": "448a5ddc6ed48e1c21ba85a5",
+      "company": "example-0",
+      "task": "task-0",
+      "fit": 1,
+      "proof": 1,
+      "total": 1,
+      "ps": 100,
+      "cs": 100
+    },
+    {
+      "person": "4f07fa9a404775ddc0838ca8",
+      "company": "example-0",
+      "task": "task-0",
+      "fit": 1,
+      "proof": 1,
+      "total": 1,
+      "ps": 100,
+      "cs": 100
+    },
+    {
+      "person": "5e86806fc4ec247ea16ce061",
+      "company": "example-1",
+      "task": "task-1",
+      "fit": 1,
+      "proof": 1,
+      "total": 1,
+      "ps": 100,
+      "cs": 100
+    },
+    {
+      "person": "89d4e1ac59fe9f467031806f",
+      "company": "example-1",
+      "task": "task-1",
+      "fit": 1,
+      "proof": 1,
+      "total": 1,
+      "ps": 100,
+      "cs": 100
+    },
+    {
+      "person": "b793bc620197b308cd85f77f",
+      "company": "example-2",
+      "task": "task-2",
+      "fit": 1,
+      "proof": 1,
+      "total": 1,
+      "ps": 100,
+      "cs": 100
+    },
+    {
+      "person": "baf92b2dc2d5e2625e159de9",
+      "company": "example-2",
+      "task": "task-2",
+      "fit": 1,
+      "proof": 1,
+      "total": 1,
+      "ps": 100,
+      "cs": 100
+    }
+  ],
+  "rounds": [
+    {
+      "number": 1,
+      "proposals": [
+        {
+          "person": "b793bc620197b308cd85f77f",
+          "company": "example-0"
+        },
+        {
+          "person": "baf92b2dc2d5e2625e159de9",
+          "company": "example-0"
+        },
+        {
+          "person": "448a5ddc6ed48e1c21ba85a5",
+          "company": "example-0"
+        },
+        {
+          "person": "4f07fa9a404775ddc0838ca8",
+          "company": "example-0"
+        },
+        {
+          "person": "5e86806fc4ec247ea16ce061",
+          "company": "example-0"
+        },
+        {
+          "person": "89d4e1ac59fe9f467031806f",
+          "company": "example-0"
+        }
+      ],
+      "holds": [
+        {
+          "person": "448a5ddc6ed48e1c21ba85a5",
+          "company": "example-0"
+        },
+        {
+          "person": "4f07fa9a404775ddc0838ca8",
+          "company": "example-0"
+        }
+      ],
+      "passed": [
+        {
+          "person": "5e86806fc4ec247ea16ce061",
+          "company": "example-0"
+        },
+        {
+          "person": "89d4e1ac59fe9f467031806f",
+          "company": "example-0"
+        },
+        {
+          "person": "b793bc620197b308cd85f77f",
+          "company": "example-0"
+        },
+        {
+          "person": "baf92b2dc2d5e2625e159de9",
+          "company": "example-0"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "proposals": [
+        {
+          "person": "b793bc620197b308cd85f77f",
+          "company": "example-1"
+        },
+        {
+          "person": "baf92b2dc2d5e2625e159de9",
+          "company": "example-1"
+        },
+        {
+          "person": "5e86806fc4ec247ea16ce061",
+          "company": "example-1"
+        },
+        {
+          "person": "89d4e1ac59fe9f467031806f",
+          "company": "example-1"
+        }
+      ],
+      "holds": [
+        {
+          "person": "448a5ddc6ed48e1c21ba85a5",
+          "company": "example-0"
+        },
+        {
+          "person": "4f07fa9a404775ddc0838ca8",
+          "company": "example-0"
+        },
+        {
+          "person": "5e86806fc4ec247ea16ce061",
+          "company": "example-1"
+        },
+        {
+          "person": "89d4e1ac59fe9f467031806f",
+          "company": "example-1"
+        }
+      ],
+      "passed": [
+        {
+          "person": "b793bc620197b308cd85f77f",
+          "company": "example-1"
+        },
+        {
+          "person": "baf92b2dc2d5e2625e159de9",
+          "company": "example-1"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "proposals": [
+        {
+          "person": "b793bc620197b308cd85f77f",
+          "company": "example-2"
+        },
+        {
+          "person": "baf92b2dc2d5e2625e159de9",
+          "company": "example-2"
+        }
+      ],
+      "holds": [
+        {
+          "person": "448a5ddc6ed48e1c21ba85a5",
+          "company": "example-0"
+        },
+        {
+          "person": "4f07fa9a404775ddc0838ca8",
+          "company": "example-0"
+        },
+        {
+          "person": "5e86806fc4ec247ea16ce061",
+          "company": "example-1"
+        },
+        {
+          "person": "89d4e1ac59fe9f467031806f",
+          "company": "example-1"
+        },
+        {
+          "person": "b793bc620197b308cd85f77f",
+          "company": "example-2"
+        },
+        {
+          "person": "baf92b2dc2d5e2625e159de9",
+          "company": "example-2"
+        }
+      ],
+      "passed": []
+    }
+  ],
+  "ranks": {
+    "pairs": [
+      {
+        "person": "b793bc620197b308cd85f77f",
+        "company": "example-0",
+        "task": "task-0",
+        "fit": 1,
+        "proof": 1,
+        "total": 1,
+        "ps": 100,
+        "cs": 100
+      },
+      {
+        "person": "b793bc620197b308cd85f77f",
+        "company": "example-1",
+        "task": "task-1",
+        "fit": 1,
+        "proof": 1,
+        "total": 1,
+        "ps": 100,
+        "cs": 100
+      },
+      {
+        "person": "b793bc620197b308cd85f77f",
+        "company": "example-2",
+        "task": "task-2",
+        "fit": 1,
+        "proof": 1,
+        "total": 1,
+        "ps": 100,
+        "cs": 100
+      },
+      {
+        "person": "baf92b2dc2d5e2625e159de9",
+        "company": "example-0",
+        "task": "task-0",
+        "fit": 1,
+        "proof": 1,
+        "total": 1,
+        "ps": 100,
+        "cs": 100
+      },
+      {
+        "person": "baf92b2dc2d5e2625e159de9",
+        "company": "example-1",
+        "task": "task-1",
+        "fit": 1,
+        "proof": 1,
+        "total": 1,
+        "ps": 100,
+        "cs": 100
+      },
+      {
+        "person": "baf92b2dc2d5e2625e159de9",
+        "company": "example-2",
+        "task": "task-2",
+        "fit": 1,
+        "proof": 1,
+        "total": 1,
+        "ps": 100,
+        "cs": 100
+      },
+      {
+        "person": "448a5ddc6ed48e1c21ba85a5",
+        "company": "example-0",
+        "task": "task-0",
+        "fit": 1,
+        "proof": 1,
+        "total": 1,
+        "ps": 100,
+        "cs": 100
+      },
+      {
+        "person": "448a5ddc6ed48e1c21ba85a5",
+        "company": "example-1",
+        "task": "task-1",
+        "fit": 1,
+        "proof": 1,
+        "total": 1,
+        "ps": 100,
+        "cs": 100
+      },
+      {
+        "person": "448a5ddc6ed48e1c21ba85a5",
+        "company": "example-2",
+        "task": "task-2",
+        "fit": 1,
+        "proof": 1,
+        "total": 1,
+        "ps": 100,
+        "cs": 100
+      },
+      {
+        "person": "4f07fa9a404775ddc0838ca8",
+        "company": "example-0",
+        "task": "task-0",
+        "fit": 1,
+        "proof": 1,
+        "total": 1,
+        "ps": 100,
+        "cs": 100
+      },
+      {
+        "person": "4f07fa9a404775ddc0838ca8",
+        "company": "example-1",
+        "task": "task-1",
+        "fit": 1,
+        "proof": 1,
+        "total": 1,
+        "ps": 100,
+        "cs": 100
+      },
+      {
+        "person": "4f07fa9a404775ddc0838ca8",
+        "company": "example-2",
+        "task": "task-2",
+        "fit": 1,
+        "proof": 1,
+        "total": 1,
+        "ps": 100,
+        "cs": 100
+      },
+      {
+        "person": "5e86806fc4ec247ea16ce061",
+        "company": "example-0",
+        "task": "task-0",
+        "fit": 1,
+        "proof": 1,
+        "total": 1,
+        "ps": 100,
+        "cs": 100
+      },
+      {
+        "person": "5e86806fc4ec247ea16ce061",
+        "company": "example-1",
+        "task": "task-1",
+        "fit": 1,
+        "proof": 1,
+        "total": 1,
+        "ps": 100,
+        "cs": 100
+      },
+      {
+        "person": "5e86806fc4ec247ea16ce061",
+        "company": "example-2",
+        "task": "task-2",
+        "fit": 1,
+        "proof": 1,
+        "total": 1,
+        "ps": 100,
+        "cs": 100
+      },
+      {
+        "person": "89d4e1ac59fe9f467031806f",
+        "company": "example-0",
+        "task": "task-0",
+        "fit": 1,
+        "proof": 1,
+        "total": 1,
+        "ps": 100,
+        "cs": 100
+      },
+      {
+        "person": "89d4e1ac59fe9f467031806f",
+        "company": "example-1",
+        "task": "task-1",
+        "fit": 1,
+        "proof": 1,
+        "total": 1,
+        "ps": 100,
+        "cs": 100
+      },
+      {
+        "person": "89d4e1ac59fe9f467031806f",
+        "company": "example-2",
+        "task": "task-2",
+        "fit": 1,
+        "proof": 1,
+        "total": 1,
+        "ps": 100,
+        "cs": 100
+      }
+    ],
+    "people": {
+      "b793bc620197b308cd85f77f": [
+        "example-0",
+        "example-1",
+        "example-2"
+      ],
+      "baf92b2dc2d5e2625e159de9": [
+        "example-0",
+        "example-1",
+        "example-2"
+      ],
+      "448a5ddc6ed48e1c21ba85a5": [
+        "example-0",
+        "example-1",
+        "example-2"
+      ],
+      "4f07fa9a404775ddc0838ca8": [
+        "example-0",
+        "example-1",
+        "example-2"
+      ],
+      "5e86806fc4ec247ea16ce061": [
+        "example-0",
+        "example-1",
+        "example-2"
+      ],
+      "89d4e1ac59fe9f467031806f": [
+        "example-0",
+        "example-1",
+        "example-2"
+      ]
+    },
+    "companies": {
+      "example-0": [
+        "448a5ddc6ed48e1c21ba85a5",
+        "4f07fa9a404775ddc0838ca8",
+        "5e86806fc4ec247ea16ce061",
+        "89d4e1ac59fe9f467031806f",
+        "b793bc620197b308cd85f77f",
+        "baf92b2dc2d5e2625e159de9"
+      ],
+      "example-1": [
+        "448a5ddc6ed48e1c21ba85a5",
+        "4f07fa9a404775ddc0838ca8",
+        "5e86806fc4ec247ea16ce061",
+        "89d4e1ac59fe9f467031806f",
+        "b793bc620197b308cd85f77f",
+        "baf92b2dc2d5e2625e159de9"
+      ],
+      "example-2": [
+        "448a5ddc6ed48e1c21ba85a5",
+        "4f07fa9a404775ddc0838ca8",
+        "5e86806fc4ec247ea16ce061",
+        "89d4e1ac59fe9f467031806f",
+        "b793bc620197b308cd85f77f",
+        "baf92b2dc2d5e2625e159de9"
+      ]
+    }
+  },
+  "meetings": [
+    {
+      "person": "448a5ddc6ed48e1c21ba85a5",
+      "company": "example-0",
+      "task": "task-0",
+      "fit": 1,
+      "proof": 1,
+      "total": 1,
+      "ps": 100,
+      "cs": 100,
+      "slot": "13:00",
+      "table": 1
+    },
+    {
+      "person": "4f07fa9a404775ddc0838ca8",
+      "company": "example-0",
+      "task": "task-0",
+      "fit": 1,
+      "proof": 1,
+      "total": 1,
+      "ps": 100,
+      "cs": 100,
+      "slot": "13:10",
+      "table": 1
+    },
+    {
+      "person": "5e86806fc4ec247ea16ce061",
+      "company": "example-1",
+      "task": "task-1",
+      "fit": 1,
+      "proof": 1,
+      "total": 1,
+      "ps": 100,
+      "cs": 100,
+      "slot": "13:00",
+      "table": 2
+    },
+    {
+      "person": "89d4e1ac59fe9f467031806f",
+      "company": "example-1",
+      "task": "task-1",
+      "fit": 1,
+      "proof": 1,
+      "total": 1,
+      "ps": 100,
+      "cs": 100,
+      "slot": "13:10",
+      "table": 2
+    },
+    {
+      "person": "b793bc620197b308cd85f77f",
+      "company": "example-2",
+      "task": "task-2",
+      "fit": 1,
+      "proof": 1,
+      "total": 1,
+      "ps": 100,
+      "cs": 100,
+      "slot": "13:00",
+      "table": 3
+    },
+    {
+      "person": "baf92b2dc2d5e2625e159de9",
+      "company": "example-2",
+      "task": "task-2",
+      "fit": 1,
+      "proof": 1,
+      "total": 1,
+      "ps": 100,
+      "cs": 100,
+      "slot": "13:10",
+      "table": 3
+    }
+  ],
+  "unplaced": [],
+  "nodes": 6
+}

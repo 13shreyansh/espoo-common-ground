@@ -45,5 +45,5 @@
     "thoughtsTokenCount": 634,
     "serviceTier": "standard"
   },
-  "cache_hit": false
+  "cache_hit": true
 }

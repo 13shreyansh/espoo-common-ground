@@ -1,0 +1,47 @@
+{
+  "model": "gemini-3.8-flash",
+  "prompt_version": "cg-2.1",
+  "at": "2026-11-14T23:18:29.136Z",
+  "kind": "tasks",
+  "input_hash": "ef5c756f5c05f089b322cd77fe0d61c948b44d47900610fdb2a380f002e11d80",
+  "answer": {
+    "tasks": [
+      {
+        "line": "Build a customer-facing sign-up and order flow prototype to streamline incoming customer requests.",
+        "skills": [
+          "develop software prototype",
+          "implement front-end website design",
+          "JavaScript"
+        ]
+      },
+      {
+        "line": "Analyse exported operational data from scattered spreadsheets to consolidate business records.",
+        "skills": [
+          "perform data analysis",
+          "use spreadsheets software",
+          "gather data"
+        ]
+      },
+      {
+        "line": "Develop an automated status report view to replace manual updates and track operational activity.",
+        "skills": [
+          "manage database",
+          "SQL",
+          "Python (computer programming)"
+        ]
+      }
+    ]
+  },
+  "usage": {
+    "promptTokenCount": 2691,
+    "candidatesTokenCount": 182,
+    "totalTokenCount": 2873,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 2691
+      }
+    ],
+    "serviceTier": "standard"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "model": "gemini-3.8-flash",
+  "prompt_version": "cg-2.1",
+  "at": "2026-11-14T23:17:50.693Z",
+  "kind": "evidence",
+  "input_hash": "b57eedc8207660ac1243f55774b5116b2a9d609a36904c2fc098c61fda38a380",
+  "answer": {
+    "people": [
+      {
+        "id": "b793bc620197b308cd85f77f",
+        "evidence": [
+          {
+            "uri": "http://data.europa.eu/esco/skill/1973c966-f236-40c9-b2d4-5d71a89019be",
+            "story_index": 1,
+            "quote": "I built a spreadsheet that logged everything we threw away, by day and by reason.",
+            "mark": "spreadsheet"
+          },
+          {
+            "uri": "http://data.europa.eu/esco/skill/2b92a5b2-6758-4ee3-9fb4-b6387a55cc8f",
+            "story_index": 1,
+            "quote": "I compared the totals each week and found that most waste came from sandwiches prepared after lunch.",
+            "mark": "compared the totals each week and found that most waste came from sandwiches prepared after lunch"
+          },
+          {
+            "uri": "http://data.europa.eu/esco/skill/ab6265f2-a9bf-49e8-a9a5-67cbab4de38b",
+            "story_index": 2,
+            "quote": "I organised stock checks and showed six new colleagues how to update the ordering sheet.",
+            "mark": "stock checks"
+          },
+          {
+            "uri": "http://data.europa.eu/esco/skill/e54ff029-1ce9-447d-a5b2-eb7283a23e6e",
+            "story_index": 2,
+            "quote": "Each person tried a practice order while I watched.",
+            "mark": "practice order while I watched"
+          },
+          {
+            "uri": "http://data.europa.eu/esco/skill/04dfd9fb-e0cf-40f6-96c6-9d2280c4347e",
+            "story_index": 2,
+            "quote": "I wrote a one-page guide with examples of the mistakes we had made.",
+            "mark": "wrote a one-page guide"
+          }
+        ]
+      }
+    ]
+  },
+  "usage": {
+    "promptTokenCount": 2784,
+    "candidatesTokenCount": 439,
+    "totalTokenCount": 3223,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 2784
+      }
+    ],
+    "serviceTier": "standard"
+  }
+}

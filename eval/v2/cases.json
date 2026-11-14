@@ -1,0 +1,24 @@
+[
+  {
+    "kind": "scheduled",
+    "run": 1,
+    "label": 2,
+    "person": "Kwame Ahmed",
+    "company": "Vellamo Marine Systems",
+    "task_line": "Compare failed test runs to find recurring release problems.",
+    "proof_line": "I compared the results from repeated battery tests and plotted the readings by temperature.",
+    "proof_mark": "compared the results from repeated battery tests and plotted the readings by temperature",
+    "reason": "The pair shared general task skills, but its operational scenario differed. The frozen label judges that transfer too weak."
+  },
+  {
+    "kind": "missed",
+    "run": 1,
+    "label": 4,
+    "person": "Mariam Nyström",
+    "company": "Routa Logistics",
+    "task_line": "Build a simple tracker for late deliveries using the driver export.",
+    "proof_line": "I combined monthly order files into a PostgreSQL database for a small distributor.",
+    "proof_mark": "",
+    "reason": "Both had spare capacity in this run. The evidence-based order did not connect this pair; approving fewer skills can hide experience that the scenario label values."
+  }
+]

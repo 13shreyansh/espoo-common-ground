@@ -1,48 +1,47 @@
 {
   "model": "gemini-3.8-flash",
   "prompt_version": "cg-2.1",
-  "at": "2026-11-14T23:00:05.409Z",
+  "at": "2026-11-14T23:18:29.136Z",
   "kind": "tasks",
-  "input_hash": "7d00f065b83ad0eea5094547c37dfd0d857e87e57ec6e46cf63c47672b6d2f7e",
+  "input_hash": "ef5c756f5c05f089b322cd77fe0d61c948b44d47900610fdb2a380f002e11d80",
   "answer": {
     "tasks": [
       {
-        "line": "Build a customer-facing sign-up and order workflow interface.",
-        "queries": [
-          "develop web user interfaces",
+        "line": "Build a customer-facing sign-up and order flow prototype to streamline incoming customer requests.",
+        "skills": [
+          "develop software prototype",
           "implement front-end website design",
-          "back-end development"
+          "JavaScript"
         ]
       },
       {
-        "line": "Analyse exported operational data from scattered spreadsheets to streamline updates.",
-        "queries": [
-          "data analysis",
-          "process spreadsheet data",
-          "data extraction"
+        "line": "Analyse exported operational data from scattered spreadsheets to consolidate business records.",
+        "skills": [
+          "perform data analysis",
+          "use spreadsheets software",
+          "gather data"
         ]
       },
       {
-        "line": "Create an automated reporting view to eliminate manual status reporting.",
-        "queries": [
-          "develop automated reports",
-          "design dashboard",
-          "business intelligence"
+        "line": "Develop an automated status report view to replace manual updates and track operational activity.",
+        "skills": [
+          "manage database",
+          "SQL",
+          "Python (computer programming)"
         ]
       }
     ]
   },
   "usage": {
-    "promptTokenCount": 213,
-    "candidatesTokenCount": 92,
-    "totalTokenCount": 1236,
+    "promptTokenCount": 2691,
+    "candidatesTokenCount": 182,
+    "totalTokenCount": 2873,
     "promptTokensDetails": [
       {
         "modality": "TEXT",
-        "tokenCount": 213
+        "tokenCount": 2691
       }
     ],
-    "thoughtsTokenCount": 931,
     "serviceTier": "standard"
   },
   "cache_hit": false

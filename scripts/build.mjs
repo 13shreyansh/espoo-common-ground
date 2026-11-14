@@ -1,6 +1,3 @@
-import {mkdir,rm,cp} from 'node:fs/promises';
-await rm('dist',{recursive:true,force:true});
-await mkdir('dist');
-for (const name of ['index.html','styles.css','src','public','eval','docs','LICENSE','README.md','EVAL_SPEC.md'])
-  await cp(name, `dist/${name}`, {recursive:true});
-console.log('Static app and inspectable evidence built in dist/.');
+import {mkdir,rm,cp,writeFile,readdir} from 'node:fs/promises';import {execFileSync} from 'node:child_process';
+for(const dir of ['client','server'])for(const file of await readdir(dir))if(file.endsWith('.mjs'))execFileSync(process.execPath,['--check',dir+'/'+file]);
+await rm('dist',{recursive:true,force:true});await mkdir('dist');for(const name of ['index.html','styles.css','client','fonts','sw.js','icons.svg','favicon.svg'])await cp(name,'dist/'+name,{recursive:true});await writeFile('dist/release.json',JSON.stringify({commit:execFileSync('git',['rev-parse','HEAD'],{encoding:'utf8'}).trim()}));console.log('Built Common Ground static client. Server and secrets are not included in public assets.');

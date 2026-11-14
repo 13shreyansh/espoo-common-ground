@@ -147,7 +147,8 @@
         "https://thehub.io/jobs/65ae0ecb68ec61152d913835",
         "https://duunitori.fi/tyopaikat/ammatti/ohjelmistokehittaja/alue/espoo"
       ],
-      "source_seed": "Designing, coding, testing and debugging software."
+      "source_seed": "Designing, coding, testing and debugging software.",
+      "finding_sentence": "Kuura Cloud asked for “a developer for internal tools”. That became 3 tasks."
     },
     {
       "key": "2e3aceaa00a77e95dbbaffae",
@@ -256,7 +257,8 @@
       "source_links": [
         "https://thehub.io/jobs/611e21ebe707123e51a34153"
       ],
-      "source_seed": "Acquiring, harmonising and analysing datasets, then managing the data."
+      "source_seed": "Acquiring, harmonising and analysing datasets, then managing the data.",
+      "finding_sentence": "Havu Robotics asked for “help with reporting and reliable data”. That became 3 tasks."
     },
     {
       "key": "6600814a81bba012275a1e5e",
@@ -349,7 +351,8 @@
       "source_links": [
         "https://www.workinfinland.com/en/open-jobs/?query=Software"
       ],
-      "source_seed": "Software testing, manufacturing software and telemetry engineering."
+      "source_seed": "Software testing, manufacturing software and telemetry engineering.",
+      "finding_sentence": "Vellamo Marine Systems asked for “someone to make releases more reliable”. That became 3 tasks."
     },
     {
       "key": "5e28380668a37ea4f112546c",
@@ -443,7 +446,8 @@
       "source_links": [
         "https://thehub.io/jobs/6a670aa3574e266cb973dabf"
       ],
-      "source_seed": "Reliable pipelines, monitored stores, automated recovery and technical support."
+      "source_seed": "Reliable pipelines, monitored stores, automated recovery and technical support.",
+      "finding_sentence": "Sirkka Analytics asked for “support for our cloud operations”. That became 3 tasks."
     },
     {
       "key": "dbc49fbdda5c3f3713a4e822",
@@ -547,7 +551,8 @@
       "source_links": [
         "https://thehub.io/jobs/6ae47f6b381715d3e6b7fbea"
       ],
-      "source_seed": "Playbooks, action registers, team coordination, reports and dashboards."
+      "source_seed": "Playbooks, action registers, team coordination, reports and dashboards.",
+      "finding_sentence": "Lakka Payments asked for “help people adopt our new tools”. That became 3 tasks."
     },
     {
       "key": "66d1d6d554d887b3196156d8",
@@ -658,7 +663,8 @@
       "source_links": [
         "https://thehub.io/jobs/6ae47f6b381715d3e6b7fbea"
       ],
-      "source_seed": "Recurring customer requests, follow-up and consistent case records."
+      "source_seed": "Recurring customer requests, follow-up and consistent case records.",
+      "finding_sentence": "Tyrsky Games asked for “help with customer support and stock records”. That became 3 tasks."
     }
   ],
   "people": [
@@ -666,7 +672,7 @@
       "key": "b793bc620197b308cd85f77f",
       "first_name": "Daniela",
       "last_name": "Rojas",
-      "display_first": "Daniela",
+      "display_first": "Daniela R.",
       "last_work_line": "ran a café in Tapiola for four years",
       "stories": [
         {
@@ -737,13 +743,14 @@
         "prompt_version": "cg-2.1",
         "at": "2026-11-14T22:54:19.565Z",
         "input_hash": "25d839870fdaa350a9ef14c1bd90026b269ac99a1fbc54e1d53374d473d71bba"
-      }
+      },
+      "finding_sentence": "Daniela Rojas ran a café in Tapiola. Their own words prove 3 skills."
     },
     {
       "key": "baf92b2dc2d5e2625e159de9",
       "first_name": "Aino",
       "last_name": "Korhonen",
-      "display_first": "Aino",
+      "display_first": "Aino K.",
       "last_work_line": "recorded measurements in a bicycle repair workshop",
       "stories": [
         {
@@ -802,13 +809,14 @@
         "prompt_version": "cg-2.1",
         "at": "2026-11-14T22:54:19.565Z",
         "input_hash": "25d839870fdaa350a9ef14c1bd90026b269ac99a1fbc54e1d53374d473d71bba"
-      }
+      },
+      "finding_sentence": "Aino Korhonen checked bicycle measurements. Their own words prove 2 skills."
     },
     {
       "key": "448a5ddc6ed48e1c21ba85a5",
       "first_name": "Farhan",
       "last_name": "Ahmed",
-      "display_first": "Farhan",
+      "display_first": "Farhan A.",
       "last_work_line": "coordinated a small equipment rental desk",
       "stories": [
         {
@@ -891,13 +899,14 @@
         "prompt_version": "cg-2.1",
         "at": "2026-11-14T22:54:19.565Z",
         "input_hash": "25d839870fdaa350a9ef14c1bd90026b269ac99a1fbc54e1d53374d473d71bba"
-      }
+      },
+      "finding_sentence": "Farhan Ahmed coordinated equipment rentals. Their own words prove 4 skills."
     },
     {
       "key": "4f07fa9a404775ddc0838ca8",
       "first_name": "Oksana",
       "last_name": "Kovalenko",
-      "display_first": "Oksana",
+      "display_first": "Oksana K.",
       "last_work_line": "organised a volunteer repair group",
       "stories": [
         {
@@ -956,13 +965,14 @@
         "prompt_version": "cg-2.1",
         "at": "2026-11-14T22:54:19.565Z",
         "input_hash": "25d839870fdaa350a9ef14c1bd90026b269ac99a1fbc54e1d53374d473d71bba"
-      }
+      },
+      "finding_sentence": "Oksana Kovalenko organised volunteer repairs. Their own words prove 2 skills."
     },
     {
       "key": "5e86806fc4ec247ea16ce061",
       "first_name": "Mikael",
       "last_name": "Nyström",
-      "display_first": "Mikael",
+      "display_first": "Mikael N.",
       "last_work_line": "maintained the systems at a community media studio",
       "stories": [
         {
@@ -1033,13 +1043,14 @@
         "prompt_version": "cg-2.1",
         "at": "2026-11-14T22:54:19.565Z",
         "input_hash": "25d839870fdaa350a9ef14c1bd90026b269ac99a1fbc54e1d53374d473d71bba"
-      }
+      },
+      "finding_sentence": "Mikael Nyström maintained a media studio server. Their own words prove 3 skills."
     },
     {
       "key": "89d4e1ac59fe9f467031806f",
       "first_name": "Li",
       "last_name": "Wei",
-      "display_first": "Li",
+      "display_first": "Li W.",
       "last_work_line": "tested a membership service for a sports club",
       "stories": [
         {
@@ -1098,13 +1109,14 @@
         "prompt_version": "cg-2.1",
         "at": "2026-11-14T22:54:19.565Z",
         "input_hash": "25d839870fdaa350a9ef14c1bd90026b269ac99a1fbc54e1d53374d473d71bba"
-      }
+      },
+      "finding_sentence": "Li Wei tested a club membership service. Their own words prove 2 skills."
     },
     {
       "key": "49290eb927c05fb338cc9f47",
       "first_name": "Priya",
       "last_name": "Nair",
-      "display_first": "Priya",
+      "display_first": "Priya N.",
       "last_work_line": "kept reporting data for a small distributor",
       "stories": [
         {
@@ -1175,13 +1187,14 @@
         "prompt_version": "cg-2.1",
         "at": "2026-11-14T22:54:19.565Z",
         "input_hash": "25d839870fdaa350a9ef14c1bd90026b269ac99a1fbc54e1d53374d473d71bba"
-      }
+      },
+      "finding_sentence": "Priya Nair prepared distributor reports. Their own words prove 3 skills."
     },
     {
       "key": "1c5d97b9f2bcda4da6983373",
       "first_name": "Abdi",
       "last_name": "Hassan",
-      "display_first": "Abdi",
+      "display_first": "Abdi H.",
       "last_work_line": "built booking tools for a community workshop",
       "stories": [
         {
@@ -1276,13 +1289,14 @@
         "prompt_version": "cg-2.1",
         "at": "2026-11-14T22:54:19.565Z",
         "input_hash": "25d839870fdaa350a9ef14c1bd90026b269ac99a1fbc54e1d53374d473d71bba"
-      }
+      },
+      "finding_sentence": "Abdi Hassan built community booking tools. Their own words prove 5 skills."
     },
     {
       "key": "3d31cc1769f2d610542c26bb",
       "first_name": "Sofia",
       "last_name": "Virtanen",
-      "display_first": "Sofia",
+      "display_first": "Sofia V.",
       "last_work_line": "built booking tools for a community workshop",
       "stories": [
         {
@@ -1377,13 +1391,14 @@
         "prompt_version": "cg-2.1",
         "at": "2026-11-14T22:54:35.742Z",
         "input_hash": "be7ede8ba8d6a78a0a15dab7e8365973ae26ae30ae4d524081e3c037a97b56a0"
-      }
+      },
+      "finding_sentence": "Sofia Virtanen built community booking tools. Their own words prove 5 skills."
     },
     {
       "key": "260e75b90c1cb6d476898021",
       "first_name": "Tuan",
       "last_name": "Pham",
-      "display_first": "Tuan",
+      "display_first": "Tuan P.",
       "last_work_line": "ran a café in Tapiola for four years",
       "stories": [
         {
@@ -1466,13 +1481,14 @@
         "prompt_version": "cg-2.1",
         "at": "2026-11-14T22:54:35.742Z",
         "input_hash": "be7ede8ba8d6a78a0a15dab7e8365973ae26ae30ae4d524081e3c037a97b56a0"
-      }
+      },
+      "finding_sentence": "Tuan Pham ran a café in Tapiola. Their own words prove 4 skills."
     },
     {
       "key": "bbd97876c8fde72cba1dedff",
       "first_name": "Ines",
       "last_name": "Ferreira",
-      "display_first": "Ines",
+      "display_first": "Ines F.",
       "last_work_line": "recorded measurements in a bicycle repair workshop",
       "stories": [
         {
@@ -1543,13 +1559,14 @@
         "prompt_version": "cg-2.1",
         "at": "2026-11-14T22:54:35.742Z",
         "input_hash": "be7ede8ba8d6a78a0a15dab7e8365973ae26ae30ae4d524081e3c037a97b56a0"
-      }
+      },
+      "finding_sentence": "Ines Ferreira checked bicycle measurements. Their own words prove 3 skills."
     },
     {
       "key": "a32e1f413bebc6fc6d81ce8d",
       "first_name": "Kwame",
       "last_name": "Mensah",
-      "display_first": "Kwame",
+      "display_first": "Kwame M.",
       "last_work_line": "coordinated a small equipment rental desk",
       "stories": [
         {
@@ -1632,13 +1649,14 @@
         "prompt_version": "cg-2.1",
         "at": "2026-11-14T22:54:35.742Z",
         "input_hash": "be7ede8ba8d6a78a0a15dab7e8365973ae26ae30ae4d524081e3c037a97b56a0"
-      }
+      },
+      "finding_sentence": "Kwame Mensah coordinated equipment rentals. Their own words prove 4 skills."
     },
     {
       "key": "ef97ae21dfa6f5956e37cd47",
       "first_name": "Petra",
       "last_name": "Mäkinen",
-      "display_first": "Petra",
+      "display_first": "Petra M.",
       "last_work_line": "organised a volunteer repair group",
       "stories": [
         {
@@ -1697,13 +1715,14 @@
         "prompt_version": "cg-2.1",
         "at": "2026-11-14T22:54:35.742Z",
         "input_hash": "be7ede8ba8d6a78a0a15dab7e8365973ae26ae30ae4d524081e3c037a97b56a0"
-      }
+      },
+      "finding_sentence": "Petra Mäkinen organised volunteer repairs. Their own words prove 2 skills."
     },
     {
       "key": "bb10523a67bf990069da593a",
       "first_name": "Samir",
       "last_name": "Khalil",
-      "display_first": "Samir",
+      "display_first": "Samir K.",
       "last_work_line": "maintained the systems at a community media studio",
       "stories": [
         {
@@ -1774,13 +1793,14 @@
         "prompt_version": "cg-2.1",
         "at": "2026-11-14T22:54:35.742Z",
         "input_hash": "be7ede8ba8d6a78a0a15dab7e8365973ae26ae30ae4d524081e3c037a97b56a0"
-      }
+      },
+      "finding_sentence": "Samir Khalil maintained a media studio server. Their own words prove 3 skills."
     },
     {
       "key": "eabe46fe27618c34490b6497",
       "first_name": "Anna",
       "last_name": "Kowalska",
-      "display_first": "Anna",
+      "display_first": "Anna K.",
       "last_work_line": "tested a membership service for a sports club",
       "stories": [
         {
@@ -1839,13 +1859,14 @@
         "prompt_version": "cg-2.1",
         "at": "2026-11-14T22:54:35.742Z",
         "input_hash": "be7ede8ba8d6a78a0a15dab7e8365973ae26ae30ae4d524081e3c037a97b56a0"
-      }
+      },
+      "finding_sentence": "Anna Kowalska tested a club membership service. Their own words prove 2 skills."
     },
     {
       "key": "372e838ded43ed56fafb0a3a",
       "first_name": "Jonas",
       "last_name": "Eklund",
-      "display_first": "Jonas",
+      "display_first": "Jonas E.",
       "last_work_line": "kept reporting data for a small distributor",
       "stories": [
         {
@@ -1952,13 +1973,14 @@
         "prompt_version": "cg-2.1",
         "at": "2026-11-14T22:54:35.742Z",
         "input_hash": "be7ede8ba8d6a78a0a15dab7e8365973ae26ae30ae4d524081e3c037a97b56a0"
-      }
+      },
+      "finding_sentence": "Jonas Eklund prepared distributor reports. Their own words prove 6 skills."
     },
     {
       "key": "ad77e569ad32137f37c16edf",
       "first_name": "Yuki",
       "last_name": "Tanaka",
-      "display_first": "Yuki",
+      "display_first": "Yuki T.",
       "last_work_line": "kept reporting data for a small distributor",
       "stories": [
         {
@@ -2029,13 +2051,14 @@
         "prompt_version": "cg-2.1",
         "at": "2026-11-14T22:55:46.877Z",
         "input_hash": "cebbc1fc144ad81ecc9449bca02de6bd2d9d3187912e7c29612f1cfd3f42503e"
-      }
+      },
+      "finding_sentence": "Yuki Tanaka prepared distributor reports. Their own words prove 3 skills."
     },
     {
       "key": "ffae31bc37cd3b0a411660e5",
       "first_name": "Rahul",
       "last_name": "Mehta",
-      "display_first": "Rahul",
+      "display_first": "Rahul M.",
       "last_work_line": "built booking tools for a community workshop",
       "stories": [
         {
@@ -2118,13 +2141,14 @@
         "prompt_version": "cg-2.1",
         "at": "2026-11-14T22:55:46.877Z",
         "input_hash": "cebbc1fc144ad81ecc9449bca02de6bd2d9d3187912e7c29612f1cfd3f42503e"
-      }
+      },
+      "finding_sentence": "Rahul Mehta built community booking tools. Their own words prove 4 skills."
     },
     {
       "key": "ca9916568d69d40cea999267",
       "first_name": "Elif",
       "last_name": "Demir",
-      "display_first": "Elif",
+      "display_first": "Elif D.",
       "last_work_line": "ran a café in Tapiola for four years",
       "stories": [
         {
@@ -2183,13 +2207,14 @@
         "prompt_version": "cg-2.1",
         "at": "2026-11-14T22:55:46.877Z",
         "input_hash": "cebbc1fc144ad81ecc9449bca02de6bd2d9d3187912e7c29612f1cfd3f42503e"
-      }
+      },
+      "finding_sentence": "Elif Demir ran a café in Tapiola. Their own words prove 2 skills."
     },
     {
       "key": "fb86d27a79d49f93eacb7fba",
       "first_name": "Tomás",
       "last_name": "Herrera",
-      "display_first": "Tomás",
+      "display_first": "Tomás H.",
       "last_work_line": "recorded measurements in a bicycle repair workshop",
       "stories": [
         {
@@ -2248,13 +2273,14 @@
         "prompt_version": "cg-2.1",
         "at": "2026-11-14T22:55:46.877Z",
         "input_hash": "cebbc1fc144ad81ecc9449bca02de6bd2d9d3187912e7c29612f1cfd3f42503e"
-      }
+      },
+      "finding_sentence": "Tomás Herrera checked bicycle measurements. Their own words prove 2 skills."
     },
     {
       "key": "e71a97d4690f75e747d7c1a2",
       "first_name": "Mariam",
       "last_name": "Laine",
-      "display_first": "Mariam",
+      "display_first": "Mariam L.",
       "last_work_line": "coordinated a small equipment rental desk",
       "stories": [
         {
@@ -2337,13 +2363,14 @@
         "prompt_version": "cg-2.1",
         "at": "2026-11-14T22:55:46.877Z",
         "input_hash": "cebbc1fc144ad81ecc9449bca02de6bd2d9d3187912e7c29612f1cfd3f42503e"
-      }
+      },
+      "finding_sentence": "Mariam Laine coordinated equipment rentals. Their own words prove 4 skills."
     },
     {
       "key": "047eecd0110608ae7f8151a3",
       "first_name": "Eero",
       "last_name": "Saarinen",
-      "display_first": "Eero",
+      "display_first": "Eero S.",
       "last_work_line": "organised a volunteer repair group",
       "stories": [
         {
@@ -2402,13 +2429,14 @@
         "prompt_version": "cg-2.1",
         "at": "2026-11-14T22:55:46.877Z",
         "input_hash": "cebbc1fc144ad81ecc9449bca02de6bd2d9d3187912e7c29612f1cfd3f42503e"
-      }
+      },
+      "finding_sentence": "Eero Saarinen organised volunteer repairs. Their own words prove 2 skills."
     },
     {
       "key": "6269095a24572017f6644ec1",
       "first_name": "Nadia",
       "last_name": "Nieminen",
-      "display_first": "Nadia",
+      "display_first": "Nadia N.",
       "last_work_line": "maintained the systems at a community media studio",
       "stories": [
         {
@@ -2467,13 +2495,14 @@
         "prompt_version": "cg-2.1",
         "at": "2026-11-14T22:55:46.877Z",
         "input_hash": "cebbc1fc144ad81ecc9449bca02de6bd2d9d3187912e7c29612f1cfd3f42503e"
-      }
+      },
+      "finding_sentence": "Nadia Nieminen maintained a media studio server. Their own words prove 2 skills."
     },
     {
       "key": "1774bf2db01b4002bc16353a",
       "first_name": "Linh",
       "last_name": "Lindberg",
-      "display_first": "Linh",
+      "display_first": "Linh L.",
       "last_work_line": "tested a membership service for a sports club",
       "stories": [
         {
@@ -2532,13 +2561,14 @@
         "prompt_version": "cg-2.1",
         "at": "2026-11-14T22:55:46.877Z",
         "input_hash": "cebbc1fc144ad81ecc9449bca02de6bd2d9d3187912e7c29612f1cfd3f42503e"
-      }
+      },
+      "finding_sentence": "Linh Lindberg tested a club membership service. Their own words prove 2 skills."
     },
     {
       "key": "e437955ab8966499a552a412",
       "first_name": "Emilia",
       "last_name": "Salonen",
-      "display_first": "Emilia",
+      "display_first": "Emilia S.",
       "last_work_line": "tested a membership service for a sports club",
       "stories": [
         {
@@ -2597,13 +2627,14 @@
         "prompt_version": "cg-2.1",
         "at": "2026-11-14T22:54:04.839Z",
         "input_hash": "c5ea70d91d9aeb3749f58feb7da99569a85dfe7727eaf4e26919f09aa42654a3"
-      }
+      },
+      "finding_sentence": "Emilia Salonen tested a club membership service. Their own words prove 2 skills."
     },
     {
       "key": "2816dd134cd802c877bc0e48",
       "first_name": "Arjun",
       "last_name": "Koskinen",
-      "display_first": "Arjun",
+      "display_first": "Arjun K.",
       "last_work_line": "kept reporting data for a small distributor",
       "stories": [
         {
@@ -2686,13 +2717,14 @@
         "prompt_version": "cg-2.1",
         "at": "2026-11-14T22:54:04.839Z",
         "input_hash": "c5ea70d91d9aeb3749f58feb7da99569a85dfe7727eaf4e26919f09aa42654a3"
-      }
+      },
+      "finding_sentence": "Arjun Koskinen prepared distributor reports. Their own words prove 4 skills."
     },
     {
       "key": "0e8d34dc2db51c05250e749e",
       "first_name": "Sara",
       "last_name": "Ali",
-      "display_first": "Sara",
+      "display_first": "Sara A.",
       "last_work_line": "built booking tools for a community workshop",
       "stories": [
         {
@@ -2787,13 +2819,14 @@
         "prompt_version": "cg-2.1",
         "at": "2026-11-14T22:54:04.839Z",
         "input_hash": "c5ea70d91d9aeb3749f58feb7da99569a85dfe7727eaf4e26919f09aa42654a3"
-      }
+      },
+      "finding_sentence": "Sara Ali built community booking tools. Their own words prove 5 skills."
     },
     {
       "key": "2b0b140913cc2db4c7918569",
       "first_name": "Aleksi",
       "last_name": "Nguyen",
-      "display_first": "Aleksi",
+      "display_first": "Aleksi N.",
       "last_work_line": "ran a café in Tapiola for four years",
       "stories": [
         {
@@ -2852,13 +2885,14 @@
         "prompt_version": "cg-2.1",
         "at": "2026-11-14T22:54:04.839Z",
         "input_hash": "c5ea70d91d9aeb3749f58feb7da99569a85dfe7727eaf4e26919f09aa42654a3"
-      }
+      },
+      "finding_sentence": "Aleksi Nguyen ran a café in Tapiola. Their own words prove 2 skills."
     },
     {
       "key": "4caa93f91aff2168c7ee0c95",
       "first_name": "Hana",
       "last_name": "Petrov",
-      "display_first": "Hana",
+      "display_first": "Hana P.",
       "last_work_line": "recorded measurements in a bicycle repair workshop",
       "stories": [
         {
@@ -2917,13 +2951,14 @@
         "prompt_version": "cg-2.1",
         "at": "2026-11-14T22:54:04.839Z",
         "input_hash": "c5ea70d91d9aeb3749f58feb7da99569a85dfe7727eaf4e26919f09aa42654a3"
-      }
+      },
+      "finding_sentence": "Hana Petrov checked bicycle measurements. Their own words prove 2 skills."
     },
     {
       "key": "0e44065e7f8a73aa3a70cf0b",
       "first_name": "Mateo",
       "last_name": "Berg",
-      "display_first": "Mateo",
+      "display_first": "Mateo B.",
       "last_work_line": "coordinated a small equipment rental desk",
       "stories": [
         {
@@ -3006,7 +3041,8 @@
         "prompt_version": "cg-2.1",
         "at": "2026-11-14T22:54:04.839Z",
         "input_hash": "c5ea70d91d9aeb3749f58feb7da99569a85dfe7727eaf4e26919f09aa42654a3"
-      }
+      },
+      "finding_sentence": "Mateo Berg coordinated equipment rentals. Their own words prove 4 skills."
     },
     {
       "key": "fb510d076837505cf68d40d0",
@@ -3071,7 +3107,8 @@
         "prompt_version": "cg-2.1",
         "at": "2026-11-14T22:54:04.839Z",
         "input_hash": "c5ea70d91d9aeb3749f58feb7da99569a85dfe7727eaf4e26919f09aa42654a3"
-      }
+      },
+      "finding_sentence": "Daniela Hassan organised volunteer repairs. Their own words prove 2 skills."
     },
     {
       "key": "7058e1515548897cfaec551f",
@@ -3136,7 +3173,8 @@
         "prompt_version": "cg-2.1",
         "at": "2026-11-14T22:54:04.839Z",
         "input_hash": "c5ea70d91d9aeb3749f58feb7da99569a85dfe7727eaf4e26919f09aa42654a3"
-      }
+      },
+      "finding_sentence": "Aino Virtanen maintained a media studio server. Their own words prove 2 skills."
     },
     {
       "key": "838ef0db87e634a0abe81a90",
@@ -3201,7 +3239,8 @@
         "prompt_version": "cg-2.1",
         "at": "2026-11-14T22:56:40.478Z",
         "input_hash": "c50a47e19ea745e58162f2917029f80af1ef1b01716cc4495502c1cf37d40505"
-      }
+      },
+      "finding_sentence": "Farhan Pham maintained a media studio server. Their own words prove 2 skills."
     },
     {
       "key": "e13cf0872fdece559fdeba23",
@@ -3266,7 +3305,8 @@
         "prompt_version": "cg-2.1",
         "at": "2026-11-14T22:56:40.478Z",
         "input_hash": "c50a47e19ea745e58162f2917029f80af1ef1b01716cc4495502c1cf37d40505"
-      }
+      },
+      "finding_sentence": "Oksana Ferreira tested a club membership service. Their own words prove 2 skills."
     },
     {
       "key": "357e7d8a7d4140afbaaa234b",
@@ -3343,7 +3383,8 @@
         "prompt_version": "cg-2.1",
         "at": "2026-11-14T22:56:40.478Z",
         "input_hash": "c50a47e19ea745e58162f2917029f80af1ef1b01716cc4495502c1cf37d40505"
-      }
+      },
+      "finding_sentence": "Mikael Mensah prepared distributor reports. Their own words prove 3 skills."
     },
     {
       "key": "df11590ccc82004fd14777a7",
@@ -3432,7 +3473,8 @@
         "prompt_version": "cg-2.1",
         "at": "2026-11-14T22:56:40.478Z",
         "input_hash": "c50a47e19ea745e58162f2917029f80af1ef1b01716cc4495502c1cf37d40505"
-      }
+      },
+      "finding_sentence": "Li Mäkinen built community booking tools. Their own words prove 4 skills."
     },
     {
       "key": "5cf361b17145fff1c1199f1b",
@@ -3521,7 +3563,8 @@
         "prompt_version": "cg-2.1",
         "at": "2026-11-14T22:56:40.478Z",
         "input_hash": "c50a47e19ea745e58162f2917029f80af1ef1b01716cc4495502c1cf37d40505"
-      }
+      },
+      "finding_sentence": "Priya Khalil ran a café in Tapiola. Their own words prove 4 skills."
     },
     {
       "key": "ed09b012383b14675b4f33d4",
@@ -3598,7 +3641,8 @@
         "prompt_version": "cg-2.1",
         "at": "2026-11-14T22:56:40.478Z",
         "input_hash": "c50a47e19ea745e58162f2917029f80af1ef1b01716cc4495502c1cf37d40505"
-      }
+      },
+      "finding_sentence": "Abdi Kowalska checked bicycle measurements. Their own words prove 3 skills."
     },
     {
       "key": "6f59ca637a3123f57c85e0a1",
@@ -3687,7 +3731,8 @@
         "prompt_version": "cg-2.1",
         "at": "2026-11-14T22:56:40.478Z",
         "input_hash": "c50a47e19ea745e58162f2917029f80af1ef1b01716cc4495502c1cf37d40505"
-      }
+      },
+      "finding_sentence": "Sofia Eklund coordinated equipment rentals. Their own words prove 4 skills."
     },
     {
       "key": "1b57c3a5fd7cfc458f9520e5",
@@ -3752,7 +3797,8 @@
         "prompt_version": "cg-2.1",
         "at": "2026-11-14T22:56:40.478Z",
         "input_hash": "c50a47e19ea745e58162f2917029f80af1ef1b01716cc4495502c1cf37d40505"
-      }
+      },
+      "finding_sentence": "Tuan Tanaka organised volunteer repairs. Their own words prove 2 skills."
     }
   ],
   "meetings": [

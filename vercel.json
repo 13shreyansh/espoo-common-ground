@@ -1,9 +1,17 @@
 {
-  "buildCommand": "npm run build",
-  "outputDirectory": "dist",
-  "headers": [{"source":"/(.*)","headers":[
-    {"key":"X-Content-Type-Options","value":"nosniff"},
-    {"key":"Referrer-Policy","value":"strict-origin-when-cross-origin"},
-    {"key":"Content-Security-Policy","value":"default-src 'self'; script-src 'self'; style-src 'self'; img-src 'self' data:; font-src 'self'; connect-src 'self'; object-src 'none'; base-uri 'self'; frame-ancestors 'none'; form-action 'self'"}
-  ]}]
+  "buildCommand":"npm run build",
+  "outputDirectory":"dist",
+  "rewrites":[
+    {"source":"/api/:path*","destination":"http://72.61.22.106:3102/api/:path*"},
+    {"source":"/s/:path*","destination":"http://72.61.22.106:3102/s/:path*"},
+    {"source":"/health","destination":"http://72.61.22.106:3102/health"},
+    {"source":"/e/:path*","destination":"/index.html"},
+    {"source":"/method","destination":"/index.html"}
+  ],
+  "headers":[
+    {"source":"/(.*)","headers":[{"key":"X-Content-Type-Options","value":"nosniff"},{"key":"Referrer-Policy","value":"strict-origin-when-cross-origin"}]},
+    {"source":"/api/:path*","headers":[{"key":"Cache-Control","value":"no-store"},{"key":"x-vercel-enable-rewrite-caching","value":"0"}]},
+    {"source":"/sw.js","headers":[{"key":"Cache-Control","value":"no-cache"},{"key":"Service-Worker-Allowed","value":"/"}]},
+    {"source":"/e/:path*","headers":[{"key":"Content-Security-Policy","value":"default-src 'self'; script-src 'self'; style-src 'self'; style-src-attr 'unsafe-inline'; font-src 'self'; connect-src 'self'; object-src 'none'; base-uri 'self'; frame-ancestors 'none'"}]}
+  ]
 }

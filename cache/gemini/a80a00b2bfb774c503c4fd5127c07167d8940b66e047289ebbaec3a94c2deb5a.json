@@ -1,0 +1,49 @@
+{
+  "model": "gemini-3.8-flash",
+  "prompt_version": "cg-2.1",
+  "at": "2026-11-14T23:17:46.893Z",
+  "kind": "tasks",
+  "input_hash": "a80a00b2bfb774c503c4fd5127c07167d8940b66e047289ebbaec3a94c2deb5a",
+  "answer": {
+    "tasks": [
+      {
+        "line": "Build a prototype customer-facing sign-up and order flow with responsive web interfaces.",
+        "skills": [
+          "http://data.europa.eu/esco/skill/797a4416-0b8d-44f3-8fcd-eb10bd0be6b4",
+          "http://data.europa.eu/esco/skill/c4b1f326-224a-420a-b8b3-814a8f13b6cb",
+          "http://data.europa.eu/esco/skill/3cd569a2-4f88-4c1e-9995-8dce8c5e51a7",
+          "http://data.europa.eu/esco/skill/95ee5e38-5c1e-4cd2-a21d-6921390025a9"
+        ]
+      },
+      {
+        "line": "Analyse exported operational data from scattered spreadsheets to consolidate workflow tracking.",
+        "skills": [
+          "http://data.europa.eu/esco/skill/2b92a5b2-6758-4ee3-9fb4-b6387a55cc8f",
+          "http://data.europa.eu/esco/skill/1973c966-f236-40c9-b2d4-5d71a89019be",
+          "http://data.europa.eu/esco/skill/9ff9db9d-d14b-426e-83f3-e7449af6c79f",
+          "http://data.europa.eu/esco/skill/0d6714c6-720e-4985-9791-5ab85d28da79"
+        ]
+      },
+      {
+        "line": "Create database models and views to automate status reporting and eliminate manual email updates.",
+        "skills": [
+          "http://data.europa.eu/esco/skill/29fb0fb5-cd05-4109-a649-8b44d306d779",
+          "http://data.europa.eu/esco/skill/fbafa41f-cd05-4109-a649-8b44d306d779",
+          "http://data.europa.eu/esco/skill/598de5b0-5b58-4ea7-8058-a4bc4d18c742"
+        ]
+      }
+    ]
+  },
+  "usage": {
+    "promptTokenCount": 2676,
+    "candidatesTokenCount": 664,
+    "totalTokenCount": 3340,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 2676
+      }
+    ],
+    "serviceTier": "standard"
+  }
+}
