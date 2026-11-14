@@ -1,0 +1,70 @@
+{
+  "model": "gemini-3.8-flash",
+  "prompt_version": "cg-2.1",
+  "at": "2026-11-14T22:57:50.841Z",
+  "kind": "fixture-evidence",
+  "input_hash": "13b743513df572ef0ab908ea3c29c14ea70c8c9e865ca199252bba2ea5ea069b",
+  "answer": {
+    "people": [
+      {
+        "id": "cdf7e74d9679985109c12d1d",
+        "evidence": [
+          {
+            "uri": "http://data.europa.eu/esco/skill/ab6265f2-a9bf-49e8-a9a5-67cbab4de38b",
+            "story_index": 0,
+            "quote": "I kept the stock records at an equipment rental desk.",
+            "mark": "kept the stock records"
+          },
+          {
+            "uri": "http://data.europa.eu/esco/skill/1973c966-f236-40c9-b2d4-5d71a89019be",
+            "story_index": 0,
+            "quote": "I built a spreadsheet listing each item, its return date and its condition, then checked it against the shelf every Friday.",
+            "mark": "built a spreadsheet"
+          },
+          {
+            "uri": "http://data.europa.eu/esco/skill/15a33d76-4640-438d-ae64-fdc0c1d3eebc",
+            "story_index": 1,
+            "quote": "I handled customer questions when a rented tool stopped working.",
+            "mark": "handled customer questions"
+          },
+          {
+            "uri": "http://data.europa.eu/esco/skill/e54ff029-1ce9-447d-a5b2-eb7283a23e6e",
+            "story_index": 2,
+            "quote": "I taught two new colleagues how to check returns and update the stock sheet.",
+            "mark": "taught two new colleagues"
+          }
+        ]
+      },
+      {
+        "id": "2d7cbb48e7516c66639e923c",
+        "evidence": [
+          {
+            "uri": "http://data.europa.eu/esco/skill/56042303-972b-41be-9310-58467599ff7e",
+            "story_index": 1,
+            "quote": "I mapped how a repair request moved between the reception desk and the volunteer fixing it.",
+            "mark": "mapped how a repair request moved"
+          },
+          {
+            "uri": "http://data.europa.eu/esco/skill/e54ff029-1ce9-447d-a5b2-eb7283a23e6e",
+            "story_index": 2,
+            "quote": "I taught new volunteers how to record a repair and find the safety instructions.",
+            "mark": "taught new volunteers"
+          }
+        ]
+      }
+    ]
+  },
+  "usage": {
+    "promptTokenCount": 2852,
+    "candidatesTokenCount": 704,
+    "totalTokenCount": 5614,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 2852
+      }
+    ],
+    "thoughtsTokenCount": 2058,
+    "serviceTier": "standard"
+  }
+}

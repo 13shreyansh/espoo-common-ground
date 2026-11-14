@@ -1,0 +1,208 @@
+{
+  "url": "https://ec.europa.eu/esco/api/search?type=skill&language=en&limit=3&text=electrical%20engineering",
+  "at": "2026-11-14T22:51:25.328Z",
+  "response": {
+    "total": 494,
+    "offset": 0,
+    "limit": 3,
+    "text": "electrical engineering",
+    "language": "en",
+    "type": [
+      "skill"
+    ],
+    "isInScheme": null,
+    "facet": null,
+    "_links": {
+      "self": {
+        "href": "https://ec.europa.eu/esco/api/search?text=electrical%20engineering&type=skill&limit=3&offset=0&full=false&viewObsolete=false&language=en"
+      },
+      "next": {
+        "href": "https://ec.europa.eu/esco/api/search?text=electrical%20engineering&type=skill&limit=3&offset=1&full=false&viewObsolete=false&language=en"
+      }
+    },
+    "_embedded": {
+      "results": [
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/3e40c7d0-0e36-4b33-bc33-0aa87eda0561",
+          "searchHit": "electrical engineering",
+          "title": "electrical engineering",
+          "preferredLabel": {
+            "de": "Elektrotechnik",
+            "no": "elektroteknikk",
+            "fi": "sähkötekniikka",
+            "en-us": "electrical engineering",
+            "pt": "engenharia eletrotécnica",
+            "bg": "електроинженерство",
+            "lt": "elektros inžinerija",
+            "hr": "elektrotehnika",
+            "lv": "elektroinženierija",
+            "fr": "génie électrique",
+            "hu": "elektrotechnika",
+            "sk": "elektrotechnika",
+            "sl": "elektrotehnika",
+            "ga": "innealtóireacht leictreach",
+            "sv": "elektroteknik",
+            "el": "ηλεκτρολογική μηχανική",
+            "mt": "inġinerija elettrika",
+            "en": "electrical engineering",
+            "is": "rafmagnsverkfræði",
+            "it": "ingegneria elettrica",
+            "es": "ingeniería eléctrica",
+            "et": "elektrotehnika",
+            "cs": "elektrotechnika",
+            "ar": "الهندسة الكهربائية",
+            "pl": "elektrotechnika",
+            "da": "elektroteknik",
+            "ro": "inginerie electrică",
+            "nl": "elektrotechniek"
+          },
+          "isTopConceptInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/knowledge"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/cross-sector"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/isced-f/0713"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/3e40c7d0-0e36-4b33-bc33-0aa87eda0561&language=en",
+              "uri": "http://data.europa.eu/esco/skill/3e40c7d0-0e36-4b33-bc33-0aa87eda0561",
+              "title": "electrical engineering"
+            }
+          }
+        },
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/14764a75-3104-4875-ba1d-57c059b9b013",
+          "searchHit": "Discipline that combines computer science with electrical engineering to improve telecommunications systems.",
+          "title": "telecommunications engineering",
+          "preferredLabel": {
+            "de": "Fernmeldetechnik",
+            "no": "telekommunikasjonsteknikk",
+            "fi": "teletekniikka",
+            "en-us": "telecommunications engineering",
+            "pt": "engenharia de telecomunicações",
+            "bg": "телекомуникационно инженерство",
+            "lt": "telekomunikacijų inžinerija",
+            "hr": "telekomunikacijsko inženjerstvo",
+            "lv": "telekomunikāciju inženierzinātne",
+            "fr": "génie des télécommunications",
+            "hu": "távközlési technika",
+            "sk": "telekomunikačné inžinierstvo",
+            "sl": "telekomunikacijsko inženirstvo",
+            "ga": "innealtóireacht teileachumarsáide",
+            "sv": "telekomteknik",
+            "el": "μηχανολογία τηλεπικοινωνιών",
+            "mt": "inġinerija tat-telekomunikazzjoni",
+            "en": "telecommunications engineering",
+            "is": "fjarskiptaverkfræði",
+            "it": "ingegneria delle telecomunicazioni",
+            "es": "ingeniería de telecomunicaciones",
+            "et": "telesidetehnika",
+            "cs": "telekomunikační inženýrství",
+            "ar": "هندسة الاتصالات",
+            "pl": "inżynieria telekomunikacyjna",
+            "da": "telekommunikationsteknik",
+            "ro": "ingineria telecomunicațiilor",
+            "nl": "telecommunicatietechniek"
+          },
+          "isTopConceptInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/knowledge"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/cross-sector"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/isced-f/0714"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/14764a75-3104-4875-ba1d-57c059b9b013&language=en",
+              "uri": "http://data.europa.eu/esco/skill/14764a75-3104-4875-ba1d-57c059b9b013",
+              "title": "telecommunications engineering"
+            }
+          }
+        },
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/25c4cb91-d64b-48d1-a350-3527334a360d",
+          "searchHit": "Engineering discipline related to the fields of electrical engineering, electronics engineering, software engineering, optical engineering, and mechanical engineering that deals with the development of apparatus with very low tolerances.",
+          "title": "precision engineering",
+          "preferredLabel": {
+            "de": "Feinmechanik",
+            "no": "presisjonsteknikk",
+            "fi": "hienomekaaninen suunnittelu",
+            "en-us": "precision engineering",
+            "pt": "engenharia de precisão",
+            "bg": "прецизни апарати",
+            "lt": "tikslioji inžinerija",
+            "hr": "precizno inženjerstvo",
+            "lv": "precīzijas instrumentu rūpniecība",
+            "fr": "ingénierie de précision",
+            "hu": "precíziós mérnöki munka",
+            "sk": "presné strojárstvo",
+            "sl": "precizno inženirstvo",
+            "ga": "beacht-innealtóireacht",
+            "sv": "precisionsteknik",
+            "el": "μηχανολογία ακριβείας",
+            "mt": "inġinerija tal-preċiżjoni",
+            "en": "precision engineering",
+            "is": "nákvæmnisverkfræði",
+            "it": "ingegneria di precisione",
+            "es": "ingeniería de precisión",
+            "et": "täppismehaanika",
+            "cs": "přesné strojírenství",
+            "ar": "الهندسة الدقيقة",
+            "pl": "inżynieria precyzyjna",
+            "da": "præcisionsteknik",
+            "ro": "inginerie de precizie",
+            "nl": "precisietechniek"
+          },
+          "isTopConceptInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/knowledge"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/cross-sector"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/isced-f/0714"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/25c4cb91-d64b-48d1-a350-3527334a360d&language=en",
+              "uri": "http://data.europa.eu/esco/skill/25c4cb91-d64b-48d1-a350-3527334a360d",
+              "title": "precision engineering"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

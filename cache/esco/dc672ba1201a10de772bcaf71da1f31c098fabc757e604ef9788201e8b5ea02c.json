@@ -1,0 +1,388 @@
+{
+  "url": "https://ec.europa.eu/esco/api/search?type=skill&language=en&limit=6&text=business%20intelligence",
+  "at": "2026-11-14T23:00:09.524Z",
+  "response": {
+    "total": 265,
+    "offset": 0,
+    "limit": 6,
+    "text": "business intelligence",
+    "language": "en",
+    "type": [
+      "skill"
+    ],
+    "isInScheme": null,
+    "facet": null,
+    "_links": {
+      "self": {
+        "href": "https://ec.europa.eu/esco/api/search?text=business%20intelligence&type=skill&limit=6&offset=0&full=false&viewObsolete=false&language=en"
+      },
+      "next": {
+        "href": "https://ec.europa.eu/esco/api/search?text=business%20intelligence&type=skill&limit=6&offset=1&full=false&viewObsolete=false&language=en"
+      }
+    },
+    "_embedded": {
+      "results": [
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/143769cb-b61e-47d8-a61e-eedfbec1016c",
+          "searchHit": "business intelligence",
+          "title": "business intelligence",
+          "preferredLabel": {
+            "de": "Business-Intelligence",
+            "no": "analyse av forretningsdata",
+            "fi": "liiketoimintatiedon hallinta",
+            "en-us": "business intelligence",
+            "pt": "inteligência empresarial",
+            "bg": "търговско разузнаване",
+            "lt": "verslo analitika",
+            "hr": "poslovna inteligencija",
+            "lv": "biznesa informācija",
+            "fr": "informatique décisionnelle",
+            "hu": "üzleti intelligencia",
+            "sk": "podnikateľské analytické nástroje",
+            "sl": "poslovno obveščanje",
+            "ga": "éirim ghnó",
+            "sv": "business intelligence",
+            "el": "εργαλεία επεξεργασίας επιχειρησιακών δεδομένων",
+            "mt": "intelliġenza dwar in-negozju",
+            "en": "business intelligence",
+            "is": "viðskiptaupplýsingar",
+            "it": "business intelligence",
+            "es": "inteligencia empresarial",
+            "et": "äriintellekt",
+            "cs": "business intelligence",
+            "ar": "ذكاء الأعمال",
+            "pl": "rozwiązania business intelligence",
+            "da": "business intelligence",
+            "ro": "inteligența afacerii",
+            "nl": "business intelligence"
+          },
+          "isTopConceptInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/knowledge"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/cross-sector"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/isced-f/0413"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/143769cb-b61e-47d8-a61e-eedfbec1016c&language=en",
+              "uri": "http://data.europa.eu/esco/skill/143769cb-b61e-47d8-a61e-eedfbec1016c",
+              "title": "business intelligence"
+            }
+          }
+        },
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/6a536b36-c5c7-4d10-bf67-a4fb0f8549b2",
+          "searchHit": "The techniques and methods that support a systematic and independent examination of data, policies, operations and performances using computer-assisted audit tools and techniques (CAATs) such as spreadsheets, databases, statistical analysis and business intelligence software.",
+          "title": "audit techniques",
+          "preferredLabel": {
+            "de": "Auditverfahren",
+            "no": "revisjonsteknikker",
+            "fi": "auditointitekniikat",
+            "en-us": "audit techniques",
+            "pt": "técnicas de auditoria",
+            "bg": "техники за одит",
+            "lt": "audito metodai",
+            "hr": "tehnike revizije",
+            "lv": "audita metodes",
+            "fr": "techniques d’audit",
+            "hu": "audit technikák",
+            "sk": "techniky auditu",
+            "sl": "revizijske tehnike",
+            "ga": "teicnící iniúchóireachta",
+            "sv": "revisionsmetoder",
+            "el": "τεχνικές ελέγχου",
+            "mt": "metodi tal-verifika",
+            "en": "audit techniques",
+            "is": "endurskoðunartækni",
+            "it": "tecniche di audit",
+            "es": "técnicas de auditoría",
+            "et": "audititehnikad",
+            "cs": "techniky auditu",
+            "ar": "تقنيات التدقيق",
+            "pl": "techniki audytu",
+            "da": "auditteknikker",
+            "ro": "tehnici de audit",
+            "nl": "audittechnieken"
+          },
+          "isTopConceptInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/knowledge"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/cross-sector"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/isced-f/0411"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/6a536b36-c5c7-4d10-bf67-a4fb0f8549b2&language=en",
+              "uri": "http://data.europa.eu/esco/skill/6a536b36-c5c7-4d10-bf67-a4fb0f8549b2",
+              "title": "audit techniques"
+            }
+          }
+        },
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/ad59afe4-6f8a-4bc4-acfd-0f228277508a",
+          "searchHit": "Specific software system (SAS) used for advanced analytics, business intelligence, data management, and predictive analytics.",
+          "title": "statistical analysis system software",
+          "preferredLabel": {
+            "de": "Software für statistische Analysesysteme",
+            "no": "systemprogramvare for statistisk analyse",
+            "fi": "SAS-ohjelmisto",
+            "en-us": "statistical analysis system software",
+            "pt": "software de análise estatística",
+            "bg": "софтуер за система за статистически анализ",
+            "lt": "statistikos analizės sistemų programinė įranga",
+            "hr": "softver za statističku analizu",
+            "lv": "statistiskās analīzes sistēmas programmatūra",
+            "fr": "logiciel de système d'analyse statistique",
+            "hu": "statisztikai elemzési szoftverrendszer",
+            "sk": "softvérový systém na štatistickú analýzu",
+            "sl": "programska oprema za statistično analizo",
+            "ga": "bogearraí córais a úsáidtear le haghaidh anailís staidrimh",
+            "sv": "statistisk analysprogramvara",
+            "el": "λογισμικό σύστημα στατιστικών αναλύσεων",
+            "mt": "softwer tas-sistemi tal-analiżi tal-istatistika",
+            "en": "statistical analysis system software",
+            "is": "tölfræðilegur greiningarkerfishugbúnaður",
+            "it": "software di sistema di analisi statistica",
+            "es": "software del sistema de análisis estadístico",
+            "et": "statistilise analüüsi tarkvara",
+            "cs": "systémový software pro statistickou analýzu",
+            "ar": "برمجيات نظام التحليل الإحصائي",
+            "pl": "oprogramowanie systemowe do analizy statystycznej",
+            "da": "SAS-software",
+            "ro": "software pentru sistem de analiză statistică",
+            "nl": "software voor statistische analysesystemen"
+          },
+          "isTopConceptInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/knowledge"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/cross-sector"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/isced-f/0542"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/ad59afe4-6f8a-4bc4-acfd-0f228277508a&language=en",
+              "uri": "http://data.europa.eu/esco/skill/ad59afe4-6f8a-4bc4-acfd-0f228277508a",
+              "title": "statistical analysis system software"
+            }
+          }
+        },
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/3635b5e3-bdaa-449e-ade4-2973e0a3aba6",
+          "searchHit": "develop military intelligence records",
+          "title": "develop military intelligence records",
+          "preferredLabel": {
+            "de": "Aufzeichnungen der militärischen Aufklärung entwickeln",
+            "no": "utvikle militære etterretningsregistre",
+            "fi": "kehittää sotilastiedustelulähteitä",
+            "en-us": "develop military intelligence records",
+            "pt": "desenvolver registos de informações militares",
+            "bg": "разработване на бази данни с военно-разузнавателна информация",
+            "lt": "kurti karinės žvalgybos registrą",
+            "hr": "razvijati evidenciju vojnih obavještajnih podataka",
+            "lv": "izstrādāt militārās izlūkošanas reģistrus",
+            "fr": "élaborer des dossiers de renseignement militaire",
+            "hu": "katonai titkosszolgálati nyilvántartásokat dolgoz ki",
+            "sk": "vytvárať záznamy vojenskej spravodajskej služby",
+            "sl": "pripravljati evidence o vojaški obveščevalni dejavnosti",
+            "ga": "taifid faisnéise míleata a fhorbairt",
+            "sv": "utarbeta militära underrättelsedokument",
+            "el": "κατάρτιση αρχείων στρατιωτικών πληροφοριών",
+            "mt": "żvilupp ta’ rekords tal-intelliġence militari",
+            "en": "develop military intelligence records",
+            "is": "þróar hernaðarupplýsingagögn",
+            "it": "sviluppare gli archivi di intelligence militare",
+            "es": "elaborar archivos de inteligencia militar",
+            "et": "sõjaväeluure raporteid koostama",
+            "cs": "sestavovat záznamy z vojenského zpravodajství",
+            "ar": "تطوير سجلات الاستخبارات العسكرية",
+            "pl": "prowadzić rejestry wojskowych informacji wywiadowczych",
+            "da": "udvikle militære efterretningsfortegnelser",
+            "ro": "creează documente cu informații militare",
+            "nl": "militaire inlichtingsverslagen ontwikkelen"
+          },
+          "isTopConceptInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/skill"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/occupation-specific"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/skill/S2.3.0"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/3635b5e3-bdaa-449e-ade4-2973e0a3aba6&language=en",
+              "uri": "http://data.europa.eu/esco/skill/3635b5e3-bdaa-449e-ade4-2973e0a3aba6",
+              "title": "develop military intelligence records"
+            }
+          }
+        },
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/20b1d521-3d18-4b59-aee5-aaf296170c1b",
+          "searchHit": "electronic signals intelligence",
+          "title": "electronic signals intelligence",
+          "preferredLabel": {
+            "de": "elektronische Signals Intelligence",
+            "no": "etterretning basert på elektroniske signaler",
+            "fi": "sähköinen signaalitiedustelu",
+            "en-us": "electronic signals intelligence",
+            "pt": "informações sobre sinais eletrónicos",
+            "bg": "електронно разузнаване",
+            "lt": "elektroniniais signalais grindžiama žvalgybinė informacija",
+            "hr": "prikupljanje podataka praćenjem elektroničkih signala",
+            "lv": "elektronisko signālu izlūkošana",
+            "fr": "renseignement électronique",
+            "hu": "elektronikus jelfelderítés",
+            "sk": "získavanie informácií pomocou zachytávania elektronických signálov",
+            "sl": "zbiranje obveščevalnih podatkov s pomočjo elektronskih signalov",
+            "ga": "faisnéis maidir le comharthaí leictreonacha",
+            "sv": "elektronisk signalspaning",
+            "el": "πληροφορίες ηλεκτρονικών σημάτων",
+            "mt": "ġbir ta’ intelligence bis-sinjali elettroniċi",
+            "en": "electronic signals intelligence",
+            "is": "rafræn merkjaupplýsingasöfnun",
+            "it": "intelligence di segnali elettronici",
+            "es": "inteligencia de señales electrónicas",
+            "et": "signaalluure",
+            "cs": "signálové zpravodajství",
+            "ar": "استخبارات الإشارات الإلكترونية",
+            "pl": "wywiad prowadzony przy wykorzystaniu sygnałów elektronicznych",
+            "da": "efterretningsvirksomhed baseret på elektroniske signaler",
+            "ro": "interceptarea semnalelor electronice",
+            "nl": "inlichtingen via elektronische signalen"
+          },
+          "isTopConceptInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/knowledge"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/occupation-specific"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/isced-f/0714"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/20b1d521-3d18-4b59-aee5-aaf296170c1b&language=en",
+              "uri": "http://data.europa.eu/esco/skill/20b1d521-3d18-4b59-aee5-aaf296170c1b",
+              "title": "electronic signals intelligence"
+            }
+          }
+        },
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/1e6933f3-489e-4d82-97b4-1ffd62931e74",
+          "searchHit": "Develop strategies used in an investigation to gather information and intelligence in the most productive way, compliant with legislation, ensuring that the strategy is adapted to each individual case in order to obtain intelligence as efficiently and quickly as possible.",
+          "title": "develop investigation strategy",
+          "preferredLabel": {
+            "de": "Strategie für die Ermittlungsarbeit entwickeln",
+            "no": "utvikle etterforskningsstrategi",
+            "fi": "laatia tutkimusstrategioita",
+            "en-us": "develop investigation strategy",
+            "pt": "desenvolver estratégia de investigação",
+            "bg": "разработване на стратегия за разследване",
+            "lt": "rengti tyrimų vykdymo strategiją",
+            "hr": "razviti strategiju istraživanja",
+            "lv": "izstrādāt izmeklēšanas stratēģiju",
+            "fr": "élaborer une stratégie d’enquête",
+            "hu": "nyomozási stratégiákat dolgoz ki",
+            "sk": "vypracovať stratégiu vyšetrovania",
+            "sl": "razvijati preiskovalno strategijo",
+            "ga": "straitéis imscrúdaithe a fhorbairt",
+            "sv": "utarbeta utredningsstrategier",
+            "el": "εκπόνηση ερευνητικής στρατηγικής",
+            "mt": "żvilupp ta’ strateġiji ta’ investigazzjoni",
+            "en": "develop investigation strategy",
+            "is": "þróar rannsóknaraðferð",
+            "it": "sviluppare la strategia di indagine",
+            "es": "desarrollar la estrategia de investigación",
+            "et": "uurimisstrateegiat välja töötama",
+            "cs": "rozvíjet strategie vyšetřování",
+            "ar": "وضع استراتيجيات التحقيق",
+            "pl": "opracowywać strategie dochodzeniowe",
+            "da": "udvikle undersøgelsesstrategier",
+            "ro": "elaborează strategia de investigare",
+            "nl": "onderzoeksstrategieën ontwikkelen"
+          },
+          "isTopConceptInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/skill"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/cross-sector"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/skill/S4.1.4"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/1e6933f3-489e-4d82-97b4-1ffd62931e74&language=en",
+              "uri": "http://data.europa.eu/esco/skill/1e6933f3-489e-4d82-97b4-1ffd62931e74",
+              "title": "develop investigation strategy"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

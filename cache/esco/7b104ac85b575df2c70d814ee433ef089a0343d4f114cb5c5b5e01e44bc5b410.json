@@ -1,0 +1,899 @@
+{
+  "url": "https://ec.europa.eu/esco/api/resource/skill?language=en&uri=http%3A%2F%2Fdata.europa.eu%2Fesco%2Fskill%2F15a33d76-4640-438d-ae64-fdc0c1d3eebc",
+  "at": "2026-11-14T22:51:23.663Z",
+  "response": {
+    "className": "Skill",
+    "classId": "http://data.europa.eu/esco/model#Skill",
+    "uri": "http://data.europa.eu/esco/skill/15a33d76-4640-438d-ae64-fdc0c1d3eebc",
+    "title": "customer service",
+    "referenceLanguage": [
+      "en"
+    ],
+    "preferredLabel": {
+      "no": "kundeservice",
+      "de": "Kundendienst",
+      "en-us": "customer service",
+      "fi": "asiakaspalvelu",
+      "pt": "serviço ao cliente",
+      "bg": "обслужване на клиенти",
+      "lt": "klientų aptarnavimas",
+      "lv": "klientu apkalpošana",
+      "hr": "služba za korisnike",
+      "fr": "service clients",
+      "hu": "ügyfélszolgálat",
+      "sk": "služby zákazníkom",
+      "sl": "storitve za stranke",
+      "ga": "seirbhís do chustaiméirí",
+      "sv": "kundservice",
+      "el": "εξυπηρέτηση πελατών",
+      "mt": "servizzi tal-klijenti",
+      "en": "customer service",
+      "is": "þjónusta við viðskiptavini",
+      "it": "servizio clienti",
+      "es": "servicio al cliente",
+      "et": "klienditeenindus",
+      "cs": "zákaznické služby",
+      "ar": "خدمة العملاء",
+      "pl": "obsługa klienta",
+      "ro": "servicii pentru clienți",
+      "da": "kundeservice",
+      "nl": "klantendiensten"
+    },
+    "alternativeLabel": {
+      "cs": [
+        "služby zákazníkům",
+        "zákaznický servis"
+      ],
+      "sv": [
+        "kundtjänst"
+      ],
+      "sl": [
+        "storitve za kupce"
+      ],
+      "en": [
+        "customer well being",
+        "customer services",
+        "customer satisfaction",
+        "customer care",
+        "customer servicing",
+        "customer support"
+      ],
+      "ro": [
+        "serviciu clienți",
+        "servicii de relații cu clienții"
+      ],
+      "nl": [
+        "customer service"
+      ]
+    },
+    "description": {
+      "de": {
+        "literal": "Prozesse und Grundsätze in Bezug auf den Kunden, den Mandanten, Servicebenutzer sowie personenbezogene Dienstleistungen; dazu können Verfahren zur Bewertung der Zufriedenheit des Kunden oder Servicebenutzers gehören.",
+        "mimetype": "plain/text"
+      },
+      "no": {
+        "literal": "Prosesser og prinsipper knyttet til kunder, klienter, tjenestebrukere og personlige tjenester. Dette kan omfatte prosedyrer for å vurdere kundens eller tjenestebrukerens tilfredshet.",
+        "mimetype": "plain/text"
+      },
+      "fi": {
+        "literal": "Asiakkaaseen, palvelun käyttäjään ja henkilökohtaiseen palveluun liittyvät prosessit ja periaatteet. Näihin voivat lukeutua menettelyt, joilla arvioidaan asiakkaan tai palvelun käyttäjän tyytyväisyyttä.",
+        "mimetype": "plain/text"
+      },
+      "en-us": {
+        "literal": "Processes and principles related to the customer, client, service user and to personal services; these may include procedures to evaluate customer's or service user's satisfaction.",
+        "mimetype": "plain/text"
+      },
+      "pt": {
+        "literal": "Processos e princípios relacionados com o cliente, utilizador do serviço e com serviços pessoais; estes podem incluir procedimentos para avaliar a satisfação do cliente ou do utilizador do serviço.",
+        "mimetype": "plain/text"
+      },
+      "bg": {
+        "literal": "Процеси и принципи, отнасящи се до обслужването на потребители, клиенти и персонално обслужване; Могат да включват и процедури за оценка на обслужването от клиенти и потребители.",
+        "mimetype": "plain/text"
+      },
+      "lt": {
+        "literal": "Procesai ir principai, susiję su pirkėju, klientu, paslaugų naudotoju ir asmeninėmis paslaugomis; tai gali apimti kliento ar paslaugos naudotojo pasitenkinimo vertinimo procedūras.",
+        "mimetype": "plain/text"
+      },
+      "lv": {
+        "literal": "Darbības un principi, kas saistīti ar pircēju, klientu, pakalpojuma izmantotāju un personīgajiem pakalpojumiem. Tās var būt arī darbības, kas saistītas ar pircēja vai pakalpojuma izmantotāja apmierinātības novērtēšanu.",
+        "mimetype": "plain/text"
+      },
+      "hr": {
+        "literal": "Postupci i načela povezana s korisnikom, klijentom, korisnikom usluge i osobnim uslugama; one mogu obuhvaćati procedure procjenjivanja zadovoljstva korisnika ili korisnika usluge.",
+        "mimetype": "plain/text"
+      },
+      "fr": {
+        "literal": "Processus et principes liés au client, à l’utilisateur de services et aux services à la personne; il peut s’agir de procédures visant à évaluer la satisfaction des utilisateurs ou des utilisateurs de services.",
+        "mimetype": "plain/text"
+      },
+      "hu": {
+        "literal": "A fogyasztóval, ügyféllel, a szolgáltatást igénybe vevővel és a személyes szolgáltatásokkal kapcsolatos eljárások és elvek; ezek magukban foglalhatnak az ügyfelek vagy felhasználók elégedettségének értékelésére szolgáló eljárásokat.",
+        "mimetype": "plain/text"
+      },
+      "sk": {
+        "literal": "Procesy a zásady týkajúce sa zákazníka, klienta, používateľa služby a osobných služieb; môžu zahŕňať postupy hodnotenia spokojnosti zákazníka alebo používateľa služby.",
+        "mimetype": "plain/text"
+      },
+      "sl": {
+        "literal": "Postopki in načela, ki se nanašajo na odjemalce, stranke, uporabnike storitev in osebne storitve; ti lahko vključujejo postopke za ocenjevanje zadovoljstva odjemalcev ali uporabnikov storitev.",
+        "mimetype": "plain/text"
+      },
+      "ga": {
+        "literal": "Próisis agus prionsabail a bhaineann leis an gcustaiméir, cliant, úsáideoir seirbhíse agus le seirbhísí pearsanta; d’fhéadfaí a áireamh leo siúd nósanna imeachta chun sástacht custaiméirí nó úsáideoirí seirbhíse a mheastóireacht.",
+        "mimetype": "plain/text"
+      },
+      "sv": {
+        "literal": "Processer och principer relaterade till kunden, klienten, tjänsteanvändaren och till personliga tjänster; dessa kan inkludera rutiner för utvärdering av kundens eller tjänsteanvändarens nöjdhet.",
+        "mimetype": "plain/text"
+      },
+      "mt": {
+        "literal": "Il-proċessi u l-prinċipji relatati mal-konsumatur, il-klijent, l-utent tas-servizz u mas-servizzi personali; dawn jistgħu jinkludu proċeduri biex jiġi evalwat is-sodisfazzjon tal-konsumatur jew tal-utent tas-servizz.",
+        "mimetype": "plain/text"
+      },
+      "el": {
+        "literal": "Διαδικασίες και αρχές που σχετίζονται με τον πελάτη, τον χρήστη υπηρεσιών και τις προσωπικές υπηρεσίες. Μπορεί να περιλαμβάνουν διαδικασίες για την αξιολόγηση της ικανοποίησης του πελάτη ή του χρήστη υπηρεσιών.",
+        "mimetype": "plain/text"
+      },
+      "en": {
+        "literal": "Processes and principles related to the customer, client, service user and to personal services; these may include procedures to evaluate customer's or service user's satisfaction.",
+        "mimetype": "plain/text"
+      },
+      "is": {
+        "literal": "Ferli og meginreglur sem tengjast viðskiptavini, skjólstæðingi, notanda þjónustunnar og persónulegri þjónustu; Þetta getur falið í sér verklag til að meta ánægju viðskiptavina eða þjónustu notenda.",
+        "mimetype": "plain/text"
+      },
+      "it": {
+        "literal": "Processi e principi relativi ai clienti, agli utenti di servizi e ai servizi personali; possono includere procedure per valutare il grado di soddisfazione dei clienti o degli utenti di servizi.",
+        "mimetype": "plain/text"
+      },
+      "es": {
+        "literal": "Procesos y principios relacionados con el consumidor, el cliente, el usuario del servicio y los servicios personales; pueden incluir procedimientos para evaluar la satisfacción del cliente o usuario del servicio.",
+        "mimetype": "plain/text"
+      },
+      "et": {
+        "literal": "Tarbija, kliendi, teenuse kasutaja ja isiklike teenustega seotud protsessid ja põhimõtted; need võivad hõlmata kliendi või teenuse kasutaja rahulolu hindamise menetlusi.",
+        "mimetype": "plain/text"
+      },
+      "cs": {
+        "literal": "Procesy a zásady týkající se zákazníka, klienta, uživatele služby a osobních služeb; mohou zahrnovat postupy pro hodnocení spokojenosti zákazníka nebo uživatele služby.",
+        "mimetype": "plain/text"
+      },
+      "ar": {
+        "literal": "العمليات والمبادئ المتعلقة بالمستهلكين والعملاء ومستخدمي الخدمة والخدمات الشخصية، قد تشمل هذه الإجراءات لتقييم رضا العميل أو مستخدم الخدمة.",
+        "mimetype": "plain/text"
+      },
+      "pl": {
+        "literal": "Procesy i zasady dotyczące klienta, użytkownika usług i usług osobistych; mogą one obejmować procedury oceny stopnia zadowolenia klienta lub użytkownika usług.",
+        "mimetype": "plain/text"
+      },
+      "ro": {
+        "literal": "Procesele și principiile privind clienții, utilizatorii de servicii și serviciile personale; acestea pot include proceduri de evaluare a satisfacției clienților sau a utilizatorilor de servicii.",
+        "mimetype": "plain/text"
+      },
+      "da": {
+        "literal": "Processer og principper i forhold til kunden, klienten, brugeren af tjenesteydelser og personlige tjenesteydelser; disse kan omfatte procedurer til at vurdere kundens eller tjenesteydelsesbrugerens tilfredshed.",
+        "mimetype": "plain/text"
+      },
+      "nl": {
+        "literal": "Processen en beginselen die betrekking hebben op de klant, opdrachtgever, gebruiker en op persoonlijke diensten; daartoe kunnen procedures behoren voor het evalueren van de tevredenheid van klanten of gebruikers.",
+        "mimetype": "plain/text"
+      }
+    },
+    "status": "released",
+    "_links": {
+      "self": {
+        "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/15a33d76-4640-438d-ae64-fdc0c1d3eebc&language=en",
+        "uri": "http://data.europa.eu/esco/skill/15a33d76-4640-438d-ae64-fdc0c1d3eebc",
+        "title": "customer service"
+      },
+      "isTopConceptInScheme": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/taxonomy?uri=http://data.europa.eu/esco/concept-scheme/member-skills&language=en",
+          "uri": "http://data.europa.eu/esco/concept-scheme/member-skills",
+          "title": "ESCO member skills"
+        }
+      ],
+      "isInScheme": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/taxonomy?uri=http://data.europa.eu/esco/concept-scheme/skills&language=en",
+          "uri": "http://data.europa.eu/esco/concept-scheme/skills",
+          "title": "ESCO skills"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/taxonomy?uri=http://data.europa.eu/esco/concept-scheme/member-skills&language=en",
+          "uri": "http://data.europa.eu/esco/concept-scheme/member-skills",
+          "title": "ESCO member skills"
+        }
+      ],
+      "hasSkillType": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/concept?uri=http://data.europa.eu/esco/skill-type/knowledge&language=en",
+          "uri": "http://data.europa.eu/esco/skill-type/knowledge",
+          "title": "knowledge"
+        }
+      ],
+      "hasReuseLevel": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/concept?uri=http://data.europa.eu/esco/skill-reuse-level/sector-specific&language=en",
+          "uri": "http://data.europa.eu/esco/skill-reuse-level/sector-specific",
+          "title": "sector specific skills and competences",
+          "code": "Level 3"
+        }
+      ],
+      "broaderHierarchyConcept": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/concept?uri=http://data.europa.eu/esco/isced-f/0417&language=en",
+          "uri": "http://data.europa.eu/esco/isced-f/0417",
+          "title": "work skills"
+        }
+      ],
+      "isEssentialForOccupation": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/f7b04542-d8c7-42db-8475-e63b507cce82&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/f7b04542-d8c7-42db-8475-e63b507cce82",
+          "title": "receptionist"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/1b123879-8f0d-4793-8069-3dc21a08921a&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/1b123879-8f0d-4793-8069-3dc21a08921a",
+          "title": "chemical application specialist"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/c6239b9e-5973-4b0a-a2ed-4c4b41331e04&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/c6239b9e-5973-4b0a-a2ed-4c4b41331e04",
+          "title": "adult community care worker"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/fa6bd9e9-9631-4abe-b2f8-fad7bf8a819d&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/fa6bd9e9-9631-4abe-b2f8-fad7bf8a819d",
+          "title": "child day care centre manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/eea2b5c6-48d1-4612-957e-585783b3c7bb&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/eea2b5c6-48d1-4612-957e-585783b3c7bb",
+          "title": "elderly home manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/1801583e-34b3-4c89-97ac-db2a346b4a3e&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/1801583e-34b3-4c89-97ac-db2a346b4a3e",
+          "title": "hospitality vocational teacher"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/21de0f3b-a71a-4263-a9ba-90c5f3721b4d&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/21de0f3b-a71a-4263-a9ba-90c5f3721b4d",
+          "title": "financial planner"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/2ae76ccc-f02e-4eb6-b693-fff70ba8f409&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/2ae76ccc-f02e-4eb6-b693-fff70ba8f409",
+          "title": "child welfare worker"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/8ec8df02-e9dd-43b7-b416-5846ae0414ab&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/8ec8df02-e9dd-43b7-b416-5846ae0414ab",
+          "title": "real estate agent"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/87e40e79-16fb-4391-9dcb-c15f40e026c1&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/87e40e79-16fb-4391-9dcb-c15f40e026c1",
+          "title": "betting manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/9a6d8a84-a8a9-4c9b-9ead-59a710e93759&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/9a6d8a84-a8a9-4c9b-9ead-59a710e93759",
+          "title": "business and marketing vocational teacher"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/35fbb8cd-c044-49a1-850c-010481c99b4a&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/35fbb8cd-c044-49a1-850c-010481c99b4a",
+          "title": "financial markets back office administrator"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/5c9dea76-c7da-4e58-857c-fc3cbe7b960a&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/5c9dea76-c7da-4e58-857c-fc3cbe7b960a",
+          "title": "garage manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/c18fddf5-cfc4-4f9c-94d6-86608faaa1dd&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/c18fddf5-cfc4-4f9c-94d6-86608faaa1dd",
+          "title": "social services manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/be375e11-9a70-47cb-8091-711c94ed0c13&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/be375e11-9a70-47cb-8091-711c94ed0c13",
+          "title": "tanning consultant"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/4ae470fc-bcf8-4704-abd5-e086ebb1552c&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/4ae470fc-bcf8-4704-abd5-e086ebb1552c",
+          "title": "membership manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/cb60beab-7afb-4e99-8162-221abea68e6d&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/cb60beab-7afb-4e99-8162-221abea68e6d",
+          "title": "consumer rights advisor"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/66ca3643-e6f3-4c75-9300-40d813185b3e&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/66ca3643-e6f3-4c75-9300-40d813185b3e",
+          "title": "chiropractic assistant"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/1f5932eb-b36d-44e1-a063-7aa9e228af51&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/1f5932eb-b36d-44e1-a063-7aa9e228af51",
+          "title": "foster care support worker"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/5cff1eee-9027-4064-8a26-35b1877e4eb3&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/5cff1eee-9027-4064-8a26-35b1877e4eb3",
+          "title": "public housing manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/f4525ed8-54eb-4a3b-90db-55cc01b0d9fd&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/f4525ed8-54eb-4a3b-90db-55cc01b0d9fd",
+          "title": "care at home worker"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/3469cbcc-5332-41dc-977a-29cf1b7ef7be&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/3469cbcc-5332-41dc-977a-29cf1b7ef7be",
+          "title": "front line medical receptionist"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/50743f62-3d5b-4ef6-b706-00d2b1adfcc3&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/50743f62-3d5b-4ef6-b706-00d2b1adfcc3",
+          "title": "residential home older adult care worker"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/b7fc1cd1-0d6d-4e9e-8a9f-c3270201be81&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/b7fc1cd1-0d6d-4e9e-8a9f-c3270201be81",
+          "title": "foreign exchange cashier"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/0a3c2d5b-e1f9-4200-9288-62bf3fed3310&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/0a3c2d5b-e1f9-4200-9288-62bf3fed3310",
+          "title": "membership administrator"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/dd25a2b0-add0-4ae2-bd85-bb644e0d0c39&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/dd25a2b0-add0-4ae2-bd85-bb644e0d0c39",
+          "title": "call centre manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/9c55aa23-e3f2-4c00-8c90-5ed5204951a3&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/9c55aa23-e3f2-4c00-8c90-5ed5204951a3",
+          "title": "disability support worker"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/78f474ae-c154-4206-ad0f-d8a00e9c541e&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/78f474ae-c154-4206-ad0f-d8a00e9c541e",
+          "title": "residential home adult care worker"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/5a9acd29-666c-4ca1-b10e-e086584a526b&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/5a9acd29-666c-4ca1-b10e-e086584a526b",
+          "title": "mental health support worker"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/c5c1c40f-d2b7-437f-b3e8-b9da48f6d728&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/c5c1c40f-d2b7-437f-b3e8-b9da48f6d728",
+          "title": "property assistant"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/4d6d9057-5167-4158-8bc1-cc2f89d73fd7&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/4d6d9057-5167-4158-8bc1-cc2f89d73fd7",
+          "title": "beauty vocational teacher"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/49ca9fe4-4513-4657-b27f-eaad11e6158a&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/49ca9fe4-4513-4657-b27f-eaad11e6158a",
+          "title": "lottery manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/d96de969-d43d-4082-8559-7fc35484a217&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/d96de969-d43d-4082-8559-7fc35484a217",
+          "title": "relationship banking manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/13d1b2b4-99dd-44da-9734-c9f74bae18f7&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/13d1b2b4-99dd-44da-9734-c9f74bae18f7",
+          "title": "customer service representative"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/33e3a746-f209-4a1a-96df-301505531cb2&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/33e3a746-f209-4a1a-96df-301505531cb2",
+          "title": "beauty salon manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/4c89c65c-4e35-44e3-8fa0-5d73e9e15325&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/4c89c65c-4e35-44e3-8fa0-5d73e9e15325",
+          "title": "family support worker"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/2eac08c2-a81a-46fc-8d75-eb0e0f3e0f6d&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/2eac08c2-a81a-46fc-8d75-eb0e0f3e0f6d",
+          "title": "sales account manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/2171a849-4065-411c-8390-835b7782ed8b&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/2171a849-4065-411c-8390-835b7782ed8b",
+          "title": "bed and breakfast operator"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/2b871272-bd61-4206-bd1a-0b96d7023098&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/2b871272-bd61-4206-bd1a-0b96d7023098",
+          "title": "cashier"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/6667bf29-a3e3-4513-a71b-82c67206045b&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/6667bf29-a3e3-4513-a71b-82c67206045b",
+          "title": "residential home young people care worker"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/98e58946-3227-4f6c-a5d1-5892fe76883d&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/98e58946-3227-4f6c-a5d1-5892fe76883d",
+          "title": "after-sales service technician"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/8d703e8f-1e57-4246-8a6b-cb87a760d4ab&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/8d703e8f-1e57-4246-8a6b-cb87a760d4ab",
+          "title": "social care worker"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/4eada7b3-5026-4030-936b-4a80aed37252&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/4eada7b3-5026-4030-936b-4a80aed37252",
+          "title": "travel and tourism vocational teacher"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/fd0801c9-809a-4cfd-98ed-6c5860c163f2&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/fd0801c9-809a-4cfd-98ed-6c5860c163f2",
+          "title": "investment clerk"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/81309031-dad2-4a7a-bde6-7f6e518f89ff&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/81309031-dad2-4a7a-bde6-7f6e518f89ff",
+          "title": "residential care home worker"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/93f61216-b9c8-4051-bb1e-32839c1566c1&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/93f61216-b9c8-4051-bb1e-32839c1566c1",
+          "title": "hairdressing vocational teacher"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/6a6e174e-cffa-49a9-9f2f-aa39c81cdee5&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/6a6e174e-cffa-49a9-9f2f-aa39c81cdee5",
+          "title": "post office counter clerk"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/bcc2c1db-f969-4355-bebf-4878ff6c2a94&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/bcc2c1db-f969-4355-bebf-4878ff6c2a94",
+          "title": "service manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/55b4faa3-286f-4fc8-ac67-8bbb97d08820&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/55b4faa3-286f-4fc8-ac67-8bbb97d08820",
+          "title": "education administrator"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/3f74aad8-2d60-4be2-b059-8dba5568d530&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/3f74aad8-2d60-4be2-b059-8dba5568d530",
+          "title": "child day care worker"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/080fc550-b7ca-4576-aaf5-06fffbede994&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/080fc550-b7ca-4576-aaf5-06fffbede994",
+          "title": "spa manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/f5576c5b-8d03-4a3d-9cb7-b8c4ac07a7ef&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/f5576c5b-8d03-4a3d-9cb7-b8c4ac07a7ef",
+          "title": "youth centre manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/c227dcff-dd84-487e-a171-da3d919129bb&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/c227dcff-dd84-487e-a171-da3d919129bb",
+          "title": "student financial support coordinator"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/b7b75eb6-34bc-462d-b412-eed393cc1397&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/b7b75eb6-34bc-462d-b412-eed393cc1397",
+          "title": "customer contact centre information clerk"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/64b136da-aedf-48a2-96a0-72eb850bfcd0&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/64b136da-aedf-48a2-96a0-72eb850bfcd0",
+          "title": "rescue centre manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/4d7d2628-1405-4ff2-b5b5-bd0d57ed9bbd&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/4d7d2628-1405-4ff2-b5b5-bd0d57ed9bbd",
+          "title": "residential childcare worker"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/44cd9d91-5552-4735-86b8-4b2c5d39efc8&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/44cd9d91-5552-4735-86b8-4b2c5d39efc8",
+          "title": "laundry and dry cleaning manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/4edbde9f-218e-49c7-812f-c45262fb4128&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/4edbde9f-218e-49c7-812f-c45262fb4128",
+          "title": "housing support worker"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/2ff9e53c-6e7f-42af-8d71-b5dd7f283089&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/2ff9e53c-6e7f-42af-8d71-b5dd7f283089",
+          "title": "bank teller"
+        }
+      ],
+      "isOptionalForOccupation": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/90a73720-642d-4f45-88e7-8f593a5e0df2&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/90a73720-642d-4f45-88e7-8f593a5e0df2",
+          "title": "transport technology vocational teacher"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/68450507-b4a0-40e0-895b-385fe705be10&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/68450507-b4a0-40e0-895b-385fe705be10",
+          "title": "emergency medical dispatcher"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/a198de8c-24b1-4002-982f-a57ae6d6c19c&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/a198de8c-24b1-4002-982f-a57ae6d6c19c",
+          "title": "insurance broker"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/834aab9b-2246-4c3e-ab4a-cf3de1267e1a&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/834aab9b-2246-4c3e-ab4a-cf3de1267e1a",
+          "title": "car driving instructor"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/37c44fdd-eff0-4e16-b459-b3a81fe663ec&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/37c44fdd-eff0-4e16-b459-b3a81fe663ec",
+          "title": "food service vocational teacher"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/983c2816-a339-4817-97f4-151a9ff3e64d&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/983c2816-a339-4817-97f4-151a9ff3e64d",
+          "title": "medical records manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/725090a7-9943-4dae-8079-a6999d21ddba&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/725090a7-9943-4dae-8079-a6999d21ddba",
+          "title": "client relations manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/92be1fac-97c4-4d4d-ada7-f6aa07d6f316&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/92be1fac-97c4-4d4d-ada7-f6aa07d6f316",
+          "title": "waiting list coordinator"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/fcaab37b-ada2-4832-a2fd-9d64362e0280&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/fcaab37b-ada2-4832-a2fd-9d64362e0280",
+          "title": "international student exchange coordinator"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/92cba6b4-8fca-49bb-b68c-45c5096fedc9&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/92cba6b4-8fca-49bb-b68c-45c5096fedc9",
+          "title": "window cleaner"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/0599d0e7-398f-464b-97bb-427686f27d50&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/0599d0e7-398f-464b-97bb-427686f27d50",
+          "title": "maritime instructor"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/109e0a5d-203d-4af6-8f70-692111335ec3&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/109e0a5d-203d-4af6-8f70-692111335ec3",
+          "title": "quality services manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/4779055b-f769-4c6d-8e0e-088bb74cfce9&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/4779055b-f769-4c6d-8e0e-088bb74cfce9",
+          "title": "swimming facility attendant"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/9e1a31bf-2963-40f4-95af-cedc3fbac537&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/9e1a31bf-2963-40f4-95af-cedc3fbac537",
+          "title": "design and applied arts vocational teacher"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/7b89d3e0-c6fb-4c95-bf0d-3b4acf05f9d6&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/7b89d3e0-c6fb-4c95-bf0d-3b4acf05f9d6",
+          "title": "legislative drafter"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/2ddde737-28f3-444d-b1f8-ef12cc2df3c7&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/2ddde737-28f3-444d-b1f8-ef12cc2df3c7",
+          "title": "academic support officer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/4163b31e-440b-4991-b5c3-48d0515250ef&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/4163b31e-440b-4991-b5c3-48d0515250ef",
+          "title": "network marketer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/8289625a-c1c1-4a49-8ddd-37be4c3cd3fc&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/8289625a-c1c1-4a49-8ddd-37be4c3cd3fc",
+          "title": "auxiliary nursing and midwifery vocational teacher"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/4791e217-d607-40d5-9f84-df1d0a071cbc&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/4791e217-d607-40d5-9f84-df1d0a071cbc",
+          "title": "marketeer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/30f3ea93-882a-4525-841c-1d5b4b64076f&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/30f3ea93-882a-4525-841c-1d5b4b64076f",
+          "title": "financial manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/39d7dca7-5e0b-4308-889e-9e3d22a3cb56&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/39d7dca7-5e0b-4308-889e-9e3d22a3cb56",
+          "title": "occupational driving instructor"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/21f4eb29-f6e5-4623-acb9-f3ff9c2f525d&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/21f4eb29-f6e5-4623-acb9-f3ff9c2f525d",
+          "title": "public speaking coach"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/66fb9704-0d56-4673-8e69-7823816b73e1&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/66fb9704-0d56-4673-8e69-7823816b73e1",
+          "title": "market research analyst"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/68dd0dfc-c8b0-4fd0-9a6e-b0864925fa56&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/68dd0dfc-c8b0-4fd0-9a6e-b0864925fa56",
+          "title": "occupational railway instructor"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/2d3d7188-47ab-49b9-9045-e452d9db06f1&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/2d3d7188-47ab-49b9-9045-e452d9db06f1",
+          "title": "commercial director"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/5c1eba1e-7820-4287-9746-4c5906320100&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/5c1eba1e-7820-4287-9746-4c5906320100",
+          "title": "sales support assistant"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/095169ac-feee-4fcf-bff7-222ab6d84bc4&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/095169ac-feee-4fcf-bff7-222ab6d84bc4",
+          "title": "green coffee buyer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/c29f1a42-25cb-4192-9bc1-cc7560c00590&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/c29f1a42-25cb-4192-9bc1-cc7560c00590",
+          "title": "truck driving instructor"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/0c041d1e-1841-4acb-b0a1-2c387a61bf65&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/0c041d1e-1841-4acb-b0a1-2c387a61bf65",
+          "title": "doctors' surgery assistant"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/bca2528a-5a87-4576-a3b5-1edbbce40a9f&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/bca2528a-5a87-4576-a3b5-1edbbce40a9f",
+          "title": "driving instructor"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/8e185c49-704e-49c0-8584-a7e0b618f628&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/8e185c49-704e-49c0-8584-a7e0b618f628",
+          "title": "loan officer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/c9839843-6cac-4564-8aa7-de4a5b9b62e1&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/c9839843-6cac-4564-8aa7-de4a5b9b62e1",
+          "title": "mutual fund broker"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/3db35c88-bcb7-4de4-914a-9a9839a3c911&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/3db35c88-bcb7-4de4-914a-9a9839a3c911",
+          "title": "business administration vocational teacher"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/9d2aae3e-cbfe-409f-86cc-7cef9cd0435a&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/9d2aae3e-cbfe-409f-86cc-7cef9cd0435a",
+          "title": "contact centre supervisor"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/0ba06640-e0ac-4911-9e43-289a8e41651e&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/0ba06640-e0ac-4911-9e43-289a8e41651e",
+          "title": "corporate trainer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/73357956-f607-4baa-9ce6-03beb9b39da2&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/73357956-f607-4baa-9ce6-03beb9b39da2",
+          "title": "sales processor"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/2c027db0-d2a6-43f0-9c4a-caff27c7c54a&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/2c027db0-d2a6-43f0-9c4a-caff27c7c54a",
+          "title": "vessel steering instructor"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/580c98d4-fb97-4597-864c-54140f058f1b&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/580c98d4-fb97-4597-864c-54140f058f1b",
+          "title": "call centre quality auditor"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/259d9967-2189-4b98-be32-9d3169b02e1b&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/259d9967-2189-4b98-be32-9d3169b02e1b",
+          "title": "motorcycle instructor"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/81f8d141-3f67-4fb0-a349-db0147ef7b3a&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/81f8d141-3f67-4fb0-a349-db0147ef7b3a",
+          "title": "vocational teacher"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/4666cccf-cfbc-4296-95b5-67dad2f620d2&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/4666cccf-cfbc-4296-95b5-67dad2f620d2",
+          "title": "bus driving instructor"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/14eb2c85-fce5-40b6-bcd0-46ac99994b0d&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/14eb2c85-fce5-40b6-bcd0-46ac99994b0d",
+          "title": "medical records clerk"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/7153a12d-85e0-4123-87e9-46bb1a2dc929&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/7153a12d-85e0-4123-87e9-46bb1a2dc929",
+          "title": "ground steward/ground stewardess"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/5e4d156a-1f05-4b2c-b0f0-5abb82d52ed6&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/5e4d156a-1f05-4b2c-b0f0-5abb82d52ed6",
+          "title": "bank account manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/6e1b1bd7-9eec-4f10-bce7-94a27d9023e8&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/6e1b1bd7-9eec-4f10-bce7-94a27d9023e8",
+          "title": "admissions coordinator"
+        }
+      ],
+      "isOptionalForSkill": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/89ba58e8-a67e-4d2b-ad42-6acab25c241b&language=en",
+          "uri": "http://data.europa.eu/esco/skill/89ba58e8-a67e-4d2b-ad42-6acab25c241b",
+          "title": "measure customer feedback",
+          "skillType": "http://data.europa.eu/esco/skill-type/skill"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/b215031a-dd21-48b1-a998-75d6373838d8&language=en",
+          "uri": "http://data.europa.eu/esco/skill/b215031a-dd21-48b1-a998-75d6373838d8",
+          "title": "communicate with customer service department",
+          "skillType": "http://data.europa.eu/esco/skill-type/skill"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/8d10ae08-3b0d-4bbb-86c5-25dd2c6858cd&language=en",
+          "uri": "http://data.europa.eu/esco/skill/8d10ae08-3b0d-4bbb-86c5-25dd2c6858cd",
+          "title": "teach customer service techniques",
+          "skillType": "http://data.europa.eu/esco/skill-type/skill"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/b711fd4d-0b1a-4e08-ae16-339bb2430ffd&language=en",
+          "uri": "http://data.europa.eu/esco/skill/b711fd4d-0b1a-4e08-ae16-339bb2430ffd",
+          "title": "provide fitness customer service",
+          "skillType": "http://data.europa.eu/esco/skill-type/skill"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/c5d018ca-f6fa-4cc0-b209-43df46e56d48&language=en",
+          "uri": "http://data.europa.eu/esco/skill/c5d018ca-f6fa-4cc0-b209-43df46e56d48",
+          "title": "analyse customer service surveys",
+          "skillType": "http://data.europa.eu/esco/skill-type/skill"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/c09c5786-a479-46de-b0aa-d5d2d8ccc123&language=en",
+          "uri": "http://data.europa.eu/esco/skill/c09c5786-a479-46de-b0aa-d5d2d8ccc123",
+          "title": "manage customer service",
+          "skillType": "http://data.europa.eu/esco/skill-type/skill"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/75dfe1ee-5935-42ce-b820-697f827825c3&language=en",
+          "uri": "http://data.europa.eu/esco/skill/75dfe1ee-5935-42ce-b820-697f827825c3",
+          "title": "maintain customer service",
+          "skillType": "http://data.europa.eu/esco/skill-type/skill"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/b01c93a8-43b0-4cf6-81c8-68a4f2ed93d9&language=en",
+          "uri": "http://data.europa.eu/esco/skill/b01c93a8-43b0-4cf6-81c8-68a4f2ed93d9",
+          "title": "meet picking standards",
+          "skillType": "http://data.europa.eu/esco/skill-type/skill"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/1954f68c-74be-4727-b127-1025ab39bfcc&language=en",
+          "uri": "http://data.europa.eu/esco/skill/1954f68c-74be-4727-b127-1025ab39bfcc",
+          "title": "determine charges for customer services",
+          "skillType": "http://data.europa.eu/esco/skill-type/skill"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/0eb05180-6927-4c35-b898-176e00d0488c&language=en",
+          "uri": "http://data.europa.eu/esco/skill/0eb05180-6927-4c35-b898-176e00d0488c",
+          "title": "sell services",
+          "skillType": "http://data.europa.eu/esco/skill-type/skill"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/a15dab55-f1da-4f85-ae3e-2b5c5b5333ca&language=en",
+          "uri": "http://data.europa.eu/esco/skill/a15dab55-f1da-4f85-ae3e-2b5c5b5333ca",
+          "title": "strive to provide high quality customer service",
+          "skillType": "http://data.europa.eu/esco/skill-type/skill"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/39c00771-5f26-4ced-837f-d5ffeae245aa&language=en",
+          "uri": "http://data.europa.eu/esco/skill/39c00771-5f26-4ced-837f-d5ffeae245aa",
+          "title": "learn about customer service",
+          "skillType": "http://data.europa.eu/esco/skill-type/skill"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/8330c86e-63cf-4be6-849f-4f77628cc5c5&language=en",
+          "uri": "http://data.europa.eu/esco/skill/8330c86e-63cf-4be6-849f-4f77628cc5c5",
+          "title": "satisfy customers",
+          "skillType": "http://data.europa.eu/esco/skill-type/skill"
+        }
+      ]
+    },
+    "_embedded": {
+      "ancestors": [
+        {
+          "title": "customer service",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/15a33d76-4640-438d-ae64-fdc0c1d3eebc&language=en",
+              "uri": "http://data.europa.eu/esco/skill/15a33d76-4640-438d-ae64-fdc0c1d3eebc"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/isced-f/0417"
+          ]
+        },
+        {
+          "title": "work skills",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/isced-f/0417&language=en",
+              "uri": "http://data.europa.eu/esco/isced-f/0417"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/isced-f/041"
+          ]
+        },
+        {
+          "title": "business and administration",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/isced-f/041&language=en",
+              "uri": "http://data.europa.eu/esco/isced-f/041"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/isced-f/04"
+          ]
+        },
+        {
+          "title": "business, administration and law",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/isced-f/04&language=en",
+              "uri": "http://data.europa.eu/esco/isced-f/04"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/K"
+          ]
+        },
+        {
+          "title": "knowledge",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/K&language=en",
+              "uri": "http://data.europa.eu/esco/skill/K"
+            }
+          },
+          "parents": []
+        }
+      ]
+    }
+  }
+}

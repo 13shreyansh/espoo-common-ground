@@ -1,0 +1,48 @@
+{
+  "model": "gemini-3.8-flash",
+  "prompt_version": "cg-2.1",
+  "at": "2026-11-14T22:58:28.172Z",
+  "kind": "questions",
+  "input_hash": "bea9510b840eeeb61087f12caba89d954583c981a5b4a7e6cc546440b25a110b",
+  "answer": {
+    "questions": [
+      {
+        "text": "What is the primary interface or application that needs to be built?",
+        "options": [
+          "A customer-facing web portal with user authentication and billing integration",
+          "An internal operations dashboard for inventory and workflow management",
+          "A real-time data visualization tool for analytics and reporting"
+        ]
+      },
+      {
+        "text": "What underlying data sources or backend architectures will this integrate with?",
+        "options": [
+          "A relational SQL database connected via standard REST APIs",
+          "A microservices ecosystem communicating through message queues and GraphQL",
+          "A legacy monolithic backend requiring data migration and API wrapping"
+        ]
+      },
+      {
+        "text": "What concrete outcome defines success for the first production release?",
+        "options": [
+          "A deployed end-to-end prototype allowing initial users to input and retrieve records",
+          "A complete migration of core workflows to a new responsive interface with automated tests",
+          "A hardened release ready for external compliance and performance benchmarking"
+        ]
+      }
+    ]
+  },
+  "usage": {
+    "promptTokenCount": 138,
+    "candidatesTokenCount": 165,
+    "totalTokenCount": 953,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 138
+      }
+    ],
+    "thoughtsTokenCount": 650,
+    "serviceTier": "standard"
+  }
+}

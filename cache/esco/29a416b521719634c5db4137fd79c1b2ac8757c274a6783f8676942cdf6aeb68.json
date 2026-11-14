@@ -1,0 +1,208 @@
+{
+  "url": "https://ec.europa.eu/esco/api/search?type=skill&language=en&limit=3&text=design%20embedded%20systems",
+  "at": "2026-11-14T22:51:25.747Z",
+  "response": {
+    "total": 1681,
+    "offset": 0,
+    "limit": 3,
+    "text": "design embedded systems",
+    "language": "en",
+    "type": [
+      "skill"
+    ],
+    "isInScheme": null,
+    "facet": null,
+    "_links": {
+      "self": {
+        "href": "https://ec.europa.eu/esco/api/search?text=design%20embedded%20systems&type=skill&limit=3&offset=0&full=false&viewObsolete=false&language=en"
+      },
+      "next": {
+        "href": "https://ec.europa.eu/esco/api/search?text=design%20embedded%20systems&type=skill&limit=3&offset=1&full=false&viewObsolete=false&language=en"
+      }
+    },
+    "_embedded": {
+      "results": [
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/2180bd8c-86de-4889-8165-adac902eee9d",
+          "searchHit": "The computer systems and components with a specialised and autonomous function within a larger system or machine such as embedded systems software architectures, embedded peripherals, design principles and development tools.",
+          "title": "embedded systems",
+          "preferredLabel": {
+            "de": "eingebettete Systeme",
+            "no": "innebygde systemer",
+            "fi": "sulautetut järjestelmät",
+            "en-us": "embedded systems",
+            "pt": "sistemas integrados",
+            "bg": "вградени системи",
+            "lt": "įterptosios sistemos",
+            "hr": "ugrađeni sustavi",
+            "lv": "iegultā sistēma",
+            "fr": "systèmes embarqués",
+            "hu": "beágyazott rendszerek",
+            "sk": "vnorené systémy",
+            "sl": "vgrajeni sistemi",
+            "ga": "córais leabaithe",
+            "sv": "inbäddade system",
+            "el": "ενσωματωμένα συστήματα",
+            "mt": "sistemi inkorporati",
+            "en": "embedded systems",
+            "is": "ívafskerfi",
+            "it": "sistemi integrati",
+            "es": "sistemas incrustados",
+            "et": "sardsüsteem",
+            "cs": "vestavěné systémy",
+            "ar": "الأنظمة المدمجة",
+            "pl": "systemy wbudowane",
+            "da": "indlejrede systemer",
+            "ro": "sisteme înglobate",
+            "nl": "geïntegreerd systeem"
+          },
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/knowledge"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/sector-specific"
+          ],
+          "broaderSkill": [
+            "http://data.europa.eu/esco/skill/d0c6d77e-cb25-4770-bf77-2073fc5f7523"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/isced-f/0714"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/2180bd8c-86de-4889-8165-adac902eee9d&language=en",
+              "uri": "http://data.europa.eu/esco/skill/2180bd8c-86de-4889-8165-adac902eee9d",
+              "title": "embedded systems"
+            }
+          }
+        },
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/4f5ccaad-0e4f-4e9f-8246-47765564387d",
+          "searchHit": "Update basic or integrated software included in devices, network components and embedded systems.",
+          "title": "upgrade firmware",
+          "preferredLabel": {
+            "de": "Firmware aktualisieren",
+            "no": "oppgradere fastvare",
+            "fi": "päivittää laiteohjelmistoa",
+            "en-us": "upgrade firmware",
+            "pt": "atualizar «firmware»",
+            "bg": "надграждане на фърмуеър",
+            "lt": "atnaujinti programinę aparatinę įrangą",
+            "hr": "nadograditi program",
+            "lv": "aparātprogrammatūras jaunināšana",
+            "fr": "mettre à jour le micrologiciel",
+            "hu": "frissíti a firmware-t",
+            "sk": "modernizovať firmvér",
+            "sl": "nadgraditi strojno programsko opremo",
+            "ga": "dochtearraí a uasghrádú",
+            "sv": "uppgradera inbyggd programvara",
+            "el": "αναβάθμιση λογισμικού εταιρείας",
+            "mt": "taġġorna l-fermwer",
+            "en": "upgrade firmware",
+            "is": "uppfæra fastbúnað",
+            "it": "aggiornare il firmware",
+            "es": "actualizar firmware",
+            "et": "püsivara verisooni täiendama",
+            "cs": "modernizovat firmware",
+            "ar": "تحدّيث برنامجًا ثابتًا",
+            "pl": "aktualizować oprogramowanie układowe",
+            "da": "opgradere firmware",
+            "ro": "efectuează actualizări de firmware",
+            "nl": "firmwareverbeteringen doorvoeren"
+          },
+          "isTopConceptInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/skill"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/cross-sector"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/skill/S5.2.1"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/4f5ccaad-0e4f-4e9f-8246-47765564387d&language=en",
+              "uri": "http://data.europa.eu/esco/skill/4f5ccaad-0e4f-4e9f-8246-47765564387d",
+              "title": "upgrade firmware"
+            }
+          }
+        },
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/a3ff9653-a07e-428b-9ae8-1af2f864cae8",
+          "searchHit": "design principles of containment systems",
+          "title": "design principles of containment systems",
+          "preferredLabel": {
+            "de": "Grundsätze der Gestaltung von Gehegen",
+            "no": "designprinsipper knyttet til beholdersystemer",
+            "fi": "suojarakennusten suunnitteluperiaatteet",
+            "en-us": "design principles of containment systems",
+            "pt": "princípios de conceção dos sistemas de confinamento",
+            "bg": "принципи за проектиране на садкови системи",
+            "lt": "gyvūnų talpyklų sistemų projektavimo principai",
+            "hr": "načela projektiranja uzgojnih sustava",
+            "lv": "turēšanas sistēmu projektēšanas principi",
+            "fr": "principes de conception de systèmes de confinement",
+            "hu": "az állattartási rendszerek tervezési alapelvei",
+            "sk": "zásady navrhovania chovných priestorov",
+            "sl": "načela zasnove zaprtih sistemov",
+            "ga": "prionsabail dearaidh a bhaineann le córais choimeádta",
+            "sv": "designprinciper för inneslutningssystem",
+            "el": "αρχές σχεδιασμού συστημάτων απομόνωσης",
+            "mt": "prinċipji tad-disinn tas-sistemi ta’ konteniment",
+            "en": "design principles of containment systems",
+            "is": "grundvallaratriði hönnunar á afmörkunarkerfum",
+            "it": "principi di progettazione di sistemi di contenimento",
+            "es": "principios del diseño de sistemas de contención de acuicultura",
+            "et": "hoidlate kujunduspõhimõtted",
+            "cs": "konstrukční zásady zadržovacích systémů",
+            "ar": "تصميم مبادئ أنظمة الاحتواء",
+            "pl": "zasady projektowania systemów zamkniętych",
+            "da": "principper for design af indeslutningssystemer",
+            "ro": "principii de proiectare a sistemelor de adăpostire a animalelor",
+            "nl": "ontwerpbeginselen van inperkingssystemen"
+          },
+          "isTopConceptInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/knowledge"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/sector-specific"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/isced-f/0831"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/a3ff9653-a07e-428b-9ae8-1af2f864cae8&language=en",
+              "uri": "http://data.europa.eu/esco/skill/a3ff9653-a07e-428b-9ae8-1af2f864cae8",
+              "title": "design principles of containment systems"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

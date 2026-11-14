@@ -1,0 +1,210 @@
+{
+  "url": "https://ec.europa.eu/esco/api/search?type=skill&language=en&limit=3&text=train%20employees",
+  "at": "2026-11-14T22:51:18.874Z",
+  "response": {
+    "total": 445,
+    "offset": 0,
+    "limit": 3,
+    "text": "train employees",
+    "language": "en",
+    "type": [
+      "skill"
+    ],
+    "isInScheme": null,
+    "facet": null,
+    "_links": {
+      "self": {
+        "href": "https://ec.europa.eu/esco/api/search?text=train%20employees&type=skill&limit=3&offset=0&full=false&viewObsolete=false&language=en"
+      },
+      "next": {
+        "href": "https://ec.europa.eu/esco/api/search?text=train%20employees&type=skill&limit=3&offset=1&full=false&viewObsolete=false&language=en"
+      }
+    },
+    "_embedded": {
+      "results": [
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/e54ff029-1ce9-447d-a5b2-eb7283a23e6e",
+          "searchHit": "train employees",
+          "title": "train employees",
+          "preferredLabel": {
+            "de": "Personal schulen",
+            "no": "lære opp ansatte",
+            "fi": "kouluttaa työntekijöitä",
+            "en-us": "train employees",
+            "pt": "dar formação aos trabalhadores",
+            "bg": "обучаване на служители",
+            "lt": "apmokyti darbuotojus",
+            "hr": "osposobljavati zaposlenike",
+            "lv": "sagatavot darbiniekus",
+            "fr": "former le personnel",
+            "hu": "betanítja a munkavállalókat",
+            "sk": "poskytovať odbornú prípravu zamestnancom",
+            "sl": "usposabljati zaposlene",
+            "ga": "oiliúint a chur ar fhostaithe",
+            "sv": "utbilda anställda",
+            "el": "εκπαίδευση των υπαλλήλων",
+            "mt": "taħriġ tal-impjegati",
+            "en": "train employees",
+            "is": "þjálfar starfsfólk",
+            "it": "formare i dipendenti",
+            "es": "capacitar a empleados",
+            "et": "töötajaid koolitama",
+            "cs": "školit zaměstnance",
+            "ar": "تدريب الموظفين",
+            "pl": "szkolić pracowników",
+            "da": "uddanne medarbejdere",
+            "ro": "formează angajații",
+            "nl": "werknemers opleiden"
+          },
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/skill"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/cross-sector"
+          ],
+          "broaderSkill": [
+            "http://data.europa.eu/esco/skill/699e7c26-6502-4e78-a823-3656ff5a5b8b"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/skill/S1.3.3"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/e54ff029-1ce9-447d-a5b2-eb7283a23e6e&language=en",
+              "uri": "http://data.europa.eu/esco/skill/e54ff029-1ce9-447d-a5b2-eb7283a23e6e",
+              "title": "train employees"
+            }
+          }
+        },
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/0cc9c234-f817-4f4c-908a-4d28fe3b0f4a",
+          "searchHit": "train employees to improve performance",
+          "title": "coach employees",
+          "preferredLabel": {
+            "de": "Mitarbeiter/Mitarbeiterinnen coachen",
+            "no": "veilede ansatte",
+            "fi": "opastaa työntekijöitä",
+            "en-us": "coach employees",
+            "pt": "formar os empregados",
+            "bg": "напътстване на служители",
+            "lt": "užsiimti ugdomuoju vadovavimu",
+            "hr": "trenirati zaposlenike",
+            "lv": "apmācīt darbiniekus",
+            "fr": "intervenir en tant que coach auprès des employés",
+            "hu": "munkavállalókat mentorál",
+            "sk": "koučovať zamestnancov",
+            "sl": "izvajati kovčing zaposlenih",
+            "ga": "fostaithe a chóitseáil",
+            "sv": "coacha anställda",
+            "el": "καθοδήγηση υπαλλήλων",
+            "mt": "ikkowċjar tal-impjegati",
+            "en": "coach employees",
+            "is": "þjálfar starfsfólk",
+            "it": "fornire coaching ai dipendenti",
+            "es": "formar a empleados",
+            "et": "töötajaid juhendama",
+            "cs": "poskytovat koučink zaměstnancům",
+            "ar": "تدريب الموظفين",
+            "pl": "poddawać pracowników coachingowi",
+            "da": "coache medarbejdere",
+            "ro": "instruiește angajații",
+            "nl": "medewerkers begeleiden"
+          },
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/skill"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/cross-sector"
+          ],
+          "broaderSkill": [
+            "http://data.europa.eu/esco/skill/699e7c26-6502-4e78-a823-3656ff5a5b8b"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/skill/S1.3.5"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/0cc9c234-f817-4f4c-908a-4d28fe3b0f4a&language=en",
+              "uri": "http://data.europa.eu/esco/skill/0cc9c234-f817-4f4c-908a-4d28fe3b0f4a",
+              "title": "coach employees"
+            }
+          }
+        },
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/852d758c-f222-4edc-99ad-31c9e3bd8079",
+          "searchHit": "provide operational efficiency training to employees",
+          "title": "provide operational efficiency training to employees",
+          "preferredLabel": {
+            "de": "Beschäftigte in betrieblicher Effizienz schulen",
+            "no": "gi opplæring til ansatte for å øke operasjonell effektivitet",
+            "fi": "antaa työntekijöille toiminnan tehostamiskoulutusta",
+            "en-us": "provide operational efficiency training to employees",
+            "pt": "dar formação ao pessoal em eficiência operacional",
+            "bg": "предоставяне на обучение за оперативна ефективност за служителите",
+            "lt": "mokyti darbuotojus, kaip užtikrinti veiklos efektyvumą",
+            "hr": "pružati zaposlenicima osposobljavanje iz radne učinkovitosti",
+            "lv": "nodrošināt darbiniekiem mācības par darba efektivitāti",
+            "fr": "dispenser une formation sur l’efficacité opérationnelle aux employés",
+            "hu": "működési hatékonysági képzést tart a munkavállalók számára",
+            "sk": "poskytovať zamestnancom operatívnu odbornú prípravu v oblasti efektivity",
+            "sl": "zagotavljati usposabljanje zaposlenih na področju operativne učinkovitosti",
+            "ga": "oiliúint in éifeachtúlacht oibriúcháin a chur ar fhostaithe",
+            "sv": "tillhandahålla fortbildning till medarbetare om effektivitet i arbetet",
+            "el": "παροχή εκπαίδευσης για τη λειτουργική αποδοτικότητα σε υπαλλήλους",
+            "mt": "forniment ta’ taħriġ dwar l-effiċjenza operattiva lill-impjegati",
+            "en": "provide operational efficiency training to employees",
+            "is": "býður upp á rekstrarlega hagkvæmniþjálfun fyrir starfsfólk",
+            "it": "istruire i dipendenti per aumentare l’efficienza operativa",
+            "es": "ofrecer formación a los trabajadores para aumentar la eficiencia en las operaciones",
+            "et": "töötajatele töötõhususkoolitust andma",
+            "cs": "prezentovat zaměstnancům školení provozní efektivity",
+            "ar": "تقديم تدريبات حول المهنية التشغيلية للعاملين",
+            "pl": "zapewniać pracownikom szkolenia z zakresu wydajności operacyjnej",
+            "da": "uddanne medarbejdere i effektiv drift",
+            "ro": "asigură formarea angajaților în domeniul eficienței operaționale",
+            "nl": "operationele efficiëntietraining geven aan werknemers"
+          },
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/skill"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/cross-sector"
+          ],
+          "broaderSkill": [
+            "http://data.europa.eu/esco/skill/699e7c26-6502-4e78-a823-3656ff5a5b8b",
+            "http://data.europa.eu/esco/skill/e7329772-d1bc-4a73-837b-d729290d7af2",
+            "http://data.europa.eu/esco/skill/e54ff029-1ce9-447d-a5b2-eb7283a23e6e"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/skill/S1.3.3"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/852d758c-f222-4edc-99ad-31c9e3bd8079&language=en",
+              "uri": "http://data.europa.eu/esco/skill/852d758c-f222-4edc-99ad-31c9e3bd8079",
+              "title": "provide operational efficiency training to employees"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

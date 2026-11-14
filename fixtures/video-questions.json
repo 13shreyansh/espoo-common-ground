@@ -1,0 +1,49 @@
+{
+  "model": "gemini-3.8-flash",
+  "prompt_version": "cg-2.1",
+  "at": "2026-11-14T22:59:56.737Z",
+  "kind": "questions",
+  "input_hash": "cd60578474d86a10ef0b9856393ac3e3dd53bd8aa4ecf14580518c25c7477f92",
+  "answer": {
+    "questions": [
+      {
+        "text": "What is the main tool this person needs to build first?",
+        "options": [
+          "An internal tool for staff to handle daily work",
+          "A customer-facing sign-up and order flow",
+          "A self-service page for clients to track requests"
+        ]
+      },
+      {
+        "text": "What messy data or everyday problem will they deal with?",
+        "options": [
+          "Scattered spreadsheets and manual email updates",
+          "An old database full of duplicate entries",
+          "Separate software tools that do not share information"
+        ]
+      },
+      {
+        "text": "What is the first useful result you want to see within a month?",
+        "options": [
+          "A working screen where staff can edit records cleanly",
+          "A live web page where visitors can submit real requests",
+          "A simple automated view that replaces manual status reports"
+        ]
+      }
+    ]
+  },
+  "usage": {
+    "promptTokenCount": 183,
+    "candidatesTokenCount": 144,
+    "totalTokenCount": 961,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 183
+      }
+    ],
+    "thoughtsTokenCount": 634,
+    "serviceTier": "standard"
+  },
+  "cache_hit": false
+}

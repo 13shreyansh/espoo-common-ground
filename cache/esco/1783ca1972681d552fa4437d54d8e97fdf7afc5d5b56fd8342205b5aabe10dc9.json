@@ -1,0 +1,394 @@
+{
+  "url": "https://ec.europa.eu/esco/api/search?type=skill&language=en&limit=6&text=data%20analysis",
+  "at": "2026-11-14T23:00:06.846Z",
+  "response": {
+    "total": 718,
+    "offset": 0,
+    "limit": 6,
+    "text": "data analysis",
+    "language": "en",
+    "type": [
+      "skill"
+    ],
+    "isInScheme": null,
+    "facet": null,
+    "_links": {
+      "self": {
+        "href": "https://ec.europa.eu/esco/api/search?text=data%20analysis&type=skill&limit=6&offset=0&full=false&viewObsolete=false&language=en"
+      },
+      "next": {
+        "href": "https://ec.europa.eu/esco/api/search?text=data%20analysis&type=skill&limit=6&offset=1&full=false&viewObsolete=false&language=en"
+      }
+    },
+    "_embedded": {
+      "results": [
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/7ee4c2ea-b349-4bd2-81a3-ec31475d4833",
+          "searchHit": "The study of statistical theory, methods and practices such as collection, organisation, analysis, interpretation and presentation of data. It deals with all aspects of data including the planning of data collection in terms of the design of surveys and experiments in order to forecast and plan work-related activities.",
+          "title": "statistics",
+          "preferredLabel": {
+            "de": "Statistik",
+            "no": "statistikk",
+            "fi": "tilastot",
+            "en-us": "statistics",
+            "pt": "estatística",
+            "bg": "статистика",
+            "lt": "statistika",
+            "hr": "statistika",
+            "lv": "statistika",
+            "fr": "statistiques",
+            "hu": "statisztika",
+            "sk": "štatistika",
+            "sl": "statistika",
+            "ga": "staidreamh",
+            "sv": "statistik",
+            "el": "στατιστικές",
+            "mt": "statistika",
+            "en": "statistics",
+            "is": "tölfræði",
+            "it": "statistica",
+            "es": "estadística",
+            "et": "statistika",
+            "cs": "statistika",
+            "ar": "علم الإحصاء",
+            "pl": "statystyka",
+            "da": "statistik",
+            "ro": "statistică",
+            "nl": "statistiek"
+          },
+          "isTopConceptInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/knowledge"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/cross-sector"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/isced-f/0542"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/7ee4c2ea-b349-4bd2-81a3-ec31475d4833&language=en",
+              "uri": "http://data.europa.eu/esco/skill/7ee4c2ea-b349-4bd2-81a3-ec31475d4833",
+              "title": "statistics"
+            }
+          }
+        },
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/c95c29fe-3971-46b7-80e9-1f7e75ba99b3",
+          "searchHit": "Use specific software for data analysis, including statistics, spreadsheets, and databases. Explore possibilities in order to make reports to managers, superiors, or clients.",
+          "title": "use specific data analysis software",
+          "preferredLabel": {
+            "de": "spezielle Datenanalysesoftware nutzen",
+            "no": "bruke spesifikk dataanalyseprogramvare",
+            "fi": "käyttää tiettyä tietojen analysointiin tarkoitettua ohjelmistoa",
+            "en-us": "use specific data analysis software",
+            "pt": "utilizar software específico de análise de dados",
+            "bg": "използване на специализиран софтуер за анализ на данни",
+            "lt": "naudoti specialią duomenų analizės programinę įrangą",
+            "hr": "upotrebljavati poseban softver za analizu podataka",
+            "lv": "lietot specializētas datu analīzes programmatūras",
+            "fr": "utiliser un logiciel d’analyse de données spécifique",
+            "hu": "speciális adatelemző szoftvert használ",
+            "sk": "používať špecializovaný softvér na analýzu údajov",
+            "sl": "uporabljati posebno programsko opremo za analizo podatkov",
+            "ga": "bogearraí sonracha anailíse sonraí a úsáid",
+            "sv": "använda speciell programvara för dataanalys",
+            "el": "χρήση ειδικού λογισμικού για την ανάλυση δεδομένων",
+            "mt": "użu ta’ softwer speċifiku għall-analiżi tad-data",
+            "en": "use specific data analysis software",
+            "is": "notar sérstakan gagngreiningarhugbúnað",
+            "it": "utilizzare software specifici di analisi dei dati",
+            "es": "utilizar programas informáticos específicos para el análisis de datos",
+            "et": "spetsiaalset andmeanalüüsitarkvara kasutama",
+            "cs": "používat specializovaný software pro analýzu dat",
+            "ar": "إستخدام برمجيات تحليل البيانات المحددة",
+            "pl": "korzystać z konkretnego oprogramowania do analizy danych",
+            "da": "bruge specifik dataanalysesoftware",
+            "ro": "folosește softuri dedicate pentru analiza datelor",
+            "nl": "specifieke software voor gegevensanalyse gebruiken"
+          },
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/skill"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/occupation-specific"
+          ],
+          "broaderSkill": [
+            "http://data.europa.eu/esco/skill/2b92a5b2-6758-4ee3-9fb4-b6387a55cc8f"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/skill/S5.5.2"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/c95c29fe-3971-46b7-80e9-1f7e75ba99b3&language=en",
+              "uri": "http://data.europa.eu/esco/skill/c95c29fe-3971-46b7-80e9-1f7e75ba99b3",
+              "title": "use specific data analysis software"
+            }
+          }
+        },
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/2b92a5b2-6758-4ee3-9fb4-b6387a55cc8f",
+          "searchHit": "perform data analysis",
+          "title": "perform data analysis",
+          "preferredLabel": {
+            "de": "Datenanalyse durchführen",
+            "no": "utføre dataanalyse",
+            "fi": "analysoida tietoja",
+            "en-us": "perform data analysis",
+            "pt": "efetuar análise de dados",
+            "bg": "извършване на анализ на данни",
+            "lt": "analizuoti duomenis",
+            "hr": "provoditi analizu podataka",
+            "lv": "analizēt datus",
+            "fr": "effectuer une analyse de données",
+            "hu": "adatelemzést végez",
+            "sk": "vykonať analýzu údajov",
+            "sl": "analizirati podatke",
+            "ga": "anailís sonraí a dhéanamh",
+            "sv": "utföra dataanalys",
+            "el": "διενέργεια ανάλυσης δεδομένων",
+            "mt": "twettiq tal-analiżi tad-data",
+            "en": "perform data analysis",
+            "is": "framkvæmir gagnagreiningu",
+            "it": "eseguire l’analisi dei dati",
+            "es": "realizar un análisis de datos",
+            "et": "andmeid analüüsima",
+            "cs": "provádět analýzu dat",
+            "ar": "اجراء تحليلًا على البيانات",
+            "pl": "przeprowadzać analizę danych",
+            "da": "udføre dataanalyser",
+            "ro": "realizează analize de date",
+            "nl": "gegevensanalyses uitvoeren"
+          },
+          "isTopConceptInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/skill"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/cross-sector"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/skill/S5.5.2"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/2b92a5b2-6758-4ee3-9fb4-b6387a55cc8f&language=en",
+              "uri": "http://data.europa.eu/esco/skill/2b92a5b2-6758-4ee3-9fb4-b6387a55cc8f",
+              "title": "perform data analysis"
+            }
+          }
+        },
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/062320e5-79d1-45e8-8b7e-5deeb53279a2",
+          "searchHit": "perform online data analysis",
+          "title": "perform online data analysis",
+          "preferredLabel": {
+            "de": "Online-Datenanalyse durchführen",
+            "no": "utføre elektronisk nettbasert dataanalyse",
+            "fi": "analysoida verkossa olevaa tietoa",
+            "en-us": "perform online data analysis",
+            "pt": "efetuar análises de dados em linha",
+            "bg": "извършване на анализ на онлайн данни",
+            "lt": "analizuoti internetinius duomenis",
+            "hr": "obavljati analizu podataka na internetu",
+            "lv": "veikt datu analīzi tiešsaistē",
+            "fr": "effectuer une analyse de données en ligne",
+            "hu": "online adatokat elemez",
+            "sk": "vykonať analýzu internetových údajov",
+            "sl": "analizirati spletne podatke",
+            "ga": "anailís a dhéanamh ar shonraí ar líne",
+            "sv": "utföra analys av onlinedata",
+            "el": "διενέργεια ανάλυσης διαδικτυακών δεδομένων",
+            "mt": "twettiq tal-analiżi tad-data onlajn",
+            "en": "perform online data analysis",
+            "is": "framkvæmir netgagnagreiningu",
+            "it": "eseguire l’analisi dei dati online",
+            "es": "realizar un análisis de datos en línea",
+            "et": "kasutusandmeid analüüsima",
+            "cs": "provádět analýzu online dat",
+            "ar": "إجراء تحليلًا للبيانات الموجودة على الإنترنت",
+            "pl": "przeprowadzać analizę danych w internecie",
+            "da": "udføre onlinedataanalyser",
+            "ro": "efectuează analiza datelor online",
+            "nl": "onlinegegevensanalyses uitvoeren"
+          },
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/skill"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/cross-sector"
+          ],
+          "broaderSkill": [
+            "http://data.europa.eu/esco/skill/2b92a5b2-6758-4ee3-9fb4-b6387a55cc8f",
+            "http://data.europa.eu/esco/skill/9af1bd12-01bd-4d6a-947b-69e64f23150a"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/skill/S5.5.2"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/062320e5-79d1-45e8-8b7e-5deeb53279a2&language=en",
+              "uri": "http://data.europa.eu/esco/skill/062320e5-79d1-45e8-8b7e-5deeb53279a2",
+              "title": "perform online data analysis"
+            }
+          }
+        },
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/0f365cf9-4f68-4a25-affc-75de20bcdc09",
+          "searchHit": "conduct analysis of ship data",
+          "title": "conduct analysis of ship data",
+          "preferredLabel": {
+            "de": "Analyse von Schiffsdaten durchführen",
+            "no": "utføre analyse av skipsdata",
+            "fi": "analysoida aluksen tietoja",
+            "en-us": "conduct analysis of ship data",
+            "pt": "analisar dados de navios",
+            "bg": "анализиране на данни от плавателен съд",
+            "lt": "analizuoti laivo duomenis",
+            "hr": "provoditi analizu brodskih podataka",
+            "lv": "analizēt kuģa datus",
+            "fr": "procéder à l’analyse des données d’un navire",
+            "hu": "hajókra vonatkozó adatokat elemez",
+            "sk": "vykonávať analýzu lodných údajov",
+            "sl": "analizirati podatke o ladji",
+            "ga": "anailís a dhéanamh ar shonraí loinge",
+            "sv": "analysera fartygsdata",
+            "el": "διενέργεια ανάλυσης δεδομένων πλοίων",
+            "mt": "twettiq tal-analiżi tad-data tal-vapuri",
+            "en": "conduct analysis of ship data",
+            "is": "stýrir greiningu á gögnum skips",
+            "it": "effettuare l’analisi dei dati della nave",
+            "es": "realizar un análisis de los datos estadísticos del buque",
+            "et": "laeva andmeid analüüsima",
+            "cs": "analyzovat lodní údaje",
+            "ar": "إجراء تحليل لبيانات السفينة",
+            "pl": "analizować dane dotyczące statków",
+            "da": "analysere skibsdata",
+            "ro": "face analiza datelor informatice ale navei",
+            "nl": "analyses van scheepsgegevens uitvoeren"
+          },
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/skill"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/sector-specific"
+          ],
+          "broaderSkill": [
+            "http://data.europa.eu/esco/skill/c544a9f3-5945-4b54-afed-de0697852817",
+            "http://data.europa.eu/esco/skill/7dd94ad3-13d6-43fe-8b94-51fcbf67ced9",
+            "http://data.europa.eu/esco/skill/382c11ed-20d5-4ae7-b60e-15fec527fa6c",
+            "http://data.europa.eu/esco/skill/a6c478c7-9807-4a67-bab4-aa9e02547175"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/skill/S5.5.2"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/0f365cf9-4f68-4a25-affc-75de20bcdc09&language=en",
+              "uri": "http://data.europa.eu/esco/skill/0f365cf9-4f68-4a25-affc-75de20bcdc09",
+              "title": "conduct analysis of ship data"
+            }
+          }
+        },
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/6f993130-082b-4732-b62f-52cdf2096ad9",
+          "searchHit": "use methods of logistical data analysis",
+          "title": "use methods of logistical data analysis",
+          "preferredLabel": {
+            "de": "Methoden der logistischen Datenanalyse nutzen",
+            "no": "bruke metoder for logistisk dataanalyse",
+            "fi": "käyttää logistiikkatietojen analysointimenetelmiä",
+            "en-us": "use methods of logistical data analysis",
+            "pt": "utilizar métodos de análise de dados logísticos",
+            "bg": "използване на методи за анализ на логистични данни",
+            "lt": "taikyti logistikos duomenų analizės metodus",
+            "hr": "upotrebljavati metode za analizu logističkih podataka",
+            "lv": "lietot loģistikas datu analīzes metodes",
+            "fr": "utiliser des méthodes d'analyse des données logistiques",
+            "hu": "logisztikai adatelemzésre szolgáló módszereket használ",
+            "sk": "používať metódy analýzy logistických údajov",
+            "sl": "uporabljati metode za analizo logističnih podatkov",
+            "ga": "modhanna anailísithe sonraí lóistíochta a úsáid",
+            "sv": "använda metoder för analys av logistiska data",
+            "el": "χρήση μεθόδων για την ανάλυση δεδομένων εφοδιαστικής",
+            "mt": "użu ta’ metodi ta’ analiżi tad-data loġistika",
+            "en": "use methods of logistical data analysis",
+            "is": "notar aðferðir skipulegrar gagnagreiningar",
+            "it": "utilizzare i metodi di analisi dei dati logistici",
+            "es": "utilizar métodos de análisis de datos logísticos",
+            "et": "logistikaandmete analüüsi meetodeid kasutama",
+            "cs": "používat metody analýzy logistických údajů",
+            "ar": "استخدام أساليب تحليل البيانات اللوجستية",
+            "pl": "korzystać z metod przeprowadzania analizy danych logistycznych",
+            "da": "bruge metoder til analyse af logistikdata",
+            "ro": "folosește metode de analiză a datelor logistice",
+            "nl": "logistieke gegevensanalysemethoden gebruiken"
+          },
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/skill"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/cross-sector"
+          ],
+          "broaderSkill": [
+            "http://data.europa.eu/esco/skill/9af1bd12-01bd-4d6a-947b-69e64f23150a",
+            "http://data.europa.eu/esco/skill/47a49cd6-097d-457a-9f7b-c290c14930d5",
+            "http://data.europa.eu/esco/skill/1e77e42a-181f-4b48-8e74-201ce50ffc29"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/skill/S2.7.4"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/6f993130-082b-4732-b62f-52cdf2096ad9&language=en",
+              "uri": "http://data.europa.eu/esco/skill/6f993130-082b-4732-b62f-52cdf2096ad9",
+              "title": "use methods of logistical data analysis"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

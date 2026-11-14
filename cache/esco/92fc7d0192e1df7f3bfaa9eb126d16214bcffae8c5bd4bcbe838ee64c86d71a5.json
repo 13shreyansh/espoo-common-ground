@@ -1,0 +1,209 @@
+{
+  "url": "https://ec.europa.eu/esco/api/search?type=skill&language=en&limit=3&text=user%20interface%20design",
+  "at": "2026-11-14T22:51:19.479Z",
+  "response": {
+    "total": 930,
+    "offset": 0,
+    "limit": 3,
+    "text": "user interface design",
+    "language": "en",
+    "type": [
+      "skill"
+    ],
+    "isInScheme": null,
+    "facet": null,
+    "_links": {
+      "self": {
+        "href": "https://ec.europa.eu/esco/api/search?text=user%20interface%20design&type=skill&limit=3&offset=0&full=false&viewObsolete=false&language=en"
+      },
+      "next": {
+        "href": "https://ec.europa.eu/esco/api/search?text=user%20interface%20design&type=skill&limit=3&offset=1&full=false&viewObsolete=false&language=en"
+      }
+    },
+    "_embedded": {
+      "results": [
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/95ee5e38-5c1e-4cd2-a21d-6921390025a9",
+          "searchHit": "The methods of assessing usability and deriving structured recommendations from the results of an usability test with respect to user needs and behaviours in order to achieve efficient and elegant user interface design.",
+          "title": "usability engineering",
+          "preferredLabel": {
+            "de": "Usability Engineering",
+            "no": "bruksprosjektering",
+            "fi": "käytettävyyden suunnittelu",
+            "en-us": "usability engineering",
+            "pt": "engenharia da usabilidade",
+            "bg": "инженеринг на използваемостта",
+            "lt": "naudojamumo inžinerija",
+            "hr": "vrednovanje upotrebljivosti",
+            "lv": "lietojamības inženierija",
+            "fr": "ergonomie informatique",
+            "hu": "használhatóság tervezése",
+            "sk": "používateľské inžinierstvo",
+            "sl": "uporabnostni inženiring",
+            "ga": "innealtóireacht inúsáidteachta",
+            "sv": "teknisk användbarhet",
+            "el": "μηχανική χρηστικότητας",
+            "mt": "inġinerija tal-użabbiltà",
+            "en": "usability engineering",
+            "is": "nýtingarrekstur",
+            "it": "ingegneria dell’usabilità",
+            "es": "ingeniería de facilidad de uso",
+            "et": "kasutatavuse analüüsimise tehnoloogia",
+            "cs": "softwarová ergonomie",
+            "ar": "هندسة قابلية الاستخدام",
+            "pl": "inżynieria użyteczności",
+            "da": "vurdering af brugervenlighed",
+            "ro": "ingineria utilizabilității",
+            "nl": "bruikbaarheidsengineering"
+          },
+          "isTopConceptInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/knowledge"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/sector-specific"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/isced-f/0613"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/95ee5e38-5c1e-4cd2-a21d-6921390025a9&language=en",
+              "uri": "http://data.europa.eu/esco/skill/95ee5e38-5c1e-4cd2-a21d-6921390025a9",
+              "title": "usability engineering"
+            }
+          }
+        },
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/1019423b-3368-4f83-b24f-19e5fa23e816",
+          "searchHit": "The reusable solutions and formalised best practices to solve common user interface tasks in software development and design.",
+          "title": "software UI design patterns",
+          "preferredLabel": {
+            "de": "UI-Software-Entwurfsmuster",
+            "no": "designmønstre for brukergrensesnitt for programvare",
+            "fi": "ohjelmiston käyttöliittymän suunnittelumallit",
+            "en-us": "software UI design patterns",
+            "pt": "padrões de design de IU de software",
+            "bg": "модели за дизайн на софтуерен потребителски интерфейс",
+            "lt": "programinės įrangos naudotojo sąsajos dizaino modeliai",
+            "hr": "softver za obrasce dizajna korisničkog sučelja",
+            "lv": "programmatūras UI dizaina modeļi",
+            "fr": "schéma de conception d’interface utilisateur",
+            "hu": "szoftver felhasználói felület tervezési minták",
+            "sk": "šablóny dizajnu používateľského rozhrania softvéru",
+            "sl": "vzorci za načrtovanje programskih uporabniških vmesnikov",
+            "ga": "bogearraí patrún deartha le haghaidh comhéadain úsáideora",
+            "sv": "designmönster för programgränssnitt",
+            "el": "σχεδιαστικά πρότυπα λογισμικού διεπαφής χρήστη",
+            "mt": "mudelli tad-disinn tal-interfaċċa tal-utenti tas-softwer",
+            "en": "software UI design patterns",
+            "is": "hönnunarmynstur notendaviðmóts",
+            "it": "schema di progettazione dell’UI del software",
+            "es": "patrones de diseño de la interfaz de usuario del software",
+            "et": "tarkvara kasutajaliidese disaini mustrid",
+            "cs": "schémy designu softwarového uživatelského rozhraní",
+            "ar": "نماذج تصميمات واجهة المستخدم في البرامج",
+            "pl": "wzorce projektowe interfejsu użytkownika",
+            "da": "designmønstre til softwarebrugergrænseflader",
+            "ro": "modele de proiectare a interfeței cu utilizatorul pentru software",
+            "nl": "ontwerppatronen voor softwaregebruikersinterfaces"
+          },
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/knowledge"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/sector-specific"
+          ],
+          "broaderSkill": [
+            "http://data.europa.eu/esco/skill/de0be6e8-644c-4cc9-9c8d-925dd98dda56",
+            "http://data.europa.eu/esco/skill/8ff015a0-98ea-4d80-a23e-1f68110a919e"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/isced-f/0613"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/1019423b-3368-4f83-b24f-19e5fa23e816&language=en",
+              "uri": "http://data.europa.eu/esco/skill/1019423b-3368-4f83-b24f-19e5fa23e816",
+              "title": "software UI design patterns"
+            }
+          }
+        },
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/7b5cb897-2ee8-450c-85a6-d73925cbd1dc",
+          "searchHit": "The drag-and-drop software interface that consists of specialised design tools used for the rapid iteration of user-derived computer games by users with limited programming knowledge.",
+          "title": "GameSalad",
+          "preferredLabel": {
+            "de": "GameSalad",
+            "no": "GameSalad",
+            "fi": "GameSalad",
+            "en-us": "GameSalad",
+            "pt": "GameSalad",
+            "bg": "GameSalad",
+            "lt": "„GameSalad“",
+            "hr": "GameSalad",
+            "lv": "GameSalad",
+            "fr": "GameSalad",
+            "hu": "GameSalad",
+            "sk": "GameSalad",
+            "sl": "GameSalad",
+            "ga": "GameSalad",
+            "sv": "GameSalad",
+            "el": "GameSalad",
+            "mt": "GameSalad",
+            "en": "GameSalad",
+            "is": "GameSalad",
+            "it": "GameSalad",
+            "es": "GameSalad",
+            "et": "GameSalad",
+            "cs": "GameSalad",
+            "ar": "برنامج GameSalad",
+            "pl": "oprogramowanie GameSalad",
+            "da": "GameSalad",
+            "ro": "GameSalad",
+            "nl": "GameSalad"
+          },
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/knowledge"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/sector-specific"
+          ],
+          "broaderSkill": [
+            "http://data.europa.eu/esco/skill/966f2fd3-3de6-42da-b87c-da924c6d7960"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/isced-f/0211"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/7b5cb897-2ee8-450c-85a6-d73925cbd1dc&language=en",
+              "uri": "http://data.europa.eu/esco/skill/7b5cb897-2ee8-450c-85a6-d73925cbd1dc",
+              "title": "GameSalad"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

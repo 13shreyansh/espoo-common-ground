@@ -1,0 +1,87 @@
+{
+  "model": "gemini-3.8-flash",
+  "prompt_version": "cg-2.1",
+  "at": "2026-11-14T22:58:28.428Z",
+  "kind": "polished-cvs",
+  "input_hash": "c934417c243ae2cb0632992ff20ac6133780acd2df840a366c65619ba5f39942",
+  "answer": {
+    "cvs": [
+      {
+        "id": "e6028a38072f0f845c691894",
+        "text": "Versatile Full-Stack Software Developer with four years of operational leadership and customer support experience managing a café in Tapiola. Skilled across Python, SQL, APIs, cloud environments, software engineering, and testing. Proven capability in data analytics and process optimization, including designing spreadsheet systems that reduced waste by a third and establishing standardized team documentation and onboarding guides."
+      },
+      {
+        "id": "2d4e5e2dc0da5029f10011db",
+        "text": "Detail-oriented Operations and Testing Specialist with hands-on experience in measurement collection, spreadsheet reporting, and technical diagnostics in a bicycle workshop. Proficient in systematic troubleshooting, isolating hardware faults through comparative testing, maintaining rigorous audit trails, and writing clear technical runbooks and training materials."
+      },
+      {
+        "id": "e507e9bf1ad5aa394c22da94",
+        "text": "Proactive Operations Coordinator experienced in customer service, inventory control, and business tools within an equipment rental environment. Skilled in building automated spreadsheet tracking systems for stock and return schedules, troubleshooting client technical issues, analyzing incident trends to refine instructions, and onboarding staff with a focus on safety and procedural clarity."
+      },
+      {
+        "id": "b7effc954188c08e117a0808",
+        "text": "Organized and adaptable Coordinator with expertise in practical testing, workflow design, and community project management. Successfully launched a community tool-sharing program, streamlined multi-step service processes into unified shared tools, adapted project schedules around delivery delays, and authored comprehensive safety and training documentation."
+      },
+      {
+        "id": "cce52025057f061110f62f5a",
+        "text": "Customer Support and Operations Coordinator with a strong track record in volunteer project coordination. Skilled in optimizing communication and service intake workflows, managing schedules under shifting project requirements, and delivering user-friendly onboarding guides that improve operational efficiency and volunteer engagement."
+      },
+      {
+        "id": "4956855ef0c0921e1602273e",
+        "text": "Full-Stack Software Developer and Systems Administrator with expertise in Python, SQL, APIs, cloud platforms, testing, and data analytics. Experienced in maintaining media server infrastructure, analyzing system metrics to resolve broadcast latency, administering secure access controls, verifying backup and restore procedures, and creating detailed incident runbooks."
+      },
+      {
+        "id": "94a7a6ee2199947ccf8506e6",
+        "text": "Quality Assurance Specialist with strong experience in web testing and business tools. Proficient in writing automated browser test suites, diagnosing complex edge cases such as concurrency bottlenecks, analyzing multi-platform test data, and maintaining robust regression test documentation to enhance service reliability."
+      },
+      {
+        "id": "2f3d670e91ed16c6db838df5",
+        "text": "Data and Reporting Specialist with practical testing experience in distribution environments. Skilled in consolidating multi-source data into PostgreSQL databases using custom mapping tables, writing SQL queries to audit financial and inventory records, reconciling reporting discrepancies, and producing clear data models and operational manuals for cross-functional teams."
+      },
+      {
+        "id": "99230c8f405a92112efd0077",
+        "text": "Web Application Developer and Customer Support Specialist with hands-on experience building community tools using JavaScript and web technologies. Experienced in rapid prototyping, user feedback integration, diagnosing asynchronous request issues via log tracing, automated regression testing, and creating practical maintenance runbooks for non-technical users."
+      },
+      {
+        "id": "174e74c10933d27a41d1428d",
+        "text": "Results-driven Operations Manager with four years of hospitality experience in Tapiola, specializing in team leadership, process improvement, and spreadsheet reporting. Demonstrated success in cutting operational waste by approximately 33% through data tracking, streamlining order communication workflows, and training and onboarding team members using structured instructional guides."
+      },
+      {
+        "id": "a155161ed668ea7560ae0574",
+        "text": "Full-Stack Software Developer with strong technical diagnostic and data analytics skills across Python, SQL, APIs, cloud systems, software engineering, and testing. Proven background in precise measurement logging, isolating equipment faults through methodical comparative testing, and translating technical setups into clear, structured diagrams and procedures."
+      },
+      {
+        "id": "dc488d63af3249b7fa6280b5",
+        "text": "Operations and Inventory Coordinator experienced in practical testing, customer resolution, and equipment management. Adept at building spreadsheet models with automated tracking alerts, performing root-cause analysis on equipment failures to enhance user guides, and training personnel on safety-first inspection and intake procedures."
+      },
+      {
+        "id": "cdf7e74d9679985109c12d1d",
+        "text": "Customer Support and Operations Coordinator experienced in running equipment rental desks and managing inventory. Skilled in developing automated stock-tracking spreadsheets, diagnosing customer tool issues to provide prompt replacements, analyzing failure logs to update documentation, and training colleagues on safety and administration standards."
+      },
+      {
+        "id": "2d7cbb48e7516c66639e923c",
+        "text": "Operations Coordinator with expertise in spreadsheet reporting, workflow optimization, and community initiative management. Proven ability to organize service launches, simplify administrative tracking processes through standardized forms, adapt task planning during supply delays, and design interactive volunteer training programs with clear documentation."
+      }
+    ]
+  },
+  "usage": {
+    "promptTokenCount": 4104,
+    "candidatesTokenCount": 1352,
+    "totalTokenCount": 7264,
+    "cachedContentTokenCount": 2100,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 4104
+      }
+    ],
+    "cacheTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 2100
+      }
+    ],
+    "thoughtsTokenCount": 1808,
+    "serviceTier": "standard"
+  }
+}

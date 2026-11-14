@@ -1,0 +1,208 @@
+{
+  "url": "https://ec.europa.eu/esco/api/search?type=skill&language=en&limit=3&text=manage%20databases",
+  "at": "2026-11-14T22:51:14.093Z",
+  "response": {
+    "total": 1486,
+    "offset": 0,
+    "limit": 3,
+    "text": "manage databases",
+    "language": "en",
+    "type": [
+      "skill"
+    ],
+    "isInScheme": null,
+    "facet": null,
+    "_links": {
+      "self": {
+        "href": "https://ec.europa.eu/esco/api/search?text=manage%20databases&type=skill&limit=3&offset=0&full=false&viewObsolete=false&language=en"
+      },
+      "next": {
+        "href": "https://ec.europa.eu/esco/api/search?text=manage%20databases&type=skill&limit=3&offset=1&full=false&viewObsolete=false&language=en"
+      }
+    },
+    "_embedded": {
+      "results": [
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/29fb0fb5-dfc4-4098-ac9b-3a712000f48f",
+          "searchHit": "manage database",
+          "title": "manage database",
+          "preferredLabel": {
+            "de": "Datenbank verwalten",
+            "no": "administrere database",
+            "fi": "hallita tietokantaa",
+            "en-us": "manage database",
+            "pt": "gerir bases de dados",
+            "bg": "управление на база данни",
+            "lt": "valdyti duomenų bazę",
+            "hr": "upravljati bazama podataka",
+            "lv": "datubāzu pārvaldīšana",
+            "fr": "gérer une base de données",
+            "hu": "adatbázist kezel",
+            "sk": "riadiť databázu",
+            "sl": "upravljati podatkovno bazo",
+            "ga": "bunachar sonraí a bhainistiú",
+            "sv": "hantera databas",
+            "el": "διαχείριση της βάσης δεδομένων",
+            "mt": "immaniġġjar ta’ database",
+            "en": "manage database",
+            "is": "annast gagnagrunn",
+            "it": "gestire database",
+            "es": "gestionar bases de datos",
+            "et": "andmebaasi haldama",
+            "cs": "spravovat databáze",
+            "ar": "ادارة قاعدة البيانات",
+            "pl": "zarządzać bazą danych",
+            "da": "administrere database",
+            "ro": "gestionează baza de date",
+            "nl": "databases beheren"
+          },
+          "isTopConceptInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/skill"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/cross-sector"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/skill/S2.3.0"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/29fb0fb5-dfc4-4098-ac9b-3a712000f48f&language=en",
+              "uri": "http://data.europa.eu/esco/skill/29fb0fb5-dfc4-4098-ac9b-3a712000f48f",
+              "title": "manage database"
+            }
+          }
+        },
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/de9f85ba-e77f-48fd-8c66-f5ebaf32d655",
+          "searchHit": "The computer program Oracle Rdb is a tool for creating, updating and managing databases, developed by the software company Oracle.",
+          "title": "Oracle Relational Database",
+          "preferredLabel": {
+            "de": "Oracle Relational Database",
+            "no": "Oracle Relational Database",
+            "fi": "Oracle Relational Database",
+            "en-us": "Oracle Relational Database",
+            "pt": "Oracle Relational Database",
+            "bg": "Oracle Relational Database",
+            "lt": "„Oracle Relational Database“",
+            "hr": "Oracle Relational Database",
+            "lv": "Oracle Relational Database",
+            "fr": "Oracle Relational Database",
+            "hu": "Oracle Relational Database",
+            "sk": "Oracle Relational Database",
+            "sl": "Oracle Relational Database",
+            "ga": "Oracle Relational Database",
+            "sv": "Oracle Relational Database",
+            "el": "Oracle Relational Database",
+            "mt": "Oracle Relational Database",
+            "en": "Oracle Relational Database",
+            "is": "Oracle Relational Database",
+            "it": "Oracle Relational Database",
+            "es": "Oracle Relational Database",
+            "et": "Oracle Relational Database",
+            "cs": "Oracle Relational Database",
+            "ar": "Oracle Relational Database",
+            "pl": "Oracle Relational Database",
+            "da": "Oracle Relational Database",
+            "ro": "Oracle Relational Database",
+            "nl": "Oracle Relational Database"
+          },
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/knowledge"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/sector-specific"
+          ],
+          "broaderSkill": [
+            "http://data.europa.eu/esco/skill/ab1e97ed-2319-4293-a8b7-072d2648822f"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/isced-f/0612"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/de9f85ba-e77f-48fd-8c66-f5ebaf32d655&language=en",
+              "uri": "http://data.europa.eu/esco/skill/de9f85ba-e77f-48fd-8c66-f5ebaf32d655",
+              "title": "Oracle Relational Database"
+            }
+          }
+        },
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/a8d07b5a-c1a1-42c6-9d53-db9c7a2ca996",
+          "searchHit": "The computer program PostgreSQL is a free and open-source software tool for creating, updating and managing databases, developed by the PostgreSQL Global Development Group.",
+          "title": "PostgreSQL",
+          "preferredLabel": {
+            "de": "PostgreSQL",
+            "no": "PostgreSQL",
+            "fi": "PostgreSQL",
+            "en-us": "PostgreSQL",
+            "pt": "PostgreSQL",
+            "bg": "PostgreSQL",
+            "lt": "„PostgreSQL“",
+            "hr": "PostgreSQL",
+            "lv": "PostgreSQL",
+            "fr": "PostgreSQL",
+            "hu": "PostgreSQL",
+            "sk": "PostgreSQL",
+            "sl": "PostgreSQL",
+            "ga": "PostgreSQL",
+            "sv": "PostgreSQL",
+            "el": "PostgreSQL",
+            "mt": "PostgreSQL",
+            "en": "PostgreSQL",
+            "is": "PostgreSQL",
+            "it": "PostgreSQL",
+            "es": "PostgreSQL",
+            "et": "PostgreSQL",
+            "cs": "PostgreSQL",
+            "ar": "PostgreSQL",
+            "pl": "PostgreSQL",
+            "da": "PostgreSQL",
+            "ro": "PostgreSQL",
+            "nl": "PostgreSQL"
+          },
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/knowledge"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/sector-specific"
+          ],
+          "broaderSkill": [
+            "http://data.europa.eu/esco/skill/ab1e97ed-2319-4293-a8b7-072d2648822f"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/isced-f/0612"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/a8d07b5a-c1a1-42c6-9d53-db9c7a2ca996&language=en",
+              "uri": "http://data.europa.eu/esco/skill/a8d07b5a-c1a1-42c6-9d53-db9c7a2ca996",
+              "title": "PostgreSQL"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

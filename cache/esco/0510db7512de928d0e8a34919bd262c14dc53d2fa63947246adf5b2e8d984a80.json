@@ -1,0 +1,1548 @@
+{
+  "url": "https://ec.europa.eu/esco/api/resource/skill?language=en&uri=http%3A%2F%2Fdata.europa.eu%2Fesco%2Fskill%2Fe54ff029-1ce9-447d-a5b2-eb7283a23e6e",
+  "at": "2026-11-14T22:51:19.352Z",
+  "response": {
+    "className": "Skill",
+    "classId": "http://data.europa.eu/esco/model#Skill",
+    "uri": "http://data.europa.eu/esco/skill/e54ff029-1ce9-447d-a5b2-eb7283a23e6e",
+    "title": "train employees",
+    "referenceLanguage": [
+      "en"
+    ],
+    "preferredLabel": {
+      "de": "Personal schulen",
+      "no": "lære opp ansatte",
+      "fi": "kouluttaa työntekijöitä",
+      "en-us": "train employees",
+      "pt": "dar formação aos trabalhadores",
+      "bg": "обучаване на служители",
+      "lt": "apmokyti darbuotojus",
+      "lv": "sagatavot darbiniekus",
+      "hr": "osposobljavati zaposlenike",
+      "fr": "former le personnel",
+      "hu": "betanítja a munkavállalókat",
+      "sk": "poskytovať odbornú prípravu zamestnancom",
+      "sl": "usposabljati zaposlene",
+      "ga": "oiliúint a chur ar fhostaithe",
+      "sv": "utbilda anställda",
+      "el": "εκπαίδευση των υπαλλήλων",
+      "mt": "taħriġ tal-impjegati",
+      "en": "train employees",
+      "is": "þjálfar starfsfólk",
+      "it": "formare i dipendenti",
+      "es": "capacitar a empleados",
+      "et": "töötajaid koolitama",
+      "cs": "školit zaměstnance",
+      "ar": "تدريب الموظفين",
+      "pl": "szkolić pracowników",
+      "ro": "formează angajații",
+      "da": "uddanne medarbejdere",
+      "nl": "werknemers opleiden"
+    },
+    "alternativeLabel": {
+      "en": [
+        "upskill employees",
+        "training employees",
+        "instruct employees",
+        "train an employee",
+        "teach employees"
+      ],
+      "lv": [
+        "profesionāli sagatavot darbiniekus",
+        "instruēt darbiniekus"
+      ],
+      "da": [
+        "oplære medarbejdere"
+      ],
+      "es": [
+        "formar a empleados",
+        "preparar a empleados"
+      ],
+      "nl": [
+        "werknemers trainen"
+      ]
+    },
+    "description": {
+      "no": {
+        "literal": "Lede og veilede ansatte gjennom en prosess der de lærer de nødvendige ferdighetene for den mulige jobben. Organisere aktiviteter med sikte på å introdusere arbeidet og systemene eller forbedre ytelsen til enkeltpersoner og grupper i organisatoriske omgivelser.",
+        "mimetype": "plain/text"
+      },
+      "de": {
+        "literal": "Führen und Anleiten von Mitarbeitern durch einen Prozess, in dem ihnen die für ihren künftigen Arbeitsplatz erforderlichen Fähigkeiten vermittelt werden. Organisation von Aktivitäten zur Einführung in Arbeitstätigkeiten und Systeme oder zur Verbesserung der Leistungsfähigkeit von Einzelpersonen und Gruppen innerhalb der Organisation.",
+        "mimetype": "plain/text"
+      },
+      "en-us": {
+        "literal": "Lead and guide employees through a process in which they are taught the necessary skills for the perspective job. organize activities aimed at introducing the work and systems or improving the performance of individuals and groups in organizational settings.",
+        "mimetype": "plain/text"
+      },
+      "fi": {
+        "literal": "Johtaa ja ohjata työntekijöitä prosessissa, jossa heille opetetaan tulevassa työssä tarvittavia taitoja. Organisoida toimia, joiden tavoitteena on esitellä työtä ja järjestelmiä tai parantaa yksilöiden ja ryhmien toimintaa organisaatioissa.",
+        "mimetype": "plain/text"
+      },
+      "pt": {
+        "literal": "Dirigir e orientar os trabalhadores através de um processo de aquisição das competências necessárias ao desempenho das tarefas profissionais de um emprego. Organizar atividades destinadas a apresentar o trabalho e os sistemas ou a melhorar o desempenho de indivíduos e grupos em contextos organizacionais.",
+        "mimetype": "plain/text"
+      },
+      "bg": {
+        "literal": "Ръководи и инструктира служители чрез процес, при който те получават необходимите умения за работното си място. Организира дейности, насочени към въвеждане на работата и системите или подобряване на резултатите на лицата и групите в организационна среда.",
+        "mimetype": "plain/text"
+      },
+      "lt": {
+        "literal": "Vadovauti darbuotojams ir juos orientuoti vykdant procesą, kurio metu jie išmoksta būsimam darbui reikalingų įgūdžių. Organizuoti veiklą, kuria siekiama supažindinti su darbu ir sistemomis arba gerinti asmenų ir grupių darbą organizacinėje aplinkoje.",
+        "mimetype": "plain/text"
+      },
+      "lv": {
+        "literal": "Vadīt un virzīt darbiniekus, izmantojot procesu, kurā viņiem tiek mācītas nepieciešamās prasmes nākotnes darbam. Organizēt pasākumus, kuru mērķis ir darba un sistēmu ieviešana vai indivīdu un grupu darbības uzlabošana organizācijas vidē.",
+        "mimetype": "plain/text"
+      },
+      "hr": {
+        "literal": "Voditi zaposlenike kroz proces u kojem se podučavaju potrebnim vještinama za perspektivan posao. Organizirati aktivnosti čiji je cilj uvođenje rada i sustava ili poboljšanje uspješnosti pojedinaca i skupina u organizacijskom okruženju.",
+        "mimetype": "plain/text"
+      },
+      "fr": {
+        "literal": "Diriger et guider les employés dans le cadre d’un processus qui leur permet d’acquérir les compétences nécessaires à l’exercice de leur fonction. Organiser des activités visant à présenter le travail et son environnement ou à améliorer la performance des employés et des groupes au sein de l'entreprise.",
+        "mimetype": "plain/text"
+      },
+      "hu": {
+        "literal": "Vezeti és irányítja az alkalmazottakat egy olyan folyamat révén, amelyen keresztül megtanítják az adott álláshoz szükséges készségeket. Olyan tevékenységeket szervez, amelyek célja a munka és a rendszerek bemutatása vagy az egyének és a csoportok teljesítményének javítása a szervezeti környezetben.",
+        "mimetype": "plain/text"
+      },
+      "sk": {
+        "literal": "Viesť a usmerňovať zamestnancov pomocou procesu, v ktorom sa naučia potrebné zručnosti pre pracovné miesto. Organizovať činnosti zamerané na predstavenie pracovných úloh a systémov, alebo na zlepšenie výkonu jednotlivcov a skupín v prostredí organizácie.",
+        "mimetype": "plain/text"
+      },
+      "sl": {
+        "literal": "Voditi in usmerjati zaposlene skozi proces, v katerem se pridobijo potrebne spretnosti za opravljanje dela. Organizirati dejavnosti, namenjene uvajanju dela in sistemov ali izboljšanju uspešnosti posameznikov in skupin v organizacijskih okoljih.",
+        "mimetype": "plain/text"
+      },
+      "ga": {
+        "literal": "Is éard a bhíonn mar thoradh air sin fostaithe a thabhairt agus a threorú trí phróiseas ina múintear na scileanna riachtanacha don phost i gceist. Gníomhaíochtaí a eagrú a bheidh dírithe ar an obair agus ar na córais a thabhairt isteach nó feabhas a chur ar fheidhmíocht daoine aonair agus grúpaí i suíomhanna eagrúcháin.",
+        "mimetype": "plain/text"
+      },
+      "sv": {
+        "literal": "Leda och vägleda anställda genom en process där de får lära sig den kompetens som behövs för det prospektiva jobbet. Organisera verksamhet som syftar till att introducera arbetet och systemen eller förbättra individers och gruppers prestationer i organisatoriska sammanhang.",
+        "mimetype": "plain/text"
+      },
+      "el": {
+        "literal": "Καθοδήγηση και εκπαίδευση των εργαζομένων μέσω μιας διαδικασίας στην οποία θα διδάσκονται τις απαραίτητες δεξιότητες για τη δυνητική εργασία. Διοργάνωση δραστηριοτήτων με στόχο την εισαγωγή στην εργασία και τα συστήματα ή τη βελτίωση της απόδοσης ατόμων και ομάδων σε οργανωτικό πλαίσιο.",
+        "mimetype": "plain/text"
+      },
+      "mt": {
+        "literal": "It-tmexxija u l-gwida tal-impjegati permezz ta’ proċess li fih jiġu mgħallma l-ħiliet meħtieġa għall-impjieg perspettiv L-organizzazzjoni ta’ attivitajiet li għandhom l-għan li jintroduċu l-ħidma u s-sistemi jew li jtejbu l-prestazzjoni tal-individwi u tal-gruppi f’ambjenti organizzattivi.",
+        "mimetype": "plain/text"
+      },
+      "en": {
+        "literal": "Lead and guide employees through a process in which they are taught the necessary skills for the perspective job. Organise activities aimed at introducing the work and systems or improving the performance of individuals and groups in organisational settings.",
+        "mimetype": "plain/text"
+      },
+      "is": {
+        "literal": "Leiðir og leiðbeinir starfsmönnum í gegnum ferli þar sem þeim er kennt nauðsynleg færni og heildarsýn yfir starfið. Skipuleggur aðgerðir sem miða að því að kynna verk og kerfi eða bæta árangur einstaklinga og hópa í skipulagssamsetningum.",
+        "mimetype": "plain/text"
+      },
+      "it": {
+        "literal": "Guidare e dirigere i dipendenti attraverso un processo in cui vengono insegnate le competenze necessarie per il potenziale posto di lavoro. Organizzare attività finalizzate all’introduzione del lavoro e dei sistemi o al miglioramento delle prestazioni degli individui e dei gruppi in contesti organizzativi.",
+        "mimetype": "plain/text"
+      },
+      "es": {
+        "literal": "Liderar y  orientar a los empleados en un proceso para enseñarles las capacidades necesarias para su futuro trabajo. Organizar actividades destinadas a presentar el trabajo y los sistemas o mejorar el rendimiento de las personas y los grupos en la configuración organizativa.",
+        "mimetype": "plain/text"
+      },
+      "et": {
+        "literal": "Töötajate juhendamine ja suunamine protsessi kaudu, milles neile õpetatakse tulevaseks tööks vajalikke oskusi. Tegevuse korraldamine eesmärgiga tutvustada tööd ja süsteeme või parandada üksikisikute ja rühmade tulemuslikkust organisatsiooni keskkonnas.",
+        "mimetype": "plain/text"
+      },
+      "cs": {
+        "literal": "Vést zaměstnance prostřednictvím procesu, v rámci něhož si osvojují nezbytné dovednosti pro potřeby pracovního místa. Organizovat činnosti zaměřené na představení práce a systémů nebo zlepšování výkonu jednotlivců a skupin v rámci organizace.",
+        "mimetype": "plain/text"
+      },
+      "ar": {
+        "literal": "قيادة وتوجيه الموظفين من خلال عملية يتم خلالها تعليمهم المهارات اللازمة للمنظور الوظيفي. تنظيم الأنشطة التي تهدف إلى تقديم العمل والأنظمة أو تحسين أداء الأفراد والمجموعات في الإعدادات التنظيمية.",
+        "mimetype": "plain/text"
+      },
+      "pl": {
+        "literal": "Szkolenie i kierowanie pracownikami w procesie, w którym są nauczane umiejętności niezbędne do przyszłej pracy. Organizowanie działań mających na celu wprowadzenie pracy i systemów lub poprawę działania poszczególnych osób i grup w kontekście organizacyjnym.",
+        "mimetype": "plain/text"
+      },
+      "ro": {
+        "literal": "Conduce și ghidează angajații printr-un proces în care aceștia sunt învățați competențele necesare pentru posibilul loc de muncă. Organizează activități menite să prezinte activitatea și sistemele sau să îmbunătățească performanțele persoanelor și ale grupurilor în mediile organizaționale.",
+        "mimetype": "plain/text"
+      },
+      "da": {
+        "literal": "Lede og vejlede medarbejderne gennem en proces, hvor de undervises i de færdigheder, der er nødvendige for at varetage det potentielle job. Tilrettelægge aktiviteter, der sigter mod at indføre arbejde og systemer eller forbedre enkeltpersoners og gruppers præstationer i organisatoriske rammer.",
+        "mimetype": "plain/text"
+      },
+      "nl": {
+        "literal": "Werknemers leiden en begeleiden via een proces waarbij hen de nodige vaardigheden worden aangeleerd voor de baan. Activiteiten organiseren bedoeld om het werk en de systemen voor te stellen of om de prestaties van individuen en groepen te verbeteren in organisatorische omgevingen.",
+        "mimetype": "plain/text"
+      }
+    },
+    "status": "released",
+    "_links": {
+      "self": {
+        "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/e54ff029-1ce9-447d-a5b2-eb7283a23e6e&language=en",
+        "uri": "http://data.europa.eu/esco/skill/e54ff029-1ce9-447d-a5b2-eb7283a23e6e",
+        "title": "train employees"
+      },
+      "isInScheme": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/taxonomy?uri=http://data.europa.eu/esco/concept-scheme/member-skills&language=en",
+          "uri": "http://data.europa.eu/esco/concept-scheme/member-skills",
+          "title": "ESCO member skills"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/taxonomy?uri=http://data.europa.eu/esco/concept-scheme/skills&language=en",
+          "uri": "http://data.europa.eu/esco/concept-scheme/skills",
+          "title": "ESCO skills"
+        }
+      ],
+      "hasSkillType": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/concept?uri=http://data.europa.eu/esco/skill-type/skill&language=en",
+          "uri": "http://data.europa.eu/esco/skill-type/skill",
+          "title": "skill"
+        }
+      ],
+      "hasReuseLevel": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/concept?uri=http://data.europa.eu/esco/skill-reuse-level/cross-sector&language=en",
+          "uri": "http://data.europa.eu/esco/skill-reuse-level/cross-sector",
+          "title": "cross-sector skills and competences",
+          "code": "Level 2"
+        }
+      ],
+      "broaderHierarchyConcept": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/concept?uri=http://data.europa.eu/esco/skill/S1.3.3&language=en",
+          "uri": "http://data.europa.eu/esco/skill/S1.3.3",
+          "title": "training on operational procedures",
+          "code": "S1.3.3"
+        }
+      ],
+      "broaderSkill": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/699e7c26-6502-4e78-a823-3656ff5a5b8b&language=en",
+          "uri": "http://data.europa.eu/esco/skill/699e7c26-6502-4e78-a823-3656ff5a5b8b",
+          "title": "instruct others",
+          "skillType": "http://data.europa.eu/esco/skill-type/skill"
+        }
+      ],
+      "narrowerSkill": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/9bb98cbd-cfb0-49e9-b1f2-9496233eee07&language=en",
+          "uri": "http://data.europa.eu/esco/skill/9bb98cbd-cfb0-49e9-b1f2-9496233eee07",
+          "title": "train staff in beer knowledge",
+          "skillType": "http://data.europa.eu/esco/skill-type/skill"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/4e4a9605-66d5-4e47-b591-bdc2d0fbdba1&language=en",
+          "uri": "http://data.europa.eu/esco/skill/4e4a9605-66d5-4e47-b591-bdc2d0fbdba1",
+          "title": "train employees in mine safety",
+          "skillType": "http://data.europa.eu/esco/skill-type/skill"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/7ace7312-2775-4bfc-9705-3416a9f7b35b&language=en",
+          "uri": "http://data.europa.eu/esco/skill/7ace7312-2775-4bfc-9705-3416a9f7b35b",
+          "title": "provide staff training in warehouse management",
+          "skillType": "http://data.europa.eu/esco/skill-type/skill"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/e3fbd312-a4b2-4bfb-a589-be28f134f1c1&language=en",
+          "uri": "http://data.europa.eu/esco/skill/e3fbd312-a4b2-4bfb-a589-be28f134f1c1",
+          "title": "train medical staff on nutrition",
+          "skillType": "http://data.europa.eu/esco/skill-type/skill"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/852d758c-f222-4edc-99ad-31c9e3bd8079&language=en",
+          "uri": "http://data.europa.eu/esco/skill/852d758c-f222-4edc-99ad-31c9e3bd8079",
+          "title": "provide operational efficiency training to employees",
+          "skillType": "http://data.europa.eu/esco/skill-type/skill"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/3bee464c-bf7c-47c9-b33b-0668d201a387&language=en",
+          "uri": "http://data.europa.eu/esco/skill/3bee464c-bf7c-47c9-b33b-0668d201a387",
+          "title": "train dental technician staff",
+          "skillType": "http://data.europa.eu/esco/skill-type/skill"
+        }
+      ],
+      "isEssentialForOccupation": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/dc54d531-70b5-4301-bc75-da76c2dfac1a&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/dc54d531-70b5-4301-bc75-da76c2dfac1a",
+          "title": "rolling stock assembly supervisor"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/bea99fea-0383-4c63-b944-70d4799de2c5&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/bea99fea-0383-4c63-b944-70d4799de2c5",
+          "title": "project manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/d5eb6150-bbff-4a9c-9d0c-21eab4dbe2b6&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/d5eb6150-bbff-4a9c-9d0c-21eab4dbe2b6",
+          "title": "restaurant manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/4a1125ee-5728-4b1f-b655-7b8eb2e27660&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/4a1125ee-5728-4b1f-b655-7b8eb2e27660",
+          "title": "quick service restaurant team leader"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/fae51298-03a8-4df4-829a-685dddc1580e&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/fae51298-03a8-4df4-829a-685dddc1580e",
+          "title": "housekeeping supervisor"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/00ab5610-e715-428f-99f6-b1e5e469dbcd&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/00ab5610-e715-428f-99f6-b1e5e469dbcd",
+          "title": "food safety specialist"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/96e139de-0756-45ad-b512-f7c2109a72b1&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/96e139de-0756-45ad-b512-f7c2109a72b1",
+          "title": "aircraft assembly supervisor"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/bdfb48e0-79dc-4b63-8470-db2e03b37326&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/bdfb48e0-79dc-4b63-8470-db2e03b37326",
+          "title": "shop supervisor"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/87e40e79-16fb-4391-9dcb-c15f40e026c1&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/87e40e79-16fb-4391-9dcb-c15f40e026c1",
+          "title": "betting manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/2f7f5c84-b9b3-41ea-aa5f-5997d0873141&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/2f7f5c84-b9b3-41ea-aa5f-5997d0873141",
+          "title": "bingo caller"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/62001bb7-4611-4b61-903e-d98589c0821a&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/62001bb7-4611-4b61-903e-d98589c0821a",
+          "title": "games development manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/01484951-15e6-4b88-a20f-1201868d36a0&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/01484951-15e6-4b88-a20f-1201868d36a0",
+          "title": "head chef"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/24d39e12-e104-49d3-8224-8b7a5f9b99d1&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/24d39e12-e104-49d3-8224-8b7a5f9b99d1",
+          "title": "library manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/2f5de1ab-eddf-4715-8193-e994912c22ea&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/2f5de1ab-eddf-4715-8193-e994912c22ea",
+          "title": "warehouse manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/146f2c99-3f8b-4856-95ba-3ecfea681809&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/146f2c99-3f8b-4856-95ba-3ecfea681809",
+          "title": "gambling manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/499f80e3-860c-48ef-8286-be929a93e254&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/499f80e3-860c-48ef-8286-be929a93e254",
+          "title": "sommelier"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/c56295bb-ef33-4ccd-a929-59e3dd73f876&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/c56295bb-ef33-4ccd-a929-59e3dd73f876",
+          "title": "vineyard cellar master"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/e2c38c87-2bcf-492a-a78e-3be9480481cc&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/e2c38c87-2bcf-492a-a78e-3be9480481cc",
+          "title": "motor vehicle assembly supervisor"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/2c8a4b72-21f4-4ab1-9dbd-1cae779211b7&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/2c8a4b72-21f4-4ab1-9dbd-1cae779211b7",
+          "title": "commercial art gallery manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/9d2aae3e-cbfe-409f-86cc-7cef9cd0435a&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/9d2aae3e-cbfe-409f-86cc-7cef9cd0435a",
+          "title": "contact centre supervisor"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/b12b14fd-5b74-40c6-afd9-dd35b34e27ed&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/b12b14fd-5b74-40c6-afd9-dd35b34e27ed",
+          "title": "industrial assembly supervisor"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/202e1870-77d7-4efa-bf2c-7a032af30b7e&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/202e1870-77d7-4efa-bf2c-7a032af30b7e",
+          "title": "vessel assembly supervisor"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/080fc550-b7ca-4576-aaf5-06fffbede994&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/080fc550-b7ca-4576-aaf5-06fffbede994",
+          "title": "spa manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/2960c96e-7228-4327-b0a1-85fc13691844&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/2960c96e-7228-4327-b0a1-85fc13691844",
+          "title": "aviation meteorologist"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/691d30cc-6b2c-4025-89b4-3e719fe664c7&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/691d30cc-6b2c-4025-89b4-3e719fe664c7",
+          "title": "exhibition curator"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/4887c8a5-35d3-44c3-be69-346027e485f0&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/4887c8a5-35d3-44c3-be69-346027e485f0",
+          "title": "hospitality entertainment manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/f0ca39a8-1e30-487c-95f9-ef2d5e734adc&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/f0ca39a8-1e30-487c-95f9-ef2d5e734adc",
+          "title": "ICT operations manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/857ed740-f4ae-43d0-8295-d6181f1d7eed&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/857ed740-f4ae-43d0-8295-d6181f1d7eed",
+          "title": "funeral services director"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/53ed8787-3423-4843-8c63-7be1877d29e2&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/53ed8787-3423-4843-8c63-7be1877d29e2",
+          "title": "head waiter/head waitress"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/be54b8da-bc71-40f0-b150-45c5e0769375&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/be54b8da-bc71-40f0-b150-45c5e0769375",
+          "title": "venue director"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/a20e4b15-a128-49b9-a06a-e790e3bd5c68&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/a20e4b15-a128-49b9-a06a-e790e3bd5c68",
+          "title": "head sommelier"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/6aa78e46-ce22-421f-8a75-e915ac63c9d0&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/6aa78e46-ce22-421f-8a75-e915ac63c9d0",
+          "title": "call centre supervisor"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/95cd3d64-20d0-4681-857d-d6c63d07349f&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/95cd3d64-20d0-4681-857d-d6c63d07349f",
+          "title": "brewmaster"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/c76dda38-938c-404e-8a6d-78c8705eebc0&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/c76dda38-938c-404e-8a6d-78c8705eebc0",
+          "title": "checkout supervisor"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/dfb93ddb-ce34-4d2e-a178-541d45a7d98b&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/dfb93ddb-ce34-4d2e-a178-541d45a7d98b",
+          "title": "laundry workers supervisor"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/acbb7a20-c947-480d-a07e-868a0ab3eab8&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/acbb7a20-c947-480d-a07e-868a0ab3eab8",
+          "title": "specialist biomedical scientist"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/8b6388a4-4904-471b-9331-d3b1211f5525&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/8b6388a4-4904-471b-9331-d3b1211f5525",
+          "title": "ICT project manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/7dec82e0-3bfc-4c48-812d-c2095bfe05bb&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/7dec82e0-3bfc-4c48-812d-c2095bfe05bb",
+          "title": "department store manager"
+        }
+      ],
+      "isOptionalForOccupation": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/7c205166-d862-45fc-90e5-58a3aa3721dd&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/7c205166-d862-45fc-90e5-58a3aa3721dd",
+          "title": "road construction supervisor"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/fb3f5f35-e6f7-4168-aef2-e4dfb7f2a3ee&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/fb3f5f35-e6f7-4168-aef2-e4dfb7f2a3ee",
+          "title": "geology technician"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/bbaa1444-2c0a-4f76-8375-d72e3ea968fd&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/bbaa1444-2c0a-4f76-8375-d72e3ea968fd",
+          "title": "grill cook"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/53d2052f-edc0-4f44-8be1-164526412bfe&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/53d2052f-edc0-4f44-8be1-164526412bfe",
+          "title": "industrial engineer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/66d22b81-1b5e-42a1-b904-ac67b4a896c6&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/66d22b81-1b5e-42a1-b904-ac67b4a896c6",
+          "title": "mineral processing operator"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/fde4372d-8293-42de-afbb-8b5a9b274fe7&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/fde4372d-8293-42de-afbb-8b5a9b274fe7",
+          "title": "application engineer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/6426ada1-4d8c-4612-99e3-91bc569805ee&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/6426ada1-4d8c-4612-99e3-91bc569805ee",
+          "title": "manufacturing manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/622b1d5e-bf14-4ec0-b83e-3bfcf8dff624&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/622b1d5e-bf14-4ec0-b83e-3bfcf8dff624",
+          "title": "drill operator"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/aaa485d0-6787-45c0-8596-b266c0b687fd&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/aaa485d0-6787-45c0-8596-b266c0b687fd",
+          "title": "locksmith"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/a79d9e58-36be-4e67-a4db-ea6c8ff445fc&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/a79d9e58-36be-4e67-a4db-ea6c8ff445fc",
+          "title": "retail department manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/b00e9e89-fd8d-4655-b6a2-f58b17629473&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/b00e9e89-fd8d-4655-b6a2-f58b17629473",
+          "title": "airport security officer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/632e61c8-4e4b-44c7-b213-6dd5a174b143&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/632e61c8-4e4b-44c7-b213-6dd5a174b143",
+          "title": "distribution manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/aeae4491-91b2-4029-9648-364e0bc4ecff&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/aeae4491-91b2-4029-9648-364e0bc4ecff",
+          "title": "electrical equipment production supervisor"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/a4869ae9-2dfe-48cc-bd97-f803880f3407&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/a4869ae9-2dfe-48cc-bd97-f803880f3407",
+          "title": "drafter"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/66dc9349-6ca3-4ce4-9865-40686234d752&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/66dc9349-6ca3-4ce4-9865-40686234d752",
+          "title": "roofing supervisor"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/ab360abd-32e2-4e03-967d-a10758efffa7&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/ab360abd-32e2-4e03-967d-a10758efffa7",
+          "title": "mechatronics engineer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/c2e6609d-0abe-4a38-b295-e06edbd52e82&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/c2e6609d-0abe-4a38-b295-e06edbd52e82",
+          "title": "fundraising manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/377865f0-c327-4599-8c7e-d428c6588edf&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/377865f0-c327-4599-8c7e-d428c6588edf",
+          "title": "purchasing manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/40da2fc6-8cb4-4cd3-8fe3-899715905070&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/40da2fc6-8cb4-4cd3-8fe3-899715905070",
+          "title": "body artist"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/16b974f4-cb8c-436c-8c05-a16957c40131&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/16b974f4-cb8c-436c-8c05-a16957c40131",
+          "title": "fossil-fuel power plant operator"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/998a0bf4-b1be-42ab-aee5-0096c9be3319&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/998a0bf4-b1be-42ab-aee5-0096c9be3319",
+          "title": "quality engineering technician"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/d849fd2a-5210-434b-a50b-2d92de3a4bac&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/d849fd2a-5210-434b-a50b-2d92de3a4bac",
+          "title": "electronics drafter"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/4e0c14d6-b170-40f1-bcdc-703c0b92109b&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/4e0c14d6-b170-40f1-bcdc-703c0b92109b",
+          "title": "barber"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/fad4abdf-fe1b-4751-8253-aef40b49afe0&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/fad4abdf-fe1b-4751-8253-aef40b49afe0",
+          "title": "desalination technician"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/bb4ca5c1-879d-44e8-840d-24f320206bff&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/bb4ca5c1-879d-44e8-840d-24f320206bff",
+          "title": "grants administrator"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/a603fdd9-31e7-424a-883a-e9f6bf88085a&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/a603fdd9-31e7-424a-883a-e9f6bf88085a",
+          "title": "structural ironwork supervisor"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/b9de6d8b-1cf6-4722-bf8c-d73aad03bf87&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/b9de6d8b-1cf6-4722-bf8c-d73aad03bf87",
+          "title": "fish cook"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/a256838b-0843-4ad2-a2fb-4531f94e63d8&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/a256838b-0843-4ad2-a2fb-4531f94e63d8",
+          "title": "private chef"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/4568a282-3904-4dfc-a6ec-e847b3ca90e8&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/4568a282-3904-4dfc-a6ec-e847b3ca90e8",
+          "title": "plastic and rubber products manufacturing supervisor"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/656674ac-9d4e-4a91-963f-c0b6edfd55a4&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/656674ac-9d4e-4a91-963f-c0b6edfd55a4",
+          "title": "bus route supervisor"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/771955d9-e988-47f3-b60f-207adb2cd571&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/771955d9-e988-47f3-b60f-207adb2cd571",
+          "title": "recreational facilities manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/a02a1117-212f-4a49-b21a-d3b971e00e48&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/a02a1117-212f-4a49-b21a-d3b971e00e48",
+          "title": "pizzaiolo"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/ab4086a0-0e2f-436e-80f8-a3291e594bd1&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/ab4086a0-0e2f-436e-80f8-a3291e594bd1",
+          "title": "lithographer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/219e7fdd-5889-4517-9e86-620a12d535aa&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/219e7fdd-5889-4517-9e86-620a12d535aa",
+          "title": "train preparer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/ab3c4d3e-3189-47ad-82af-57cdae3cb589&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/ab3c4d3e-3189-47ad-82af-57cdae3cb589",
+          "title": "optical engineer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/3fa31588-2e4d-49c3-b839-4b615cc62742&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/3fa31588-2e4d-49c3-b839-4b615cc62742",
+          "title": "humanitarian advisor"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/d3e32e5e-7f24-48e3-b939-e4f800eb62fb&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/d3e32e5e-7f24-48e3-b939-e4f800eb62fb",
+          "title": "human resources officer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/cdef4961-fcc2-4e00-bfe8-4480b33aa6f3&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/cdef4961-fcc2-4e00-bfe8-4480b33aa6f3",
+          "title": "welding coordinator"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/2ae275fe-4f11-4a38-9e95-d466d74b42a3&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/2ae275fe-4f11-4a38-9e95-d466d74b42a3",
+          "title": "police commissioner"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/11b6390b-1e48-4903-a5df-d3e04b451a19&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/11b6390b-1e48-4903-a5df-d3e04b451a19",
+          "title": "cosmetic chemist"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/a2494c65-11a8-4853-9371-c89333c33be1&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/a2494c65-11a8-4853-9371-c89333c33be1",
+          "title": "embassy counsellor"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/c25b3700-6095-42b7-99fc-b87dc326c044&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/c25b3700-6095-42b7-99fc-b87dc326c044",
+          "title": "agricultural scientist"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/18cff178-4ef0-46c9-a6e5-f6f38179cdcb&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/18cff178-4ef0-46c9-a6e5-f6f38179cdcb",
+          "title": "tiling supervisor"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/040f62f5-d570-4d3f-b732-c8ea4afc2738&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/040f62f5-d570-4d3f-b732-c8ea4afc2738",
+          "title": "container equipment assembly supervisor"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/fd1c83b3-60d5-4a5f-86c5-94dc2842c246&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/fd1c83b3-60d5-4a5f-86c5-94dc2842c246",
+          "title": "integrated circuit design engineer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/6aef7360-8c4a-4e1a-a402-b1e207101dc8&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/6aef7360-8c4a-4e1a-a402-b1e207101dc8",
+          "title": "camping ground manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/aacc3918-b5d3-484b-9480-5d29aa550d74&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/aacc3918-b5d3-484b-9480-5d29aa550d74",
+          "title": "supply chain manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/febd4100-9a9b-46a0-b964-8623d79d0f32&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/febd4100-9a9b-46a0-b964-8623d79d0f32",
+          "title": "air pollution analyst"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/4552095e-3396-4831-86ad-4fc34ec39a19&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/4552095e-3396-4831-86ad-4fc34ec39a19",
+          "title": "farm manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/9c9752b7-3e3b-4a08-8553-b63a013f8072&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/9c9752b7-3e3b-4a08-8553-b63a013f8072",
+          "title": "customer experience manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/4a5b3686-eea4-4ba0-b446-33f7b6a95aed&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/4a5b3686-eea4-4ba0-b446-33f7b6a95aed",
+          "title": "anatomical pathology technician"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/0c7c9606-fde3-4658-8136-8fe0c9b8bd09&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/0c7c9606-fde3-4658-8136-8fe0c9b8bd09",
+          "title": "medical device engineer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/64e38ce7-3901-4261-bfee-77c7a77397f2&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/64e38ce7-3901-4261-bfee-77c7a77397f2",
+          "title": "policy manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/264e1a4a-5074-47e2-a6d9-d225d48e8a9a&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/264e1a4a-5074-47e2-a6d9-d225d48e8a9a",
+          "title": "bookmaker"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/a99b38bc-6e71-4bef-b127-0f2b5e357815&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/a99b38bc-6e71-4bef-b127-0f2b5e357815",
+          "title": "ICT resilience manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/725090a7-9943-4dae-8079-a6999d21ddba&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/725090a7-9943-4dae-8079-a6999d21ddba",
+          "title": "client relations manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/30f3ea93-882a-4525-841c-1d5b4b64076f&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/30f3ea93-882a-4525-841c-1d5b4b64076f",
+          "title": "financial manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/1e55f5e3-2f02-434b-997b-9a9f3eb745e8&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/1e55f5e3-2f02-434b-997b-9a9f3eb745e8",
+          "title": "power lines supervisor"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/bc1748c7-29d6-43d5-a304-6b74f317ac26&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/bc1748c7-29d6-43d5-a304-6b74f317ac26",
+          "title": "kennel supervisor"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/82d75f3b-644a-4582-ad6b-a2a1833e44cb&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/82d75f3b-644a-4582-ad6b-a2a1833e44cb",
+          "title": "non-destructive testing specialist"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/7086d0ca-1e77-4690-89c9-7ed1a0478fa3&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/7086d0ca-1e77-4690-89c9-7ed1a0478fa3",
+          "title": "data quality specialist"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/6a67114c-60a3-4cec-af26-c7df6fe6e9b5&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/6a67114c-60a3-4cec-af26-c7df6fe6e9b5",
+          "title": "construction painting supervisor"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/754c349d-67d5-48e5-81c1-e84d2fab59d0&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/754c349d-67d5-48e5-81c1-e84d2fab59d0",
+          "title": "aromatherapist"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/33e3a746-f209-4a1a-96df-301505531cb2&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/33e3a746-f209-4a1a-96df-301505531cb2",
+          "title": "beauty salon manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/44cd9d91-5552-4735-86b8-4b2c5d39efc8&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/44cd9d91-5552-4735-86b8-4b2c5d39efc8",
+          "title": "laundry and dry cleaning manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/099c6bb0-22d3-4c5d-8bf5-70910af381ef&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/099c6bb0-22d3-4c5d-8bf5-70910af381ef",
+          "title": "hairdresser"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/4f4d33a1-0b41-4dd9-8a42-aeba5a3974ab&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/4f4d33a1-0b41-4dd9-8a42-aeba5a3974ab",
+          "title": "sensor engineer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/8249697a-3dc8-417d-9acf-3a7e0864069a&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/8249697a-3dc8-417d-9acf-3a7e0864069a",
+          "title": "terrazzo setter supervisor"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/207d7b18-6540-432e-8aa6-785ed434572f&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/207d7b18-6540-432e-8aa6-785ed434572f",
+          "title": "business intelligence manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/d2db926b-8b14-4686-9c98-fb0dc3a38cbb&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/d2db926b-8b14-4686-9c98-fb0dc3a38cbb",
+          "title": "creative director"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/2515bd46-ccd4-4561-97d1-b9544608a76e&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/2515bd46-ccd4-4561-97d1-b9544608a76e",
+          "title": "electrical drafter"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/4553ecf8-1f0c-4bf1-8718-d8a6b95d6fc2&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/4553ecf8-1f0c-4bf1-8718-d8a6b95d6fc2",
+          "title": "air traffic instructor"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/e34b93ec-5e11-4858-ba1e-e245c4c39cec&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/e34b93ec-5e11-4858-ba1e-e245c4c39cec",
+          "title": "wood assembly supervisor"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/87580fa5-39d2-4b7e-9274-b744e684f17c&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/87580fa5-39d2-4b7e-9274-b744e684f17c",
+          "title": "carpenter supervisor"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/7f0fe7d3-54c6-41e9-88ba-9d4f0f1a46b4&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/7f0fe7d3-54c6-41e9-88ba-9d4f0f1a46b4",
+          "title": "microsystem engineer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/a950e88b-cb5e-4a7d-8a94-3f9460b487d7&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/a950e88b-cb5e-4a7d-8a94-3f9460b487d7",
+          "title": "compliance engineer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/1009be17-7efd-45f1-a033-566bf179c588&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/1009be17-7efd-45f1-a033-566bf179c588",
+          "title": "chef"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/f5166c6b-3467-4fc4-9343-d12e870d9def&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/f5166c6b-3467-4fc4-9343-d12e870d9def",
+          "title": "contact centre manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/15dfabf5-71e0-400e-af48-4c6f92ef4392&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/15dfabf5-71e0-400e-af48-4c6f92ef4392",
+          "title": "kennel worker"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/a1e1a788-2352-4172-8fcf-1f985a6968b0&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/a1e1a788-2352-4172-8fcf-1f985a6968b0",
+          "title": "aesthetician"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/c6bd511a-d966-4df9-a48e-4f800354f268&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/c6bd511a-d966-4df9-a48e-4f800354f268",
+          "title": "operations manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/de31a27f-c6ba-4d4f-87cd-b405e1852121&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/de31a27f-c6ba-4d4f-87cd-b405e1852121",
+          "title": "rental manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/002da35b-7808-43f3-83bf-63596b8b351f&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/002da35b-7808-43f3-83bf-63596b8b351f",
+          "title": "hospitality revenue manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/4a29eab1-5f02-4723-a863-e2d5a0614dfa&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/4a29eab1-5f02-4723-a863-e2d5a0614dfa",
+          "title": "healthcare institution manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/72413d91-f212-4ad6-bf95-8b78a37c041a&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/72413d91-f212-4ad6-bf95-8b78a37c041a",
+          "title": "hair removal technician"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/43c86ca8-7357-4e8e-9a1c-bae427f61c5e&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/43c86ca8-7357-4e8e-9a1c-bae427f61c5e",
+          "title": "auger press operator"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/a9b20949-897b-481f-8642-d1f69263baff&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/a9b20949-897b-481f-8642-d1f69263baff",
+          "title": "industrial maintenance supervisor"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/30c0943c-caa1-411d-b273-26f475971273&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/30c0943c-caa1-411d-b273-26f475971273",
+          "title": "quality engineer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/05ebeb56-6ceb-488d-ba91-ed15088efc8e&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/05ebeb56-6ceb-488d-ba91-ed15088efc8e",
+          "title": "bridge construction supervisor"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/9358775a-3769-4327-bf25-6c0d9d69d192&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/9358775a-3769-4327-bf25-6c0d9d69d192",
+          "title": "travel agency manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/3ce4691e-ecea-4278-939e-b89ab01087b8&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/3ce4691e-ecea-4278-939e-b89ab01087b8",
+          "title": "telecommunications manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/bdfd018a-aae1-407e-a88c-471e50b0695d&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/bdfd018a-aae1-407e-a88c-471e50b0695d",
+          "title": "wood production supervisor"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/2b871272-bd61-4206-bd1a-0b96d7023098&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/2b871272-bd61-4206-bd1a-0b96d7023098",
+          "title": "cashier"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/92bb3d8c-8a9f-4cd7-80ec-247bbf173004&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/92bb3d8c-8a9f-4cd7-80ec-247bbf173004",
+          "title": "computer hardware engineer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/f4e3dd1c-f86b-4a69-8887-547255eadc79&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/f4e3dd1c-f86b-4a69-8887-547255eadc79",
+          "title": "tourist information centre manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/b10dc548-10e1-4447-8406-5101ff170bbf&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/b10dc548-10e1-4447-8406-5101ff170bbf",
+          "title": "head pastry chef"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/f31f487b-4ce2-40f3-90e8-7d0011b4ef1d&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/f31f487b-4ce2-40f3-90e8-7d0011b4ef1d",
+          "title": "software manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/0464b062-cea6-4164-b10d-956c61956ae7&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/0464b062-cea6-4164-b10d-956c61956ae7",
+          "title": "ICT security administrator"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/0181835d-dd00-49e2-9fc4-e1382a65957f&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/0181835d-dd00-49e2-9fc4-e1382a65957f",
+          "title": "insulation supervisor"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/35d41f4f-334b-452e-9e31-99f376302493&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/35d41f4f-334b-452e-9e31-99f376302493",
+          "title": "optoelectronic engineer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/83191970-020d-4350-b2e0-be971533d286&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/83191970-020d-4350-b2e0-be971533d286",
+          "title": "electronics production supervisor"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/a580e79a-b752-49c1-b033-b5ab2b34bfba&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/a580e79a-b752-49c1-b033-b5ab2b34bfba",
+          "title": "specialist dentist"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/e575efca-c3e4-43fe-8c46-327d310f795e&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/e575efca-c3e4-43fe-8c46-327d310f795e",
+          "title": "underwater construction supervisor"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/ef909843-97c6-4c48-8038-2e7aefdfcad5&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/ef909843-97c6-4c48-8038-2e7aefdfcad5",
+          "title": "clinical informatics manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/dd25a2b0-add0-4ae2-bd85-bb644e0d0c39&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/dd25a2b0-add0-4ae2-bd85-bb644e0d0c39",
+          "title": "call centre manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/dc9b98da-c389-4caf-a21a-c6f8c530c0bf&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/dc9b98da-c389-4caf-a21a-c6f8c530c0bf",
+          "title": "shoe repairer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/a5826284-14fb-4866-b9be-69ce69db1b71&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/a5826284-14fb-4866-b9be-69ce69db1b71",
+          "title": "aquaculture husbandry manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/ceb9910a-1174-4926-82c9-5afee2bd3702&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/ceb9910a-1174-4926-82c9-5afee2bd3702",
+          "title": "glass installation supervisor"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/0b5dfc02-b825-4445-811d-d39ed442657e&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/0b5dfc02-b825-4445-811d-d39ed442657e",
+          "title": "paramedic in emergency responses"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/90f75f67-495d-49fa-ab57-2f320e251d7e&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/90f75f67-495d-49fa-ab57-2f320e251d7e",
+          "title": "cook"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/41d4be58-3111-48b5-814a-83117983dd16&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/41d4be58-3111-48b5-814a-83117983dd16",
+          "title": "derrickhand"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/37f7677a-97d1-420b-a8b0-09339472121f&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/37f7677a-97d1-420b-a8b0-09339472121f",
+          "title": "machinery assembly supervisor"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/9ce12690-c3bf-4135-b7a5-b666bb8c68f5&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/9ce12690-c3bf-4135-b7a5-b666bb8c68f5",
+          "title": "mine surveying technician"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/76a1a76c-b014-4600-8901-56cb936de7ed&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/76a1a76c-b014-4600-8901-56cb936de7ed",
+          "title": "ICT auditor manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/cb446db8-e8b3-418c-a21c-2d10faea42a5&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/cb446db8-e8b3-418c-a21c-2d10faea42a5",
+          "title": "power plant manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/72d03aad-2003-404e-ae71-a37206e3566b&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/72d03aad-2003-404e-ae71-a37206e3566b",
+          "title": "leather goods artisanal worker"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/0763c810-8ac6-4e39-867d-780a11af26e0&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/0763c810-8ac6-4e39-867d-780a11af26e0",
+          "title": "plumbing supervisor"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/7db415ec-0437-4a5e-95ea-622ea9f13dd0&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/7db415ec-0437-4a5e-95ea-622ea9f13dd0",
+          "title": "metal production supervisor"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/45a28fe1-30a4-4175-af19-e451ada60858&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/45a28fe1-30a4-4175-af19-e451ada60858",
+          "title": "credit union manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/abc849b6-9e75-41ce-b1aa-4d488280a8a3&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/abc849b6-9e75-41ce-b1aa-4d488280a8a3",
+          "title": "farm milk controller"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/ce2b8609-34c7-40d3-a4f7-581c76bd258a&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/ce2b8609-34c7-40d3-a4f7-581c76bd258a",
+          "title": "police inspector"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/2026adb2-62d7-4b92-9ccb-105abdebe37d&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/2026adb2-62d7-4b92-9ccb-105abdebe37d",
+          "title": "electromagnetic engineer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/9deee896-be9b-4aac-b55e-ceff1a7a843a&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/9deee896-be9b-4aac-b55e-ceff1a7a843a",
+          "title": "sewerage systems manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/18fbb1f8-eceb-4bf4-8fc7-932b8f6130cd&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/18fbb1f8-eceb-4bf4-8fc7-932b8f6130cd",
+          "title": "paperhanger supervisor"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/57d1be2e-c476-43fb-b014-fa58602cac95&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/57d1be2e-c476-43fb-b014-fa58602cac95",
+          "title": "dismantling supervisor"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/c18fddf5-cfc4-4f9c-94d6-86608faaa1dd&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/c18fddf5-cfc4-4f9c-94d6-86608faaa1dd",
+          "title": "social services manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/e52b5707-7097-4dbc-ac61-054e917da241&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/e52b5707-7097-4dbc-ac61-054e917da241",
+          "title": "dental practitioner"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/bcc2c1db-f969-4355-bebf-4878ff6c2a94&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/bcc2c1db-f969-4355-bebf-4878ff6c2a94",
+          "title": "service manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/b493b10d-7131-4814-93bb-a2c1be4a095f&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/b493b10d-7131-4814-93bb-a2c1be4a095f",
+          "title": "office equipment repair technician"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/a4c5fb46-1d72-47de-b349-f579a0f1edfb&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/a4c5fb46-1d72-47de-b349-f579a0f1edfb",
+          "title": "rigging supervisor"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/ae8b19cc-8c6e-4a16-ada2-c15f97ded133&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/ae8b19cc-8c6e-4a16-ada2-c15f97ded133",
+          "title": "optomechanical engineer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/79fed799-ab3a-43d9-bd91-414c2c3b2f57&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/79fed799-ab3a-43d9-bd91-414c2c3b2f57",
+          "title": "tooling engineer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/9defc0f8-3eed-4a56-80e1-d534983aff4f&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/9defc0f8-3eed-4a56-80e1-d534983aff4f",
+          "title": "demolition supervisor"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/6d03eaef-1ce5-4a1e-bb41-0908e1af1b65&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/6d03eaef-1ce5-4a1e-bb41-0908e1af1b65",
+          "title": "occupational analyst"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/046574a1-9bb3-4a80-8a7b-83dc7db1dae2&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/046574a1-9bb3-4a80-8a7b-83dc7db1dae2",
+          "title": "bricklaying supervisor"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/a05d0a6d-7b60-445a-8dcb-282c7d5a6852&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/a05d0a6d-7b60-445a-8dcb-282c7d5a6852",
+          "title": "chief fire officer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/4542ff68-f809-4ba1-857c-fd26d0914eaa&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/4542ff68-f809-4ba1-857c-fd26d0914eaa",
+          "title": "dewatering technician"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/20db07fc-cc02-46aa-a4fc-b3c73ba8fa8f&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/20db07fc-cc02-46aa-a4fc-b3c73ba8fa8f",
+          "title": "concrete finisher supervisor"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/546ec458-e2a4-4cb1-ac17-553d314ac2e2&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/546ec458-e2a4-4cb1-ac17-553d314ac2e2",
+          "title": "water treatment plant manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/8c0f59c9-9a47-42e7-8287-aab19df4e6ab&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/8c0f59c9-9a47-42e7-8287-aab19df4e6ab",
+          "title": "microelectronics engineer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/c2a29b8d-1042-4766-a162-e174c7a77421&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/c2a29b8d-1042-4766-a162-e174c7a77421",
+          "title": "complementary therapist"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/580c98d4-fb97-4597-864c-54140f058f1b&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/580c98d4-fb97-4597-864c-54140f058f1b",
+          "title": "call centre quality auditor"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/754ce08f-b4d9-4b9c-b9d2-06f15258a3ce&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/754ce08f-b4d9-4b9c-b9d2-06f15258a3ce",
+          "title": "bank manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/f5aa06b0-745e-4eb1-b050-3e15d11e5eb5&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/f5aa06b0-745e-4eb1-b050-3e15d11e5eb5",
+          "title": "chemical processing supervisor"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/79f435d0-9bc6-4d25-a26a-acbe16569ebb&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/79f435d0-9bc6-4d25-a26a-acbe16569ebb",
+          "title": "heating, ventilation, air conditioning (and refrigeration) service engineer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/9c61bba4-56b7-4846-9f4e-b1f2decf3e7e&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/9c61bba4-56b7-4846-9f4e-b1f2decf3e7e",
+          "title": "security alarm investigator"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/8d765d88-c8d6-406e-8dfe-e37c5aa89be6&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/8d765d88-c8d6-406e-8dfe-e37c5aa89be6",
+          "title": "roughneck"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/432cd69f-6323-4147-94f2-342de3cb0a65&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/432cd69f-6323-4147-94f2-342de3cb0a65",
+          "title": "optical instrument production supervisor"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/579254cf-6d69-4889-9000-9c79dc568644&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/579254cf-6d69-4889-9000-9c79dc568644",
+          "title": "mechanical engineer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/40517ed4-2769-4283-a15b-4b0d939bd2d3&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/40517ed4-2769-4283-a15b-4b0d939bd2d3",
+          "title": "production supervisor"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/b7aa4b4e-dbb6-4f58-b36c-35b9a7267972&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/b7aa4b4e-dbb6-4f58-b36c-35b9a7267972",
+          "title": "computer hardware repair technician"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/aac0c510-f238-4dbe-beeb-1d7b73f4552c&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/aac0c510-f238-4dbe-beeb-1d7b73f4552c",
+          "title": "cemetery attendant"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/f8ab2e08-d14e-4938-a2cd-c04821556db7&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/f8ab2e08-d14e-4938-a2cd-c04821556db7",
+          "title": "consumer electronics repair technician"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/b21aac17-8237-4264-bc2c-0e315346fd8f&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/b21aac17-8237-4264-bc2c-0e315346fd8f",
+          "title": "chemical plant control room operator"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/6db9eeae-aef5-4f56-913d-4650e4c720c6&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/6db9eeae-aef5-4f56-913d-4650e4c720c6",
+          "title": "correctional services manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/2ea3070e-3d0b-4de6-b5bd-fe4a04649b04&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/2ea3070e-3d0b-4de6-b5bd-fe4a04649b04",
+          "title": "construction scaffolding supervisor"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/1e2aaeff-5bf1-4649-9f09-9ebbd5cc3501&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/1e2aaeff-5bf1-4649-9f09-9ebbd5cc3501",
+          "title": "electromechanical drafter"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/264b00c9-84d0-4dc9-b590-aed2cea2b904&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/264b00c9-84d0-4dc9-b590-aed2cea2b904",
+          "title": "vehicle maintenance supervisor"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/b7744a45-a4ce-4037-b679-3d2377e17f31&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/b7744a45-a4ce-4037-b679-3d2377e17f31",
+          "title": "supermarket manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/72d1e9ca-294c-4349-90ed-f99541d447d0&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/72d1e9ca-294c-4349-90ed-f99541d447d0",
+          "title": "specialised goods distribution manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/8a87e8b3-aecf-48a7-9837-4e022c3b9bb9&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/8a87e8b3-aecf-48a7-9837-4e022c3b9bb9",
+          "title": "chromatographer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/16bf6d6f-64ec-4f80-9070-f81a7b179d53&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/16bf6d6f-64ec-4f80-9070-f81a7b179d53",
+          "title": "precision mechanics supervisor"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/6e6839b6-099c-4802-906e-7f2c8203ee69&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/6e6839b6-099c-4802-906e-7f2c8203ee69",
+          "title": "office manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/3f6fc9db-18c1-45e8-819e-baf7b6cfe372&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/3f6fc9db-18c1-45e8-819e-baf7b6cfe372",
+          "title": "court administrator"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/4b536ea7-ebac-4f75-8356-94eb639f1ecc&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/4b536ea7-ebac-4f75-8356-94eb639f1ecc",
+          "title": "print studio supervisor"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/6ebe4e2e-7deb-4923-8b47-ca6fc03fa13a&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/6ebe4e2e-7deb-4923-8b47-ca6fc03fa13a",
+          "title": "paper mill supervisor"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/e96cec32-9960-4496-a790-a9d2254906fc&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/e96cec32-9960-4496-a790-a9d2254906fc",
+          "title": "tote operator"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/8862c29b-3810-4fbc-85c7-c9ee87535f73&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/8862c29b-3810-4fbc-85c7-c9ee87535f73",
+          "title": "electrical supervisor"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/0dd7e6cd-2e5a-4fae-9ce0-6a3622d4019f&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/0dd7e6cd-2e5a-4fae-9ce0-6a3622d4019f",
+          "title": "construction general supervisor"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/17c02096-05d6-4a5a-ba93-9f22d68df0d3&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/17c02096-05d6-4a5a-ba93-9f22d68df0d3",
+          "title": "dental instrument assembler"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/71e4891f-48a6-435f-8897-208969fb4e44&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/71e4891f-48a6-435f-8897-208969fb4e44",
+          "title": "dredging supervisor"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/778c1d37-69f2-4184-ac98-03b7dbfba332&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/778c1d37-69f2-4184-ac98-03b7dbfba332",
+          "title": "photonics engineer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/86ca306c-ab99-420a-9e2a-aa73c5c4de22&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/86ca306c-ab99-420a-9e2a-aa73c5c4de22",
+          "title": "electrical engineer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/f4eaff3d-f8d0-4a6a-aa90-76827c0fbada&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/f4eaff3d-f8d0-4a6a-aa90-76827c0fbada",
+          "title": "household appliances repair technician"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/d185c066-cddf-4a8c-a931-5eefc21fc2a1&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/d185c066-cddf-4a8c-a931-5eefc21fc2a1",
+          "title": "cabin crew instructor"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/aecb033a-2be8-459c-bbdc-87bbae922894&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/aecb033a-2be8-459c-bbdc-87bbae922894",
+          "title": "plastering supervisor"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/425ed170-bf90-42c9-b5bd-148282ed96ff&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/425ed170-bf90-42c9-b5bd-148282ed96ff",
+          "title": "destination manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/2a226be5-6157-49e9-bd4b-e3b46d55c082&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/2a226be5-6157-49e9-bd4b-e3b46d55c082",
+          "title": "rail construction supervisor"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/b633af32-c8c0-4481-9971-7932ea4b16b5&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/b633af32-c8c0-4481-9971-7932ea4b16b5",
+          "title": "wood factory manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/2b318e09-1a5d-4d7f-85a7-fe78945fe917&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/2b318e09-1a5d-4d7f-85a7-fe78945fe917",
+          "title": "sewer construction supervisor"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/2d3d7188-47ab-49b9-9045-e452d9db06f1&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/2d3d7188-47ab-49b9-9045-e452d9db06f1",
+          "title": "commercial director"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/276ba420-ef09-4a0e-b215-2c2e2f80ad28&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/276ba420-ef09-4a0e-b215-2c2e2f80ad28",
+          "title": "chief ICT security officer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/96be6ac3-5932-4bfc-933d-84b267d0d486&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/96be6ac3-5932-4bfc-933d-84b267d0d486",
+          "title": "collection manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/64b136da-aedf-48a2-96a0-72eb850bfcd0&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/64b136da-aedf-48a2-96a0-72eb850bfcd0",
+          "title": "rescue centre manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/b206a740-c7eb-407d-9cdb-93502368c4d8&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/b206a740-c7eb-407d-9cdb-93502368c4d8",
+          "title": "crane crew supervisor"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/02e19186-458f-40eb-9e78-31c656d12ac7&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/02e19186-458f-40eb-9e78-31c656d12ac7",
+          "title": "rooms division manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/9ab80ce6-504f-474f-bb91-98163e9d45fd&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/9ab80ce6-504f-474f-bb91-98163e9d45fd",
+          "title": "diet cook"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/c90e5009-37f2-4dcd-aea2-362fc817bc98&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/c90e5009-37f2-4dcd-aea2-362fc817bc98",
+          "title": "ICT environmental manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/1242d99a-47f1-4a62-b884-33746db8a6ca&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/1242d99a-47f1-4a62-b884-33746db8a6ca",
+          "title": "ICT help desk manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/336cf331-8082-4a0c-bf5f-e7c54706211c&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/336cf331-8082-4a0c-bf5f-e7c54706211c",
+          "title": "bicycle mechanic"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/2e85b540-4a92-47f3-bc8c-0699c51692d1&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/2e85b540-4a92-47f3-bc8c-0699c51692d1",
+          "title": "lift installation supervisor"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/60d77070-2cf4-4883-b44d-91e8ce54db86&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/60d77070-2cf4-4883-b44d-91e8ce54db86",
+          "title": "water conservation technician supervisor"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/a79e7622-2307-44e2-94cc-d1ff1caf655a&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/a79e7622-2307-44e2-94cc-d1ff1caf655a",
+          "title": "youth programme director"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/2cec9e4a-5a37-4cb1-a8b7-2e8d94766417&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/2cec9e4a-5a37-4cb1-a8b7-2e8d94766417",
+          "title": "machine operator supervisor"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/77abfaec-a250-4765-95fa-6091e8da1bba&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/77abfaec-a250-4765-95fa-6091e8da1bba",
+          "title": "electromechanical engineer"
+        }
+      ]
+    },
+    "_embedded": {
+      "ancestors": [
+        {
+          "title": "train employees",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/e54ff029-1ce9-447d-a5b2-eb7283a23e6e&language=en",
+              "uri": "http://data.europa.eu/esco/skill/e54ff029-1ce9-447d-a5b2-eb7283a23e6e"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S1.3.3",
+            "http://data.europa.eu/esco/skill/699e7c26-6502-4e78-a823-3656ff5a5b8b"
+          ]
+        },
+        {
+          "title": "training on operational procedures",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S1.3.3&language=en",
+              "uri": "http://data.europa.eu/esco/skill/S1.3.3"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S1.3"
+          ]
+        },
+        {
+          "title": "teaching and training",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S1.3&language=en",
+              "uri": "http://data.europa.eu/esco/skill/S1.3"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S1"
+          ]
+        },
+        {
+          "title": "communication, collaboration and creativity",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S1&language=en",
+              "uri": "http://data.europa.eu/esco/skill/S1"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S"
+          ]
+        },
+        {
+          "title": "skills",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S&language=en",
+              "uri": "http://data.europa.eu/esco/skill/S"
+            }
+          },
+          "parents": []
+        },
+        {
+          "title": "instruct others",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/699e7c26-6502-4e78-a823-3656ff5a5b8b&language=en",
+              "uri": "http://data.europa.eu/esco/skill/699e7c26-6502-4e78-a823-3656ff5a5b8b"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/8f18f987-33e2-4228-9efb-65de25d03330",
+            "http://data.europa.eu/esco/skill/S1.3.0"
+          ]
+        },
+        {
+          "title": "social interaction",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/8f18f987-33e2-4228-9efb-65de25d03330&language=en",
+              "uri": "http://data.europa.eu/esco/skill/8f18f987-33e2-4228-9efb-65de25d03330"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/7ee746cb-fded-47f5-9652-19ebebbce51b"
+          ]
+        },
+        {
+          "title": "Transversal skills/competences",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/7ee746cb-fded-47f5-9652-19ebebbce51b&language=en",
+              "uri": "http://data.europa.eu/esco/skill/7ee746cb-fded-47f5-9652-19ebebbce51b"
+            }
+          },
+          "parents": []
+        },
+        {
+          "title": "teaching and training",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S1.3.0&language=en",
+              "uri": "http://data.europa.eu/esco/skill/S1.3.0"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S1.3"
+          ]
+        }
+      ]
+    }
+  }
+}

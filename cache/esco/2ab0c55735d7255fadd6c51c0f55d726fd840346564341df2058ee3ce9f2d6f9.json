@@ -1,0 +1,208 @@
+{
+  "url": "https://ec.europa.eu/esco/api/search?type=skill&language=en&limit=3&text=debug%20software",
+  "at": "2026-11-14T22:51:15.435Z",
+  "response": {
+    "total": 391,
+    "offset": 0,
+    "limit": 3,
+    "text": "debug software",
+    "language": "en",
+    "type": [
+      "skill"
+    ],
+    "isInScheme": null,
+    "facet": null,
+    "_links": {
+      "self": {
+        "href": "https://ec.europa.eu/esco/api/search?text=debug%20software&type=skill&limit=3&offset=0&full=false&viewObsolete=false&language=en"
+      },
+      "next": {
+        "href": "https://ec.europa.eu/esco/api/search?text=debug%20software&type=skill&limit=3&offset=1&full=false&viewObsolete=false&language=en"
+      }
+    },
+    "_embedded": {
+      "results": [
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/2522a6ce-3202-4ac8-9f5b-b9cb5a3a83a1",
+          "searchHit": "debug software",
+          "title": "debug software",
+          "preferredLabel": {
+            "de": "Softwareprobleme identifizieren und beheben",
+            "no": "feilrette programvare",
+            "fi": "etsiä ja poistaa virheet ohjelmistosta",
+            "en-us": "debug software",
+            "pt": "depurar software",
+            "bg": "отстраняване на грешки в софтуер",
+            "lt": "derinti programinę įrangą",
+            "hr": "ispraviti grešku softvera",
+            "lv": "atkļūdot programmatūru",
+            "fr": "déboguer un logiciel",
+            "hu": "szoftver-hibakeresést végez",
+            "sk": "odstraňovať chyby v softvéri",
+            "sl": "odpravljati programske napake",
+            "ga": "bogearraí a dhífhabhtú",
+            "sv": "felsöka programvara",
+            "el": "αποσφαλμάτωση λογισμικού",
+            "mt": "twettaq debugging tas-softwer",
+            "en": "debug software",
+            "is": "villuleitarhugbúnaður",
+            "it": "eseguire il debug di un software",
+            "es": "depurar software",
+            "et": "tarkvara siluma",
+            "cs": "ladit software",
+            "ar": "تشخيص أخطاء البرامج",
+            "pl": "debugować oprogramowanie",
+            "da": "finde fejl i software",
+            "ro": "remediază erorile din software",
+            "nl": "software voor het oplossen van softwarefouten"
+          },
+          "isTopConceptInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/skill"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/sector-specific"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/skill/S5.1.0"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/2522a6ce-3202-4ac8-9f5b-b9cb5a3a83a1&language=en",
+              "uri": "http://data.europa.eu/esco/skill/2522a6ce-3202-4ac8-9f5b-b9cb5a3a83a1",
+              "title": "debug software"
+            }
+          }
+        },
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/6014921e-1d25-4039-adc2-04852d61880e",
+          "searchHit": "The ICT tools used to test and debug programs and software code, such as GNU Debugger (GDB), Intel Debugger (IDB), Microsoft Visual Studio Debugger, Valgrind and WinDbg.",
+          "title": "ICT debugging tools",
+          "preferredLabel": {
+            "de": "IKT-Debugging-Werkzeuge",
+            "no": "IKT-feilrettingsverktøy",
+            "fi": "ICT-virheenkorjaustyökalut",
+            "en-us": "ICT debugging tools",
+            "pt": "ferramentas de debugging",
+            "bg": "инструменти за откриване на грешки в ИКТ",
+            "lt": "informacinių ir ryšių technologijų derinimo įrankiai",
+            "hr": "IKT alati za ispravljanje pogrešaka",
+            "lv": "IKT atkļūdošanas rīki",
+            "fr": "outils de débogage TIC",
+            "hu": "IKT hibakereső eszközök",
+            "sk": "ladiace nástroje IKT",
+            "sl": "orodje za razhroščevanje na področju IKT",
+            "ga": "uirlisí dífhabhtaithe TFC",
+            "sv": "IT-felsökningsverktyg",
+            "el": "εργαλεία διόρθωσης σφαλμάτων των ΤΠΕ",
+            "mt": "għodod ta' debugging fl-ICT",
+            "en": "ICT debugging tools",
+            "is": "UT-kembingarverkfæri",
+            "it": "strumenti di debug TIC",
+            "es": "herramientas de depuración de las TIC",
+            "et": "IKT-silurid",
+            "cs": "ladicí nástroje pro ICT",
+            "ar": "أدوات تصحيح تكنولوجيا المعلومات والاتصالات",
+            "pl": "narzędzia ICT do debugowania",
+            "da": "IKT-fejlfindingsværktøjer",
+            "ro": "instrumente de eliminare a erorilor în TIC",
+            "nl": "ICT-foutopsporing"
+          },
+          "isTopConceptInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/knowledge"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/sector-specific"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/isced-f/0613"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/6014921e-1d25-4039-adc2-04852d61880e&language=en",
+              "uri": "http://data.europa.eu/esco/skill/6014921e-1d25-4039-adc2-04852d61880e",
+              "title": "ICT debugging tools"
+            }
+          }
+        },
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/449d119b-2d66-43a9-9230-7d27f16afbb6",
+          "searchHit": "The computer program Xcode is a suite of software development tools for writing programs, such as compiler, debugger, code editor, code highlights, packaged in a unified user interface. It is developed by the software company Apple.",
+          "title": "Xcode",
+          "preferredLabel": {
+            "de": "Xcode",
+            "no": "Xcode",
+            "fi": "Xcode",
+            "en-us": "Xcode",
+            "pt": "Xcode",
+            "bg": "Xcode",
+            "lt": "Xcode",
+            "hr": "Xcode",
+            "lv": "Xcode",
+            "fr": "Xcode",
+            "hu": "Xcode",
+            "sk": "Xcode",
+            "sl": "Xcode",
+            "ga": "Xcode",
+            "sv": "Xcode",
+            "el": "Xcode",
+            "mt": "Xcode",
+            "en": "Xcode",
+            "is": "Xcode",
+            "it": "Xcode",
+            "es": "Xcode",
+            "et": "Xcode",
+            "cs": "Xcode",
+            "ar": "برنامج Xcode",
+            "pl": "Xcode",
+            "da": "Xcode",
+            "ro": "Xcode",
+            "nl": "Xcode"
+          },
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/knowledge"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/sector-specific"
+          ],
+          "broaderSkill": [
+            "http://data.europa.eu/esco/skill/925463a7-d51f-4d5b-9f79-4d28cf30acde"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/isced-f/0612"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/449d119b-2d66-43a9-9230-7d27f16afbb6&language=en",
+              "uri": "http://data.europa.eu/esco/skill/449d119b-2d66-43a9-9230-7d27f16afbb6",
+              "title": "Xcode"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,954 @@
+{
+  "url": "https://ec.europa.eu/esco/api/resource/skill?language=en&uri=http%3A%2F%2Fdata.europa.eu%2Fesco%2Fskill%2F04dfd9fb-e0cf-40f6-96c6-9d2280c4347e",
+  "at": "2026-11-14T22:51:17.664Z",
+  "response": {
+    "className": "Skill",
+    "classId": "http://data.europa.eu/esco/model#Skill",
+    "uri": "http://data.europa.eu/esco/skill/04dfd9fb-e0cf-40f6-96c6-9d2280c4347e",
+    "title": "provide technical documentation",
+    "referenceLanguage": [
+      "en"
+    ],
+    "preferredLabel": {
+      "de": "technische Dokumentation bereitstellen",
+      "no": "levere teknisk dokumentasjon",
+      "fi": "tarjota teknistä dokumentaatiota",
+      "en-us": "provide technical documentation",
+      "pt": "elaborar documentação técnica",
+      "bg": "осигуряване на техническа документация",
+      "lt": "teikti techninę dokumentaciją",
+      "lv": "nodrošināt tehnisko dokumentāciju",
+      "hr": "pripremiti tehničku dokumentaciju",
+      "fr": "fournir une documentation technique",
+      "hu": "műszaki dokumentációt készít",
+      "sk": "poskytnúť technickú dokumentáciu",
+      "sl": "zagotoviti tehnično dokumentacijo",
+      "ga": "doiciméid theicniúla a sholáthar",
+      "sv": "tillhandahålla teknisk dokumentation",
+      "el": "παροχή τεχνικής τεκμηρίωσης",
+      "mt": "tipprovdi dokumentazzjoni teknika",
+      "en": "provide technical documentation",
+      "is": "útvega tæknilega skjalfestingu",
+      "it": "fornire documentazione tecnica",
+      "es": "proporcionar documentación técnica",
+      "et": "tehnilist dokumentatsiooni koostama",
+      "cs": "poskytovat technickou dokumentaci",
+      "ar": "تقديم الوثائق التقنية",
+      "pl": "przygotowywać dokumentację techniczną",
+      "da": "levere teknisk dokumentation",
+      "ro": "furnizează documentație tehnică",
+      "nl": "technische documentatie aanleveren"
+    },
+    "alternativeLabel": {
+      "de": [
+        "technische Dokumentationen bereitstellen",
+        "technische Dokumentation ausarbeiten",
+        "technische Dokumentation vorlegen",
+        "technische Unterlagen bereitstellen"
+      ],
+      "sv": [
+        "ha teknisk dokumentation",
+        "ge teknisk dokumentation",
+        "tillhandahöll teknisk dokumentation",
+        "tillhandahåller teknisk dokumentation"
+      ],
+      "fi": [
+        "laatia tekniset dokumentit",
+        "laatia teknistä dokumentaatiota",
+        "laatia tekniset asiakirjat",
+        "dokumentoida tuotteiden elinkaari",
+        "dokumentoida tuotteen elinkaari",
+        "laatia teknisiä asiakirjoja"
+      ],
+      "pt": [
+        "elaborar documentos técnicos",
+        "preparar documentação técnica",
+        "redigir textos técnicos",
+        "redigir documentos técnicos",
+        "elaborar documento técnico"
+      ],
+      "bg": [
+        "изготвяне на техническа документация",
+        "осигуряване на техническата документация",
+        "осигуряването на техническа документация",
+        "водене на техническа документация",
+        "документиране на жизнения цикъл на продукт"
+      ],
+      "el": [
+        "καταρτίζω τεχνική τεκμηρίωση",
+        "προσκομίζω τεχνικά έγγραφα",
+        "τεκμηριώνω τον κύκλο ζωής του προϊόντος",
+        "παρέχω τεχνικό φάκελο",
+        "παρέχω τεχνικά έγγραφα",
+        "υποβάλλω τεχνικά τεκμήρια"
+      ],
+      "mt": [
+        "tħejji d-dokumentazzjoni teknika",
+        "tipprovdi dokumenti tekniċi",
+        "tagħmel id-dokumentazzjoni teknika aċċessibbli",
+        "tipprovdi d-dokumentazzjoni teknika"
+      ],
+      "lt": [
+        "pateikti techninę dokumentaciją",
+        "rengti techninę dokumentaciją",
+        "dokumentuoti produktų gyvavimo ciklą",
+        "rengti techninius dokumentus"
+      ],
+      "en": [
+        "prepare technical documentation",
+        "document the product life cycle"
+      ],
+      "hr": [
+        "nuditi tehničku dokumentaciju",
+        "pružiti tehničke dokumente"
+      ],
+      "lv": [
+        "produkta dzīves cikla dokumentācijas nodrošināšana",
+        "produkta dzīves cikla dokumentācijas sagatavošana",
+        "sagatavot tehnisko dokumentāciju",
+        "tehniskās dokumentācijas",
+        "nodrošināt tehnisko dokumentāciju"
+      ],
+      "is": [
+        "leggja fram tæknilega skjalfestingu",
+        "gerð tæknilegrar skjalfestingar",
+        "útvegum tæknilega skjalfestingu",
+        "útvegar tæknilega skjalfestingu"
+      ],
+      "it": [
+        "fornire la documentazione tecnica",
+        "distribuire documentazione tecnica",
+        "fornire documenti tecnici",
+        "rendere disponibile documentazione tecnica",
+        "sviluppare documentazione tecnica"
+      ],
+      "fr": [
+        "documenter le cycle de vie du produit",
+        "communiquer la documentation technique",
+        "préparer la documentation technique",
+        "produire la documentation technique",
+        "fournir de la documentation technique",
+        "fournir la documentation technique"
+      ],
+      "hu": [
+        "elkészíti a műszaki dokumentációt",
+        "műszaki dokumentációt elkészíti",
+        "termék-életciklust dokumentál",
+        "előkészíti a műszaki dokumentációt",
+        "műszaki dokumentációt állít össze"
+      ],
+      "es": [
+        "dar documentación técnica",
+        "suministrar documentación técnica",
+        "ofrecer documentación técnica",
+        "elaborar documentación técnica",
+        "entregar documentación técnica"
+      ],
+      "et": [
+        "tootedokumentatsiooni koostama",
+        "tehnilisi dokumentatsioone koostama",
+        "tehnilisi juhendeid koostama",
+        "tehnilisi tekste koostama",
+        "tehnilist dokumentatsiooni pakkuma"
+      ],
+      "cs": [
+        "poskytnout technickou dokumentaci",
+        "dokumentovat životní cyklus produktů",
+        "předkládat technickou dokumentaci",
+        "připravovat technickou dokumentaci"
+      ],
+      "sk": [
+        "poskytovať technickú dokumentáciu",
+        "dokumentovať životný cyklus produktu",
+        "zabezpečiť technické špecifikácie k výrobku",
+        "pripraviť technickú dokumentáciu",
+        "poskytnúť technické dokumentácie"
+      ],
+      "sl": [
+        "predložiti tehnično dokumentacijo",
+        "dati tehnično dokumentacijo na voljo",
+        "zagotavljati tehnično dokumentacijo",
+        "posredovati tehnično dokumentacijo",
+        "dati tehnično dokumentacijo na vpogled",
+        "zagotoviti tehnične dokumente"
+      ],
+      "pl": [
+        "dokumentować cykl życia produktu",
+        "tworzyć specyfikacje techniczne",
+        "przygotowywać specyfikację techniczną",
+        "tworzyć dokumenty techniczne",
+        "tworzyć dokumentację techniczną",
+        "przygotowywać dokumenty techniczne"
+      ],
+      "da": [
+        "levere tekniske specifikationer",
+        "udarbejde teknisk dokumentation",
+        "beskrive et produkts livscyklus",
+        "dokumentere et produkts livscyklus",
+        "levere tekniske dokumenter"
+      ],
+      "ro": [
+        "pune la dispoziție documentația tehnică",
+        "întocmește documentația tehnică",
+        "asigură documentația tehnică",
+        "furnizează documentația tehnică"
+      ],
+      "nl": [
+        "technische documentatie voorbereiden",
+        "technische documentatie verzorgen",
+        "technische documentatie beheren",
+        "technische documentatie leveren",
+        "productlevenscyclus vastleggen"
+      ]
+    },
+    "description": {
+      "de": {
+        "literal": "Vorbereiten der Dokumentation bestehender und zukünftiger Produkte oder Dienstleistungen, Beschreiben ihrer Funktion und Zusammensetzung auf eine Weise, die für ein breites Publikum ohne technischen Hintergrund verständlich ist und festgelegten Anforderungen und Normen entspricht. Halten der Dokumentation auf dem neuesten Stand.",
+        "mimetype": "plain/text"
+      },
+      "no": {
+        "literal": "Utarbeide dokumentasjon for eksisterende og kommende produkter eller tjenester, som beskriver deres funksjonalitet og sammensetning på en slik måte at det er forståelig for et bredt publikum uten teknisk bakgrunn og i samsvar med definerte krav og standarder. Holde dokumentasjon oppdatert.",
+        "mimetype": "plain/text"
+      },
+      "fi": {
+        "literal": "Sellaisten asiakirjojen laatiminen olemassa olevia ja tulevia tuotteita tai palveluita varten, joissa kuvataan niiden toimivuus ja kokoonpano siten, että suuri yleisö ymmärtää ne ilman teknisiä taustatietoja ja että ne ovat määriteltyjen vaatimusten ja standardien mukaisia. Asiakirjojen pitäminen ajan tasalla.",
+        "mimetype": "plain/text"
+      },
+      "en-us": {
+        "literal": "Prepare documentation for existing and upcoming products or services, describing their functionality and composition in such a way that it is understandable for a wide audience without technical background and compliant with defined requirements and standards. Keep documentation up to date.",
+        "mimetype": "plain/text"
+      },
+      "pt": {
+        "literal": "Preparar documentação para produtos ou serviços existentes e futuros, descrevendo o seu funcionamento e composição, de tal forma que seja compreensível para um público alargado, sem conhecimentos técnicos e em conformidade com os requisitos e normas definidos. Manter a documentação atualizada.",
+        "mimetype": "plain/text"
+      },
+      "bg": {
+        "literal": "Изготвя документация за съществуващи и бъдещи продукти или услуги, описваща работата и състава им по начин, който е разбираем за широка аудитория без технически познания и отговаря на определени изисквания и стандарти. Поддържа документацията актуална.",
+        "mimetype": "plain/text"
+      },
+      "lt": {
+        "literal": "Parengti esamų ir būsimų produktų ar paslaugų dokumentaciją, kurioje būtų aprašytos jų funkcijos ir sudėtis taip, kad informacija būtų suprantama plačiai auditorijai, kuri neturi techninių žinių, ir kad ji atitiktų nustatytus reikalavimus ir standartus. Nuolat atnaujinti dokumentaciją.",
+        "mimetype": "plain/text"
+      },
+      "lv": {
+        "literal": "Sagatavot dokumentāciju esošajiem un turpmākajiem produktiem vai pakalpojumiem, aprakstot to funkcionalitāti un sastāvu tā, lai tas būtu saprotams plašai auditorijai bez tehniskā pamatojuma un atbilstu noteiktām prasībām un standartiem. Pastāvīgi aktualizēt dokumentāciju.",
+        "mimetype": "plain/text"
+      },
+      "hr": {
+        "literal": "Pripremiti dokumentaciju za postojeće i buduće proizvode ili usluge u kojoj se opisuje njihova funkcionalnost i sastav na način razumljiv široj javnosti bez tehničkog predznanja te u skladu s utvrđenim zahtjevima i normama. Održavati dokumentaciju ažurnom.",
+        "mimetype": "plain/text"
+      },
+      "fr": {
+        "literal": "Préparer la documentation pour les produits ou services existants et futurs, en décrivant leur fonctionnalité et leur composition de manière à ce qu’elle soit compréhensible pour un large public sans formation technique et conforme aux exigences et aux normes définies. Tenir à jour la documentation.",
+        "mimetype": "plain/text"
+      },
+      "hu": {
+        "literal": "Dokumentációt készít meglévő és jövőbeli termékekről és szolgáltatásokról, ismertetve azok funkcióit és összetételét oly módon, hogy műszaki háttérismeretek nélkül érthető legyen a nagyközönség számára, és megfeleljen a meghatározott előírásoknak és szabványoknak. Naprakészen tartja a dokumentációt.",
+        "mimetype": "plain/text"
+      },
+      "sk": {
+        "literal": "Vypracovanie dokumentácie pre existujúce a pripravované výrobky alebo služby s opisom ich funkčnosti a zloženia tak, aby bola zrozumiteľná pre široké publikum bez technického kontextu a v súlade s vymedzenými požiadavkami a normami. Priebežné aktualizovanie dokumentácie.",
+        "mimetype": "plain/text"
+      },
+      "sl": {
+        "literal": "Priprava dokumentacije za sedanje in prihodnje proizvode ali storitve z opisom njihove uporabe in sestave na način, ki je razumljiv širšemu občinstvu brez tehničnega znanja ter v skladu z opredeljenimi zahtevami in standardi. Posodabljanje dokumentacije.",
+        "mimetype": "plain/text"
+      },
+      "ga": {
+        "literal": "Doiciméadacht a ullmhú le haghaidh táirgí nó seirbhísí atá ann cheana féin, nó a bheidh ann amach anseo, lena dtabharfar cur síos ar a bhfeidhmiúlacht agus a gcomhdhéanamh ar bhealach a thuigfidh do phobal leathan gan cúlra teicniúil agus go gcomhlíonann sé ceanglais agus caighdeáin shainithe. An doiciméadacht a choimeád cothrom le dáta.",
+        "mimetype": "plain/text"
+      },
+      "sv": {
+        "literal": "Utarbeta dokumentation för befintliga och kommande produkter eller tjänster med en beskrivning av deras funktionalitet och sammansättning på ett sådant sätt att den är begriplig för en bred publik utan teknisk bakgrund och uppfyller fastställda krav och standarder. Uppdatera dokumentationen.",
+        "mimetype": "plain/text"
+      },
+      "mt": {
+        "literal": "Ħejji dokumentazzjoni għal prodotti jew servizzi eżistenti u futuri, li tiddeskrivi l-funzjonalità u l-kompożizzjoni tagħhom b’tali mod li tkun tista’ tinftiehem minn udjenza wiesgħa mingħajr sfond tekniku u tkun konformi ma’ rekwiżiti u standards definiti. Żomm id-dokumentazzjoni aġġornata.",
+        "mimetype": "plain/text"
+      },
+      "el": {
+        "literal": "Προετοιμασία τεκμηρίωσης για τα υφιστάμενα και τα μελλοντικά προϊόντα ή υπηρεσίες, περιγράφοντας τη λειτουργία και τη σύνθεσή τους κατά τρόπο ώστε να είναι κατανοητή από το ευρύ κοινό που δεν διαθέτει τεχνικό υπόβαθρο, σύμφωνα με καθορισμένες απαιτήσεις και πρότυπα. Συνεχής ενημέρωση τεκμηρίωσης.",
+        "mimetype": "plain/text"
+      },
+      "en": {
+        "literal": "Prepare documentation for existing and upcoming products or services, describing their functionality and composition in such a way that it is understandable for a wide audience without technical background and compliant with defined requirements and standards. Keep documentation up to date.",
+        "mimetype": "plain/text"
+      },
+      "is": {
+        "literal": "Útbýr skjöl fyrir fyrirliggjandi og framtíðarvörur eða þjónustu, lýsir virkni þeirra og samsetningu með þeim hætti að hann sé skiljanlegur fyrir breiðan hóp án tæknilegs bakgrunns og að hann sé í samræmi við skilgreindar kröfur og staðla. Heldur gögnum uppfærðum.",
+        "mimetype": "plain/text"
+      },
+      "it": {
+        "literal": "Preparare la documentazione per prodotti o servizi esistenti e futuri, descrivendo la loro funzionalità e composizione in modo tale da essere comprensibile per un vasto pubblico tecnicamente non esperto e conforme ai requisiti e agli standard definiti. Mantenere la documentazione aggiornata.",
+        "mimetype": "plain/text"
+      },
+      "es": {
+        "literal": "Preparar documentación sobre los productos o servicios existentes y futuros, describiendo sus funciones y su composición, de un modo que resulte comprensible para una amplia audiencia sin formación técnica y que cumpla los requisitos y normas establecidos. Mantener actualizada la documentación.",
+        "mimetype": "plain/text"
+      },
+      "et": {
+        "literal": "Olemasolevate ja tulevaste toodete või teenuste jaoks dokumentide koostamine, kirjeldades nende funktsioone ja koostist nii, et see oleks arusaadav tehnilise taustata üldsusele ning vastaks määratletud nõuetele ja standarditele. Dokumentatsiooni pidamine ajakohasena.",
+        "mimetype": "plain/text"
+      },
+      "cs": {
+        "literal": "Připravit dokumentaci pro stávající a budoucí výrobky nebo služby popisující jejich funkčnost a složení tak, aby byla srozumitelná široké veřejnosti bez technických vědomostí a byla v souladu s definovanými požadavky a normami. Průběžně aktualizovat dokumentaci.",
+        "mimetype": "plain/text"
+      },
+      "ar": {
+        "literal": "تجهيز الوثائق الخاصة بالمنتجات أو الخدمات الحالية أو المستقبلية، والتي تصف وظائفها وتركيبها بطريقة مفهومة لجمهور عريض ليس لديه خلفية تقنية وتمتثل للمتطلبات والمعايير المحددة. تحديث الوثائق باستمرار.",
+        "mimetype": "plain/text"
+      },
+      "pl": {
+        "literal": "Przygotowywanie dokumentacji dla istniejących i przyszłych produktów oraz usług, z opisem ich funkcjonalności i składu w taki sposób, aby były zrozumiałe dla szerokiego kręgu odbiorców nieposiadających przygotowania technicznego oraz zgodne z określonymi wymogami i normami. Aktualizuj dokumentację.",
+        "mimetype": "plain/text"
+      },
+      "da": {
+        "literal": "Udarbejde dokumentation for eksisterende og kommende produkter eller tjenester, der beskriver deres funktionalitet og sammensætning på en sådan måde, at det er forståeligt for et bredt publikum uden teknisk baggrund, og i overensstemmelse med fastsatte krav og standarder. Ajourføre dokumentation.",
+        "mimetype": "plain/text"
+      },
+      "ro": {
+        "literal": "Pregătește documentația pentru produsele sau serviciile existente și viitoare, descriind funcționalitatea și compoziția acestora astfel încât acestea să fie ușor de înțeles pentru un public larg fără pregătire tehnică și să fie conforme cu cerințele și standardele definite. Păstrează documentația la zi.",
+        "mimetype": "plain/text"
+      },
+      "nl": {
+        "literal": "Documentatie opstellen voor bestaande en toekomstige producten of diensten, met een beschrijving van hun functionaliteit en samenstelling op een wijze die begrijpelijk is voor een breed publiek zonder technische achtergrond en in overeenstemming met de vastgestelde eisen en normen. Ervoor zorgen dat de documentatie actueel blijft.",
+        "mimetype": "plain/text"
+      }
+    },
+    "status": "released",
+    "_links": {
+      "self": {
+        "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/04dfd9fb-e0cf-40f6-96c6-9d2280c4347e&language=en",
+        "uri": "http://data.europa.eu/esco/skill/04dfd9fb-e0cf-40f6-96c6-9d2280c4347e",
+        "title": "provide technical documentation"
+      },
+      "isInScheme": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/taxonomy?uri=http://data.europa.eu/esco/concept-scheme/member-skills&language=en",
+          "uri": "http://data.europa.eu/esco/concept-scheme/member-skills",
+          "title": "ESCO member skills"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/taxonomy?uri=http://data.europa.eu/esco/concept-scheme/skills&language=en",
+          "uri": "http://data.europa.eu/esco/concept-scheme/skills",
+          "title": "ESCO skills"
+        }
+      ],
+      "hasSkillType": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/concept?uri=http://data.europa.eu/esco/skill-type/skill&language=en",
+          "uri": "http://data.europa.eu/esco/skill-type/skill",
+          "title": "skill"
+        }
+      ],
+      "hasReuseLevel": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/concept?uri=http://data.europa.eu/esco/skill-reuse-level/cross-sector&language=en",
+          "uri": "http://data.europa.eu/esco/skill-reuse-level/cross-sector",
+          "title": "cross-sector skills and competences",
+          "code": "Level 2"
+        }
+      ],
+      "broaderHierarchyConcept": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/concept?uri=http://data.europa.eu/esco/skill/S2.2.6&language=en",
+          "uri": "http://data.europa.eu/esco/skill/S2.2.6",
+          "title": "documenting technical designs, procedures, problems or activities",
+          "code": "S2.2.6"
+        }
+      ],
+      "broaderSkill": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/2636b3d3-843e-46a9-8b4c-a9d6ca3f5a2d&language=en",
+          "uri": "http://data.europa.eu/esco/skill/2636b3d3-843e-46a9-8b4c-a9d6ca3f5a2d",
+          "title": "provide documentation",
+          "skillType": "http://data.europa.eu/esco/skill-type/skill"
+        }
+      ],
+      "narrowerSkill": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/d3db0350-dcfd-4a36-b5a8-f9e6cd1ef6f5&language=en",
+          "uri": "http://data.europa.eu/esco/skill/d3db0350-dcfd-4a36-b5a8-f9e6cd1ef6f5",
+          "title": "provide manufacturing documentation",
+          "skillType": "http://data.europa.eu/esco/skill-type/skill"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/80274731-15ce-490a-8d5b-f55a36b976b0&language=en",
+          "uri": "http://data.europa.eu/esco/skill/80274731-15ce-490a-8d5b-f55a36b976b0",
+          "title": "prepare construction documents",
+          "skillType": "http://data.europa.eu/esco/skill-type/skill"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/6b29b77f-7265-4dae-8309-78077f99ab60&language=en",
+          "uri": "http://data.europa.eu/esco/skill/6b29b77f-7265-4dae-8309-78077f99ab60",
+          "title": "assist in the production of laboratory documentation",
+          "skillType": "http://data.europa.eu/esco/skill-type/skill"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/64db87c7-2360-4e20-88d3-d222402e477c&language=en",
+          "uri": "http://data.europa.eu/esco/skill/64db87c7-2360-4e20-88d3-d222402e477c",
+          "title": "write database documentation",
+          "skillType": "http://data.europa.eu/esco/skill-type/skill"
+        }
+      ],
+      "hasOptionalSkill": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/327d15c8-29ff-4ad4-a4fe-6536d777a45f&language=en",
+          "uri": "http://data.europa.eu/esco/skill/327d15c8-29ff-4ad4-a4fe-6536d777a45f",
+          "title": "documentation types",
+          "skillType": "http://data.europa.eu/esco/skill-type/knowledge"
+        }
+      ],
+      "isEssentialForOccupation": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/8bc48c43-d976-458a-9e3c-ee784572351d&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/8bc48c43-d976-458a-9e3c-ee784572351d",
+          "title": "industrial tool design engineer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/4e3fede9-5522-4624-91bc-b59c79fada02&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/4e3fede9-5522-4624-91bc-b59c79fada02",
+          "title": "packing machinery engineer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/a7c1d23d-aeca-4bee-9a08-5993ed98b135&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/a7c1d23d-aeca-4bee-9a08-5993ed98b135",
+          "title": "ICT system developer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/9e2e6e1e-363b-4e1b-a673-7bc0f7343300&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/9e2e6e1e-363b-4e1b-a673-7bc0f7343300",
+          "title": "ICT system administrator"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/bb6198c4-1d3e-40b9-9cc4-ad2dd9d7c74b&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/bb6198c4-1d3e-40b9-9cc4-ad2dd9d7c74b",
+          "title": "industrial mobile devices software developer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/81480b40-a318-47f3-9b2c-56b69ed67d95&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/81480b40-a318-47f3-9b2c-56b69ed67d95",
+          "title": "ICT network administrator"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/456ed487-02f2-45c9-9213-d0fd8e9a069d&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/456ed487-02f2-45c9-9213-d0fd8e9a069d",
+          "title": "ICT application configurator"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/8de99659-5b10-4825-ac67-0c50189bcc3c&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/8de99659-5b10-4825-ac67-0c50189bcc3c",
+          "title": "packaging production manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/57af9090-55b4-4911-b2d0-86db01c00b02&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/57af9090-55b4-4911-b2d0-86db01c00b02",
+          "title": "embedded systems software developer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/a5dc92b4-9712-4bc5-a08a-f6efa07b855f&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/a5dc92b4-9712-4bc5-a08a-f6efa07b855f",
+          "title": "agricultural equipment design engineer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/76ef0a87-6afe-4560-b5d0-9a086abe45c5&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/76ef0a87-6afe-4560-b5d0-9a086abe45c5",
+          "title": "ethical hacker"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/6e92d4b5-3167-4166-802f-da7753951a31&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/6e92d4b5-3167-4166-802f-da7753951a31",
+          "title": "ICT research consultant"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/8cb59bc4-1f39-477e-beea-effed12d186c&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/8cb59bc4-1f39-477e-beea-effed12d186c",
+          "title": "technical communicator"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/e0b544dd-b621-4126-a55e-054af25c6ea0&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/e0b544dd-b621-4126-a55e-054af25c6ea0",
+          "title": "ICT network architect"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/9729c0f3-c9bc-482e-ac59-a82ec3b67ba3&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/9729c0f3-c9bc-482e-ac59-a82ec3b67ba3",
+          "title": "data centre operator"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/cf2b03cd-feb7-4f47-90f6-ff1ed6016d3d&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/cf2b03cd-feb7-4f47-90f6-ff1ed6016d3d",
+          "title": "ICT network engineer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/d0aa0792-4345-474b-9365-686cf4869d2e&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/d0aa0792-4345-474b-9365-686cf4869d2e",
+          "title": "software architect"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/0ec62c2e-30c9-434e-bf36-5277a0840450&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/0ec62c2e-30c9-434e-bf36-5277a0840450",
+          "title": "refurbishing technician"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/07e60525-1aad-4099-aaf3-2c7014c92212&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/07e60525-1aad-4099-aaf3-2c7014c92212",
+          "title": "integration engineer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/a44a1dc5-be08-4840-8bd5-770c4ac1ca6d&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/a44a1dc5-be08-4840-8bd5-770c4ac1ca6d",
+          "title": "ICT security technician"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/faed411a-f920-4100-86a8-b877928b429c&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/faed411a-f920-4100-86a8-b877928b429c",
+          "title": "user experience analyst"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/c40a2919-48a9-40ea-b506-1f34f693496d&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/c40a2919-48a9-40ea-b506-1f34f693496d",
+          "title": "web developer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/64c7d461-152c-477f-a8e2-c2c537e9d617&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/64c7d461-152c-477f-a8e2-c2c537e9d617",
+          "title": "ICT network technician"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/bd272aee-adc9-4a06-a15c-a73b4b4a46a7&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/bd272aee-adc9-4a06-a15c-a73b4b4a46a7",
+          "title": "ICT application developer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/24677ef2-512c-4f4a-bc1c-14bf374e9f22&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/24677ef2-512c-4f4a-bc1c-14bf374e9f22",
+          "title": "rotating equipment engineer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/93b11f0f-69af-4ece-b9da-f29aab7d38d3&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/93b11f0f-69af-4ece-b9da-f29aab7d38d3",
+          "title": "container equipment design engineer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/c90e5009-37f2-4dcd-aea2-362fc817bc98&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/c90e5009-37f2-4dcd-aea2-362fc817bc98",
+          "title": "ICT environmental manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/811595cc-3100-4ca0-b860-3a77349342ae&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/811595cc-3100-4ca0-b860-3a77349342ae",
+          "title": "fluid power engineer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/f2b15a0e-e65a-438a-affb-29b9d50b77d1&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/f2b15a0e-e65a-438a-affb-29b9d50b77d1",
+          "title": "software developer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/2ef000b1-8058-4e5a-9646-c5d4e7dbfdae&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/2ef000b1-8058-4e5a-9646-c5d4e7dbfdae",
+          "title": "communication infrastructure maintainer"
+        }
+      ],
+      "isOptionalForOccupation": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/e1c72b5f-4c5c-487c-a6df-e84b64a51dae&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/e1c72b5f-4c5c-487c-a6df-e84b64a51dae",
+          "title": "ICT system architect"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/5945cba8-19a4-4632-8a8f-4186e2bad1a3&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/5945cba8-19a4-4632-8a8f-4186e2bad1a3",
+          "title": "aquaculture production manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/d849fd2a-5210-434b-a50b-2d92de3a4bac&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/d849fd2a-5210-434b-a50b-2d92de3a4bac",
+          "title": "electronics drafter"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/ae8b19cc-8c6e-4a16-ada2-c15f97ded133&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/ae8b19cc-8c6e-4a16-ada2-c15f97ded133",
+          "title": "optomechanical engineer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/95da5e1b-cc1e-46bd-96c4-81d4f7003080&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/95da5e1b-cc1e-46bd-96c4-81d4f7003080",
+          "title": "manufactured wooden building assembler"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/77abfaec-a250-4765-95fa-6091e8da1bba&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/77abfaec-a250-4765-95fa-6091e8da1bba",
+          "title": "electromechanical engineer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/8c57af09-719c-42b3-be40-6ed4946236cc&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/8c57af09-719c-42b3-be40-6ed4946236cc",
+          "title": "database administrator"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/35d41f4f-334b-452e-9e31-99f376302493&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/35d41f4f-334b-452e-9e31-99f376302493",
+          "title": "optoelectronic engineer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/9ebaf3f0-0be0-47b7-b2b1-b3b04130fa81&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/9ebaf3f0-0be0-47b7-b2b1-b3b04130fa81",
+          "title": "digital games developer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/10469d70-78a3-4650-9e29-d04de13c62c1&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/10469d70-78a3-4650-9e29-d04de13c62c1",
+          "title": "embedded system designer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/109e0a5d-203d-4af6-8f70-692111335ec3&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/109e0a5d-203d-4af6-8f70-692111335ec3",
+          "title": "quality services manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/53d2052f-edc0-4f44-8be1-164526412bfe&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/53d2052f-edc0-4f44-8be1-164526412bfe",
+          "title": "industrial engineer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/ab360abd-32e2-4e03-967d-a10758efffa7&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/ab360abd-32e2-4e03-967d-a10758efffa7",
+          "title": "mechatronics engineer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/c6bd511a-d966-4df9-a48e-4f800354f268&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/c6bd511a-d966-4df9-a48e-4f800354f268",
+          "title": "operations manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/4f4d33a1-0b41-4dd9-8a42-aeba5a3974ab&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/4f4d33a1-0b41-4dd9-8a42-aeba5a3974ab",
+          "title": "sensor engineer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/2515bd46-ccd4-4561-97d1-b9544608a76e&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/2515bd46-ccd4-4561-97d1-b9544608a76e",
+          "title": "electrical drafter"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/7754d570-9519-48c2-b1c9-8e165f8bca0f&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/7754d570-9519-48c2-b1c9-8e165f8bca0f",
+          "title": "ICT security manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/21cba86a-68c5-456c-aec2-cc04840b3c0e&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/21cba86a-68c5-456c-aec2-cc04840b3c0e",
+          "title": "pest management worker"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/2aa7fbbb-f06e-4454-8ff8-2d799e86ba51&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/2aa7fbbb-f06e-4454-8ff8-2d799e86ba51",
+          "title": "textile machinery technician"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/30641348-f9f2-4fe5-ab8c-fe6ff9931a54&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/30641348-f9f2-4fe5-ab8c-fe6ff9931a54",
+          "title": "medical device engineering technician"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/62979364-6fac-41f2-87ca-202bca19a6ab&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/62979364-6fac-41f2-87ca-202bca19a6ab",
+          "title": "computer-aided design operator"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/53c7756d-4114-4c7f-90b0-26717f458ac5&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/53c7756d-4114-4c7f-90b0-26717f458ac5",
+          "title": "pneumatic systems technician"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/778c1d37-69f2-4184-ac98-03b7dbfba332&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/778c1d37-69f2-4184-ac98-03b7dbfba332",
+          "title": "photonics engineer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/579254cf-6d69-4889-9000-9c79dc568644&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/579254cf-6d69-4889-9000-9c79dc568644",
+          "title": "mechanical engineer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/fd1c83b3-60d5-4a5f-86c5-94dc2842c246&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/fd1c83b3-60d5-4a5f-86c5-94dc2842c246",
+          "title": "integrated circuit design engineer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/6e5ceba0-df96-465f-adb4-2e06ae715d43&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/6e5ceba0-df96-465f-adb4-2e06ae715d43",
+          "title": "numerical tool and process control programmer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/599c2ce9-0e1b-4f63-9d65-1f19b3847efb&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/599c2ce9-0e1b-4f63-9d65-1f19b3847efb",
+          "title": "forge equipment technician"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/998a0bf4-b1be-42ab-aee5-0096c9be3319&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/998a0bf4-b1be-42ab-aee5-0096c9be3319",
+          "title": "quality engineering technician"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/0c7c9606-fde3-4658-8136-8fe0c9b8bd09&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/0c7c9606-fde3-4658-8136-8fe0c9b8bd09",
+          "title": "medical device engineer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/555235ce-8c45-409b-a6c9-83e69c2d2bce&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/555235ce-8c45-409b-a6c9-83e69c2d2bce",
+          "title": "military engineer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/fde4372d-8293-42de-afbb-8b5a9b274fe7&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/fde4372d-8293-42de-afbb-8b5a9b274fe7",
+          "title": "application engineer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/79f435d0-9bc6-4d25-a26a-acbe16569ebb&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/79f435d0-9bc6-4d25-a26a-acbe16569ebb",
+          "title": "heating, ventilation, air conditioning (and refrigeration) service engineer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/615920c5-4f63-4eb3-8b60-afaaed3ab1ff&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/615920c5-4f63-4eb3-8b60-afaaed3ab1ff",
+          "title": "maintenance and repair engineer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/91e35fd9-ac59-48ef-8416-c06a201b2da8&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/91e35fd9-ac59-48ef-8416-c06a201b2da8",
+          "title": "printed circuit board designer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/2026adb2-62d7-4b92-9ccb-105abdebe37d&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/2026adb2-62d7-4b92-9ccb-105abdebe37d",
+          "title": "electromagnetic engineer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/269c47e7-9017-4aa6-bce8-49e89a696a64&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/269c47e7-9017-4aa6-bce8-49e89a696a64",
+          "title": "industrial machinery mechanic"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/a4869ae9-2dfe-48cc-bd97-f803880f3407&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/a4869ae9-2dfe-48cc-bd97-f803880f3407",
+          "title": "drafter"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/8b6388a4-4904-471b-9331-d3b1211f5525&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/8b6388a4-4904-471b-9331-d3b1211f5525",
+          "title": "ICT project manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/bd9d395a-d587-45c6-8d72-ceef226df9e1&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/bd9d395a-d587-45c6-8d72-ceef226df9e1",
+          "title": "ICT system integration consultant"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/5aff8b2a-298a-456d-957a-274c774e8523&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/5aff8b2a-298a-456d-957a-274c774e8523",
+          "title": "moulding machine technician"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/d051a141-92cd-4800-b0ee-6c8c31ea5838&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/d051a141-92cd-4800-b0ee-6c8c31ea5838",
+          "title": "crane technician"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/1e2aaeff-5bf1-4649-9f09-9ebbd5cc3501&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/1e2aaeff-5bf1-4649-9f09-9ebbd5cc3501",
+          "title": "electromechanical drafter"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/7259dc48-004a-4ceb-aa4e-5bbd548c2397&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/7259dc48-004a-4ceb-aa4e-5bbd548c2397",
+          "title": "heating engineer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/3e7bf729-4442-4b9f-ad5e-83111963795c&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/3e7bf729-4442-4b9f-ad5e-83111963795c",
+          "title": "ICT technician"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/d84bf1d7-ef99-40c4-a407-3791d6531b44&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/d84bf1d7-ef99-40c4-a407-3791d6531b44",
+          "title": "telecommunications engineering technician"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/ab3c4d3e-3189-47ad-82af-57cdae3cb589&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/ab3c4d3e-3189-47ad-82af-57cdae3cb589",
+          "title": "optical engineer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/0b6e1a0d-63fe-42d4-8dff-2ff187a9fea9&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/0b6e1a0d-63fe-42d4-8dff-2ff187a9fea9",
+          "title": "fluid power technician"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/994fe880-dc26-4f0f-a3cd-500709b6a665&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/994fe880-dc26-4f0f-a3cd-500709b6a665",
+          "title": "precision engineer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/bb609566-3ab6-44dd-8f48-cf0b15b96827&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/bb609566-3ab6-44dd-8f48-cf0b15b96827",
+          "title": "automation engineer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/92bb3d8c-8a9f-4cd7-80ec-247bbf173004&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/92bb3d8c-8a9f-4cd7-80ec-247bbf173004",
+          "title": "computer hardware engineer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/866c7813-2c03-47d7-9bdc-192cfbace57c&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/866c7813-2c03-47d7-9bdc-192cfbace57c",
+          "title": "user interface developer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/76a1a76c-b014-4600-8901-56cb936de7ed&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/76a1a76c-b014-4600-8901-56cb936de7ed",
+          "title": "ICT auditor manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/7f0fe7d3-54c6-41e9-88ba-9d4f0f1a46b4&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/7f0fe7d3-54c6-41e9-88ba-9d4f0f1a46b4",
+          "title": "microsystem engineer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/86ca306c-ab99-420a-9e2a-aa73c5c4de22&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/86ca306c-ab99-420a-9e2a-aa73c5c4de22",
+          "title": "electrical engineer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/f7145f87-5940-43f5-bc98-aa1a2b872b47&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/f7145f87-5940-43f5-bc98-aa1a2b872b47",
+          "title": "agricultural machinery technician"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/02eb0ae6-ecdd-4602-9c8e-60ffe6dbe1e2&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/02eb0ae6-ecdd-4602-9c8e-60ffe6dbe1e2",
+          "title": "telecommunications engineer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/8c0f59c9-9a47-42e7-8287-aab19df4e6ab&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/8c0f59c9-9a47-42e7-8287-aab19df4e6ab",
+          "title": "microelectronics engineer"
+        }
+      ]
+    },
+    "_embedded": {
+      "ancestors": [
+        {
+          "title": "provide technical documentation",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/04dfd9fb-e0cf-40f6-96c6-9d2280c4347e&language=en",
+              "uri": "http://data.europa.eu/esco/skill/04dfd9fb-e0cf-40f6-96c6-9d2280c4347e"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/2636b3d3-843e-46a9-8b4c-a9d6ca3f5a2d",
+            "http://data.europa.eu/esco/skill/S2.2.6"
+          ]
+        },
+        {
+          "title": "provide documentation",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/2636b3d3-843e-46a9-8b4c-a9d6ca3f5a2d&language=en",
+              "uri": "http://data.europa.eu/esco/skill/2636b3d3-843e-46a9-8b4c-a9d6ca3f5a2d"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S4.4.3"
+          ]
+        },
+        {
+          "title": "performing general clerical and administrative tasks",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S4.4.3&language=en",
+              "uri": "http://data.europa.eu/esco/skill/S4.4.3"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S4.4"
+          ]
+        },
+        {
+          "title": "performing administrative activities",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S4.4&language=en",
+              "uri": "http://data.europa.eu/esco/skill/S4.4"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S4"
+          ]
+        },
+        {
+          "title": "management skills",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S4&language=en",
+              "uri": "http://data.europa.eu/esco/skill/S4"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S"
+          ]
+        },
+        {
+          "title": "skills",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S&language=en",
+              "uri": "http://data.europa.eu/esco/skill/S"
+            }
+          },
+          "parents": []
+        },
+        {
+          "title": "documenting technical designs, procedures, problems or activities",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S2.2.6&language=en",
+              "uri": "http://data.europa.eu/esco/skill/S2.2.6"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S2.2"
+          ]
+        },
+        {
+          "title": "documenting and recording information",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S2.2&language=en",
+              "uri": "http://data.europa.eu/esco/skill/S2.2"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S2"
+          ]
+        },
+        {
+          "title": "information skills",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S2&language=en",
+              "uri": "http://data.europa.eu/esco/skill/S2"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S"
+          ]
+        }
+      ]
+    }
+  }
+}

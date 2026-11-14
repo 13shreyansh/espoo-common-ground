@@ -1,0 +1,389 @@
+{
+  "url": "https://ec.europa.eu/esco/api/search?type=skill&language=en&limit=6&text=develop%20web%20user%20interfaces",
+  "at": "2026-11-14T23:00:05.612Z",
+  "response": {
+    "total": 1489,
+    "offset": 0,
+    "limit": 6,
+    "text": "develop web user interfaces",
+    "language": "en",
+    "type": [
+      "skill"
+    ],
+    "isInScheme": null,
+    "facet": null,
+    "_links": {
+      "self": {
+        "href": "https://ec.europa.eu/esco/api/search?text=develop%20web%20user%20interfaces&type=skill&limit=6&offset=0&full=false&viewObsolete=false&language=en"
+      },
+      "next": {
+        "href": "https://ec.europa.eu/esco/api/search?text=develop%20web%20user%20interfaces&type=skill&limit=6&offset=1&full=false&viewObsolete=false&language=en"
+      }
+    },
+    "_embedded": {
+      "results": [
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/1019423b-3368-4f83-b24f-19e5fa23e816",
+          "searchHit": "The reusable solutions and formalised best practices to solve common user interface tasks in software development and design.",
+          "title": "software UI design patterns",
+          "preferredLabel": {
+            "de": "UI-Software-Entwurfsmuster",
+            "no": "designmønstre for brukergrensesnitt for programvare",
+            "fi": "ohjelmiston käyttöliittymän suunnittelumallit",
+            "en-us": "software UI design patterns",
+            "pt": "padrões de design de IU de software",
+            "bg": "модели за дизайн на софтуерен потребителски интерфейс",
+            "lt": "programinės įrangos naudotojo sąsajos dizaino modeliai",
+            "hr": "softver za obrasce dizajna korisničkog sučelja",
+            "lv": "programmatūras UI dizaina modeļi",
+            "fr": "schéma de conception d’interface utilisateur",
+            "hu": "szoftver felhasználói felület tervezési minták",
+            "sk": "šablóny dizajnu používateľského rozhrania softvéru",
+            "sl": "vzorci za načrtovanje programskih uporabniških vmesnikov",
+            "ga": "bogearraí patrún deartha le haghaidh comhéadain úsáideora",
+            "sv": "designmönster för programgränssnitt",
+            "el": "σχεδιαστικά πρότυπα λογισμικού διεπαφής χρήστη",
+            "mt": "mudelli tad-disinn tal-interfaċċa tal-utenti tas-softwer",
+            "en": "software UI design patterns",
+            "is": "hönnunarmynstur notendaviðmóts",
+            "it": "schema di progettazione dell’UI del software",
+            "es": "patrones de diseño de la interfaz de usuario del software",
+            "et": "tarkvara kasutajaliidese disaini mustrid",
+            "cs": "schémy designu softwarového uživatelského rozhraní",
+            "ar": "نماذج تصميمات واجهة المستخدم في البرامج",
+            "pl": "wzorce projektowe interfejsu użytkownika",
+            "da": "designmønstre til softwarebrugergrænseflader",
+            "ro": "modele de proiectare a interfeței cu utilizatorul pentru software",
+            "nl": "ontwerppatronen voor softwaregebruikersinterfaces"
+          },
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/knowledge"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/sector-specific"
+          ],
+          "broaderSkill": [
+            "http://data.europa.eu/esco/skill/de0be6e8-644c-4cc9-9c8d-925dd98dda56",
+            "http://data.europa.eu/esco/skill/8ff015a0-98ea-4d80-a23e-1f68110a919e"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/isced-f/0613"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/1019423b-3368-4f83-b24f-19e5fa23e816&language=en",
+              "uri": "http://data.europa.eu/esco/skill/1019423b-3368-4f83-b24f-19e5fa23e816",
+              "title": "software UI design patterns"
+            }
+          }
+        },
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/013441c1-1f13-47e9-80c4-9a53e8e1bc05",
+          "searchHit": "The computer program KDevelop is a suite of software development tools for writing programs, such as compiler, debugger, code editor, code highlights, packaged in a unified user interface. It is developed by the software community KDE.",
+          "title": "KDevelop",
+          "preferredLabel": {
+            "de": "KDevelop",
+            "no": "KDevelop",
+            "fi": "KDevelop",
+            "en-us": "KDevelop",
+            "pt": "KDevelop",
+            "bg": "KDevelop",
+            "lt": "KDevelop",
+            "hr": "KDevelop",
+            "lv": "KDevelop",
+            "fr": "KDevelop",
+            "hu": "KDevelop",
+            "sk": "KDevelop",
+            "sl": "KDevelop",
+            "ga": "KDevelop",
+            "sv": "KDevelop",
+            "el": "KDevelop",
+            "mt": "KDevelop",
+            "en": "KDevelop",
+            "is": "KDevelop",
+            "it": "KDevelop",
+            "es": "KDevelop",
+            "et": "KDevelop",
+            "cs": "KDevelop",
+            "ar": "KDevelop",
+            "pl": "KDevelop",
+            "da": "KDevelop",
+            "ro": "KDevelop",
+            "nl": "KDevelop"
+          },
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/knowledge"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/sector-specific"
+          ],
+          "broaderSkill": [
+            "http://data.europa.eu/esco/skill/925463a7-d51f-4d5b-9f79-4d28cf30acde"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/isced-f/0612"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/013441c1-1f13-47e9-80c4-9a53e8e1bc05&language=en",
+              "uri": "http://data.europa.eu/esco/skill/013441c1-1f13-47e9-80c4-9a53e8e1bc05",
+              "title": "KDevelop"
+            }
+          }
+        },
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/6b6a9252-2ed7-4862-a02f-1578f4a532ea",
+          "searchHit": "The computer program Eclipse is a suite of software development tools for writing programs, such as compiler, debugger, code editor, code highlights, packaged in a unified user interface. It is developed by the Eclipse Foundation.",
+          "title": "Eclipse (integrated development environment software)",
+          "preferredLabel": {
+            "de": "Eclipse (Software für integrierte Entwicklungsumgebungen)",
+            "no": "Eclipse (integrert utviklingsmiljøprogramvare)",
+            "fi": "Eclipse (integroidun kehitysympäristön ohjelmisto)",
+            "en-us": "Eclipse",
+            "pt": "Eclipse (software de ambiente de desenvolvimento integrado)",
+            "bg": "Eclipse (софтуер за интегрирана среда за разработка)",
+            "lt": "„Eclipse“ (integruotos kūrimo aplinkos programinė įranga)",
+            "hr": "Eclipse (softver za integriranu razvojnu okolinu)",
+            "lv": "Eclipse (integrētās izstrādes vides programmatūra)",
+            "fr": "Eclipse (environnement de développement intégré)",
+            "hu": "Eclipse (integrált fejlesztői környezet)",
+            "sk": "Eclipse (softvér integrovaného vývojového prostredia)",
+            "sl": "Eclipse (programska oprema integriranega razvojnega okolja)",
+            "ga": "Eclipse (bogearraí comhtháite timpeallachta forbartha)",
+            "sv": "Eclipse (programvara för integrerad utvecklingsmiljö)",
+            "el": "Eclipse (ολοκληρωμένο περιβάλλον ανάπτυξης λογισμικού)",
+            "mt": "Eclipse (softwer tal-integrated development environment)",
+            "en": "Eclipse (integrated development environment software)",
+            "is": "Eclipse (samþættur þróunarumhverfishugbúnaður)",
+            "it": "Eclipse (ambiente software di sviluppo integrato)",
+            "es": "Eclipse (software de entorno de desarrollo integrado)",
+            "et": "Eclipse (integreeritud programmeerimiskeskkonna tarkvara)",
+            "cs": "Eclipse (software vývojového prostředí)",
+            "ar": "برنامج Eclipse",
+            "pl": "Eclipse (zintegrowane środowisko programistyczne)",
+            "da": "Eclipse (software til integreret udviklingsmiljø)",
+            "ro": "Eclipse (software pentru mediu integrat de dezvoltare)",
+            "nl": "Eclipse (software voor geïntegreerde ontwikkelomgevingen)"
+          },
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/knowledge"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/sector-specific"
+          ],
+          "broaderSkill": [
+            "http://data.europa.eu/esco/skill/925463a7-d51f-4d5b-9f79-4d28cf30acde"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/isced-f/0611"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/6b6a9252-2ed7-4862-a02f-1578f4a532ea&language=en",
+              "uri": "http://data.europa.eu/esco/skill/6b6a9252-2ed7-4862-a02f-1578f4a532ea",
+              "title": "Eclipse (integrated development environment software)"
+            }
+          }
+        },
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/449d119b-2d66-43a9-9230-7d27f16afbb6",
+          "searchHit": "The computer program Xcode is a suite of software development tools for writing programs, such as compiler, debugger, code editor, code highlights, packaged in a unified user interface. It is developed by the software company Apple.",
+          "title": "Xcode",
+          "preferredLabel": {
+            "de": "Xcode",
+            "no": "Xcode",
+            "fi": "Xcode",
+            "en-us": "Xcode",
+            "pt": "Xcode",
+            "bg": "Xcode",
+            "lt": "Xcode",
+            "hr": "Xcode",
+            "lv": "Xcode",
+            "fr": "Xcode",
+            "hu": "Xcode",
+            "sk": "Xcode",
+            "sl": "Xcode",
+            "ga": "Xcode",
+            "sv": "Xcode",
+            "el": "Xcode",
+            "mt": "Xcode",
+            "en": "Xcode",
+            "is": "Xcode",
+            "it": "Xcode",
+            "es": "Xcode",
+            "et": "Xcode",
+            "cs": "Xcode",
+            "ar": "برنامج Xcode",
+            "pl": "Xcode",
+            "da": "Xcode",
+            "ro": "Xcode",
+            "nl": "Xcode"
+          },
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/knowledge"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/sector-specific"
+          ],
+          "broaderSkill": [
+            "http://data.europa.eu/esco/skill/925463a7-d51f-4d5b-9f79-4d28cf30acde"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/isced-f/0612"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/449d119b-2d66-43a9-9230-7d27f16afbb6&language=en",
+              "uri": "http://data.europa.eu/esco/skill/449d119b-2d66-43a9-9230-7d27f16afbb6",
+              "title": "Xcode"
+            }
+          }
+        },
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/8369ede5-4200-4a44-be2e-bc60ef959259",
+          "searchHit": "The computer program Visual C++ is a suite of software development tools for writing programs, such as compiler, debugger, code editor, code highlights, packaged in a unified user interface. It is developed by the software company Microsoft.",
+          "title": "Microsoft Visual C++",
+          "preferredLabel": {
+            "de": "Microsoft Visual C++",
+            "no": "Microsoft Visual C++",
+            "fi": "Microsoft Visual C++",
+            "en-us": "Microsoft Visual C++",
+            "pt": "Microsoft Visual C++",
+            "bg": "Microsoft Visual C++",
+            "lt": "„Microsoft Visual C++“",
+            "hr": "Microsoft Visual C++",
+            "lv": "Microsoft Visual C++",
+            "fr": "Microsoft Visual C++",
+            "hu": "Microsoft Visual C++",
+            "sk": "Microsoft Visual C++",
+            "sl": "Microsoft Visual C++",
+            "ga": "Microsoft Visual C++",
+            "sv": "Microsoft Visual C++",
+            "el": "Microsoft Visual C++",
+            "mt": "Microsoft Visual C++",
+            "en": "Microsoft Visual C++",
+            "is": "Microsoft Visual C++",
+            "it": "Microsoft Visual C++",
+            "es": "Microsoft Visual C++",
+            "et": "Microsoft Visual C++",
+            "cs": "Microsoft Visual C++",
+            "ar": "برنامج ++Microsoft Visual C",
+            "pl": "Microsoft Visual C++",
+            "da": "Microsoft Visual C++",
+            "ro": "Microsoft Visual C++",
+            "nl": "Microsoft Visual C++"
+          },
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/knowledge"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/sector-specific"
+          ],
+          "broaderSkill": [
+            "http://data.europa.eu/esco/skill/925463a7-d51f-4d5b-9f79-4d28cf30acde"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/isced-f/0611"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/8369ede5-4200-4a44-be2e-bc60ef959259&language=en",
+              "uri": "http://data.europa.eu/esco/skill/8369ede5-4200-4a44-be2e-bc60ef959259",
+              "title": "Microsoft Visual C++"
+            }
+          }
+        },
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/c4b1f326-224a-420a-b8b3-814a8f13b6cb",
+          "searchHit": "Develop website layout and enhance user experience based on provided design concepts.",
+          "title": "implement front-end website design",
+          "preferredLabel": {
+            "de": "Frontend-Webdesign erstellen",
+            "no": "implementere frontnettdesign",
+            "fi": "toteuttaa front-end-verkkosivusuunnittelu",
+            "en-us": "implement front-end website design",
+            "pt": "executar design de front-end",
+            "bg": "извършване на фронт-енд уеб дизайн",
+            "lt": "sukurti interneto svetainės naudotojo sąsajos dizainą",
+            "hr": "implementirati frontend web dizajn",
+            "lv": "īstenot priekšgalsistēmas tīmekļa vietnes dizainu",
+            "fr": "mettre en œuvre le design front end d’un site web",
+            "hu": "Honlap felhasználói felületének arculatát készíti el.",
+            "sk": "realizovať návrh klientskej webovej stránky",
+            "sl": "izvajati oblikovanje sprednjega dela spletnega mesta",
+            "ga": "dearadh láithreán gréasáin tosaigh a chur i bhfeidhm",
+            "sv": "implementera front-end webbdesign",
+            "el": "σχεδιασμός διεπαφής δικτυακού τόπου",
+            "mt": "implimenta disinn front-end tas-sit web",
+            "en": "implement front-end website design",
+            "is": "innleiðir vefsíðuhönnun framenda",
+            "it": "creare il design front-end di un sito web",
+            "es": "aplicar diseño de interfaz de una web",
+            "et": "esialgset veebisaidi kujundust rakendama",
+            "cs": "zavádět klientský design webové stránky",
+            "ar": "تطبيق تصميم الواجهة الأمامية لمواقع الويب",
+            "pl": "tworzyć projekt interfejsu (front-end) strony internetowej",
+            "da": "anvende front-end-hjemmesidedesign",
+            "ro": "implementează designul vizual al website-urilor",
+            "nl": "ontwerp van front-endwebsites implementeren"
+          },
+          "isTopConceptInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/skill"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/sector-specific"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/skill/S5.2.1"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/c4b1f326-224a-420a-b8b3-814a8f13b6cb&language=en",
+              "uri": "http://data.europa.eu/esco/skill/c4b1f326-224a-420a-b8b3-814a8f13b6cb",
+              "title": "implement front-end website design"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

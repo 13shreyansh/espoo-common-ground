@@ -1,0 +1,210 @@
+{
+  "url": "https://ec.europa.eu/esco/api/search?type=skill&language=en&limit=3&text=assess%20risks",
+  "at": "2026-11-14T22:51:17.803Z",
+  "response": {
+    "total": 945,
+    "offset": 0,
+    "limit": 3,
+    "text": "assess risks",
+    "language": "en",
+    "type": [
+      "skill"
+    ],
+    "isInScheme": null,
+    "facet": null,
+    "_links": {
+      "self": {
+        "href": "https://ec.europa.eu/esco/api/search?text=assess%20risks&type=skill&limit=3&offset=0&full=false&viewObsolete=false&language=en"
+      },
+      "next": {
+        "href": "https://ec.europa.eu/esco/api/search?text=assess%20risks&type=skill&limit=3&offset=1&full=false&viewObsolete=false&language=en"
+      }
+    },
+    "_embedded": {
+      "results": [
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/4e8a2547-c91e-41ff-ad92-170e02e95a8d",
+          "searchHit": "assess risk in the outdoors",
+          "title": "assess risk in the outdoors",
+          "preferredLabel": {
+            "de": "Risiko bei Outdoor-Aktivitäten bewerten",
+            "no": "vurdere risiko i friluft",
+            "fi": "tehdä ulkoilmatoimintojen riskiarviointeja",
+            "en-us": "assess risk in the outdoors",
+            "pt": "avaliar os riscos em espaços abertos",
+            "bg": "оценяване на риска при дейности на открито",
+            "lt": "vertinti riziką lauke",
+            "hr": "procjenjivati rizik na otvorenome",
+            "lv": "novērtēt riskus brīvā dabā",
+            "fr": "évaluer les risques en plein air",
+            "hu": "felméri a kültéri kockázatokat",
+            "sk": "posúdiť riziko pri outdoorových aktivitách",
+            "sl": "oceniti tveganje na prostem",
+            "ga": "riosca a mheasúnú amuigh faoin spéir",
+            "sv": "bedöma risker utomhus",
+            "el": "αξιολόγηση κινδύνου στις υπαίθριες δραστηριότητες",
+            "mt": "valutazzjoni tar-riskji fil-beraħ",
+            "en": "assess risk in the outdoors",
+            "is": "metur áhættu utandyra",
+            "it": "valutare il rischio all’aperto",
+            "es": "evaluar los riesgos en actividades al aire libre",
+            "et": "välikeskkonnas riski hindama",
+            "cs": "posuzovat rizika při aktivitách venku",
+            "ar": "تقييم المخاطر في الخارج",
+            "pl": "przeprowadzać ocenę ryzyka związanego z działaniami plenerowymi",
+            "da": "vurdere risici udendørs",
+            "ro": "analizează riscurile desfășurării în aer liber a activității",
+            "nl": "risico's buitenshuis beoordelen"
+          },
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/skill"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/sector-specific"
+          ],
+          "broaderSkill": [
+            "http://data.europa.eu/esco/skill/d7b66759-c40c-44de-9f31-9418f84e10c5"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/skill/S2.7.5"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/4e8a2547-c91e-41ff-ad92-170e02e95a8d&language=en",
+              "uri": "http://data.europa.eu/esco/skill/4e8a2547-c91e-41ff-ad92-170e02e95a8d",
+              "title": "assess risk in the outdoors"
+            }
+          }
+        },
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/5f60f97b-731e-49cb-8407-d93e98b65a08",
+          "searchHit": "assess risks implied in rigging operations",
+          "title": "assess risks implied in rigging operations",
+          "preferredLabel": {
+            "de": "Gefahren von Hebetätigkeiten beurteilen",
+            "no": "vurdere implisitte risikoer ved riggeoperasjoner",
+            "fi": "arvioida poraustoimintaan liittyviä riskejä",
+            "en-us": "assess risks implied in rigging operations",
+            "pt": "avaliar os riscos inerentes às operações de perfuração",
+            "bg": "оценяване на рисковете при пробивни дейности",
+            "lt": "vertinti takelažo operacijų riziką",
+            "hr": "procjenjivati rizike operacija vađenja nafte i plina",
+            "lv": "novērtēt ar celšanas darbiem saistītos riskus",
+            "fr": "évaluer les risques liés à des activités de haubanage",
+            "hu": "felméri a fúrótorony üzemeltetésében rejlő kockázatokat",
+            "sk": "posúdiť riziká pri práci so zdvíhacím vybavením",
+            "sl": "presojati tveganja, povezana z dejavnostjo vrtin",
+            "ga": "na rioscaí a leanann oibríochtaí rigeála a mheas",
+            "sv": "bedöma riggningsrisker",
+            "el": "αξιολόγηση των κινδύνων που εγκυμονούν οι εργασίες ανύψωσης",
+            "mt": "valutazzjoni tar-riskji implikati fl-operazzjonijiet tar-riggijiet",
+            "en": "assess risks implied in rigging operations",
+            "is": "metur hættu sem gefin er í skyn við rekstur borpalls",
+            "it": "valutare i rischi comportati dalle attività di estrazione",
+            "es": "evaluar los riesgos implícitos en las operaciones de aparejos",
+            "et": "puurimistegevustega kaasnevaid riske hindama",
+            "cs": "posuzovat rizika související se zvedáním břemen",
+            "ar": "تقييم المخاطر التي تنطوي عليها عمليات تركيب المعدات",
+            "pl": "oceniać ryzyko związane z odwiertami",
+            "da": "vurdere risici forbundet med rigaktiviteter",
+            "ro": "evaluează riscurile operațiunilor de foraj",
+            "nl": "risico's beoordelen die takelactiviteiten met zich meebrengen"
+          },
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/skill"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/occupation-specific"
+          ],
+          "broaderSkill": [
+            "http://data.europa.eu/esco/skill/7dd94ad3-13d6-43fe-8b94-51fcbf67ced9",
+            "http://data.europa.eu/esco/skill/8e313802-4624-4bf9-8f4d-c662df94f916",
+            "http://data.europa.eu/esco/skill/5f97fac8-2001-4b81-ae8b-22f9062d921a"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/skill/S2.7.5"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/5f60f97b-731e-49cb-8407-d93e98b65a08&language=en",
+              "uri": "http://data.europa.eu/esco/skill/5f60f97b-731e-49cb-8407-d93e98b65a08",
+              "title": "assess risks implied in rigging operations"
+            }
+          }
+        },
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/3eefeaa0-54c0-4199-83a3-0a71078ba1c5",
+          "searchHit": "assess risks of clients' assets",
+          "title": "assess risks of clients' assets",
+          "preferredLabel": {
+            "de": "Risiken für Vermögenswerte von Kunden und Kundinnen beurteilen",
+            "no": "vurdere risikoer for kunders aktiva",
+            "fi": "arvioida asiakkaan varallisuuden riskejä",
+            "en-us": "assess risks of clients' assets",
+            "pt": "avaliar riscos associados a ativos de clientes",
+            "bg": "оценяване на рисковете за активите на клиенти",
+            "lt": "vertinti klientų turto riziką",
+            "hr": "procjenjivati rizik za imovinu klijenata",
+            "lv": "novērtēt riskus klienta aktīviem",
+            "fr": "évaluer les risques pour les biens d’un client",
+            "hu": "értékeli az ügyfelek vagyonával kapcsolatos kockázatokat",
+            "sk": "posúdiť riziká spojené s majetkom klienta",
+            "sl": "ocenjevati tveganja za strankino premoženje",
+            "ga": "measúnú a dhéanamh ar na rioscaí atá roimh shócmhainní cliant",
+            "sv": "bedöma risker med klienters tillgångar",
+            "el": "αξιολόγηση κινδύνων περιουσιακών στοιχείων πελατών",
+            "mt": "valutazzjoni tar-riskji għall-assi tal-klijenti",
+            "en": "assess risks of clients' assets",
+            "is": "metur áhættu vegna eigna viðskiptavina",
+            "it": "valutare i rischi patrimoniali dei clienti",
+            "es": "evaluar el riesgo de los activos de un cliente",
+            "et": "klientide varaga seotud riske hindama",
+            "cs": "posuzovat rizika pro majetek klienta",
+            "ar": "تقييم مخاطر موجودات العملاء",
+            "pl": "oceniać ryzyko dla aktywów klientów",
+            "da": "vurdere risici for klienters aktiver",
+            "ro": "evaluează riscurile activelor clienților",
+            "nl": "risico’s van activa van klanten beoordelen"
+          },
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/skill"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/cross-sector"
+          ],
+          "broaderSkill": [
+            "http://data.europa.eu/esco/skill/7dd94ad3-13d6-43fe-8b94-51fcbf67ced9"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/skill/S2.7.5"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/3eefeaa0-54c0-4199-83a3-0a71078ba1c5&language=en",
+              "uri": "http://data.europa.eu/esco/skill/3eefeaa0-54c0-4199-83a3-0a71078ba1c5",
+              "title": "assess risks of clients' assets"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

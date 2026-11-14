@@ -1,0 +1,342 @@
+{
+  "url": "https://ec.europa.eu/esco/api/resource/skill?language=en&uri=http%3A%2F%2Fdata.europa.eu%2Fesco%2Fskill%2F95ee5e38-5c1e-4cd2-a21d-6921390025a9",
+  "at": "2026-11-14T22:51:19.759Z",
+  "response": {
+    "className": "Skill",
+    "classId": "http://data.europa.eu/esco/model#Skill",
+    "uri": "http://data.europa.eu/esco/skill/95ee5e38-5c1e-4cd2-a21d-6921390025a9",
+    "title": "usability engineering",
+    "referenceLanguage": [
+      "en"
+    ],
+    "preferredLabel": {
+      "de": "Usability Engineering",
+      "no": "bruksprosjektering",
+      "en-us": "usability engineering",
+      "fi": "käytettävyyden suunnittelu",
+      "pt": "engenharia da usabilidade",
+      "bg": "инженеринг на използваемостта",
+      "lt": "naudojamumo inžinerija",
+      "hr": "vrednovanje upotrebljivosti",
+      "lv": "lietojamības inženierija",
+      "fr": "ergonomie informatique",
+      "hu": "használhatóság tervezése",
+      "sk": "používateľské inžinierstvo",
+      "sl": "uporabnostni inženiring",
+      "ga": "innealtóireacht inúsáidteachta",
+      "sv": "teknisk användbarhet",
+      "mt": "inġinerija tal-użabbiltà",
+      "el": "μηχανική χρηστικότητας",
+      "en": "usability engineering",
+      "is": "nýtingarrekstur",
+      "it": "ingegneria dell’usabilità",
+      "es": "ingeniería de facilidad de uso",
+      "et": "kasutatavuse analüüsimise tehnoloogia",
+      "cs": "softwarová ergonomie",
+      "ar": "هندسة قابلية الاستخدام",
+      "pl": "inżynieria użyteczności",
+      "da": "vurdering af brugervenlighed",
+      "ro": "ingineria utilizabilității",
+      "nl": "bruikbaarheidsengineering"
+    },
+    "alternativeLabel": {
+      "cs": [
+        "uspořádání uživatelského prostředí",
+        "softwarové ergonomie",
+        "ergonomické uspořádání softwaru"
+      ],
+      "el": [
+        "μηχανική ευχρηστίας",
+        "μέθοδος αξιολόγησης χρηστικότητας",
+        "τεχνική ευχρηστίας",
+        "τεχνική χρησιμότητας",
+        "τεχνολογία δυνατότητας χρήσης",
+        "τεχνολογία χρησιμότητας"
+      ],
+      "mt": [
+        "inġinerija tal-użabilità",
+        "inġinerija bbażata fuq il-faċilità tal-użu",
+        "inġinerija tal-użu tas-sistema"
+      ],
+      "nl": [
+        "bruikbaarheid van een ontwerp testen",
+        "bruikbaarheid van ontwerpen beoordelen",
+        "ontwikkeling op basis van bruikbaarheid",
+        "hardware-engineering",
+        "software-engineering",
+        "bruikbaarheid beoordelen op basis van gebruikersbehoefte en -gedrag gestructureerde aanbevelingen afleiden uit de resultaten"
+      ]
+    },
+    "description": {
+      "no": {
+        "literal": "Metoder for vurdering av bruk og de deriverte strukturerte anbefalingene fra resultatene til en brukstest med hensyn til brukerbehov og atferd for å oppnå et effektivt og elegant brukergrensesnittdesign.",
+        "mimetype": "plain/text"
+      },
+      "de": {
+        "literal": "Methoden zur Bewertung der Nutzerfreundlichkeit und zur Ableitung strukturierter Empfehlungen aus den Ergebnissen einer Gebrauchstauglichkeitsprüfung in Bezug auf die Bedürfnisse und Verhaltensweisen von Nutzern, um eine effizient und elegant Gestaltung der Benutzerschnittstelle zu erreichen.",
+        "mimetype": "plain/text"
+      },
+      "fi": {
+        "literal": "Menetelmät, joilla arvioidaan käyttökelpoisuutta ja laaditaan jäsennellysti suosituksia käytettävyyskokeen tulosten pohjalta käyttäjien tarpeiden ja käyttäytymisen osalta, jotta voidaan saada aikaan tehokas ja elegantti käyttöliittymän malli.",
+        "mimetype": "plain/text"
+      },
+      "en-us": {
+        "literal": "The methods of assessing usability and deriving structured recommendations from the results of an usability test with respect to user needs and behaviors in order to achieve efficient and elegant user interface design.",
+        "mimetype": "plain/text"
+      },
+      "pt": {
+        "literal": "Os métodos de avaliação da usabilidade e de criação de recomendações estruturadas a partir dos resultados de um teste de usabilidade no que diz respeito às necessidades e aos comportamentos dos utilizadores, a fim de alcançar uma conceção eficiente e elegante da interface do utilizador.",
+        "mimetype": "plain/text"
+      },
+      "bg": {
+        "literal": "Методите за оценка на използваемостта и получаване на структурирани препоръки от резултатите от изпитването на използваемостта във връзка с нуждите и поведението на потребителите с цел постигане на ефективен и елегантен дизайн на потребителския интерфейс.",
+        "mimetype": "plain/text"
+      },
+      "lt": {
+        "literal": "Tinkamumo naudoti vertinimo metodai ir pagal tinkamumo naudoti bandymų rezultatus parengtos struktūrinės rekomendacijos, atsižvelgiant į naudotojų poreikius ir elgseną, kad būtų galima sukurti veiksmingą ir elegantišką naudotojo sąsajos dizainą.",
+        "mimetype": "plain/text"
+      },
+      "hr": {
+        "literal": "Metode ocjenjivanja upotrebljivosti i izvođenja strukturiranih preporuka iz rezultata ispitivanja upotrebljivosti u pogledu potreba i ponašanja korisnika kako bi se postigao učinkovit i elegantan dizajn korisničkog sučelja.",
+        "mimetype": "plain/text"
+      },
+      "lv": {
+        "literal": "Metodes, ar kurām novērtē lietojamību un iegūst strukturētus ieteikumus, pamatojoties uz lietojamības testa rezultātiem, attiecībā uz lietotāju vajadzībām un rīcību, lai nodrošinātu efektīvas un elegantas lietotāja saskarnes izveidi.",
+        "mimetype": "plain/text"
+      },
+      "fr": {
+        "literal": "Les méthodes d’évaluation de la facilité d’utilisation et l’obtention de recommandations structurées à partir des résultats d’un test de facilité d’utilisation en ce qui concerne les besoins et les comportements des utilisateurs, afin de parvenir à une conception efficace et élégante de l’interface utilisateur.",
+        "mimetype": "plain/text"
+      },
+      "hu": {
+        "literal": "A használhatóság felmérésének módszerei és a felhasználhatósági teszt eredményeiből strukturált ajánlások származtatása a felhasználói igények és viselkedés szempontjából a hatékony és elegáns felhasználói felület kialakítása érdekében.",
+        "mimetype": "plain/text"
+      },
+      "sk": {
+        "literal": "Metódy posudzovania použiteľnosti a získavania štruktúrovaných odporúčaní z výsledkov testu použiteľnosti, pokiaľ ide o potreby používateľov a správanie, s cieľom dosiahnuť účinnú a elegantnú koncepciu používateľského rozhrania.",
+        "mimetype": "plain/text"
+      },
+      "sl": {
+        "literal": "Metode za ocenjevanje uporabnosti in izpeljava strukturiranih priporočil na podlagi rezultatov preizkusa uporabnosti ob upoštevanju uporabniških potreb in vedenjskih vzorcev za dosego učinkovite in elegantne zasnove uporabniškega vmesnika.",
+        "mimetype": "plain/text"
+      },
+      "ga": {
+        "literal": "Na modhanna chun inúsáidteacht a mheas agus moltaí struchtúrtha a bhaint as torthaí tástála inúsáidteachta maidir le riachtanais agus iompraíochtaí úsáideoirí chun dearadh comhéadan úsáideora éifeachtúil agus galánta a bhaint amach.",
+        "mimetype": "plain/text"
+      },
+      "sv": {
+        "literal": "Metoder för att bedöma användbarhet och härleda strukturerade rekommendationer från resultaten av ett användbarhetstest med avseende på användarnas behov och beteende, i syfte att utforma ett effektivt och elegant användargränssnitt.",
+        "mimetype": "plain/text"
+      },
+      "mt": {
+        "literal": "Il-metodi tal-valutazzjoni tal-użabbiltà u tad-derivazzjoni ta’ rakkomandazzjonijiet strutturati mir-riżultati ta’ test tal-użabbiltà fir-rigward tal-ħtiġijiet u l-imġiba tal-utent sabiex jinkiseb disinn effiċjenti u eleganti tal-interfaċċja tal-utent.",
+        "mimetype": "plain/text"
+      },
+      "el": {
+        "literal": "Οι μέθοδοι αξιολόγησης της χρηστικότητας και η εξαγωγή δομημένων συστάσεων από τα αποτελέσματα των δοκιμών χρηστικότητας σε σχέση με τις ανάγκες και τις συμπεριφορές των χρηστών, προκειμένου να επιτευχθεί ο σχεδιασμός της αποδοτικής και εύχρηστης διεπαφής χρήστη.",
+        "mimetype": "plain/text"
+      },
+      "en": {
+        "literal": "The methods of assessing usability and deriving structured recommendations from the results of an usability test with respect to user needs and behaviours in order to achieve efficient and elegant user interface design.",
+        "mimetype": "plain/text"
+      },
+      "is": {
+        "literal": "Aðferðirnar við að meta notagildi og öðlast skipulagðar ráðleggingar úr niðurstöðum nothæfiprófs með tilliti til þarfa og hegðunar notenda til að ná fram skilvirkri og glæsilegri hönnun notendaviðmóta.",
+        "mimetype": "plain/text"
+      },
+      "it": {
+        "literal": "I metodi utilizzati per valutare l’usabilità e trarre raccomandazioni strutturate dai risultati di un test di usabilità rispetto alle esigenze e ai comportamenti degli utenti, al fine di ottenere una progettazione efficiente ed elegante dell’interfaccia utente.",
+        "mimetype": "plain/text"
+      },
+      "es": {
+        "literal": "Los métodos para evaluar la facilidad de uso y hacer recomendaciones estructuradas en función de los resultados de una prueba de facilidad de uso con respecto a las necesidades y los comportamientos de los usuarios, a fin de lograr un diseño de interfaz de usuario eficiente y elegante.",
+        "mimetype": "plain/text"
+      },
+      "et": {
+        "literal": "Meetodid, millega hinnatakse kasutatavust ja antakse kasutatavustesti tulemuste põhjal struktureeritud soovitusi seoses kasutajate vajaduste ja käitumisega, et tagada tõhusa ja atraktiivse kasutajaliidese projekteerimine.",
+        "mimetype": "plain/text"
+      },
+      "cs": {
+        "literal": "Metody posuzování použitelnosti a odvozování strukturovaných doporučení z výsledků zkoušky použitelnosti, pokud jde o potřeby a chování uživatelů, aby bylo dosaženo efektivního a elegantního uživatelského rozhraní.",
+        "mimetype": "plain/text"
+      },
+      "ar": {
+        "literal": "طرق تقييم قابلية الاستخدام وتقديم توصيات منظمة مستمدة من نتائج اختبار قابلية الاستخدام فيما يتعلق باحتياجات المستخدم وسلوكياته من أجل تحقيق تصميم واجهة المستخدم الفعال والأنيق.",
+        "mimetype": "plain/text"
+      },
+      "pl": {
+        "literal": "Metody oceny użyteczności i sformułowania zaleceń usystematyzowanych na podstawie wyników testu przydatności w odniesieniu do potrzeb i zachowań użytkowników w celu osiągnięcia wydajnego i eleganckiego zaprojektowania interfejsu użytkownika.",
+        "mimetype": "plain/text"
+      },
+      "da": {
+        "literal": "Metoderne til vurdering af anvendelighed og afledte strukturerede anbefalinger fra resultaterne af en brugbarhedstest med hensyn til brugerbehov og -adfærd for at opnå et effektivt og elegant brugergrænsefladedesign.",
+        "mimetype": "plain/text"
+      },
+      "ro": {
+        "literal": "Metodele de evaluare a utilizabilității și de extragere de recomandări structurate din rezultatele unui test de utilizabilitate în ceea ce privește nevoile și comportamentele utilizatorilor pentru a realiza un design eficient și elegant al interfeței pentru utilizatori.",
+        "mimetype": "plain/text"
+      },
+      "nl": {
+        "literal": "De methoden voor het beoordelen van de bruikbaarheid en het afleiden van de resultaten van een bruikbaarheidstest met betrekking tot de gebruikersbehoeften en -gedragingen met het oog op een efficiënte en elegante gebruikersinterface.",
+        "mimetype": "plain/text"
+      }
+    },
+    "status": "released",
+    "_links": {
+      "self": {
+        "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/95ee5e38-5c1e-4cd2-a21d-6921390025a9&language=en",
+        "uri": "http://data.europa.eu/esco/skill/95ee5e38-5c1e-4cd2-a21d-6921390025a9",
+        "title": "usability engineering"
+      },
+      "isTopConceptInScheme": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/taxonomy?uri=http://data.europa.eu/esco/concept-scheme/member-skills&language=en",
+          "uri": "http://data.europa.eu/esco/concept-scheme/member-skills",
+          "title": "ESCO member skills"
+        }
+      ],
+      "isInScheme": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/taxonomy?uri=http://data.europa.eu/esco/concept-scheme/skills&language=en",
+          "uri": "http://data.europa.eu/esco/concept-scheme/skills",
+          "title": "ESCO skills"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/taxonomy?uri=http://data.europa.eu/esco/concept-scheme/member-skills&language=en",
+          "uri": "http://data.europa.eu/esco/concept-scheme/member-skills",
+          "title": "ESCO member skills"
+        }
+      ],
+      "hasSkillType": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/concept?uri=http://data.europa.eu/esco/skill-type/knowledge&language=en",
+          "uri": "http://data.europa.eu/esco/skill-type/knowledge",
+          "title": "knowledge"
+        }
+      ],
+      "hasReuseLevel": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/concept?uri=http://data.europa.eu/esco/skill-reuse-level/sector-specific&language=en",
+          "uri": "http://data.europa.eu/esco/skill-reuse-level/sector-specific",
+          "title": "sector specific skills and competences",
+          "code": "Level 3"
+        }
+      ],
+      "broaderHierarchyConcept": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/concept?uri=http://data.europa.eu/esco/isced-f/0613&language=en",
+          "uri": "http://data.europa.eu/esco/isced-f/0613",
+          "title": "software and applications development and analysis"
+        }
+      ],
+      "isOptionalForOccupation": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/5fd2980e-22c4-4ace-a394-190c76f4f539&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/5fd2980e-22c4-4ace-a394-190c76f4f539",
+          "title": "ICT documentation manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/a28dff76-74df-46ee-929f-d1fffbb63cd7&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/a28dff76-74df-46ee-929f-d1fffbb63cd7",
+          "title": "ICT quality assurance manager"
+        }
+      ],
+      "isEssentialForSkill": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/7364cc39-b9c0-449f-9416-57723e2fd9c4&language=en",
+          "uri": "http://data.europa.eu/esco/skill/7364cc39-b9c0-449f-9416-57723e2fd9c4",
+          "title": "utilise methodologies for user centered design",
+          "skillType": "http://data.europa.eu/esco/skill-type/skill"
+        }
+      ],
+      "isOptionalForSkill": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/be0ff6d8-5e61-4021-9c89-e40cf0b75cc6&language=en",
+          "uri": "http://data.europa.eu/esco/skill/be0ff6d8-5e61-4021-9c89-e40cf0b75cc6",
+          "title": "measure software usability",
+          "skillType": "http://data.europa.eu/esco/skill-type/skill"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/b0096dc5-2e2d-4bc1-8172-05bf486c3968&language=en",
+          "uri": "http://data.europa.eu/esco/skill/b0096dc5-2e2d-4bc1-8172-05bf486c3968",
+          "title": "design application interfaces",
+          "skillType": "http://data.europa.eu/esco/skill-type/skill"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/c4b1f326-224a-420a-b8b3-814a8f13b6cb&language=en",
+          "uri": "http://data.europa.eu/esco/skill/c4b1f326-224a-420a-b8b3-814a8f13b6cb",
+          "title": "implement front-end website design",
+          "skillType": "http://data.europa.eu/esco/skill-type/skill"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/fd33c66c-70c4-40e6-b87c-5495bd3bf26e&language=en",
+          "uri": "http://data.europa.eu/esco/skill/fd33c66c-70c4-40e6-b87c-5495bd3bf26e",
+          "title": "design user interface",
+          "skillType": "http://data.europa.eu/esco/skill-type/skill"
+        }
+      ]
+    },
+    "_embedded": {
+      "ancestors": [
+        {
+          "title": "usability engineering",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/95ee5e38-5c1e-4cd2-a21d-6921390025a9&language=en",
+              "uri": "http://data.europa.eu/esco/skill/95ee5e38-5c1e-4cd2-a21d-6921390025a9"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/isced-f/0613"
+          ]
+        },
+        {
+          "title": "software and applications development and analysis",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/isced-f/0613&language=en",
+              "uri": "http://data.europa.eu/esco/isced-f/0613"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/isced-f/061"
+          ]
+        },
+        {
+          "title": "information and communication technologies (icts)",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/isced-f/061&language=en",
+              "uri": "http://data.europa.eu/esco/isced-f/061"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/isced-f/06"
+          ]
+        },
+        {
+          "title": "information and communication technologies (icts)",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/isced-f/06&language=en",
+              "uri": "http://data.europa.eu/esco/isced-f/06"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/K"
+          ]
+        },
+        {
+          "title": "knowledge",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/K&language=en",
+              "uri": "http://data.europa.eu/esco/skill/K"
+            }
+          },
+          "parents": []
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,425 @@
+{
+  "url": "https://ec.europa.eu/esco/api/resource/skill?language=en&uri=http%3A%2F%2Fdata.europa.eu%2Fesco%2Fskill%2F85f46538-ae70-498a-bfbc-b8ddafe96c7d",
+  "at": "2026-11-14T22:51:15.214Z",
+  "response": {
+    "className": "Skill",
+    "classId": "http://data.europa.eu/esco/model#Skill",
+    "uri": "http://data.europa.eu/esco/skill/85f46538-ae70-498a-bfbc-b8ddafe96c7d",
+    "title": "levels of software testing",
+    "referenceLanguage": [
+      "en"
+    ],
+    "preferredLabel": {
+      "no": "nivåer av programvaretesting",
+      "de": "Software-Testebenen",
+      "en-us": "levels of software testing",
+      "fi": "ohjelmistotestauksen tasot",
+      "pt": "níveis de testes de software",
+      "bg": "нива на тестване на софтуер",
+      "lt": "programinės įrangos testavimo lygiai",
+      "hr": "razine softverskog testiranja",
+      "lv": "programmatūras testēšanas līmeņi",
+      "fr": "niveaux de test logiciels",
+      "hu": "szoftvertesztelés szintjei",
+      "sk": "úrovne testovania softvéru",
+      "sl": "ravni preizkušanja programske opreme",
+      "ga": "leibhéil tástála bogearraí",
+      "sv": "nivåer för programvarutestning",
+      "el": "επίπεδα δοκιμών λογισμικού",
+      "mt": "livelli tal-ittestjar tas-softwer",
+      "en": "levels of software testing",
+      "is": "stig hugbúnaðarprófunar",
+      "it": "livelli di test per il collaudo di un software",
+      "es": "niveles de pruebas del software",
+      "et": "tarkvara testimise tasemed",
+      "cs": "úrovně testování softwaru",
+      "ar": "مستويات اختبار البرامج",
+      "pl": "poziomy testowania oprogramowania",
+      "da": "niveauer af softwaretestning",
+      "ro": "niveluri de testare software",
+      "nl": "softwaretestniveaus"
+    },
+    "alternativeLabel": {
+      "cs": [
+        "úroveň testování softwaru",
+        "úrovně testů systému",
+        "úrovně softwarových testů"
+      ],
+      "el": [
+        "βαθμίδες δοκιμών λογισμικού· κλάσεις δοκιμών λογισμικού",
+        "επίπεδα δοκιμασιών λογισμικού· βαθμίδες ελέγχων λογισμικού· κλάσεις εξέτασης λογισμικού· στάδια ελέγχων λογισμικού"
+      ],
+      "mt": [
+        "livelli ta' ttestjar tas-softwer",
+        "livelli ta' verifika tas-softwer",
+        "livelli tal-ittestjar ta' software",
+        "stadji tal-ittestjar tas-softwer",
+        "livelli tal-ittestjar tas-software"
+      ],
+      "nl": [
+        "testen in het softwareontwikkelingsproces",
+        "software testen",
+        "integratietestniveaus",
+        "kennis van de verschillende testniveaus in softwareontwikkeling",
+        "systeemtestniveaus"
+      ]
+    },
+    "description": {
+      "de": {
+        "literal": "Der Testebenen in der Softwareentwicklung, z. B. Komponententests, Integrationstests, Systemtests und Abnahmetests.",
+        "mimetype": "plain/text"
+      },
+      "no": {
+        "literal": "Nivåene for testing i programvareutviklingsprosessen, f.eks. utvikling av programvare, f.eks. enhetstesting, systemtesting og aksepttesting.",
+        "mimetype": "plain/text"
+      },
+      "fi": {
+        "literal": "Ohjelmiston kehittämisprosessin testaustasot, kuten yksikön testaus, integrointitestaus, järjestelmän testaus ja hyväksymistestaus.",
+        "mimetype": "plain/text"
+      },
+      "en-us": {
+        "literal": "The levels of testing in the software development process, such as unit testing, integration testing, system testing and acceptance testing.",
+        "mimetype": "plain/text"
+      },
+      "pt": {
+        "literal": "Os níveis de testes no processo de desenvolvimento de software, como os testes de unidades, os testes de integração, os testes de sistemas e os testes de aceitação.",
+        "mimetype": "plain/text"
+      },
+      "bg": {
+        "literal": "Нивата на тестване в процеса на разработване на софтуера, като тестване на изделието, тестване на интегрирането, тестване на системата и приемателно тестване.",
+        "mimetype": "plain/text"
+      },
+      "lt": {
+        "literal": "Programinės įrangos kūrimo proceso bandymų lygiai, tokie kaip vienetų testavimas, integravimo testavimas, sistemų testavimas ir priimtinumo testavimas.",
+        "mimetype": "plain/text"
+      },
+      "lv": {
+        "literal": "Testēšanas līmeņi programmatūras izstrādes procesā, piemēram, vienību testēšana, integrācijas testēšana, sistēmas testēšana un pieņemšanas testēšana.",
+        "mimetype": "plain/text"
+      },
+      "hr": {
+        "literal": "Razine ispitivanja u postupku razvoja softvera, kao što je testiranje jedinice, testiranje integracije, testiranje sustava i testiranje prihvatljivosti.",
+        "mimetype": "plain/text"
+      },
+      "fr": {
+        "literal": "Les niveaux de test dans le processus de développement de logiciels, tels que le test unitaire, le test d’intégration, le test de système et le test de réception.",
+        "mimetype": "plain/text"
+      },
+      "hu": {
+        "literal": "A szoftverfejlesztési folyamatban a szoftvertesztelési szintek, például az egységenkénti tesztelés, az integrálási tesztelés, a rendszertesztelés és a jóváhagyási tesztelés.",
+        "mimetype": "plain/text"
+      },
+      "sk": {
+        "literal": "Úrovne testovania v procese vývoja softvéru, ako je testovanie jednotky, testy integrácie, testovanie systému a akceptácie.",
+        "mimetype": "plain/text"
+      },
+      "sl": {
+        "literal": "Ravni preskušanja v procesu razvoja programske opreme, kot so preskušanje na enoto, preskušanje integracije, testiranje sistema in testiranje ustreznosti.",
+        "mimetype": "plain/text"
+      },
+      "ga": {
+        "literal": "Leibhéil na tástála sa phróiseas forbartha bogearraí, mar tástáil aonaid, tástáil chomhtháite, tástáil córais agus tástáil inghlacthachta.",
+        "mimetype": "plain/text"
+      },
+      "sv": {
+        "literal": "Testernas omfattning i programvaruutvecklingsprocessen, till exempel provning av enheter, integrationstester, systemprovning och godkännandeprovning.",
+        "mimetype": "plain/text"
+      },
+      "mt": {
+        "literal": "Il-livelli tal-ittestjar fil-proċess ta’ żvilupp tas-softwer, bħal ittestjar tal-unità, ittestjar tal-integrazzjoni, ittestjar tas-sistema u ittestjar tal-aċċettazzjoni.",
+        "mimetype": "plain/text"
+      },
+      "el": {
+        "literal": "Τα επίπεδα δοκιμών κατά τη διαδικασία ανάπτυξης λογισμικού, όπως οι δοκιμές μονάδας, οι δοκιμές ενσωμάτωσης, οι δοκιμές συστημάτων και οι δοκιμές αποδοχής.",
+        "mimetype": "plain/text"
+      },
+      "en": {
+        "literal": "The levels of testing in the software development process, such as unit testing, integration testing, system testing and acceptance testing.",
+        "mimetype": "plain/text"
+      },
+      "is": {
+        "literal": "Stig prófa í hugbúnaðarþróunarferli, svo sem einingapróf, samþættingarpróf, kerfispróf og staðfestingarpróf.",
+        "mimetype": "plain/text"
+      },
+      "it": {
+        "literal": "I livelli di test nel processo di sviluppo di un software, ad esempio i test per unità, i test di integrazione, i test di sistema e i test di accettazione.",
+        "mimetype": "plain/text"
+      },
+      "es": {
+        "literal": "Los niveles de pruebas en el proceso de desarrollo de software, como las pruebas unitarias, las pruebas de integración, las pruebas de sistema y las pruebas de aceptación.",
+        "mimetype": "plain/text"
+      },
+      "et": {
+        "literal": "Tarkvara arendamisel kasutatavad katsetamistasemed, näiteks üksuste, integratsiooni-, süsteemi- ja vastuvõtukatsetamine.",
+        "mimetype": "plain/text"
+      },
+      "cs": {
+        "literal": "Úrovně zkoušek v procesu vývoje softwaru, jako je testování jednotek, testování integrace, testování systémů a testování přijatelnosti.",
+        "mimetype": "plain/text"
+      },
+      "ar": {
+        "literal": "مستويات الاختبار في عملية تطوير البرمجيات، مثل اختبار الوحدة، واختبار التكامل، واختبار النظام، واختبار القبول.",
+        "mimetype": "plain/text"
+      },
+      "pl": {
+        "literal": "Poziomy testowania w procesie opracowywania oprogramowania, takie jak badania jednostkowe, testowanie integracji, testowanie systemu i testowanie akceptacji.",
+        "mimetype": "plain/text"
+      },
+      "da": {
+        "literal": "Testniveauer i softwareudviklingsprocessen, f.eks. enhedstestning, integrationstestning, systemtestning og godkendelsestestning.",
+        "mimetype": "plain/text"
+      },
+      "ro": {
+        "literal": "Nivelurile de testare din procesul de dezvoltare de software, cum ar fi testarea pe unitate, testarea integrării, testarea sistemului și testarea acceptării.",
+        "mimetype": "plain/text"
+      },
+      "nl": {
+        "literal": "De niveaus van de tests in het softwareontwikkelingsproces, zoals testen van het apparaat, het testen van de integratie, het testen van de systemen en de acceptatietests.",
+        "mimetype": "plain/text"
+      }
+    },
+    "status": "released",
+    "_links": {
+      "self": {
+        "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/85f46538-ae70-498a-bfbc-b8ddafe96c7d&language=en",
+        "uri": "http://data.europa.eu/esco/skill/85f46538-ae70-498a-bfbc-b8ddafe96c7d",
+        "title": "levels of software testing"
+      },
+      "isTopConceptInScheme": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/taxonomy?uri=http://data.europa.eu/esco/concept-scheme/member-skills&language=en",
+          "uri": "http://data.europa.eu/esco/concept-scheme/member-skills",
+          "title": "ESCO member skills"
+        }
+      ],
+      "isInScheme": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/taxonomy?uri=http://data.europa.eu/esco/concept-scheme/skills&language=en",
+          "uri": "http://data.europa.eu/esco/concept-scheme/skills",
+          "title": "ESCO skills"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/taxonomy?uri=http://data.europa.eu/esco/concept-scheme/member-skills&language=en",
+          "uri": "http://data.europa.eu/esco/concept-scheme/member-skills",
+          "title": "ESCO member skills"
+        }
+      ],
+      "hasSkillType": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/concept?uri=http://data.europa.eu/esco/skill-type/knowledge&language=en",
+          "uri": "http://data.europa.eu/esco/skill-type/knowledge",
+          "title": "knowledge"
+        }
+      ],
+      "hasReuseLevel": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/concept?uri=http://data.europa.eu/esco/skill-reuse-level/sector-specific&language=en",
+          "uri": "http://data.europa.eu/esco/skill-reuse-level/sector-specific",
+          "title": "sector specific skills and competences",
+          "code": "Level 3"
+        }
+      ],
+      "broaderHierarchyConcept": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/concept?uri=http://data.europa.eu/esco/isced-f/0613&language=en",
+          "uri": "http://data.europa.eu/esco/isced-f/0613",
+          "title": "software and applications development and analysis"
+        }
+      ],
+      "isEssentialForOccupation": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/731f38f1-b08f-4dd5-a25e-f8627c038273&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/731f38f1-b08f-4dd5-a25e-f8627c038273",
+          "title": "ICT integration tester"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/52d5edc9-7902-4cd3-8b06-6bd77c98d440&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/52d5edc9-7902-4cd3-8b06-6bd77c98d440",
+          "title": "ICT system tester"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/50af07f0-7a75-424e-a66d-5a9deea10f4c&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/50af07f0-7a75-424e-a66d-5a9deea10f4c",
+          "title": "ICT accessibility tester"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/a6a0b60f-08da-4faa-bf54-942987efb471&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/a6a0b60f-08da-4faa-bf54-942987efb471",
+          "title": "ICT system analyst"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/a28dff76-74df-46ee-929f-d1fffbb63cd7&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/a28dff76-74df-46ee-929f-d1fffbb63cd7",
+          "title": "ICT quality assurance manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/33e4f026-a823-4ffc-99e4-60d3fe597a1e&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/33e4f026-a823-4ffc-99e4-60d3fe597a1e",
+          "title": "digital games tester"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/5f50290d-f520-4a69-85c7-1390d2a4a8b6&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/5f50290d-f520-4a69-85c7-1390d2a4a8b6",
+          "title": "ICT usability tester"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/0ab5c12c-c1c1-4772-8345-aa287d0e391d&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/0ab5c12c-c1c1-4772-8345-aa287d0e391d",
+          "title": "ICT test analyst"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/4daee8bd-8400-4da6-ba52-30d4c193d1a9&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/4daee8bd-8400-4da6-ba52-30d4c193d1a9",
+          "title": "aviation ground systems engineer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/106f79e4-6264-45f1-9e7a-297435cd684b&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/106f79e4-6264-45f1-9e7a-297435cd684b",
+          "title": "software tester"
+        }
+      ],
+      "isOptionalForOccupation": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/7754d570-9519-48c2-b1c9-8e165f8bca0f&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/7754d570-9519-48c2-b1c9-8e165f8bca0f",
+          "title": "ICT security manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/102e75c8-3b47-4964-9b47-30a980aed25c&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/102e75c8-3b47-4964-9b47-30a980aed25c",
+          "title": "ICT disaster recovery analyst"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/04ba4d6c-957d-417f-bf63-5b9e015a9f86&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/04ba4d6c-957d-417f-bf63-5b9e015a9f86",
+          "title": "software analyst"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/76ef0a87-6afe-4560-b5d0-9a086abe45c5&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/76ef0a87-6afe-4560-b5d0-9a086abe45c5",
+          "title": "ethical hacker"
+        }
+      ],
+      "isEssentialForSkill": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/ea412de3-9d7a-4943-8d8c-c6d3c7495d0e&language=en",
+          "uri": "http://data.europa.eu/esco/skill/ea412de3-9d7a-4943-8d8c-c6d3c7495d0e",
+          "title": "execute integration testing",
+          "skillType": "http://data.europa.eu/esco/skill-type/skill"
+        }
+      ],
+      "isOptionalForSkill": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/ff25cbf0-6978-4c4c-887e-d4b185410d74&language=en",
+          "uri": "http://data.europa.eu/esco/skill/ff25cbf0-6978-4c4c-887e-d4b185410d74",
+          "title": "perform software recovery testing",
+          "skillType": "http://data.europa.eu/esco/skill-type/skill"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/78a74fd1-efc6-49dc-adb1-1b0fbe35c22c&language=en",
+          "uri": "http://data.europa.eu/esco/skill/78a74fd1-efc6-49dc-adb1-1b0fbe35c22c",
+          "title": "provide software testing documentation",
+          "skillType": "http://data.europa.eu/esco/skill-type/skill"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/446d29ed-9eaa-4798-bb91-5f196651ad0a&language=en",
+          "uri": "http://data.europa.eu/esco/skill/446d29ed-9eaa-4798-bb91-5f196651ad0a",
+          "title": "create game testing software",
+          "skillType": "http://data.europa.eu/esco/skill-type/skill"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/7253d98c-4a6d-4e37-8b6c-accca9f4b639&language=en",
+          "uri": "http://data.europa.eu/esco/skill/7253d98c-4a6d-4e37-8b6c-accca9f4b639",
+          "title": "develop ICT test suite",
+          "skillType": "http://data.europa.eu/esco/skill-type/skill"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/5d74614d-32c8-4ca4-9818-6980e52424b1&language=en",
+          "uri": "http://data.europa.eu/esco/skill/5d74614d-32c8-4ca4-9818-6980e52424b1",
+          "title": "plan software testing",
+          "skillType": "http://data.europa.eu/esco/skill-type/skill"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/6a322874-e32f-4cd8-9683-badce67a7f73&language=en",
+          "uri": "http://data.europa.eu/esco/skill/6a322874-e32f-4cd8-9683-badce67a7f73",
+          "title": "develop automated software tests",
+          "skillType": "http://data.europa.eu/esco/skill-type/skill"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/913e7e83-b8f8-4574-b1ca-1b38f3fd974a&language=en",
+          "uri": "http://data.europa.eu/esco/skill/913e7e83-b8f8-4574-b1ca-1b38f3fd974a",
+          "title": "execute software tests",
+          "skillType": "http://data.europa.eu/esco/skill-type/skill"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/7961413f-61d0-4722-9cd9-20a050a29899&language=en",
+          "uri": "http://data.europa.eu/esco/skill/7961413f-61d0-4722-9cd9-20a050a29899",
+          "title": "perform software unit testing",
+          "skillType": "http://data.europa.eu/esco/skill-type/skill"
+        }
+      ]
+    },
+    "_embedded": {
+      "ancestors": [
+        {
+          "title": "levels of software testing",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/85f46538-ae70-498a-bfbc-b8ddafe96c7d&language=en",
+              "uri": "http://data.europa.eu/esco/skill/85f46538-ae70-498a-bfbc-b8ddafe96c7d"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/isced-f/0613"
+          ]
+        },
+        {
+          "title": "software and applications development and analysis",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/isced-f/0613&language=en",
+              "uri": "http://data.europa.eu/esco/isced-f/0613"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/isced-f/061"
+          ]
+        },
+        {
+          "title": "information and communication technologies (icts)",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/isced-f/061&language=en",
+              "uri": "http://data.europa.eu/esco/isced-f/061"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/isced-f/06"
+          ]
+        },
+        {
+          "title": "information and communication technologies (icts)",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/isced-f/06&language=en",
+              "uri": "http://data.europa.eu/esco/isced-f/06"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/K"
+          ]
+        },
+        {
+          "title": "knowledge",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/K&language=en",
+              "uri": "http://data.europa.eu/esco/skill/K"
+            }
+          },
+          "parents": []
+        }
+      ]
+    }
+  }
+}

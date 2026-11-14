@@ -1,0 +1,208 @@
+{
+  "url": "https://ec.europa.eu/esco/api/search?type=skill&language=en&limit=3&text=develop%20software%20test%20procedures",
+  "at": "2026-11-14T22:51:14.933Z",
+  "response": {
+    "total": 2650,
+    "offset": 0,
+    "limit": 3,
+    "text": "develop software test procedures",
+    "language": "en",
+    "type": [
+      "skill"
+    ],
+    "isInScheme": null,
+    "facet": null,
+    "_links": {
+      "self": {
+        "href": "https://ec.europa.eu/esco/api/search?text=develop%20software%20test%20procedures&type=skill&limit=3&offset=0&full=false&viewObsolete=false&language=en"
+      },
+      "next": {
+        "href": "https://ec.europa.eu/esco/api/search?text=develop%20software%20test%20procedures&type=skill&limit=3&offset=1&full=false&viewObsolete=false&language=en"
+      }
+    },
+    "_embedded": {
+      "results": [
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/85f46538-ae70-498a-bfbc-b8ddafe96c7d",
+          "searchHit": "The levels of testing in the software development process, such as unit testing, integration testing, system testing and acceptance testing.",
+          "title": "levels of software testing",
+          "preferredLabel": {
+            "de": "Software-Testebenen",
+            "no": "nivåer av programvaretesting",
+            "fi": "ohjelmistotestauksen tasot",
+            "en-us": "levels of software testing",
+            "pt": "níveis de testes de software",
+            "bg": "нива на тестване на софтуер",
+            "lt": "programinės įrangos testavimo lygiai",
+            "hr": "razine softverskog testiranja",
+            "lv": "programmatūras testēšanas līmeņi",
+            "fr": "niveaux de test logiciels",
+            "hu": "szoftvertesztelés szintjei",
+            "sk": "úrovne testovania softvéru",
+            "sl": "ravni preizkušanja programske opreme",
+            "ga": "leibhéil tástála bogearraí",
+            "sv": "nivåer för programvarutestning",
+            "el": "επίπεδα δοκιμών λογισμικού",
+            "mt": "livelli tal-ittestjar tas-softwer",
+            "en": "levels of software testing",
+            "is": "stig hugbúnaðarprófunar",
+            "it": "livelli di test per il collaudo di un software",
+            "es": "niveles de pruebas del software",
+            "et": "tarkvara testimise tasemed",
+            "cs": "úrovně testování softwaru",
+            "ar": "مستويات اختبار البرامج",
+            "pl": "poziomy testowania oprogramowania",
+            "da": "niveauer af softwaretestning",
+            "ro": "niveluri de testare software",
+            "nl": "softwaretestniveaus"
+          },
+          "isTopConceptInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/knowledge"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/sector-specific"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/isced-f/0613"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/85f46538-ae70-498a-bfbc-b8ddafe96c7d&language=en",
+              "uri": "http://data.europa.eu/esco/skill/85f46538-ae70-498a-bfbc-b8ddafe96c7d",
+              "title": "levels of software testing"
+            }
+          }
+        },
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/f10142ce-d522-49c3-9fd1-054fb63529d4",
+          "searchHit": "develop test procedures",
+          "title": "develop test procedures",
+          "preferredLabel": {
+            "de": "Testverfahren entwickeln",
+            "no": "utvikle testprosedyrer",
+            "fi": "kehittää testausmenetelmiä",
+            "en-us": "develop test procedures",
+            "pt": "desenvolver procedimentos de ensaio",
+            "bg": "разработване на процедури за изпитване",
+            "lt": "nustatyti bandymų procedūras",
+            "hr": "razvijati ispitne postupke",
+            "lv": "izstrādāt testēšanas procedūras",
+            "fr": "élaborer des procédures d’essai",
+            "hu": "vizsgálati eljárásokat dolgoz ki",
+            "sk": "vypracúvať skúšobné postupy",
+            "sl": "razvijati postopke preskušanja",
+            "ga": "nósanna imeachta tástála a fhorbairt",
+            "sv": "utveckla testmetoder",
+            "el": "εκπόνηση διαδικασιών δοκιμής",
+            "mt": "żvilupp tal-proċeduri tal-ittestjar",
+            "en": "develop test procedures",
+            "is": "þróar prófanaferli",
+            "it": "sviluppare procedure di collaudo",
+            "es": "desarrollar procedimientos de prueba",
+            "et": "katsemenetlusi välja töötama",
+            "cs": "vyvíjet zkušební postupy",
+            "ar": "تطوير إجراءات الاختبار",
+            "pl": "opracowywać procedury przeprowadzania testów",
+            "da": "udvikle testprocedurer",
+            "ro": "elaborează proceduri de încercare",
+            "nl": "testprocedures ontwikkelen"
+          },
+          "isTopConceptInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/skill"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/cross-sector"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/skill/S4.1.3"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/f10142ce-d522-49c3-9fd1-054fb63529d4&language=en",
+              "uri": "http://data.europa.eu/esco/skill/f10142ce-d522-49c3-9fd1-054fb63529d4",
+              "title": "develop test procedures"
+            }
+          }
+        },
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/446d29ed-9eaa-4798-bb91-5f196651ad0a",
+          "searchHit": "Be able to develop software to test and evaluate online and land-based gambling, betting and lottery games.",
+          "title": "create game testing software",
+          "preferredLabel": {
+            "de": "Prüfsoftware für Spiele entwickeln",
+            "no": "lage spilltestingprogramvare",
+            "fi": "kehittää pelientestausohjelmia",
+            "en-us": "create game testing software",
+            "pt": "criar «software» para testar jogos",
+            "bg": "създаване на софтуер за тестване на игри",
+            "lt": "kurti programinę įrangą žaidimų ar lošimų testavimui",
+            "hr": "osmišljavati softver za testiranje igara",
+            "lv": "radīt spēļu testēšanas programmatūru",
+            "fr": "créer un logiciel de test de jeux",
+            "hu": "játéktesztelő szoftvert fejleszt ki",
+            "sk": "vytvoriť softvér na testovanie hier",
+            "sl": "ustvarjati programsko opremo za preizkušanje iger",
+            "ga": "bogearraí a chruthú chun cluichí a thástáil",
+            "sv": "skapa programvara för speltester",
+            "el": "δημιουργία λογισμικού δοκιμής παιχνιδιών",
+            "mt": "ħolqien ta’ softwer tal-ittestjar tal-logħob",
+            "en": "create game testing software",
+            "is": "býr til prófunarhugbúnað fyrir leiki",
+            "it": "creare software per testare i giochi",
+            "es": "crear software de evaluación de juegos",
+            "et": "mängukatsetustarkvara looma",
+            "cs": "vytvářet software k testování her",
+            "ar": "صنع أجهزة اختبار الألعاب",
+            "pl": "opracowywać oprogramowanie do testowania gier",
+            "da": "udvikle software til spiltest",
+            "ro": "creează software de testare a jocurilor video",
+            "nl": "speltestsoftware ontwikkelen"
+          },
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/skill"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/occupation-specific"
+          ],
+          "broaderSkill": [
+            "http://data.europa.eu/esco/skill/5d74614d-32c8-4ca4-9818-6980e52424b1"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/skill/S5.1.0"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/446d29ed-9eaa-4798-bb91-5f196651ad0a&language=en",
+              "uri": "http://data.europa.eu/esco/skill/446d29ed-9eaa-4798-bb91-5f196651ad0a",
+              "title": "create game testing software"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

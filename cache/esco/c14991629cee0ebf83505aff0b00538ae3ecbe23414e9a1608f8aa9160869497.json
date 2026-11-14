@@ -1,0 +1,594 @@
+{
+  "url": "https://ec.europa.eu/esco/api/resource/skill?language=en&uri=http%3A%2F%2Fdata.europa.eu%2Fesco%2Fskill%2F9ff9db9d-d14b-426e-83f3-e7449af6c79f",
+  "at": "2026-11-14T22:51:23.245Z",
+  "response": {
+    "className": "Skill",
+    "classId": "http://data.europa.eu/esco/model#Skill",
+    "uri": "http://data.europa.eu/esco/skill/9ff9db9d-d14b-426e-83f3-e7449af6c79f",
+    "title": "manage data",
+    "referenceLanguage": [
+      "en"
+    ],
+    "preferredLabel": {
+      "no": "administrere data",
+      "de": "Daten verwalten",
+      "en-us": "manage data",
+      "fi": "hallita tietoja",
+      "pt": "gerir dados",
+      "bg": "управление на данни",
+      "lt": "valdyti duomenis",
+      "hr": "upravljati podatcima",
+      "lv": "pārvaldīt datus",
+      "fr": "gérer les données",
+      "hu": "adatokat kezel",
+      "sk": "riadiť údaje",
+      "sl": "upravljati podatke",
+      "ga": "sonraí a bhainistiú",
+      "sv": "hantera data",
+      "el": "διαχείριση δεδομένων",
+      "mt": "tiġġestixxi d-data",
+      "en": "manage data",
+      "is": "annast gögn",
+      "it": "gestire dati",
+      "es": "gestionar datos",
+      "et": "andmeid haldama",
+      "cs": "spravovat data",
+      "ar": "ادارة البيانات",
+      "pl": "zarządzać danymi",
+      "da": "administrere data",
+      "ro": "administrează datele",
+      "nl": "gegevens beheren"
+    },
+    "alternativeLabel": {
+      "de": [
+        "den Datenlebenszyklus steuern",
+        "Datenressourcen verwalten",
+        "mit Datenqualitätswerkzeugen arbeiten",
+        "Datenverwaltung betreiben",
+        "Datenverwaltung durchführen"
+      ],
+      "fi": [
+        "tiedonhallinta",
+        "hallita dataa",
+        "käyttää tiedon laatutyökaluja",
+        "datan hallinta",
+        "hallita tiedon elinkaarta",
+        "tietohallinto",
+        "tiedon hallinta",
+        "datanhallinta"
+      ],
+      "sv": [
+        "hanterade data",
+        "sköta om data",
+        "administrera data",
+        "hanterar data"
+      ],
+      "pt": [
+        "gerir informação",
+        "gerir o ciclo de vida dos dados",
+        "gerir os dados",
+        "administrar dados",
+        "operar ferramentas de garantia da qualidade dos dados"
+      ],
+      "bg": [
+        "управление на ресурси с данни",
+        "управлението на данни",
+        "администриране на данни",
+        "управление на жизнения цикъл на данни",
+        "управление на инструменти за качество на данни",
+        "управление на данните"
+      ],
+      "mt": [
+        "timmaniġġja d-data",
+        "tamministra d-dejta"
+      ],
+      "el": [
+        "χειρίζομαι πηγή δεδομένων",
+        "διαχειρίζομαι πηγές δεδομένων",
+        "διαχειρίζομαι πόρους δεδομένων",
+        "διευθύνω τον κύκλο ζωής δεδομένων",
+        "χειρίζομαι εργαλεία ποιοτικών δεδομένων"
+      ],
+      "lt": [
+        "tvarkyti duomenis",
+        "valdyti turimus duomenis",
+        "administruoti duomenis",
+        "naudoti duomenų išteklius"
+      ],
+      "en": [
+        "administer data",
+        "manage data lifecycle",
+        "operate data quality tools",
+        "data resource management",
+        "data administration"
+      ],
+      "hr": [
+        "nadzirati podatke",
+        "nadgledati podatke",
+        "rukovoditi podacima"
+      ],
+      "is": [
+        "halda utan um gögn",
+        "annast gögnin",
+        "annast um gögn",
+        "annast þú gögnin"
+      ],
+      "lv": [
+        "datu administrēšana",
+        "datubāzu pārvaldība",
+        "datu resursu administrēšana",
+        "datu resursu pārvaldība",
+        "pārvaldīt datus",
+        "administrēt datus"
+      ],
+      "it": [
+        "saper gestire i dati",
+        "occuparsi di gestire dati",
+        "gestire l'insieme di dati",
+        "gestire i dati",
+        "occuparsi della gestione dei dati"
+      ],
+      "fr": [
+        "gérer le cycle de vie des données",
+        "gérer des données",
+        "évaluer la qualité des données",
+        "gérer des outils de qualité des données",
+        "utiliser un logiciel qualité des données",
+        "administrer des données"
+      ],
+      "hu": [
+        "adatok kezelésének szabályai",
+        "adat életciklus menedzsment",
+        "adatot elemez",
+        "adatkezelési szabályzat",
+        "adatot kezel",
+        "adatokat feldolgoz",
+        "adatok kezelésének eljárásrendszere",
+        "adatokat kezeli"
+      ],
+      "es": [
+        "administrar datos",
+        "controlar datos",
+        "manejar datos",
+        "utilizar datos",
+        "supervisar datos"
+      ],
+      "et": [
+        "andmehaldusega tegelema",
+        "andmete elutsüklit haldama",
+        "andmeid juhtima",
+        "andmekvaliteedi haldamise tööriistu kasutama",
+        "andmeressursse haldama"
+      ],
+      "cs": [
+        "řídit data",
+        "provozovat nástroje pro správu dat",
+        "zajišťovat správu dat",
+        "správa dat"
+      ],
+      "sk": [
+        "manažovať životný cyklus údajov",
+        "spravovať zdroje údajov",
+        "údajové riadenie",
+        "prevádzkovať nástroje údajovej kvality",
+        "riadiť údaj",
+        "spravovať dáta"
+      ],
+      "sl": [
+        "voditi evidenco podatkov",
+        "voditi podatkovno evidenco",
+        "upravljati s podatki",
+        "upravljati z viri podatkov",
+        "upravljati podatkovne baze"
+      ],
+      "pl": [
+        "korzystać z narzędzi zapewniania jakości danych",
+        "zarządzać zasobami danych",
+        "zarządzać wszystkimi rodzajami danych",
+        "zarządzać cyklem życia danych",
+        "administrować danymi",
+        "zarządzanie zasobami danych",
+        "administracja danymi"
+      ],
+      "da": [
+        "betjene datakvalitetsværktøjer",
+        "dataadministration",
+        "administrere dataressourcer",
+        "administrere datas livscyklus",
+        "styre data"
+      ],
+      "ro": [
+        "gestionează ciclul de viață al datelor",
+        "gestionează datele",
+        "administrează lucrul cu datele",
+        "administrează date",
+        "administrează resursele de date"
+      ],
+      "nl": [
+        "resourcebeheer",
+        "informatiebeheer",
+        "levenscyclus van gegevens beheren",
+        "beheren van informatie",
+        "gegevens beheren",
+        "beheren van data",
+        "data beheren",
+        "databeheer",
+        "gegevensbeheer",
+        "gegevenskwaliteit meten"
+      ]
+    },
+    "description": {
+      "de": {
+        "literal": "Verwalten aller Arten von Datenressourcen über ihren gesamten Lebenszyklus hinweg durch Erstellung von Datenprofilen, Parsing, Standardisierung, Identitätsauflösung, Bereinigung, Erweiterung und Prüfung von Daten. Sicherstellen, dass die Daten für den jeweiligen Zweck geeignet sind, mithilfe spezieller IKT-Instrumente zur Erfüllung der Kriterien für die Datenqualität.",
+        "mimetype": "plain/text"
+      },
+      "no": {
+        "literal": "Forvalte alle typer dataressurser gjennom hele livssyklusen ved å utføre dataprofilering, analyse, standardisering, identitetsløsning, rensing, forbedring og revisjon. Sikre at dataene er egnet for formålet ved hjelp av egne IKT-verktøy for å oppfylle kriteriene for datakvalitet.",
+        "mimetype": "plain/text"
+      },
+      "en-us": {
+        "literal": "Administer all types of data resources through their lifecycle by performing data profiling, parsing, standardization, identity resolution, cleansing, enhancement and auditing. Ensure the data is fit for purpose, using specialized ICT tools to fulfill the data quality criteria.",
+        "mimetype": "plain/text"
+      },
+      "fi": {
+        "literal": "Hallita kaikentyyppisiä tietoresursseja niiden elinkaaren aikana tekemällä tietojen profilointia, jäsentämistä, standardointia, identiteetin selvitystä, puhdistusta, parantamista ja tarkastusta. Varmistaa käyttämällä tieto- ja viestintätekniikan välineitä, että tiedot ovat tarkoituksenmukaisia ja täyttävät tietojen laatua koskevat kriteerit.",
+        "mimetype": "plain/text"
+      },
+      "pt": {
+        "literal": "Administrar todos os tipos de recursos de dados ao longo do seu ciclo de vida através da definição de perfis de dados, de análises e da normalização, bem como da resolução, limpeza, reforço e auditoria de identidades. Assegurar que os dados são adequados ao fim a que se destinam, utilizando ferramentas informáticas especializadas para o cumprimento dos critérios de qualidade dos dados.",
+        "mimetype": "plain/text"
+      },
+      "bg": {
+        "literal": "Администрира всички видове ресурси от данни през целия им жизнен цикъл чрез изготвяне на обобщения, анализи, стандартизация, профилиране на потребителите, прочистване, подобряване на качеството и одит. Уверява се, че данните са подходящи за целта, като използва специализирани ИКТ инструменти за изпълнение на критериите за качество на данните.",
+        "mimetype": "plain/text"
+      },
+      "lt": {
+        "literal": "Administruoti visų rūšių duomenų išteklius per jų gyvavimo ciklą, atliekant duomenų profilio sudarymą, nagrinėjimą, standartizavimą, identifikavimą, valymą, tobulinimą ir auditą. Užtikrinti, kad duomenys atitiktų savo paskirtį, naudojant specializuotas IRT priemones tam, kad būtų laikomasi duomenų kokybės kriterijų.",
+        "mimetype": "plain/text"
+      },
+      "lv": {
+        "literal": "Pārvaldīt visu veidu datu resursus to aprites cikla laikā, veicot datu profilēšanu, parsēšanu, standartizāciju, identitātes noteikšanu, tīrīšanu, uzlabošanu un revīziju. Nodrošināt datu atbilstību mērķim, izmantojot specializētus IKT rīkus, lai izpildītu datu kvalitātes kritērijus.",
+        "mimetype": "plain/text"
+      },
+      "hr": {
+        "literal": "Upravljati svim vrstama podatkovnih resursa tijekom njihova životnog ciklusa provođenjem profiliranja, raščlanjivanja, normizacije, sanacije identiteta, čišćenja, poboljšanja i revizije podataka. Osigurati da podatci odgovaraju svrsi upotrebom specijaliziranih IKT alata kako bi se ispunili kriteriji kvalitete podataka.",
+        "mimetype": "plain/text"
+      },
+      "fr": {
+        "literal": "Gérer tous les types de ressources de données tout au long de leur cycle de vie en procédant à l’interconnexion, à l’analyse, à la normalisation, à la résolution d’identité, au nettoyage, à l’amélioration et au contrôle des données. Veiller à ce que les données soient adaptées à l’usage prévu, en utilisant des outils de TIC spécialisés pour répondre aux critères de qualité des données.",
+        "mimetype": "plain/text"
+      },
+      "hu": {
+        "literal": "Minden típusú adatforrást adminisztrál az életciklusuk során az adatok profilozásának, elemzésének, szabványosításának, azonosítás megoldásának, tisztításának, fejlesztésének és ellenőrzésének végrehajtása által. Biztosítja, hogy az adatok a célnak megfelelőek legyenek, speciális IKT eszközöket használva az adatminőségi kritériumok teljesítéséhez.",
+        "mimetype": "plain/text"
+      },
+      "sk": {
+        "literal": "Spravovať všetky druhy dátových zdrojov počas ich životného cyklu vykonávaním profilovania, rozboru, štandardizácie, riešenia problémov, čistenia, zlepšovania a auditu údajov. Zabezpečiť, aby boli údaje vhodné na daný účel, využitím špecializovaných nástrojov IKT na splnenie kritérií kvality údajov.",
+        "mimetype": "plain/text"
+      },
+      "sl": {
+        "literal": "Upravljati vse vrste virov podatkov v njihovem življenjskem ciklu s profiliranjem podatkov, razčlenjevanjem, standardizacijo, določanjem identitete, čiščenjem, izboljševanjem in revidiranjem. S posebnimi orodji IKT zagotoviti izpolnjevanje meril kakovosti podatkov in tako poskrbeti, da podatki ustrezajo svojemu namenu.",
+        "mimetype": "plain/text"
+      },
+      "ga": {
+        "literal": "Gach cineál acmhainní sonraí a riar tríd a saolré trí phróifíliú sonraí a dhéanamh, trí pharsáil, trí chaighdeánú, trí chaighdeánú, trí réiteach céannachta, trí ghlanadh, trí fheabhsú agus trí iniúchadh a dhéanamh. A áirithiú go bhfuil na sonraí oiriúnach dá bhfeidhm, ag úsáid uirlisí speisialaithe TFC chun critéir cháilíocht sonraí a chomhlíonadh.",
+        "mimetype": "plain/text"
+      },
+      "sv": {
+        "literal": "Hantera alla typer av dataresurser under hela deras livscykel genom att utföra dataprofilering, valideringsanalyser, standardisering, identitetsuppdelning, rensning, utökning och granskning. Se till att alla data är ändamålsenliga med hjälp av specialiserade IKT-verktyg i syfte att uppfylla kvalitetskriterierna för data.",
+        "mimetype": "plain/text"
+      },
+      "mt": {
+        "literal": "Amministra t-tipi kollha ta’ riżorsi tad-data permezz taċ-ċiklu tal-ħajja tagħhom billi twettaq it-tfassil tal-profil tad-data, il-parsing, l-istandardizzazzjoni, ir-riżoluzzjoni tal-identità, it-tindif, it-titjib u l-awditjar. Żgura li d-data hija adattata għall-iskop tagħha, bl-użu ta’ għodod tal-ICT speċjalizzati biex jiġu ssodisfati l-kriterji tal-kwalità tad-data.",
+        "mimetype": "plain/text"
+      },
+      "el": {
+        "literal": "Διαχείριση όλων των τύπων πόρων δεδομένων σε όλον τον κύκλο ζωής τους, μέσω της απόδοσης χαρακτηριστικών προφίλ στα δεδομένα, της ανάλυσης, της τυποποίησης, της ανάλυσης ταυτότητας, της εκκαθάρισης, της ενίσχυσης και του ελέγχου. Διασφάλιση της καταλληλότητας των δεδομένων για τον επιδιωκόμενο σκοπό με τη χρήση ειδικών εργαλείων ΤΠΕ για την εκπλήρωση των κριτηρίων ποιότητας των δεδομένων.",
+        "mimetype": "plain/text"
+      },
+      "en": {
+        "literal": "Administer all types of data resources through their lifecycle by performing data profiling, parsing, standardisation, identity resolution, cleansing, enhancement and auditing. Ensure the data is fit for purpose, using specialised ICT tools to fulfil the data quality criteria.",
+        "mimetype": "plain/text"
+      },
+      "is": {
+        "literal": "Stjórnar hvers konar gagnatilföngum á vistferli sínum með því að framkvæma skilgreiningu á upplýsingum, með því að bera kennsl á þau, með því að bera þau saman, hafa eftirlit , hreinsa, bæta og gera úttekt.  Gengur úr skugga um að gögnin séu hæf til notkunar með því að nota sértæk upplýsingatækni (ICT) til að uppfylla gæðaviðmið.",
+        "mimetype": "plain/text"
+      },
+      "it": {
+        "literal": "Amministrare tutti i tipi di risorse di dati attraverso il loro ciclo di vita eseguendo la definizione del profilo dei dati, il parsing, la standardizzazione, la risoluzione dell’identità, la pulizia, il potenziamento e il controllo. Garantire che i dati siano adatti allo scopo, utilizzando strumenti TIC specializzati per soddisfare i criteri di qualità dei dati.",
+        "mimetype": "plain/text"
+      },
+      "es": {
+        "literal": "Administrar todo tipo de recursos de datos a través de su ciclo de vida mediante la elaboración de perfiles de datos, análisis, normalización, resolución de identidad, limpieza, mejora y auditoría. Asegurarse de que los datos sean adecuados para su finalidad, con el uso de herramientas informáticas especializadas para cumplir los criterios de calidad de los datos.",
+        "mimetype": "plain/text"
+      },
+      "et": {
+        "literal": "Igat liiki andmeressursside haldamine nende olelusringi jooksul, teostades andmete profileerimist, süntaksianalüüsi, standardimist, samasusteisendust, puhastamist, täiendamist ja auditeerimist. Andmete otstarbekohasuse tagamine, kasutades IKT erivahendeid andmekvaliteedi kriteeriumide täitmiseks.",
+        "mimetype": "plain/text"
+      },
+      "cs": {
+        "literal": "Spravovat všechny typy datových zdrojů v průběhu jejich životního cyklu, a to prováděním profilace dat, oddělování, standardizace, řešení problémů, čištění, zlepšování a provádění auditů. Zajistit, aby údaje byly vhodné pro daný účel, a to za použití specializovaných nástrojů ICT ke splnění kritérií kvality údajů.",
+        "mimetype": "plain/text"
+      },
+      "ar": {
+        "literal": "إدارة كل أنواع مصادر البيانات من خلال دورة حياتها عن طريق تصنيف البيانات، وتحليلها، وتوحيدها، وإجراء دقة الهوية والتطهير والتحسين والتدقيق. ضمان أن البيانات مناسبة للغرض، وذلك باستخدام أدوات تكنولوجيا المعلومات والاتصالات المتخصصة لتلبية معايير جودة البيانات.",
+        "mimetype": "plain/text"
+      },
+      "pl": {
+        "literal": "Zarządzanie wszystkimi rodzajami zasobów danych w całym ich cyklu życia poprzez sporządzanie profili danych, profilowanie, normalizację, rozstrzyganie kwestii tożsamości, czyszczenie, usprawnianie i badanie sprawozdań finansowych. Zapewnienie, aby dane były adekwatne do zakładanych celów, z wykorzystaniem specjalistycznych narzędzi ICT w celu spełnienia kryteriów dotyczących jakości danych.",
+        "mimetype": "plain/text"
+      },
+      "da": {
+        "literal": "Administrere alle typer dataressourcer gennem deres livscyklus ved at foretage dataprofilering, parsing, standardisering, identitetsopløsning, rensning, udvidelse og revision. Sikre, at dataene er egnede til formålet, ved hjælp af specialiserede IKT-værktøjer til at opfylde datakvalitetskriterierne.",
+        "mimetype": "plain/text"
+      },
+      "ro": {
+        "literal": "Administrează toate tipurile de resurse de date pe durata ciclului lor de viață prin realizarea de profiluri de date, segmentarea logică, standardizare, rezoluția identității, curățare, îmbunătățire și audit. Se asigură că datele sunt adecvate scopului prevăzut, utilizând instrumente TIC specializate pentru a îndeplini criteriile de calitate a datelor.",
+        "mimetype": "plain/text"
+      },
+      "nl": {
+        "literal": "Beheren van alle soorten gegevensbronnen gedurende hun levenscyclus door het uitvoeren van dataprofilering, parsing, standaardisatie, identiteitsresolutie, opschoning, verbetering en auditing. Ervoor zorgen dat de gegevens geschikt zijn voor het doel, met behulp van gespecialiseerde ICT-instrumenten om aan de gegevenskwaliteitscriteria te voldoen.",
+        "mimetype": "plain/text"
+      }
+    },
+    "status": "released",
+    "_links": {
+      "self": {
+        "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/9ff9db9d-d14b-426e-83f3-e7449af6c79f&language=en",
+        "uri": "http://data.europa.eu/esco/skill/9ff9db9d-d14b-426e-83f3-e7449af6c79f",
+        "title": "manage data"
+      },
+      "isTopConceptInScheme": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/taxonomy?uri=http://data.europa.eu/esco/concept-scheme/member-skills&language=en",
+          "uri": "http://data.europa.eu/esco/concept-scheme/member-skills",
+          "title": "ESCO member skills"
+        }
+      ],
+      "isInScheme": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/taxonomy?uri=http://data.europa.eu/esco/concept-scheme/skills&language=en",
+          "uri": "http://data.europa.eu/esco/concept-scheme/skills",
+          "title": "ESCO skills"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/taxonomy?uri=http://data.europa.eu/esco/concept-scheme/member-skills&language=en",
+          "uri": "http://data.europa.eu/esco/concept-scheme/member-skills",
+          "title": "ESCO member skills"
+        }
+      ],
+      "hasSkillType": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/concept?uri=http://data.europa.eu/esco/skill-type/skill&language=en",
+          "uri": "http://data.europa.eu/esco/skill-type/skill",
+          "title": "skill"
+        }
+      ],
+      "hasReuseLevel": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/concept?uri=http://data.europa.eu/esco/skill-reuse-level/sector-specific&language=en",
+          "uri": "http://data.europa.eu/esco/skill-reuse-level/sector-specific",
+          "title": "sector specific skills and competences",
+          "code": "Level 3"
+        }
+      ],
+      "broaderHierarchyConcept": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/concept?uri=http://data.europa.eu/esco/skill/S2.3.0&language=en",
+          "uri": "http://data.europa.eu/esco/skill/S2.3.0",
+          "title": "managing information",
+          "code": "S2.3.0"
+        }
+      ],
+      "narrowerSkill": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/3bf7e0ee-2580-41e8-924d-9d504dc98546&language=en",
+          "uri": "http://data.europa.eu/esco/skill/3bf7e0ee-2580-41e8-924d-9d504dc98546",
+          "title": "manage mine site data",
+          "skillType": "http://data.europa.eu/esco/skill-type/skill"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/a80fb090-63f4-4b05-83a5-2f090deb7757&language=en",
+          "uri": "http://data.europa.eu/esco/skill/a80fb090-63f4-4b05-83a5-2f090deb7757",
+          "title": "manage data collection systems",
+          "skillType": "http://data.europa.eu/esco/skill-type/skill"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/fbafa41f-cd05-4109-a649-8b44d306d779&language=en",
+          "uri": "http://data.europa.eu/esco/skill/fbafa41f-cd05-4109-a649-8b44d306d779",
+          "title": "create data models",
+          "skillType": "http://data.europa.eu/esco/skill-type/skill"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/a89a94fb-c417-49b4-a9a9-9a22e0f12697&language=en",
+          "uri": "http://data.europa.eu/esco/skill/a89a94fb-c417-49b4-a9a9-9a22e0f12697",
+          "title": "manage data for legal matters",
+          "skillType": "http://data.europa.eu/esco/skill-type/skill"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/f879a418-3e81-4216-9533-aaedce55fa97&language=en",
+          "uri": "http://data.europa.eu/esco/skill/f879a418-3e81-4216-9533-aaedce55fa97",
+          "title": "ensure accuracy of aeronautical data",
+          "skillType": "http://data.europa.eu/esco/skill-type/skill"
+        }
+      ],
+      "hasEssentialSkill": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/6a536b36-c5c7-4d10-bf67-a4fb0f8549b2&language=en",
+          "uri": "http://data.europa.eu/esco/skill/6a536b36-c5c7-4d10-bf67-a4fb0f8549b2",
+          "title": "audit techniques",
+          "skillType": "http://data.europa.eu/esco/skill-type/knowledge"
+        }
+      ],
+      "hasOptionalSkill": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/e2d0daae-2aa1-40cc-99e2-b340b02f97d3&language=en",
+          "uri": "http://data.europa.eu/esco/skill/e2d0daae-2aa1-40cc-99e2-b340b02f97d3",
+          "title": "product data management",
+          "skillType": "http://data.europa.eu/esco/skill-type/knowledge"
+        }
+      ],
+      "isEssentialForOccupation": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/7086d0ca-1e77-4690-89c9-7ed1a0478fa3&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/7086d0ca-1e77-4690-89c9-7ed1a0478fa3",
+          "title": "data quality specialist"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/e297ec12-4712-40a4-ad98-ba004cacb205&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/e297ec12-4712-40a4-ad98-ba004cacb205",
+          "title": "chief data officer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/d3edb8f8-3a06-47a0-8fb9-9b212c006aa2&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/d3edb8f8-3a06-47a0-8fb9-9b212c006aa2",
+          "title": "data analyst"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/591c5063-69ce-4551-ba60-e2304111130f&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/591c5063-69ce-4551-ba60-e2304111130f",
+          "title": "aviation data communications manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/f31f487b-4ce2-40f3-90e8-7d0011b4ef1d&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/f31f487b-4ce2-40f3-90e8-7d0011b4ef1d",
+          "title": "software manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/4e4a1aa1-ca53-406e-9ca6-889d4621a0ed&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/4e4a1aa1-ca53-406e-9ca6-889d4621a0ed",
+          "title": "big data archive librarian"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/3d190639-90f8-4402-b1b3-a104a17e0d67&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/3d190639-90f8-4402-b1b3-a104a17e0d67",
+          "title": "database integrator"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/8c8ec7a2-adbb-4d1a-9a56-a7048d66c00b&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/8c8ec7a2-adbb-4d1a-9a56-a7048d66c00b",
+          "title": "aviation surveillance and code coordination manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/2f8acdc5-76f5-498b-9818-df075e324eaa&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/2f8acdc5-76f5-498b-9818-df075e324eaa",
+          "title": "aviation communications and frequency coordination manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/3765a20d-5160-4e8f-82f1-ad7872b9db24&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/3765a20d-5160-4e8f-82f1-ad7872b9db24",
+          "title": "information manager"
+        }
+      ],
+      "isOptionalForOccupation": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/66fb9704-0d56-4673-8e69-7823816b73e1&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/66fb9704-0d56-4673-8e69-7823816b73e1",
+          "title": "market research analyst"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/b09ffdec-b04c-41a8-bacc-2c71d7a3e5ac&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/b09ffdec-b04c-41a8-bacc-2c71d7a3e5ac",
+          "title": "typesetter"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/e7417f4f-7072-4b07-a71f-71f6fc7f5e5b&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/e7417f4f-7072-4b07-a71f-71f6fc7f5e5b",
+          "title": "zoo registrar"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/85fdd1cb-98d3-4c40-a868-1078ce770440&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/85fdd1cb-98d3-4c40-a868-1078ce770440",
+          "title": "textile quality inspector"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/a28dff76-74df-46ee-929f-d1fffbb63cd7&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/a28dff76-74df-46ee-929f-d1fffbb63cd7",
+          "title": "ICT quality assurance manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/6353b3e8-e8f2-4ecb-b230-186927139892&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/6353b3e8-e8f2-4ecb-b230-186927139892",
+          "title": "data entry clerk"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/af355ac4-dd89-44df-99a6-bba70202d6fe&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/af355ac4-dd89-44df-99a6-bba70202d6fe",
+          "title": "data entry supervisor"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/258e46f9-0075-4a2e-adae-1ff0477e0f30&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/258e46f9-0075-4a2e-adae-1ff0477e0f30",
+          "title": "data scientist"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/b21aac17-8237-4264-bc2c-0e315346fd8f&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/b21aac17-8237-4264-bc2c-0e315346fd8f",
+          "title": "chemical plant control room operator"
+        }
+      ]
+    },
+    "_embedded": {
+      "ancestors": [
+        {
+          "title": "manage data",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/9ff9db9d-d14b-426e-83f3-e7449af6c79f&language=en",
+              "uri": "http://data.europa.eu/esco/skill/9ff9db9d-d14b-426e-83f3-e7449af6c79f"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S2.3.0"
+          ]
+        },
+        {
+          "title": "managing information",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S2.3.0&language=en",
+              "uri": "http://data.europa.eu/esco/skill/S2.3.0"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S2.3"
+          ]
+        },
+        {
+          "title": "managing information",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S2.3&language=en",
+              "uri": "http://data.europa.eu/esco/skill/S2.3"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S2"
+          ]
+        },
+        {
+          "title": "information skills",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S2&language=en",
+              "uri": "http://data.europa.eu/esco/skill/S2"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S"
+          ]
+        },
+        {
+          "title": "skills",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S&language=en",
+              "uri": "http://data.europa.eu/esco/skill/S"
+            }
+          },
+          "parents": []
+        }
+      ]
+    }
+  }
+}

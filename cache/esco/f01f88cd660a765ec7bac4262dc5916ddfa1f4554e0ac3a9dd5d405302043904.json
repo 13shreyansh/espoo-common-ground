@@ -1,0 +1,976 @@
+{
+  "url": "https://ec.europa.eu/esco/api/resource/skill?language=en&uri=http%3A%2F%2Fdata.europa.eu%2Fesco%2Fskill%2F3cd569a2-4f88-4c1e-9995-8dce8c5e51a7",
+  "at": "2026-11-14T22:51:28.779Z",
+  "response": {
+    "className": "Skill",
+    "classId": "http://data.europa.eu/esco/model#Skill",
+    "uri": "http://data.europa.eu/esco/skill/3cd569a2-4f88-4c1e-9995-8dce8c5e51a7",
+    "title": "JavaScript",
+    "referenceLanguage": [
+      "en"
+    ],
+    "preferredLabel": {
+      "de": "JavaScript",
+      "no": "JavaScript",
+      "fi": "JavaScript",
+      "en-us": "JavaScript",
+      "pt": "JavaScript",
+      "bg": "JavaScript",
+      "lt": "JavaScript",
+      "hr": "JavaScript",
+      "lv": "JavaScript",
+      "fr": "JavaScript",
+      "hu": "JavaScript",
+      "sk": "JavaScript",
+      "sl": "JavaScript",
+      "ga": "JavaScript",
+      "sv": "JavaScript",
+      "mt": "JavaScript",
+      "el": "JavaScript",
+      "en": "JavaScript",
+      "is": "JavaScript",
+      "it": "JavaScript",
+      "es": "JavaScript",
+      "et": "JavaScript",
+      "cs": "JavaScript",
+      "ar": "لغة برمجة جافا سكريبت",
+      "pl": "JavaScript",
+      "da": "JavaScript",
+      "ro": "JavaScript",
+      "nl": "JavaScript"
+    },
+    "alternativeLabel": {
+      "de": [
+        "JavaScript 1.7",
+        "JavaScript 1.6",
+        "Escript",
+        "CSJS",
+        "Live Script",
+        "Server-side JavaScript",
+        "Mocha",
+        "Live script",
+        "Client-side JavaScript",
+        "JavaScripts"
+      ],
+      "no": [
+        "JavaScript 1.7",
+        "JavaScript 1.6",
+        "Escript",
+        "CSJS",
+        "Live Script",
+        "Server-side JavaScript",
+        "Mocha",
+        "Live script",
+        "Client-side JavaScript",
+        "JavaScripts"
+      ],
+      "en-us": [
+        "JavaScript 1.7",
+        "JavaScript 1.6",
+        "Escript",
+        "CSJS",
+        "Live Script",
+        "Server-side JavaScript",
+        "Mocha",
+        "Live script",
+        "Client-side JavaScript",
+        "JavaScripts"
+      ],
+      "fi": [
+        "JavaScript 1.7",
+        "JavaScript 1.6",
+        "Escript",
+        "CSJS",
+        "Live Script",
+        "Server-side JavaScript",
+        "Mocha",
+        "Live script",
+        "Client-side JavaScript",
+        "JavaScripts"
+      ],
+      "pt": [
+        "JavaScript 1.7",
+        "JavaScript 1.6",
+        "Escript",
+        "CSJS",
+        "Live Script",
+        "Server-side JavaScript",
+        "Mocha",
+        "Live script",
+        "Client-side JavaScript",
+        "JavaScripts"
+      ],
+      "bg": [
+        "JavaScript 1.7",
+        "JavaScript 1.6",
+        "Escript",
+        "CSJS",
+        "Live Script",
+        "Server-side JavaScript",
+        "Mocha",
+        "Live script",
+        "Client-side JavaScript",
+        "JavaScripts"
+      ],
+      "lt": [
+        "JavaScript 1.7",
+        "JavaScript 1.6",
+        "Escript",
+        "CSJS",
+        "Live Script",
+        "Server-side JavaScript",
+        "Mocha",
+        "Live script",
+        "Client-side JavaScript",
+        "JavaScripts"
+      ],
+      "hr": [
+        "JavaScript 1.7",
+        "JavaScript 1.6",
+        "Escript",
+        "CSJS",
+        "Live Script",
+        "Server-side JavaScript",
+        "Mocha",
+        "Live script",
+        "Client-side JavaScript",
+        "JavaScripts"
+      ],
+      "lv": [
+        "JavaScript 1.7",
+        "JavaScript 1.6",
+        "Escript",
+        "CSJS",
+        "Live Script",
+        "Server-side JavaScript",
+        "Mocha",
+        "Live script",
+        "Client-side JavaScript",
+        "JavaScripts"
+      ],
+      "fr": [
+        "JavaScript 1.7",
+        "JavaScript 1.6",
+        "Escript",
+        "CSJS",
+        "Live Script",
+        "Server-side JavaScript",
+        "Mocha",
+        "Live script",
+        "Client-side JavaScript",
+        "JavaScripts"
+      ],
+      "hu": [
+        "JavaScript 1.7",
+        "JavaScript 1.6",
+        "Escript",
+        "CSJS",
+        "Live Script",
+        "Server-side JavaScript",
+        "Mocha",
+        "Live script",
+        "Client-side JavaScript",
+        "JavaScripts"
+      ],
+      "sk": [
+        "JavaScript 1.7",
+        "JavaScript 1.6",
+        "Escript",
+        "CSJS",
+        "Live Script",
+        "Server-side JavaScript",
+        "Mocha",
+        "Live script",
+        "Client-side JavaScript",
+        "JavaScripts"
+      ],
+      "sl": [
+        "JavaScript 1.7",
+        "JavaScript 1.6",
+        "Escript",
+        "CSJS",
+        "Live Script",
+        "Server-side JavaScript",
+        "Mocha",
+        "Live script",
+        "Client-side JavaScript",
+        "JavaScripts"
+      ],
+      "ga": [
+        "JavaScript 1.7",
+        "JavaScript 1.6",
+        "Escript",
+        "CSJS",
+        "Live Script",
+        "Server-side JavaScript",
+        "Mocha",
+        "Live script",
+        "Client-side JavaScript",
+        "JavaScripts"
+      ],
+      "sv": [
+        "JavaScript 1.7",
+        "JavaScript 1.6",
+        "Escript",
+        "CSJS",
+        "Live Script",
+        "Server-side JavaScript",
+        "Mocha",
+        "Live script",
+        "Client-side JavaScript",
+        "JavaScripts"
+      ],
+      "el": [
+        "JavaScript 1.7",
+        "JavaScript 1.6",
+        "Escript",
+        "CSJS",
+        "Live Script",
+        "Server-side JavaScript",
+        "Mocha",
+        "Live script",
+        "Client-side JavaScript",
+        "JavaScripts"
+      ],
+      "mt": [
+        "JavaScript 1.7",
+        "JavaScript 1.6",
+        "Escript",
+        "CSJS",
+        "Live Script",
+        "Server-side JavaScript",
+        "Mocha",
+        "Live script",
+        "Client-side JavaScript",
+        "JavaScripts"
+      ],
+      "en": [
+        "JavaScript 1.7",
+        "JavaScript 1.6",
+        "Escript",
+        "CSJS",
+        "Live Script",
+        "Server-side JavaScript",
+        "Mocha",
+        "Live script",
+        "Client-side JavaScript",
+        "JavaScripts"
+      ],
+      "is": [
+        "JavaScript 1.7",
+        "JavaScript 1.6",
+        "Escript",
+        "CSJS",
+        "Live Script",
+        "Server-side JavaScript",
+        "Mocha",
+        "Live script",
+        "Client-side JavaScript",
+        "JavaScripts"
+      ],
+      "it": [
+        "JavaScript 1.7",
+        "JavaScript 1.6",
+        "Escript",
+        "CSJS",
+        "Live Script",
+        "Server-side JavaScript",
+        "Mocha",
+        "Live script",
+        "Client-side JavaScript",
+        "JavaScripts"
+      ],
+      "es": [
+        "JavaScript 1.7",
+        "JavaScript 1.6",
+        "Escript",
+        "CSJS",
+        "Live Script",
+        "Server-side JavaScript",
+        "Mocha",
+        "Live script",
+        "Client-side JavaScript",
+        "JavaScripts"
+      ],
+      "et": [
+        "JavaScript 1.7",
+        "JavaScript 1.6",
+        "Escript",
+        "CSJS",
+        "Live Script",
+        "Server-side JavaScript",
+        "Mocha",
+        "Live script",
+        "Client-side JavaScript",
+        "JavaScripts"
+      ],
+      "cs": [
+        "JavaScript 1.7",
+        "JavaScript 1.6",
+        "Escript",
+        "CSJS",
+        "Live Script",
+        "Server-side JavaScript",
+        "Mocha",
+        "Live script",
+        "Client-side JavaScript",
+        "JavaScripts"
+      ],
+      "ar": [
+        "JavaScript 1.7",
+        "JavaScript 1.6",
+        "Escript",
+        "CSJS",
+        "Live Script",
+        "Server-side JavaScript",
+        "Mocha",
+        "Live script",
+        "Client-side JavaScript",
+        "JavaScripts"
+      ],
+      "pl": [
+        "JavaScript 1.7",
+        "JavaScript 1.6",
+        "Escript",
+        "CSJS",
+        "Live Script",
+        "Server-side JavaScript",
+        "Mocha",
+        "Live script",
+        "Client-side JavaScript",
+        "JavaScripts"
+      ],
+      "ro": [
+        "JavaScript 1.7",
+        "JavaScript 1.6",
+        "Escript",
+        "CSJS",
+        "Live Script",
+        "Server-side JavaScript",
+        "Mocha",
+        "Live script",
+        "Client-side JavaScript",
+        "JavaScripts"
+      ],
+      "da": [
+        "JavaScript 1.7",
+        "JavaScript 1.6",
+        "Escript",
+        "CSJS",
+        "Live Script",
+        "Server-side JavaScript",
+        "Mocha",
+        "Live script",
+        "Client-side JavaScript",
+        "JavaScripts"
+      ],
+      "nl": [
+        "JavaScript 1.7",
+        "JavaScript 1.6",
+        "Escript",
+        "CSJS",
+        "Live Script",
+        "Server-side JavaScript",
+        "Mocha",
+        "Live script",
+        "Client-side JavaScript",
+        "JavaScripts"
+      ]
+    },
+    "description": {
+      "de": {
+        "literal": "Techniken und Grundsätze der Softwareentwicklung wie Analyse, Algorithmen, Programmierung, Testen und Kompilieren von Programmierparadigmen in JavaScript.",
+        "mimetype": "plain/text"
+      },
+      "no": {
+        "literal": "Teknikker og prinsipper for programvareutvikling, som analyse, algoritmer, koding, testing og sammensetning av programmeringsparadigmer i JavaScript.",
+        "mimetype": "plain/text"
+      },
+      "en-us": {
+        "literal": "The techniques and principles of software development, such as analysis, algorithms, coding, testing and compiling of programming paradigms in JavaScript.",
+        "mimetype": "plain/text"
+      },
+      "fi": {
+        "literal": "Ohjelmistojen kehittämisen tekniikat ja periaatteet, kuten analyysi, algoritmit, koodaus, testaus ja ohjelmointiparadigmojen laatiminen JavaScriptissa.",
+        "mimetype": "plain/text"
+      },
+      "pt": {
+        "literal": "As técnicas e os princípios de desenvolvimento de software, como análise, algoritmos, escrita de código, teste e compilação de paradigmas de programação em JavaScript.",
+        "mimetype": "plain/text"
+      },
+      "bg": {
+        "literal": "Техниките и принципите за разработване на софтуер, например анализ, алгоритми, кодиране, тестване и съставяне на модели за програмиране в JavaScript.",
+        "mimetype": "plain/text"
+      },
+      "lt": {
+        "literal": "Programinės įrangos kūrimo metodai ir principai, pvz., analizė, algoritmai, kodavimas, testavimas ir programų modelių sudarymas, naudojant „JavaScript“.",
+        "mimetype": "plain/text"
+      },
+      "lv": {
+        "literal": "Programmatūras izstrādes paņēmieni un principi, piemēram, analīze, algoritmi, kodēšanas, testēšanas un programmēšanas paradigmu apkopošanas metodes programmēšanas valodā “JavaScript”.",
+        "mimetype": "plain/text"
+      },
+      "hr": {
+        "literal": "Tehnike i načela razvoja softvera, kao što su analiza, algoritmi, kodiranje, ispitivanje i sastavljanje programskih paradigmi u JavaScriptu.",
+        "mimetype": "plain/text"
+      },
+      "fr": {
+        "literal": "Les techniques et les principes du développement de logiciels, tels que l’analyse, les algorithmes, le codage, les tests et la compilation des modèles de programmation en JavaScript.",
+        "mimetype": "plain/text"
+      },
+      "hu": {
+        "literal": "A szoftverfejlesztés technikái és alapelvei, úgymint elemzés, algoritmusok, kódolás, tesztelés és a programozási paradigmák összeállítása JavaScriptben.",
+        "mimetype": "plain/text"
+      },
+      "sk": {
+        "literal": "Techniky a zásady vývoja softvéru, ako sú analýza, algoritmy, kódovanie, testovanie a kompilovanie programových vzorov v JavaScripte.",
+        "mimetype": "plain/text"
+      },
+      "sl": {
+        "literal": "Tehnike in načela razvoja programske opreme, kot so analiza, algoritmi, kodiranje, preskušanje in zbiranje programskih paradigem v jeziku JavaScript.",
+        "mimetype": "plain/text"
+      },
+      "ga": {
+        "literal": "Na teicnící agus na prionsabail forbartha bogearraí, amhail anailís, algartaim, códú, tástáil agus tiomsú de na paraidímí maidir le JavaScript.",
+        "mimetype": "plain/text"
+      },
+      "sv": {
+        "literal": "Teknik och principer för utveckling av programvara, såsom analys, algoritmer, kodning, testning och sammanställning av programmeringsparadigm, i JavaScript.",
+        "mimetype": "plain/text"
+      },
+      "el": {
+        "literal": "Οι τεχνικές και οι αρχές ανάπτυξης λογισμικού, όπως είναι η ανάλυση, οι αλγόριθμοι, η συγγραφή κώδικα, οι δοκιμές και η κατάρτιση μοντέλων προγραμματισμού σε JavaScript.",
+        "mimetype": "plain/text"
+      },
+      "mt": {
+        "literal": "It-tekniki u l-prinċipji tal-iżvilupp tas-softwer, bħal analiżi, algoritmi, ikkowdjar, ittestjar u kumpilazzjoni ta’ mudelli ta’ programmar f’JavaScript.",
+        "mimetype": "plain/text"
+      },
+      "en": {
+        "literal": "The techniques and principles of software development, such as analysis, algorithms, coding, testing and compiling of programming paradigms in JavaScript.",
+        "mimetype": "plain/text"
+      },
+      "is": {
+        "literal": "Aðferðir og meginreglur um þróun hugbúnaðar, s.s. greiningar, reiknirit, kóðun, prófanir og þýðing á viðmiðum í JavaScript.",
+        "mimetype": "plain/text"
+      },
+      "it": {
+        "literal": "Le tecniche e i principi dello sviluppo di software, quali analisi, algoritmi, codifica, collaudo e compilazione dei paradigmi di programmazione con JavaScript.",
+        "mimetype": "plain/text"
+      },
+      "es": {
+        "literal": "Técnicas y principios de desarrollo de software, como análisis, algoritmos, codificación, pruebas y compilación de paradigmas de programación en JavaScript.",
+        "mimetype": "plain/text"
+      },
+      "et": {
+        "literal": "Tarkvara JavaScriptiga arendamise meetodid ja põhimõtted, näiteks analüüsimine, algoritmid, kodeerimine, katsetamine ja programmeerimisparadigmade koostamine.",
+        "mimetype": "plain/text"
+      },
+      "cs": {
+        "literal": "Techniky a zásady vývoje softwaru, jako je analýza, algoritmy, kódování, testování a sestavování programovacích paradigmat v jazyce JavaScript.",
+        "mimetype": "plain/text"
+      },
+      "ar": {
+        "literal": "تقنيات ومبادئ تطوير البرمجيات، مثل التحليل، والخوارزميات، والترميز، واختبار وتجميع نماذج البرمجة في جافا سكريبت.",
+        "mimetype": "plain/text"
+      },
+      "pl": {
+        "literal": "Techniki i zasady opracowywania oprogramowania, takie jak analiza, algorytmy, kodowanie, testowanie i kompilacja paradygmatów programowania w języku JavaScript.",
+        "mimetype": "plain/text"
+      },
+      "ro": {
+        "literal": "Tehnicile și principiile dezvoltării de software, cum ar fi analiza, algoritmii, codificarea, testarea și compilarea paradigmelor de programare în JavaScript.",
+        "mimetype": "plain/text"
+      },
+      "da": {
+        "literal": "Teknikker og principper for softwareudvikling, såsom analyse, algoritmer, kodning, test og opstilling af programmeringsparadigmer i JavaScript.",
+        "mimetype": "plain/text"
+      },
+      "nl": {
+        "literal": "Technieken en beginselen van softwareontwikkeling, waaronder analyse, algoritmes, coderen, testen en ontwerpen van programmeerparadigma's in JavaScript.",
+        "mimetype": "plain/text"
+      }
+    },
+    "status": "released",
+    "_links": {
+      "self": {
+        "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/3cd569a2-4f88-4c1e-9995-8dce8c5e51a7&language=en",
+        "uri": "http://data.europa.eu/esco/skill/3cd569a2-4f88-4c1e-9995-8dce8c5e51a7",
+        "title": "JavaScript"
+      },
+      "isInScheme": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/taxonomy?uri=http://data.europa.eu/esco/concept-scheme/skills&language=en",
+          "uri": "http://data.europa.eu/esco/concept-scheme/skills",
+          "title": "ESCO skills"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/taxonomy?uri=http://data.europa.eu/esco/concept-scheme/member-skills&language=en",
+          "uri": "http://data.europa.eu/esco/concept-scheme/member-skills",
+          "title": "ESCO member skills"
+        }
+      ],
+      "hasSkillType": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/concept?uri=http://data.europa.eu/esco/skill-type/knowledge&language=en",
+          "uri": "http://data.europa.eu/esco/skill-type/knowledge",
+          "title": "knowledge"
+        }
+      ],
+      "hasReuseLevel": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/concept?uri=http://data.europa.eu/esco/skill-reuse-level/sector-specific&language=en",
+          "uri": "http://data.europa.eu/esco/skill-reuse-level/sector-specific",
+          "title": "sector specific skills and competences",
+          "code": "Level 3"
+        }
+      ],
+      "broaderHierarchyConcept": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/concept?uri=http://data.europa.eu/esco/isced-f/0613&language=en",
+          "uri": "http://data.europa.eu/esco/isced-f/0613",
+          "title": "software and applications development and analysis"
+        }
+      ],
+      "broaderSkill": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/69bbd53f-fbb0-4476-b4b2-ef7844464e28&language=en",
+          "uri": "http://data.europa.eu/esco/skill/69bbd53f-fbb0-4476-b4b2-ef7844464e28",
+          "title": "web programming",
+          "skillType": "http://data.europa.eu/esco/skill-type/knowledge"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97&language=en",
+          "uri": "http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97",
+          "title": "computer programming",
+          "skillType": "http://data.europa.eu/esco/skill-type/knowledge"
+        }
+      ],
+      "isEssentialForOccupation": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/62979364-6fac-41f2-87ca-202bca19a6ab&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/62979364-6fac-41f2-87ca-202bca19a6ab",
+          "title": "computer-aided design operator"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/6e5ceba0-df96-465f-adb4-2e06ae715d43&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/6e5ceba0-df96-465f-adb4-2e06ae715d43",
+          "title": "numerical tool and process control programmer"
+        }
+      ],
+      "isOptionalForOccupation": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/b37d15b3-402e-4792-8292-f18c0de7aca6&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/b37d15b3-402e-4792-8292-f18c0de7aca6",
+          "title": "mobile devices technician"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/a7c1d23d-aeca-4bee-9a08-5993ed98b135&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/a7c1d23d-aeca-4bee-9a08-5993ed98b135",
+          "title": "ICT system developer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/cf2b03cd-feb7-4f47-90f6-ff1ed6016d3d&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/cf2b03cd-feb7-4f47-90f6-ff1ed6016d3d",
+          "title": "ICT network engineer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/8d9ec84d-cf2d-4179-87bc-335cda54a427&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/8d9ec84d-cf2d-4179-87bc-335cda54a427",
+          "title": "database designer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/2bef94db-0088-4507-982a-2ca717529adb&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/2bef94db-0088-4507-982a-2ca717529adb",
+          "title": "enterprise architect"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/c40a2919-48a9-40ea-b506-1f34f693496d&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/c40a2919-48a9-40ea-b506-1f34f693496d",
+          "title": "web developer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/07e60525-1aad-4099-aaf3-2c7014c92212&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/07e60525-1aad-4099-aaf3-2c7014c92212",
+          "title": "integration engineer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/86ca306c-ab99-420a-9e2a-aa73c5c4de22&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/86ca306c-ab99-420a-9e2a-aa73c5c4de22",
+          "title": "electrical engineer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/35553663-deab-4d9a-bf22-15c1625d28e8&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/35553663-deab-4d9a-bf22-15c1625d28e8",
+          "title": "ICT intelligent systems designer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/50af07f0-7a75-424e-a66d-5a9deea10f4c&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/50af07f0-7a75-424e-a66d-5a9deea10f4c",
+          "title": "ICT accessibility tester"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/5c082067-ea18-4ccb-8c43-e70b18ad8120&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/5c082067-ea18-4ccb-8c43-e70b18ad8120",
+          "title": "computer numerical control machine operator"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/a74f6c51-37e5-423e-aa5b-044e98663027&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/a74f6c51-37e5-423e-aa5b-044e98663027",
+          "title": "web content manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/5f50290d-f520-4a69-85c7-1390d2a4a8b6&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/5f50290d-f520-4a69-85c7-1390d2a4a8b6",
+          "title": "ICT usability tester"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/a9c30651-ccbc-4a80-900c-7880615cdf6e&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/a9c30651-ccbc-4a80-900c-7880615cdf6e",
+          "title": "instructional designer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/d5a43cd3-230e-46d0-ba05-d67d61e5cfbb&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/d5a43cd3-230e-46d0-ba05-d67d61e5cfbb",
+          "title": "digital media designer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/38a7f453-a7f0-45d2-a74d-5b92506e4a21&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/38a7f453-a7f0-45d2-a74d-5b92506e4a21",
+          "title": "computer hardware engineering technician"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/96e20037-0a25-4bf6-a25e-808d1605d890&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/96e20037-0a25-4bf6-a25e-808d1605d890",
+          "title": "user interface designer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/c3b82711-273d-4fa8-8de7-0ac3d99c16fc&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/c3b82711-273d-4fa8-8de7-0ac3d99c16fc",
+          "title": "computer science lecturer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/a6a0b60f-08da-4faa-bf54-942987efb471&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/a6a0b60f-08da-4faa-bf54-942987efb471",
+          "title": "ICT system analyst"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/3e7bf729-4442-4b9f-ad5e-83111963795c&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/3e7bf729-4442-4b9f-ad5e-83111963795c",
+          "title": "ICT technician"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/9ebaf3f0-0be0-47b7-b2b1-b3b04130fa81&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/9ebaf3f0-0be0-47b7-b2b1-b3b04130fa81",
+          "title": "digital games developer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/276ba420-ef09-4a0e-b215-2c2e2f80ad28&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/276ba420-ef09-4a0e-b215-2c2e2f80ad28",
+          "title": "chief ICT security officer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/57af9090-55b4-4911-b2d0-86db01c00b02&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/57af9090-55b4-4911-b2d0-86db01c00b02",
+          "title": "embedded systems software developer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/92bb3d8c-8a9f-4cd7-80ec-247bbf173004&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/92bb3d8c-8a9f-4cd7-80ec-247bbf173004",
+          "title": "computer hardware engineer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/98c3d8f8-e3a8-49b7-9e58-236f25a6f6a0&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/98c3d8f8-e3a8-49b7-9e58-236f25a6f6a0",
+          "title": "system configurator"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/1562c7a3-c7d9-419d-b9b6-db26610bcf84&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/1562c7a3-c7d9-419d-b9b6-db26610bcf84",
+          "title": "data warehouse designer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/bab5fa79-7f96-4e21-87b6-1eba560b8d9a&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/bab5fa79-7f96-4e21-87b6-1eba560b8d9a",
+          "title": "3D modeller"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/e1c72b5f-4c5c-487c-a6df-e84b64a51dae&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/e1c72b5f-4c5c-487c-a6df-e84b64a51dae",
+          "title": "ICT system architect"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/dc8ef7da-d2c0-4474-96a0-6d0385eeec1e&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/dc8ef7da-d2c0-4474-96a0-6d0385eeec1e",
+          "title": "webmaster"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/ec5b72d1-0206-4179-9abd-570c66bc44b9&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/ec5b72d1-0206-4179-9abd-570c66bc44b9",
+          "title": "e-learning developer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/2ed56c3f-61d6-4f7e-9ef8-8849eb102e4c&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/2ed56c3f-61d6-4f7e-9ef8-8849eb102e4c",
+          "title": "mobile application developer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/456ed487-02f2-45c9-9213-d0fd8e9a069d&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/456ed487-02f2-45c9-9213-d0fd8e9a069d",
+          "title": "ICT application configurator"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/fde4372d-8293-42de-afbb-8b5a9b274fe7&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/fde4372d-8293-42de-afbb-8b5a9b274fe7",
+          "title": "application engineer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/82f90e87-de92-4678-adae-61d3e5f7e1e4&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/82f90e87-de92-4678-adae-61d3e5f7e1e4",
+          "title": "chief information officer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/81480b40-a318-47f3-9b2c-56b69ed67d95&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/81480b40-a318-47f3-9b2c-56b69ed67d95",
+          "title": "ICT network administrator"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/f2b15a0e-e65a-438a-affb-29b9d50b77d1&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/f2b15a0e-e65a-438a-affb-29b9d50b77d1",
+          "title": "software developer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/7b1b5da8-573a-49bb-a38e-68725a949f4f&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/7b1b5da8-573a-49bb-a38e-68725a949f4f",
+          "title": "chief technology officer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/b11e1742-5e28-4270-b081-b0193d85ee7d&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/b11e1742-5e28-4270-b081-b0193d85ee7d",
+          "title": "database developer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/02eb0ae6-ecdd-4602-9c8e-60ffe6dbe1e2&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/02eb0ae6-ecdd-4602-9c8e-60ffe6dbe1e2",
+          "title": "telecommunications engineer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/76a1a76c-b014-4600-8901-56cb936de7ed&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/76a1a76c-b014-4600-8901-56cb936de7ed",
+          "title": "ICT auditor manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/a44a1dc5-be08-4840-8bd5-770c4ac1ca6d&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/a44a1dc5-be08-4840-8bd5-770c4ac1ca6d",
+          "title": "ICT security technician"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/10469d70-78a3-4650-9e29-d04de13c62c1&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/10469d70-78a3-4650-9e29-d04de13c62c1",
+          "title": "embedded system designer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/812c217d-32b7-4f6a-9faf-993d3577ac7f&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/812c217d-32b7-4f6a-9faf-993d3577ac7f",
+          "title": "knowledge engineer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/106f79e4-6264-45f1-9e7a-297435cd684b&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/106f79e4-6264-45f1-9e7a-297435cd684b",
+          "title": "software tester"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/866c7813-2c03-47d7-9bdc-192cfbace57c&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/866c7813-2c03-47d7-9bdc-192cfbace57c",
+          "title": "user interface developer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/d0aa0792-4345-474b-9365-686cf4869d2e&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/d0aa0792-4345-474b-9365-686cf4869d2e",
+          "title": "software architect"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/d68ff35f-e34d-4e32-88ab-d6c06a6c25b9&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/d68ff35f-e34d-4e32-88ab-d6c06a6c25b9",
+          "title": "digital games designer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/04ba4d6c-957d-417f-bf63-5b9e015a9f86&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/04ba4d6c-957d-417f-bf63-5b9e015a9f86",
+          "title": "software analyst"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/bd272aee-adc9-4a06-a15c-a73b4b4a46a7&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/bd272aee-adc9-4a06-a15c-a73b4b4a46a7",
+          "title": "ICT application developer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/d84bf1d7-ef99-40c4-a407-3791d6531b44&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/d84bf1d7-ef99-40c4-a407-3791d6531b44",
+          "title": "telecommunications engineering technician"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/bb6198c4-1d3e-40b9-9cc4-ad2dd9d7c74b&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/bb6198c4-1d3e-40b9-9cc4-ad2dd9d7c74b",
+          "title": "industrial mobile devices software developer"
+        }
+      ],
+      "isOptionalForSkill": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/5ef0c719-5bcb-49f8-b8eb-824388225333&language=en",
+          "uri": "http://data.europa.eu/esco/skill/5ef0c719-5bcb-49f8-b8eb-824388225333",
+          "title": "use scripting programming",
+          "skillType": "http://data.europa.eu/esco/skill-type/skill"
+        }
+      ]
+    },
+    "_embedded": {
+      "ancestors": [
+        {
+          "title": "JavaScript",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/3cd569a2-4f88-4c1e-9995-8dce8c5e51a7&language=en",
+              "uri": "http://data.europa.eu/esco/skill/3cd569a2-4f88-4c1e-9995-8dce8c5e51a7"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97",
+            "http://data.europa.eu/esco/isced-f/0613",
+            "http://data.europa.eu/esco/skill/69bbd53f-fbb0-4476-b4b2-ef7844464e28"
+          ]
+        },
+        {
+          "title": "computer programming",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97&language=en",
+              "uri": "http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/f5369f2f-e52b-43d8-8d31-79a6c11188d8",
+            "http://data.europa.eu/esco/isced-f/0613"
+          ]
+        },
+        {
+          "title": "digital content creation",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/f5369f2f-e52b-43d8-8d31-79a6c11188d8&language=en",
+              "uri": "http://data.europa.eu/esco/skill/f5369f2f-e52b-43d8-8d31-79a6c11188d8"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/aeecc330-0be9-419f-bddb-5218de926004"
+          ]
+        },
+        {
+          "title": "digital competencies",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/aeecc330-0be9-419f-bddb-5218de926004&language=en",
+              "uri": "http://data.europa.eu/esco/skill/aeecc330-0be9-419f-bddb-5218de926004"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/4f663b30-1c49-4634-82e4-7e582b1551b7"
+          ]
+        },
+        {
+          "title": "application of knowledge",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/4f663b30-1c49-4634-82e4-7e582b1551b7&language=en",
+              "uri": "http://data.europa.eu/esco/skill/4f663b30-1c49-4634-82e4-7e582b1551b7"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/7ee746cb-fded-47f5-9652-19ebebbce51b"
+          ]
+        },
+        {
+          "title": "Transversal skills/competences",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/7ee746cb-fded-47f5-9652-19ebebbce51b&language=en",
+              "uri": "http://data.europa.eu/esco/skill/7ee746cb-fded-47f5-9652-19ebebbce51b"
+            }
+          },
+          "parents": []
+        },
+        {
+          "title": "software and applications development and analysis",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/isced-f/0613&language=en",
+              "uri": "http://data.europa.eu/esco/isced-f/0613"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/isced-f/061"
+          ]
+        },
+        {
+          "title": "information and communication technologies (icts)",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/isced-f/061&language=en",
+              "uri": "http://data.europa.eu/esco/isced-f/061"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/isced-f/06"
+          ]
+        },
+        {
+          "title": "information and communication technologies (icts)",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/isced-f/06&language=en",
+              "uri": "http://data.europa.eu/esco/isced-f/06"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/K"
+          ]
+        },
+        {
+          "title": "knowledge",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/K&language=en",
+              "uri": "http://data.europa.eu/esco/skill/K"
+            }
+          },
+          "parents": []
+        },
+        {
+          "title": "software and applications development and analysis",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/isced-f/0613&language=en",
+              "uri": "http://data.europa.eu/esco/isced-f/0613"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/isced-f/061"
+          ]
+        },
+        {
+          "title": "web programming",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/69bbd53f-fbb0-4476-b4b2-ef7844464e28&language=en",
+              "uri": "http://data.europa.eu/esco/skill/69bbd53f-fbb0-4476-b4b2-ef7844464e28"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97",
+            "http://data.europa.eu/esco/isced-f/0613"
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,777 @@
+{
+  "url": "https://ec.europa.eu/esco/api/resource/skill?language=en&uri=http%3A%2F%2Fdata.europa.eu%2Fesco%2Fskill%2Fd4a4ec38-63e1-4fcf-8768-debc0dc382e8",
+  "at": "2026-11-14T23:00:09.371Z",
+  "response": {
+    "className": "Skill",
+    "classId": "http://data.europa.eu/esco/model#Skill",
+    "uri": "http://data.europa.eu/esco/skill/d4a4ec38-63e1-4fcf-8768-debc0dc382e8",
+    "title": "clean vehicle interiors",
+    "referenceLanguage": [
+      "en"
+    ],
+    "preferredLabel": {
+      "de": "Fahrzeuginnenraum reinigen",
+      "no": "rengjøre kjøretøyets interiør",
+      "en-us": "clean vehicle interiors",
+      "fi": "puhdistaa ajoneuvon sisäpuoli",
+      "pt": "limpar o interior de veículos",
+      "bg": "почистване на превозни средства отвътре",
+      "lt": "valyti transporto priemonių vidų",
+      "hr": "čistiti unutrašnjost vozila",
+      "lv": "tīrīt transportlīdzekļu salonu",
+      "fr": "nettoyer l’intérieur d’un véhicule",
+      "hu": "kitakarítja a jármű belső részét",
+      "sk": "vyčistiť interiér vozidla",
+      "sl": "očistiti notranjost vozila",
+      "ga": "an taobh istigh d’fheithiclí a ghlanadh",
+      "sv": "rengöra fordons insida",
+      "el": "καθαρισμός εσωτερικών μερών οχήματος",
+      "mt": "tindif tal-interjuri tal-vetturi",
+      "en": "clean vehicle interiors",
+      "is": "þrífur bifreið að innan",
+      "it": "pulire gli interni del veicolo",
+      "es": "limpiar el interior del vehículo",
+      "et": "sõiduki salongi puhastama",
+      "cs": "vyčistit vnitřní části vozidla",
+      "ar": "تنظيف المركبات من الداخل",
+      "pl": "czyścić wnętrze pojazdu",
+      "da": "rengøre køretøjer indvendigt",
+      "ro": "curăță interioarele vehiculului",
+      "nl": "binnenkant van voertuigen schoonmaken"
+    },
+    "alternativeLabel": {
+      "fi": [
+        "siivota ajoneuvo sisältä",
+        "puhdistaa ajoneuvon sisäosat"
+      ],
+      "bg": [
+        "почистване на вътрешната страна на превозни средства"
+      ],
+      "en": [
+        "cleaning vehicle interiors",
+        "tidy up vehicle interiors",
+        "clean a vehicles interior",
+        "tidy vehicle interiors",
+        "clean a vehicle interior",
+        "clear vehicle interiors",
+        "cleanse vehicle interiors"
+      ],
+      "ro": [
+        "curăță vehiculul în interior",
+        "curăță habitaclul vehiculului"
+      ],
+      "nl": [
+        "binnenkant van voertuigen reinigen",
+        "binnenkant van voertuigen kuisen"
+      ],
+      "es": [
+        "lavar el interior del vehículo",
+        "limpiar la parte interior del vehículo"
+      ]
+    },
+    "description": {
+      "de": {
+        "literal": "Entfernen von Schmutz, Müll oder Verunreinigungen des Fahrzeuginnenraums, einschließlich Konsolen und Armaturen; Absaugen der Autositze und Teppiche; Reinigen der Scharniere und Türverkleidungen.",
+        "mimetype": "plain/text"
+      },
+      "no": {
+        "literal": "Fjerne skitt, søppel eller urenheter på kjøretøyets interiør, herunder konsoller og dashbord; støvsuge bilseter og tepper; rengjøre hengsler og dørpolstring.",
+        "mimetype": "plain/text"
+      },
+      "en-us": {
+        "literal": "Remove dirt, rubbish or impurities of the interior of vehicles, including consoles and dashboards; vacuum car seats and carpets; clean hinges and door trims.",
+        "mimetype": "plain/text"
+      },
+      "fi": {
+        "literal": "Poistaa likaa, roskia ja epäpuhtauksia ajoneuvojen sisältä, mukaan lukien konsolit ja kojelaudat. Imuroida ajoneuvon penkkejä ja mattoja. Puhdistaa saranat ja ovenkarmit.",
+        "mimetype": "plain/text"
+      },
+      "pt": {
+        "literal": "Remover detritos, lixo ou impurezas do interior dos veículos, incluindo consolas e painéis; aspirar os assentos e os tapetes; limpar dobradiças e guarnições das portas.",
+        "mimetype": "plain/text"
+      },
+      "bg": {
+        "literal": "Отстранява мръсотия, боклуци или нечистотии от купето на превозно средство, включително средната конзола и арматурното табло; прахосмучи седалките и килимите; почиства пантите и тапицериите на вратите.",
+        "mimetype": "plain/text"
+      },
+      "lt": {
+        "literal": "Pašalinti transporto priemonių vidaus, įskaitant konsolę ir prietaisų skydelį, nešvarumus, šiukšles ar priemaišas; naudojant vakuumą išvalyti sėdynes ir kilimėlius; išvalyti durų vyrius ir apdailą.",
+        "mimetype": "plain/text"
+      },
+      "hr": {
+        "literal": "Uklanjati prljavštinu, smeće ili nečistoće iz unutrašnjosti vozila, uključujući konzole i ploče s instrumentima, usisavati automobilska sjedala i tepihe; čistiti šarke i obloge vrata.",
+        "mimetype": "plain/text"
+      },
+      "lv": {
+        "literal": "Tīrīt transportlīdzekļu salonu, ieskaitot pultis un paneļus, izmetot netīrumus un atkritumus. Nosūkt putekļus no automašīnu sēdekļiem un paklājiem. Notīrīt eņģes un durvju apdares.",
+        "mimetype": "plain/text"
+      },
+      "fr": {
+        "literal": "Éliminer la saleté, les déchets et les impuretés de l’intérieur des véhicules, notamment des consoles et des tableaux de bord; passer l’aspirateur sur les tapis et les sièges des voitures; nettoyer les charnières et les garnitures des portes.",
+        "mimetype": "plain/text"
+      },
+      "hu": {
+        "literal": "Eltávolítja a jármű belsejében, a konzolokon és a műszerfalon található piszkot, szemetet vagy szennyeződést, leporszívózza az üléseket és a szőnyegeket, megtisztítja az ajtópántokat és -szegélyeket.",
+        "mimetype": "plain/text"
+      },
+      "sk": {
+        "literal": "Odstrániť špinu, odpadky a nečistoty z interiéru vozidiel vrátane konzol a prístrojových dosiek; povysávať sedačky a koberce v aute, čistiť pánty a tesnenia dverí.",
+        "mimetype": "plain/text"
+      },
+      "sl": {
+        "literal": "Odstraniti umazanijo, odpadke ali nečistoče v notranjosti vozil, vključno s konzolami in armaturnimi ploščami; posesati sedeže in preproge v avtomobilu; očistiti tečaje in okvire vrat.",
+        "mimetype": "plain/text"
+      },
+      "ga": {
+        "literal": "Salachar, bruscar nó neamhghlaine a bhaint ón taobh istigh d’fheithiclí, lena n-áirítear an consól, deais; suíocháin agus brat urláir a fholúsghlanadh; insí agus cumhdaigh na doirse a ghlanadh.",
+        "mimetype": "plain/text"
+      },
+      "sv": {
+        "literal": "Avlägsna smuts, skräp eller föroreningar från insidan av bilar, inklusive konsoler och instrumentpaneler; dammsuga säten och mattor; rengöra gångjärn och dörrlister.",
+        "mimetype": "plain/text"
+      },
+      "el": {
+        "literal": "Αφαίρεση σκόνης, σκουπιδιών ή ακαθαρσιών εσωτερικών μερών των οχημάτων, συμπεριλαμβανομένων των κονσολών και των ταμπλό οργάνων. Σκούπισμα καθισμάτων και μοκετών, καθαρισμός μεντεσέδων και θυρών.",
+        "mimetype": "plain/text"
+      },
+      "mt": {
+        "literal": "Neħħi ħmieġ, żibel jew impuritajiet minn fuq ġewwa ta’ vettura, inklużi konsowls u strumenti ta’ kontroll; uża vacuum clenear biex tnaddaf is-sits u t-twapet; nadaf iċ-ċappetti u t-tappezzerija tal-bibien.",
+        "mimetype": "plain/text"
+      },
+      "en": {
+        "literal": "Remove dirt, rubbish or impurities of the interior of vehicles, including consoles and dashboards; vacuum car seats and carpets; clean hinges and door trims.",
+        "mimetype": "plain/text"
+      },
+      "is": {
+        "literal": "Fjarlægir óhreinindi, rusl eða óhreinindi innan í ökutækjum, þ.m.t. stjórnborð og mælaborð; ryksugar bílsæti og teppi; hreinsar lamir og hurðarklippur.",
+        "mimetype": "plain/text"
+      },
+      "it": {
+        "literal": "Rimuovere lo sporco, i rifiuti e le impurità all’interno dei veicoli, compresi i vani portaoggetti e i cruscotti; passare l’aspirapolvere su sedili e tappeti; pulire i cardini e le finiture delle portiere.",
+        "mimetype": "plain/text"
+      },
+      "es": {
+        "literal": "Eliminar la suciedad, la basura o las impurezas del interior de los vehículos, incluidas consolas y salpicaderos; aspirar los asientos y las alfombras del automóvil; limpiar las bisagras y los embellecedores de las puertas.",
+        "mimetype": "plain/text"
+      },
+      "et": {
+        "literal": "Mustuse või prahi eemaldamine sõiduki salongist, kaasa arvatud armatuurlaualt ja näidikutelt; istmete ja vaipade puhastamine tolmuimejaga; hingede ja ukseraamide puhastamine.",
+        "mimetype": "plain/text"
+      },
+      "cs": {
+        "literal": "Odstranit špínu, smetí a nečistoty z interiéru vozidla, včetně konzolí a palubních desek; vysávat sedadla a koberečky; vyčistit dveřní panty a těsnění.",
+        "mimetype": "plain/text"
+      },
+      "ar": {
+        "literal": "التخلص من الأوساخ أو المخلفات أو الشوائب الموجودة داخل المركبات، بما في ذلك لوحات التحكم ولوحات المعلومات؛ مع تنظيف المقاعد والسجاد بالمكنسة الكهربائية؛ وتنظيف المفصلات وحواف الأبواب.",
+        "mimetype": "plain/text"
+      },
+      "pl": {
+        "literal": "Usuwać zabrudzenia, śmieci lub zanieczyszczenia z wnętrza pojazdów, w tym konsoli i desek rozdzielczych; odkurzać fotele samochodowe i dywaniki; czyścić zawiasy i wykończenia drzwi.",
+        "mimetype": "plain/text"
+      },
+      "ro": {
+        "literal": "Îndepărtează murdăria, gunoiul sau impuritățile din interiorul vehiculelor, inclusiv a consolelor și tablourilor de bord; aspiră scaunele și covoarele vehiculului; curăță balamalele și bordurile ușilor.",
+        "mimetype": "plain/text"
+      },
+      "da": {
+        "literal": "Fjerne snavs, affald eller urenheder i biler, herunder konsoller og instrumentbrætter, støvsuge bilsæder og tæpper, rengøre hængsler og pyntelister på døre.",
+        "mimetype": "plain/text"
+      },
+      "nl": {
+        "literal": "Verwijderen van vuil, afval of onzuiverheden van de binnenkant van voertuigen, inclusief consoles en dashboards; autostoelen en tapijten stofzuigen; scharnieren en deurpanelen reinigen.",
+        "mimetype": "plain/text"
+      }
+    },
+    "status": "released",
+    "_links": {
+      "self": {
+        "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/d4a4ec38-63e1-4fcf-8768-debc0dc382e8&language=en",
+        "uri": "http://data.europa.eu/esco/skill/d4a4ec38-63e1-4fcf-8768-debc0dc382e8",
+        "title": "clean vehicle interiors"
+      },
+      "isInScheme": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/taxonomy?uri=http://data.europa.eu/esco/concept-scheme/member-skills&language=en",
+          "uri": "http://data.europa.eu/esco/concept-scheme/member-skills",
+          "title": "ESCO member skills"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/taxonomy?uri=http://data.europa.eu/esco/concept-scheme/skills&language=en",
+          "uri": "http://data.europa.eu/esco/concept-scheme/skills",
+          "title": "ESCO skills"
+        }
+      ],
+      "hasSkillType": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/concept?uri=http://data.europa.eu/esco/skill-type/skill&language=en",
+          "uri": "http://data.europa.eu/esco/skill-type/skill",
+          "title": "skill"
+        }
+      ],
+      "hasReuseLevel": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/concept?uri=http://data.europa.eu/esco/skill-reuse-level/sector-specific&language=en",
+          "uri": "http://data.europa.eu/esco/skill-reuse-level/sector-specific",
+          "title": "sector specific skills and competences",
+          "code": "Level 3"
+        }
+      ],
+      "broaderHierarchyConcept": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/concept?uri=http://data.europa.eu/esco/skill/S6.11.1&language=en",
+          "uri": "http://data.europa.eu/esco/skill/S6.11.1",
+          "title": "cleaning tools, equipment, workpieces and vehicles",
+          "code": "S6.11.1"
+        }
+      ],
+      "broaderSkill": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/710c37e5-a6df-4755-9482-2e87db91f593&language=en",
+          "uri": "http://data.europa.eu/esco/skill/710c37e5-a6df-4755-9482-2e87db91f593",
+          "title": "ensure vehicle operability",
+          "skillType": "http://data.europa.eu/esco/skill-type/skill"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/8c68fa38-32ce-4d48-b24f-73c10bd7cea9&language=en",
+          "uri": "http://data.europa.eu/esco/skill/8c68fa38-32ce-4d48-b24f-73c10bd7cea9",
+          "title": "manage vehicle cleaning plan",
+          "skillType": "http://data.europa.eu/esco/skill-type/skill"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/0ea0b260-617b-4d04-bf00-988dd0b122e5&language=en",
+          "uri": "http://data.europa.eu/esco/skill/0ea0b260-617b-4d04-bf00-988dd0b122e5",
+          "title": "execute vehicle maintenance",
+          "skillType": "http://data.europa.eu/esco/skill-type/skill"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/6816e28f-a48d-41c7-8492-309f50c049fc&language=en",
+          "uri": "http://data.europa.eu/esco/skill/6816e28f-a48d-41c7-8492-309f50c049fc",
+          "title": "follow hygienic work practices",
+          "skillType": "http://data.europa.eu/esco/skill-type/skill"
+        }
+      ],
+      "narrowerSkill": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/c8b5b67b-d8d9-4857-bb26-1e35faf2ce22&language=en",
+          "uri": "http://data.europa.eu/esco/skill/c8b5b67b-d8d9-4857-bb26-1e35faf2ce22",
+          "title": "clean road vehicles",
+          "skillType": "http://data.europa.eu/esco/skill-type/skill"
+        }
+      ],
+      "hasOptionalSkill": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/1a16f557-01fc-4d64-b25e-a51279a45992&language=en",
+          "uri": "http://data.europa.eu/esco/skill/1a16f557-01fc-4d64-b25e-a51279a45992",
+          "title": "car cleaning procedures",
+          "skillType": "http://data.europa.eu/esco/skill-type/knowledge"
+        }
+      ],
+      "isEssentialForOccupation": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/64e909ad-1bd0-493c-a8dc-1afbed0c9c2f&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/64e909ad-1bd0-493c-a8dc-1afbed0c9c2f",
+          "title": "emergency ambulance driver"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/7cb71c5f-c310-481c-b46b-d0044328758c&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/7cb71c5f-c310-481c-b46b-d0044328758c",
+          "title": "vehicle cleaner"
+        }
+      ],
+      "isOptionalForOccupation": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/cbad55a4-c7cf-4ab6-9540-eac72b26729b&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/cbad55a4-c7cf-4ab6-9540-eac72b26729b",
+          "title": "domestic cleaner"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/880a6cd1-2356-4994-8983-ac364763beaf&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/880a6cd1-2356-4994-8983-ac364763beaf",
+          "title": "parking valet"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/af513bd8-4340-4452-aa30-05a073ecc49a&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/af513bd8-4340-4452-aa30-05a073ecc49a",
+          "title": "hearse driver"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/e75305db-9011-4ee0-ab62-8d41a98f807e&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/e75305db-9011-4ee0-ab62-8d41a98f807e",
+          "title": "private chauffeur"
+        }
+      ]
+    },
+    "_embedded": {
+      "ancestors": [
+        {
+          "title": "clean vehicle interiors",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/d4a4ec38-63e1-4fcf-8768-debc0dc382e8&language=en",
+              "uri": "http://data.europa.eu/esco/skill/d4a4ec38-63e1-4fcf-8768-debc0dc382e8"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/8c68fa38-32ce-4d48-b24f-73c10bd7cea9",
+            "http://data.europa.eu/esco/skill/6816e28f-a48d-41c7-8492-309f50c049fc",
+            "http://data.europa.eu/esco/skill/S6.11.1",
+            "http://data.europa.eu/esco/skill/0ea0b260-617b-4d04-bf00-988dd0b122e5",
+            "http://data.europa.eu/esco/skill/710c37e5-a6df-4755-9482-2e87db91f593"
+          ]
+        },
+        {
+          "title": "manage vehicle cleaning plan",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/8c68fa38-32ce-4d48-b24f-73c10bd7cea9&language=en",
+              "uri": "http://data.europa.eu/esco/skill/8c68fa38-32ce-4d48-b24f-73c10bd7cea9"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/a97353c8-f2a3-47be-86e1-f7c301fca630",
+            "http://data.europa.eu/esco/skill/S4.2.1"
+          ]
+        },
+        {
+          "title": "directing operational activities",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S4.2.1&language=en",
+              "uri": "http://data.europa.eu/esco/skill/S4.2.1"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S4.2"
+          ]
+        },
+        {
+          "title": "organising, planning and scheduling work and activities",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S4.2&language=en",
+              "uri": "http://data.europa.eu/esco/skill/S4.2"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S4"
+          ]
+        },
+        {
+          "title": "management skills",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S4&language=en",
+              "uri": "http://data.europa.eu/esco/skill/S4"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S"
+          ]
+        },
+        {
+          "title": "skills",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S&language=en",
+              "uri": "http://data.europa.eu/esco/skill/S"
+            }
+          },
+          "parents": []
+        },
+        {
+          "title": "manage cleaning activities",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/a97353c8-f2a3-47be-86e1-f7c301fca630&language=en",
+              "uri": "http://data.europa.eu/esco/skill/a97353c8-f2a3-47be-86e1-f7c301fca630"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S4.8.1",
+            "http://data.europa.eu/esco/skill/75d8e5d9-bef3-418b-9011-01bff9f27207"
+          ]
+        },
+        {
+          "title": "supervising a team or group",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S4.8.1&language=en",
+              "uri": "http://data.europa.eu/esco/skill/S4.8.1"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S4.8"
+          ]
+        },
+        {
+          "title": "supervising people",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S4.8&language=en",
+              "uri": "http://data.europa.eu/esco/skill/S4.8"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S4"
+          ]
+        },
+        {
+          "title": "lead others",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/75d8e5d9-bef3-418b-9011-01bff9f27207&language=en",
+              "uri": "http://data.europa.eu/esco/skill/75d8e5d9-bef3-418b-9011-01bff9f27207"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/8f18f987-33e2-4228-9efb-65de25d03330",
+            "http://data.europa.eu/esco/skill/S4.5.0"
+          ]
+        },
+        {
+          "title": "social interaction",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/8f18f987-33e2-4228-9efb-65de25d03330&language=en",
+              "uri": "http://data.europa.eu/esco/skill/8f18f987-33e2-4228-9efb-65de25d03330"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/7ee746cb-fded-47f5-9652-19ebebbce51b"
+          ]
+        },
+        {
+          "title": "Transversal skills/competences",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/7ee746cb-fded-47f5-9652-19ebebbce51b&language=en",
+              "uri": "http://data.europa.eu/esco/skill/7ee746cb-fded-47f5-9652-19ebebbce51b"
+            }
+          },
+          "parents": []
+        },
+        {
+          "title": "leading and motivating",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S4.5.0&language=en",
+              "uri": "http://data.europa.eu/esco/skill/S4.5.0"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S4.5"
+          ]
+        },
+        {
+          "title": "leading and motivating",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S4.5&language=en",
+              "uri": "http://data.europa.eu/esco/skill/S4.5"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S4"
+          ]
+        },
+        {
+          "title": "follow hygienic work practices",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/6816e28f-a48d-41c7-8492-309f50c049fc&language=en",
+              "uri": "http://data.europa.eu/esco/skill/6816e28f-a48d-41c7-8492-309f50c049fc"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/6e1ac650-52a8-40b8-b1fc-fc5e582882f3",
+            "http://data.europa.eu/esco/skill/S3.3.1"
+          ]
+        },
+        {
+          "title": "health and safety",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/6e1ac650-52a8-40b8-b1fc-fc5e582882f3&language=en",
+              "uri": "http://data.europa.eu/esco/skill/6e1ac650-52a8-40b8-b1fc-fc5e582882f3"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/4f663b30-1c49-4634-82e4-7e582b1551b7"
+          ]
+        },
+        {
+          "title": "application of knowledge",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/4f663b30-1c49-4634-82e4-7e582b1551b7&language=en",
+              "uri": "http://data.europa.eu/esco/skill/4f663b30-1c49-4634-82e4-7e582b1551b7"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/7ee746cb-fded-47f5-9652-19ebebbce51b"
+          ]
+        },
+        {
+          "title": "complying with health and safety procedures",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S3.3.1&language=en",
+              "uri": "http://data.europa.eu/esco/skill/S3.3.1"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S3.3"
+          ]
+        },
+        {
+          "title": "protecting and enforcing",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S3.3&language=en",
+              "uri": "http://data.europa.eu/esco/skill/S3.3"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S3"
+          ]
+        },
+        {
+          "title": "assisting and caring",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S3&language=en",
+              "uri": "http://data.europa.eu/esco/skill/S3"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S"
+          ]
+        },
+        {
+          "title": "execute vehicle maintenance",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/0ea0b260-617b-4d04-bf00-988dd0b122e5&language=en",
+              "uri": "http://data.europa.eu/esco/skill/0ea0b260-617b-4d04-bf00-988dd0b122e5"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S6.11.1",
+            "http://data.europa.eu/esco/skill/f5798f9c-42a3-4a54-b4c2-ec33a2ddd863",
+            "http://data.europa.eu/esco/skill/6f4f800d-2186-46a8-85ff-21f5ec83f340",
+            "http://data.europa.eu/esco/skill/cb80b8c4-3226-4664-aba8-20310ea3b0af"
+          ]
+        },
+        {
+          "title": "monitor vehicle repairs",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/f5798f9c-42a3-4a54-b4c2-ec33a2ddd863&language=en",
+              "uri": "http://data.europa.eu/esco/skill/f5798f9c-42a3-4a54-b4c2-ec33a2ddd863"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S4.2.2"
+          ]
+        },
+        {
+          "title": "planning and scheduling events and activities",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S4.2.2&language=en",
+              "uri": "http://data.europa.eu/esco/skill/S4.2.2"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S4.2"
+          ]
+        },
+        {
+          "title": "determine maintenance schedules for airport equipment",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/cb80b8c4-3226-4664-aba8-20310ea3b0af&language=en",
+              "uri": "http://data.europa.eu/esco/skill/cb80b8c4-3226-4664-aba8-20310ea3b0af"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/a1b4aa8d-65c1-4bd6-b062-cdaa663b577c",
+            "http://data.europa.eu/esco/skill/6f4f800d-2186-46a8-85ff-21f5ec83f340",
+            "http://data.europa.eu/esco/skill/S4.2.2"
+          ]
+        },
+        {
+          "title": "supervise maintenance activities in airports",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/a1b4aa8d-65c1-4bd6-b062-cdaa663b577c&language=en",
+              "uri": "http://data.europa.eu/esco/skill/a1b4aa8d-65c1-4bd6-b062-cdaa663b577c"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S4.8.1",
+            "http://data.europa.eu/esco/skill/60ee2021-7d84-41b9-8285-6bff269eed78",
+            "http://data.europa.eu/esco/skill/75d8e5d9-bef3-418b-9011-01bff9f27207"
+          ]
+        },
+        {
+          "title": "supervise site maintenance",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/60ee2021-7d84-41b9-8285-6bff269eed78&language=en",
+              "uri": "http://data.europa.eu/esco/skill/60ee2021-7d84-41b9-8285-6bff269eed78"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S4.2.1"
+          ]
+        },
+        {
+          "title": "carry out preventive airport maintenance",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/6f4f800d-2186-46a8-85ff-21f5ec83f340&language=en",
+              "uri": "http://data.europa.eu/esco/skill/6f4f800d-2186-46a8-85ff-21f5ec83f340"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S8.7.2"
+          ]
+        },
+        {
+          "title": "maintaining mechanical equipment",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S8.7.2&language=en",
+              "uri": "http://data.europa.eu/esco/skill/S8.7.2"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S8.7"
+          ]
+        },
+        {
+          "title": "installing, maintaining and repairing mechanical equipment",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S8.7&language=en",
+              "uri": "http://data.europa.eu/esco/skill/S8.7"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S8"
+          ]
+        },
+        {
+          "title": "working with machinery and specialised equipment",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S8&language=en",
+              "uri": "http://data.europa.eu/esco/skill/S8"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S"
+          ]
+        },
+        {
+          "title": "cleaning tools, equipment, workpieces and vehicles",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S6.11.1&language=en",
+              "uri": "http://data.europa.eu/esco/skill/S6.11.1"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S6.11"
+          ]
+        },
+        {
+          "title": "cleaning",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S6.11&language=en",
+              "uri": "http://data.europa.eu/esco/skill/S6.11"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S6"
+          ]
+        },
+        {
+          "title": "handling and moving",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S6&language=en",
+              "uri": "http://data.europa.eu/esco/skill/S6"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S"
+          ]
+        },
+        {
+          "title": "carry out preventive airport maintenance",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/6f4f800d-2186-46a8-85ff-21f5ec83f340&language=en",
+              "uri": "http://data.europa.eu/esco/skill/6f4f800d-2186-46a8-85ff-21f5ec83f340"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S8.7.2"
+          ]
+        },
+        {
+          "title": "ensure vehicle operability",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/710c37e5-a6df-4755-9482-2e87db91f593&language=en",
+              "uri": "http://data.europa.eu/esco/skill/710c37e5-a6df-4755-9482-2e87db91f593"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S8.2.2"
+          ]
+        },
+        {
+          "title": "driving light vehicles",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S8.2.2&language=en",
+              "uri": "http://data.europa.eu/esco/skill/S8.2.2"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S8.2"
+          ]
+        },
+        {
+          "title": "driving vehicles",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S8.2&language=en",
+              "uri": "http://data.europa.eu/esco/skill/S8.2"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S8"
+          ]
+        },
+        {
+          "title": "cleaning tools, equipment, workpieces and vehicles",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S6.11.1&language=en",
+              "uri": "http://data.europa.eu/esco/skill/S6.11.1"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S6.11"
+          ]
+        }
+      ]
+    }
+  }
+}

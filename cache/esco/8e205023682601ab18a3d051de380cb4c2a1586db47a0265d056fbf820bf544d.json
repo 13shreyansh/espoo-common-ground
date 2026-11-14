@@ -1,0 +1,580 @@
+{
+  "url": "https://ec.europa.eu/esco/api/resource/skill?language=en&uri=http%3A%2F%2Fdata.europa.eu%2Fesco%2Fskill%2Fab6265f2-a9bf-49e8-a9a5-67cbab4de38b",
+  "at": "2026-11-14T22:51:18.744Z",
+  "response": {
+    "className": "Skill",
+    "classId": "http://data.europa.eu/esco/model#Skill",
+    "uri": "http://data.europa.eu/esco/skill/ab6265f2-a9bf-49e8-a9a5-67cbab4de38b",
+    "title": "manage inventory",
+    "referenceLanguage": [
+      "en"
+    ],
+    "preferredLabel": {
+      "no": "administrere inventar",
+      "de": "Bestand verwalten",
+      "en-us": "manage inventory",
+      "fi": "hoitaa varastoa",
+      "pt": "gerir inventário",
+      "bg": "администриране на запасите",
+      "lt": "rūpintis atsargomis",
+      "hr": "upravljati inventarom",
+      "lv": "pārvaldīt produktu krājumus",
+      "fr": "gérer des stocks",
+      "hu": "készletet kezel",
+      "sk": "spravovať zásoby",
+      "sl": "voditi popis",
+      "ga": "fardal a bhainistiú",
+      "sv": "göra lagerinventering",
+      "mt": "immaniġġjar tal-inventarji",
+      "el": "διαχείριση καταλόγου απογραφής",
+      "en": "manage inventory",
+      "is": "sér um birgðir",
+      "it": "gestire l’inventario",
+      "es": "gestionar el inventario",
+      "et": "varusid haldama",
+      "cs": "spravovat inventář",
+      "ar": "إدارة المخزون",
+      "pl": "zarządzać zapasami",
+      "da": "administrere lager",
+      "ro": "supervizează inventarul",
+      "nl": "inventaris beheren"
+    },
+    "alternativeLabel": {
+      "fi": [
+        "huolehtia varastonhallinnasta",
+        "hoitaa inventaariota"
+      ],
+      "en": [
+        "regulate inventory",
+        "manage inventories",
+        "managing an inventory",
+        "manage an inventory",
+        "oversee inventory",
+        "supervise inventory",
+        "maintain inventory"
+      ]
+    },
+    "description": {
+      "no": {
+        "literal": "Styre produktbeholdningen og foreta avveininger mellom tilgjengelighet og lagerkostnad.",
+        "mimetype": "plain/text"
+      },
+      "de": {
+        "literal": "Kontrollieren des Produktbestands im Hinblick auf ein Gleichgewicht der Verfügbarkeit und der Lagerungskosten.",
+        "mimetype": "plain/text"
+      },
+      "fi": {
+        "literal": "Hallita tuotevarastoa tasapainottamalla saatavuus ja varastointikustannukset.",
+        "mimetype": "plain/text"
+      },
+      "en-us": {
+        "literal": "Control product inventory in balance of availability and storage costs.",
+        "mimetype": "plain/text"
+      },
+      "pt": {
+        "literal": "Controlar o inventário de produtos em função dos custos de disponibilidade e de armazenamento.",
+        "mimetype": "plain/text"
+      },
+      "bg": {
+        "literal": "Контролира балансирането на продуктовите запаси от гледна точка на разходите за наличност и съхранение.",
+        "mimetype": "plain/text"
+      },
+      "lt": {
+        "literal": "Kontroliuoti produktų atsargas, atsižvelgiant į prieinamumą ir sandėliavimo išlaidas.",
+        "mimetype": "plain/text"
+      },
+      "lv": {
+        "literal": "Kontrolēt produktu krājumus, izvērtējot pieejamību un glabāšanas izmaksas.",
+        "mimetype": "plain/text"
+      },
+      "hr": {
+        "literal": "Kontrolirati inventar proizvoda u ravnoteži između raspoloživosti i troškova skladištenja.",
+        "mimetype": "plain/text"
+      },
+      "fr": {
+        "literal": "Contrôler l’inventaire des produits en trouvant le juste équilibre entre la disponibilité des produits et les coûts de stockage.",
+        "mimetype": "plain/text"
+      },
+      "hu": {
+        "literal": "Ellenőrzi a termékleltárt a rendelkezésre állás és tárolási költségek tekintetében.",
+        "mimetype": "plain/text"
+      },
+      "sk": {
+        "literal": "Kontrolovať zásoby produktov s ohľadom na náklady na dostupnosť a skladovanie.",
+        "mimetype": "plain/text"
+      },
+      "sl": {
+        "literal": "Nadzorovati popis izdelkov glede na razpoložljivost in stroške skladiščenja.",
+        "mimetype": "plain/text"
+      },
+      "ga": {
+        "literal": "Fardal táirge a riaú i gcothromaíocht na gcostas infhaighteachta agus stórála..",
+        "mimetype": "plain/text"
+      },
+      "sv": {
+        "literal": "Kontrollera produktlagret med avseende på balans mellan tillgång och lagerkostnader.",
+        "mimetype": "plain/text"
+      },
+      "mt": {
+        "literal": "Ikkontrolla l-inventarju ta’ prodotti fil-bilanċ tal-ispejjeż ta’ disponibbiltà u ta’ ħażna.",
+        "mimetype": "plain/text"
+      },
+      "el": {
+        "literal": "Έλεγχος του καταλόγου προϊόντων επιτυγχάνοντας τη σωστή ισορροπία μεταξύ της διαθεσιμότητας του προϊόντος και του κόστους αποθήκευσης.",
+        "mimetype": "plain/text"
+      },
+      "en": {
+        "literal": "Control product inventory in balance of availability and storage costs.",
+        "mimetype": "plain/text"
+      },
+      "is": {
+        "literal": "Stjórnar vörubirgðum í jafnvægi milli framboðs og geymslukostnaðar.",
+        "mimetype": "plain/text"
+      },
+      "it": {
+        "literal": "Controllare l’inventario dei prodotti bilanciando disponibilità e costi di magazzinaggio.",
+        "mimetype": "plain/text"
+      },
+      "es": {
+        "literal": "Controlar el inventario de productos equilibrando la disponibilidad y los costes de almacenamiento.",
+        "mimetype": "plain/text"
+      },
+      "et": {
+        "literal": "Toodete varude reguleerimine, et tasakaalustada kättesaadavust ja laokulusid.",
+        "mimetype": "plain/text"
+      },
+      "cs": {
+        "literal": "Kontrolovat inventarizaci produktu s ohledem na náklady na dostupnost a skladování.",
+        "mimetype": "plain/text"
+      },
+      "ar": {
+        "literal": "إدارة مخزون المنتج مع تحقيق التوازن بالنسبة لتوافره وتكاليف التخزين.",
+        "mimetype": "plain/text"
+      },
+      "pl": {
+        "literal": "Kontrola inwentaryzacji produktów w celu zrównoważenia kosztów dostępności i magazynowania.",
+        "mimetype": "plain/text"
+      },
+      "ro": {
+        "literal": "Controlează inventarul produselor pentru a echilibra disponibilitatea și costurile de depozitare.",
+        "mimetype": "plain/text"
+      },
+      "da": {
+        "literal": "Administrere varelageret med henblik på udligning af de disponible mængder og udgifter til oplagring.",
+        "mimetype": "plain/text"
+      },
+      "nl": {
+        "literal": "De productinventaris in evenwicht houden met de beschikbaarheid en de opslagkosten.",
+        "mimetype": "plain/text"
+      }
+    },
+    "status": "released",
+    "_links": {
+      "self": {
+        "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/ab6265f2-a9bf-49e8-a9a5-67cbab4de38b&language=en",
+        "uri": "http://data.europa.eu/esco/skill/ab6265f2-a9bf-49e8-a9a5-67cbab4de38b",
+        "title": "manage inventory"
+      },
+      "isInScheme": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/taxonomy?uri=http://data.europa.eu/esco/concept-scheme/member-skills&language=en",
+          "uri": "http://data.europa.eu/esco/concept-scheme/member-skills",
+          "title": "ESCO member skills"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/taxonomy?uri=http://data.europa.eu/esco/concept-scheme/skills&language=en",
+          "uri": "http://data.europa.eu/esco/concept-scheme/skills",
+          "title": "ESCO skills"
+        }
+      ],
+      "hasSkillType": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/concept?uri=http://data.europa.eu/esco/skill-type/skill&language=en",
+          "uri": "http://data.europa.eu/esco/skill-type/skill",
+          "title": "skill"
+        }
+      ],
+      "hasReuseLevel": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/concept?uri=http://data.europa.eu/esco/skill-reuse-level/sector-specific&language=en",
+          "uri": "http://data.europa.eu/esco/skill-reuse-level/sector-specific",
+          "title": "sector specific skills and competences",
+          "code": "Level 3"
+        }
+      ],
+      "broaderHierarchyConcept": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/concept?uri=http://data.europa.eu/esco/skill/S4.3.3&language=en",
+          "uri": "http://data.europa.eu/esco/skill/S4.3.3",
+          "title": "allocating and controlling physical resources",
+          "code": "S4.3.3"
+        }
+      ],
+      "broaderSkill": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/19ba11f3-9c99-41fd-a7c9-f77e6a026186&language=en",
+          "uri": "http://data.europa.eu/esco/skill/19ba11f3-9c99-41fd-a7c9-f77e6a026186",
+          "title": "carry out work-related calculations",
+          "skillType": "http://data.europa.eu/esco/skill-type/skill"
+        }
+      ],
+      "narrowerSkill": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/222bcd83-1ac6-4c2f-93c9-39ac835067f1&language=en",
+          "uri": "http://data.europa.eu/esco/skill/222bcd83-1ac6-4c2f-93c9-39ac835067f1",
+          "title": "manage vehicle inventory",
+          "skillType": "http://data.europa.eu/esco/skill-type/skill"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/d58f5962-b014-41ea-943b-3d1f86076781&language=en",
+          "uri": "http://data.europa.eu/esco/skill/d58f5962-b014-41ea-943b-3d1f86076781",
+          "title": "manage wine cellar inventory",
+          "skillType": "http://data.europa.eu/esco/skill-type/skill"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/5d2e82cc-5943-4218-a459-a1956fad2b63&language=en",
+          "uri": "http://data.europa.eu/esco/skill/5d2e82cc-5943-4218-a459-a1956fad2b63",
+          "title": "manage warehouse inventory",
+          "skillType": "http://data.europa.eu/esco/skill-type/skill"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/9f9a3323-879a-445a-9c1f-8fd01c1b834e&language=en",
+          "uri": "http://data.europa.eu/esco/skill/9f9a3323-879a-445a-9c1f-8fd01c1b834e",
+          "title": "manage pawnshop inventory",
+          "skillType": "http://data.europa.eu/esco/skill-type/skill"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/a2eb9bb5-e539-4c71-98a7-595709f2d699&language=en",
+          "uri": "http://data.europa.eu/esco/skill/a2eb9bb5-e539-4c71-98a7-595709f2d699",
+          "title": "manage inventory of camping supplies",
+          "skillType": "http://data.europa.eu/esco/skill-type/skill"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/ab4edb09-9daa-418e-a915-ab69b657c69b&language=en",
+          "uri": "http://data.europa.eu/esco/skill/ab4edb09-9daa-418e-a915-ab69b657c69b",
+          "title": "manage fuel inventory",
+          "skillType": "http://data.europa.eu/esco/skill-type/skill"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/cd7146d4-499a-479b-8dc2-c605d38b4b03&language=en",
+          "uri": "http://data.europa.eu/esco/skill/cd7146d4-499a-479b-8dc2-c605d38b4b03",
+          "title": "control fluid inventories",
+          "skillType": "http://data.europa.eu/esco/skill-type/skill"
+        }
+      ],
+      "hasOptionalSkill": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/5aaf2780-04d7-4bbf-8b06-af36eafe8eba&language=en",
+          "uri": "http://data.europa.eu/esco/skill/5aaf2780-04d7-4bbf-8b06-af36eafe8eba",
+          "title": "inventory management rules",
+          "skillType": "http://data.europa.eu/esco/skill-type/knowledge"
+        }
+      ],
+      "isEssentialForOccupation": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/2f5de1ab-eddf-4715-8193-e994912c22ea&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/2f5de1ab-eddf-4715-8193-e994912c22ea",
+          "title": "warehouse manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/dab60fc6-c16e-4de7-b969-b323784f5a49&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/dab60fc6-c16e-4de7-b969-b323784f5a49",
+          "title": "category manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/30870ea4-5e8e-4b92-a9d5-65e3b97a9b30&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/30870ea4-5e8e-4b92-a9d5-65e3b97a9b30",
+          "title": "raw materials warehouse specialist"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/8f928d49-da89-4d07-9123-2151a4d276d4&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/8f928d49-da89-4d07-9123-2151a4d276d4",
+          "title": "move manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/f3b99acc-b212-45cf-bb4f-7b83cc6f0d71&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/f3b99acc-b212-45cf-bb4f-7b83cc6f0d71",
+          "title": "bacteriology technician"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/d7a9f9e0-e2f5-4804-a0e0-b21ebb1403ee&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/d7a9f9e0-e2f5-4804-a0e0-b21ebb1403ee",
+          "title": "inventory coordinator"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/31cc4199-703c-4f8a-9b46-a2070a6d35df&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/31cc4199-703c-4f8a-9b46-a2070a6d35df",
+          "title": "biology technician"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/aacc3918-b5d3-484b-9480-5d29aa550d74&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/aacc3918-b5d3-484b-9480-5d29aa550d74",
+          "title": "supply chain manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/ff4c28e2-66b1-4ae7-9053-fba8ec3428be&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/ff4c28e2-66b1-4ae7-9053-fba8ec3428be",
+          "title": "zoology technician"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/9f12704c-5e6c-47b0-a866-3b92663e6a4b&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/9f12704c-5e6c-47b0-a866-3b92663e6a4b",
+          "title": "resource manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/f4de7e28-ca67-46cd-b760-30e02b3aa83b&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/f4de7e28-ca67-46cd-b760-30e02b3aa83b",
+          "title": "medical laboratory manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/95324a4a-a5ea-4d89-8ede-4422ccb46a28&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/95324a4a-a5ea-4d89-8ede-4422ccb46a28",
+          "title": "biochemistry technician"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/2c5ae1b4-c3ca-4882-b7ce-e346ae5b5b00&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/2c5ae1b4-c3ca-4882-b7ce-e346ae5b5b00",
+          "title": "botanical technician"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/377865f0-c327-4599-8c7e-d428c6588edf&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/377865f0-c327-4599-8c7e-d428c6588edf",
+          "title": "purchasing manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/aeb7c6bd-22c9-43c2-8551-a1cc2560584f&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/aeb7c6bd-22c9-43c2-8551-a1cc2560584f",
+          "title": "forecast manager"
+        }
+      ],
+      "isOptionalForOccupation": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/6fcf4638-e7c7-4978-9302-9a7b63a3d57c&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/6fcf4638-e7c7-4978-9302-9a7b63a3d57c",
+          "title": "marketing manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/ab4086a0-0e2f-436e-80f8-a3291e594bd1&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/ab4086a0-0e2f-436e-80f8-a3291e594bd1",
+          "title": "lithographer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/8fdce434-caaa-42c7-a77c-7ba8d1cbc4be&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/8fdce434-caaa-42c7-a77c-7ba8d1cbc4be",
+          "title": "electrolytic cell maker"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/84871c2a-abd1-45eb-b03a-65e51a26fd84&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/84871c2a-abd1-45eb-b03a-65e51a26fd84",
+          "title": "cost analyst"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/b7744a45-a4ce-4037-b679-3d2377e17f31&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/b7744a45-a4ce-4037-b679-3d2377e17f31",
+          "title": "supermarket manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/a79d9e58-36be-4e67-a4db-ea6c8ff445fc&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/a79d9e58-36be-4e67-a4db-ea6c8ff445fc",
+          "title": "retail department manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/bcc2c1db-f969-4355-bebf-4878ff6c2a94&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/bcc2c1db-f969-4355-bebf-4878ff6c2a94",
+          "title": "service manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/9e81adde-9983-44fa-b74b-c548d0dbfbdd&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/9e81adde-9983-44fa-b74b-c548d0dbfbdd",
+          "title": "shop manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/eda0d957-3c3c-4139-b89a-a18bc9e18897&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/eda0d957-3c3c-4139-b89a-a18bc9e18897",
+          "title": "accountant"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/d871af8b-f6d7-4377-b609-d422afe3b5de&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/d871af8b-f6d7-4377-b609-d422afe3b5de",
+          "title": "drugstore manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/aa50ae49-1e40-4ba9-959f-22a11ff172b4&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/aa50ae49-1e40-4ba9-959f-22a11ff172b4",
+          "title": "recording studio technician"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/dfb93ddb-ce34-4d2e-a178-541d45a7d98b&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/dfb93ddb-ce34-4d2e-a178-541d45a7d98b",
+          "title": "laundry workers supervisor"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/080fc550-b7ca-4576-aaf5-06fffbede994&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/080fc550-b7ca-4576-aaf5-06fffbede994",
+          "title": "spa manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/b471350e-23ce-4789-a821-5500b28cffe1&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/b471350e-23ce-4789-a821-5500b28cffe1",
+          "title": "court enforcement officer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/44cd9d91-5552-4735-86b8-4b2c5d39efc8&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/44cd9d91-5552-4735-86b8-4b2c5d39efc8",
+          "title": "laundry and dry cleaning manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/bdfb48e0-79dc-4b63-8470-db2e03b37326&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/bdfb48e0-79dc-4b63-8470-db2e03b37326",
+          "title": "shop supervisor"
+        }
+      ]
+    },
+    "_embedded": {
+      "ancestors": [
+        {
+          "title": "manage inventory",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/ab6265f2-a9bf-49e8-a9a5-67cbab4de38b&language=en",
+              "uri": "http://data.europa.eu/esco/skill/ab6265f2-a9bf-49e8-a9a5-67cbab4de38b"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S4.3.3",
+            "http://data.europa.eu/esco/skill/19ba11f3-9c99-41fd-a7c9-f77e6a026186"
+          ]
+        },
+        {
+          "title": "carry out work-related calculations",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/19ba11f3-9c99-41fd-a7c9-f77e6a026186&language=en",
+              "uri": "http://data.europa.eu/esco/skill/19ba11f3-9c99-41fd-a7c9-f77e6a026186"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/b99e9027-8263-4630-a8f2-d7f400b4149e",
+            "http://data.europa.eu/esco/skill/S2.6.1"
+          ]
+        },
+        {
+          "title": "performing calculations",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S2.6.1&language=en",
+              "uri": "http://data.europa.eu/esco/skill/S2.6.1"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S2.6"
+          ]
+        },
+        {
+          "title": "calculating and estimating",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S2.6&language=en",
+              "uri": "http://data.europa.eu/esco/skill/S2.6"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S2"
+          ]
+        },
+        {
+          "title": "information skills",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S2&language=en",
+              "uri": "http://data.europa.eu/esco/skill/S2"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S"
+          ]
+        },
+        {
+          "title": "skills",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S&language=en",
+              "uri": "http://data.europa.eu/esco/skill/S"
+            }
+          },
+          "parents": []
+        },
+        {
+          "title": "numeracy and mathematics",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/b99e9027-8263-4630-a8f2-d7f400b4149e&language=en",
+              "uri": "http://data.europa.eu/esco/skill/b99e9027-8263-4630-a8f2-d7f400b4149e"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/4f663b30-1c49-4634-82e4-7e582b1551b7"
+          ]
+        },
+        {
+          "title": "application of knowledge",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/4f663b30-1c49-4634-82e4-7e582b1551b7&language=en",
+              "uri": "http://data.europa.eu/esco/skill/4f663b30-1c49-4634-82e4-7e582b1551b7"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/7ee746cb-fded-47f5-9652-19ebebbce51b"
+          ]
+        },
+        {
+          "title": "Transversal skills/competences",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/7ee746cb-fded-47f5-9652-19ebebbce51b&language=en",
+              "uri": "http://data.europa.eu/esco/skill/7ee746cb-fded-47f5-9652-19ebebbce51b"
+            }
+          },
+          "parents": []
+        },
+        {
+          "title": "allocating and controlling physical resources",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S4.3.3&language=en",
+              "uri": "http://data.europa.eu/esco/skill/S4.3.3"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S4.3"
+          ]
+        },
+        {
+          "title": "allocating and controlling resources",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S4.3&language=en",
+              "uri": "http://data.europa.eu/esco/skill/S4.3"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S4"
+          ]
+        },
+        {
+          "title": "management skills",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S4&language=en",
+              "uri": "http://data.europa.eu/esco/skill/S4"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S"
+          ]
+        }
+      ]
+    }
+  }
+}

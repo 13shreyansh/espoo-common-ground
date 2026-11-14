@@ -1,0 +1,214 @@
+{
+  "url": "https://ec.europa.eu/esco/api/search?type=skill&language=en&limit=3&text=analyse%20test%20data",
+  "at": "2026-11-14T22:51:29.570Z",
+  "response": {
+    "total": 1433,
+    "offset": 0,
+    "limit": 3,
+    "text": "analyse test data",
+    "language": "en",
+    "type": [
+      "skill"
+    ],
+    "isInScheme": null,
+    "facet": null,
+    "_links": {
+      "self": {
+        "href": "https://ec.europa.eu/esco/api/search?text=analyse%20test%20data&type=skill&limit=3&offset=0&full=false&viewObsolete=false&language=en"
+      },
+      "next": {
+        "href": "https://ec.europa.eu/esco/api/search?text=analyse%20test%20data&type=skill&limit=3&offset=1&full=false&viewObsolete=false&language=en"
+      }
+    },
+    "_embedded": {
+      "results": [
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/81a2db2c-7e55-44d0-9cd9-74c25147d7cd",
+          "searchHit": "analyse test data",
+          "title": "analyse test data",
+          "preferredLabel": {
+            "de": "Testdaten auswerten",
+            "no": "analysere testdata",
+            "fi": "analysoida testidataa",
+            "en-us": "analyze  test data",
+            "pt": "analisar dados de ensaio",
+            "bg": "анализиране на данни от изпитвания",
+            "lt": "analizuoti bandymų duomenis",
+            "hr": "analizirati podatke dobivene testiranjem",
+            "lv": "analizēt testēšanas datus",
+            "fr": "analyser des données de tests",
+            "hu": "tesztelési adatokat elemez",
+            "sk": "analyzovať údaje z testov",
+            "sl": "analizirati podatke preskusov",
+            "ga": "sonraí tástála a anailísiú",
+            "sv": "analysera testdata",
+            "el": "ανάλυση των δεδομένων δοκιμής",
+            "mt": "analiżi tad-data tal-ittestjar",
+            "en": "analyse test data",
+            "is": "greinir prófunargögn",
+            "it": "analizzare i dati dei controlli",
+            "es": "analizar datos experimentales",
+            "et": "katseandmeid analüüsima",
+            "cs": "analyzovat údaje ze zkoušek",
+            "ar": "تحليل بيانات الاختبار",
+            "pl": "analizować dane z badań",
+            "da": "analysere testdata",
+            "ro": "analizează datele testelor",
+            "nl": "testgegevens analyseren"
+          },
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/skill"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/cross-sector"
+          ],
+          "broaderSkill": [
+            "http://data.europa.eu/esco/skill/7dd94ad3-13d6-43fe-8b94-51fcbf67ced9",
+            "http://data.europa.eu/esco/skill/1d6c7de4-350e-4868-a47b-333b4b0d9650"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/skill/S2.7.6"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/81a2db2c-7e55-44d0-9cd9-74c25147d7cd&language=en",
+              "uri": "http://data.europa.eu/esco/skill/81a2db2c-7e55-44d0-9cd9-74c25147d7cd",
+              "title": "analyse test data"
+            }
+          }
+        },
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/8dcc1c68-1ebe-412b-b437-cab3c26da509",
+          "searchHit": "Use information technology to accurately record and analyse data from biomedical tests, writing reports on the data and sharing results with the appropriate persons.",
+          "title": "record data from biomedical tests",
+          "preferredLabel": {
+            "de": "Daten von biomedizinischen Tests erfassen",
+            "no": "registrere data fra biomedisinske prøver",
+            "fi": "tallentaa biolääketieteellisten testien tuloksia",
+            "en-us": "record data from biomedical tests",
+            "pt": "registar dados de testes biomédicos",
+            "bg": "записване на данни от биомедицински тестове",
+            "lt": "įrašyti biomedicininių tyrimų rezultatus",
+            "hr": "evidentirati podatke iz biomedicinskih testova",
+            "lv": "reģistrēt biomedicīnisko testu datus",
+            "fr": "consigner les données de tests biomédicaux",
+            "hu": "orvosbiológiai vizsgálatokból származó adatokat rögzít",
+            "sk": "zaznamenávať údaje z biomedicínskych testov",
+            "sl": "beležiti podatke biomedicinskih preiskav",
+            "ga": "sonraí a thaifeadadh ó thástálacha bithleighis",
+            "sv": "registrera data från biomedicinska tester",
+            "el": "καταγραφή δεδομένων από βιοϊατρικές εξετάσεις",
+            "mt": "żamma tar-rekords ta' data mit-testijiet bijomediċi",
+            "en": "record data from biomedical tests",
+            "is": "skráir gögn úr líf- og læknisfræðilegu prófi",
+            "it": "registrare i dati dei test biomedici",
+            "es": "registrar información sobre pruebas biomédicas",
+            "et": "biomeditsiiniliste testide andmeid dokumenteerima",
+            "cs": "zaznamenávat údaje z biomedicínských testů",
+            "ar": "تسجيل البيانات من الاختبارات الطبية الحيوية",
+            "pl": "rejestrować dane zgromadzone w ramach badań biomedycznych",
+            "da": "registrere data fra biomedicinske test",
+            "ro": "înregistrează datele testelor biomedicale",
+            "nl": "gegevens van biomedische testen registreren"
+          },
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/skill"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/cross-sector"
+          ],
+          "broaderSkill": [
+            "http://data.europa.eu/esco/skill/561c2525-5bd8-4d86-8f45-820f4be7db93",
+            "http://data.europa.eu/esco/skill/328733a7-6d84-420d-a65c-2a8014fadc60"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/skill/S5.5.2"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/8dcc1c68-1ebe-412b-b437-cab3c26da509&language=en",
+              "uri": "http://data.europa.eu/esco/skill/8dcc1c68-1ebe-412b-b437-cab3c26da509",
+              "title": "record data from biomedical tests"
+            }
+          }
+        },
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/47a49cd6-097d-457a-9f7b-c290c14930d5",
+          "searchHit": "analyse big data",
+          "title": "analyse big data",
+          "preferredLabel": {
+            "de": "Massendaten analysieren",
+            "no": "analysere store data",
+            "fi": "analysoida massadataa",
+            "en-us": "analyze  big data",
+            "pt": "analisar grandes volumes de dados",
+            "bg": "анализиране на големи информационни масиви",
+            "lt": "analizuoti didelius duomenų rinkinius",
+            "hr": "analizirati velike podatke",
+            "lv": "analizēt lielu datu apjomu",
+            "fr": "analyser des mégadonnées",
+            "hu": "nagy adathalmazokat elemez",
+            "sk": "analyzovať veľké dáta (big data)",
+            "sl": "analizirati velepodatke",
+            "ga": "mórshonraí a anailísiú",
+            "sv": "analysera stordata",
+            "el": "ανάλυση μεγάλων ποσοτήτων δεδομένων",
+            "mt": "analiżi tal-Big Data",
+            "en": "analyse big data",
+            "is": "greinir stórgögn",
+            "it": "analizzare i megadati",
+            "es": "analizar inteligencia de datos",
+            "et": "analüüsima suurandmeid",
+            "cs": "analyzovat data velkého objemu",
+            "ar": "تحليل البيانات الضخمة",
+            "pl": "analizować duże zbiory danych",
+            "da": "analysere big data",
+            "ro": "analizează grupuri masive de date",
+            "nl": "grote hoeveelheden gegevens analyseren"
+          },
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/skill"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/cross-sector"
+          ],
+          "broaderSkill": [
+            "http://data.europa.eu/esco/skill/2b92a5b2-6758-4ee3-9fb4-b6387a55cc8f",
+            "http://data.europa.eu/esco/skill/1b70a55d-b8a4-49fc-96c6-15ab4cff2522",
+            "http://data.europa.eu/esco/skill/7dd94ad3-13d6-43fe-8b94-51fcbf67ced9",
+            "http://data.europa.eu/esco/skill/1d6c7de4-350e-4868-a47b-333b4b0d9650",
+            "http://data.europa.eu/esco/skill/81a2db2c-7e55-44d0-9cd9-74c25147d7cd"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/skill/S5.5.2"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/47a49cd6-097d-457a-9f7b-c290c14930d5&language=en",
+              "uri": "http://data.europa.eu/esco/skill/47a49cd6-097d-457a-9f7b-c290c14930d5",
+              "title": "analyse big data"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

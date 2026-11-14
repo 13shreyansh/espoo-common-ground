@@ -1,0 +1,209 @@
+{
+  "url": "https://ec.europa.eu/esco/api/search?type=skill&language=en&limit=3&text=provide%20technical%20documentation",
+  "at": "2026-11-14T22:51:17.210Z",
+  "response": {
+    "total": 1603,
+    "offset": 0,
+    "limit": 3,
+    "text": "provide technical documentation",
+    "language": "en",
+    "type": [
+      "skill"
+    ],
+    "isInScheme": null,
+    "facet": null,
+    "_links": {
+      "self": {
+        "href": "https://ec.europa.eu/esco/api/search?text=provide%20technical%20documentation&type=skill&limit=3&offset=0&full=false&viewObsolete=false&language=en"
+      },
+      "next": {
+        "href": "https://ec.europa.eu/esco/api/search?text=provide%20technical%20documentation&type=skill&limit=3&offset=1&full=false&viewObsolete=false&language=en"
+      }
+    },
+    "_embedded": {
+      "results": [
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/04dfd9fb-e0cf-40f6-96c6-9d2280c4347e",
+          "searchHit": "provide technical documentation",
+          "title": "provide technical documentation",
+          "preferredLabel": {
+            "de": "technische Dokumentation bereitstellen",
+            "no": "levere teknisk dokumentasjon",
+            "fi": "tarjota teknistä dokumentaatiota",
+            "en-us": "provide technical documentation",
+            "pt": "elaborar documentação técnica",
+            "bg": "осигуряване на техническа документация",
+            "lt": "teikti techninę dokumentaciją",
+            "hr": "pripremiti tehničku dokumentaciju",
+            "lv": "nodrošināt tehnisko dokumentāciju",
+            "fr": "fournir une documentation technique",
+            "hu": "műszaki dokumentációt készít",
+            "sk": "poskytnúť technickú dokumentáciu",
+            "sl": "zagotoviti tehnično dokumentacijo",
+            "ga": "doiciméid theicniúla a sholáthar",
+            "sv": "tillhandahålla teknisk dokumentation",
+            "el": "παροχή τεχνικής τεκμηρίωσης",
+            "mt": "tipprovdi dokumentazzjoni teknika",
+            "en": "provide technical documentation",
+            "is": "útvega tæknilega skjalfestingu",
+            "it": "fornire documentazione tecnica",
+            "es": "proporcionar documentación técnica",
+            "et": "tehnilist dokumentatsiooni koostama",
+            "cs": "poskytovat technickou dokumentaci",
+            "ar": "تقديم الوثائق التقنية",
+            "pl": "przygotowywać dokumentację techniczną",
+            "da": "levere teknisk dokumentation",
+            "ro": "furnizează documentație tehnică",
+            "nl": "technische documentatie aanleveren"
+          },
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/skill"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/cross-sector"
+          ],
+          "broaderSkill": [
+            "http://data.europa.eu/esco/skill/2636b3d3-843e-46a9-8b4c-a9d6ca3f5a2d"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/skill/S2.2.6"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/04dfd9fb-e0cf-40f6-96c6-9d2280c4347e&language=en",
+              "uri": "http://data.europa.eu/esco/skill/04dfd9fb-e0cf-40f6-96c6-9d2280c4347e",
+              "title": "provide technical documentation"
+            }
+          }
+        },
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/d3db0350-dcfd-4a36-b5a8-f9e6cd1ef6f5",
+          "searchHit": "Provide clients with the appropriate technical documents such as manuals, technical reports, metallurgical investigations, etc.",
+          "title": "provide manufacturing documentation",
+          "preferredLabel": {
+            "de": "Fertigungsdokumentation zur Verfügung stellen",
+            "no": "gi tilgang til produksjonsdokumentasjon",
+            "fi": "toimittaa tuotantoa koskevia asiakirjoja",
+            "en-us": "provide manufacturing documentation",
+            "pt": "fornecer documentação de fabrico",
+            "bg": "осигуряване на производствена документация",
+            "lt": "pateikti gamybos dokumentus",
+            "hr": "pružati proizvodnu dokumentaciju",
+            "lv": "sniegt ražošanas dokumentāciju",
+            "fr": "fournir une documentation de fabrication",
+            "hu": "gyártási dokumentációt biztosít",
+            "sk": "poskytovať dokumentáciu o výrobe",
+            "sl": "zagotavljati proizvodno dokumentacijo",
+            "ga": "doiciméadacht monaraíochta a sholáthar",
+            "sv": "tillhandahålla tillverkningsdokumentation",
+            "el": "διαβίβαση εγγράφων τεκμηρίωσης για τη διαδικασία παραγωγής",
+            "mt": "forniment tad-dokumentazzjoni tal-manifattura",
+            "en": "provide manufacturing documentation",
+            "is": "útvegar framleiðsluskjöl",
+            "it": "fornire documentazione sulla produzione",
+            "es": "proporcionar documentación de fabricación",
+            "et": "tootmisdokumente andma",
+            "cs": "poskytovat výrobní dokumentaci",
+            "ar": "تقديم وثائق التصنيع",
+            "pl": "dostarczać dokumentację produkcyjną",
+            "da": "levere produktionsdokumentation",
+            "ro": "furnizează documentație privind procesul de fabricație",
+            "nl": "productiedocumentatie geven"
+          },
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/skill"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/cross-sector"
+          ],
+          "broaderSkill": [
+            "http://data.europa.eu/esco/skill/2636b3d3-843e-46a9-8b4c-a9d6ca3f5a2d",
+            "http://data.europa.eu/esco/skill/04dfd9fb-e0cf-40f6-96c6-9d2280c4347e"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/skill/S2.2.6"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/d3db0350-dcfd-4a36-b5a8-f9e6cd1ef6f5&language=en",
+              "uri": "http://data.europa.eu/esco/skill/d3db0350-dcfd-4a36-b5a8-f9e6cd1ef6f5",
+              "title": "provide manufacturing documentation"
+            }
+          }
+        },
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/cffc3e97-e942-4b13-a2f3-0bf4910c06d3",
+          "searchHit": "use technical documentation",
+          "title": "use technical documentation",
+          "preferredLabel": {
+            "de": "technische Dokumentationen verwenden",
+            "no": "bruke teknisk dokumentasjon",
+            "fi": "käyttää teknistä dokumentaatiota",
+            "en-us": "use technical documentation",
+            "pt": "utilizar documentação técnica",
+            "bg": "използване на техническа документация",
+            "lt": "naudoti techninius dokumentus",
+            "hr": "upotrebljavati tehničku dokumentaciju",
+            "lv": "lietot tehnisko dokumentāciju",
+            "fr": "utiliser de la documentation technique",
+            "hu": "műszaki dokumentációt használ",
+            "sk": "používať technickú dokumentáciu",
+            "sl": "uporabljati tehnično dokumentacijo",
+            "ga": "doiciméid theicniúla a úsáid",
+            "sv": "använda teknisk dokumentation",
+            "el": "χρήση τεχνικών εγγράφων",
+            "mt": "użu tad-dokumentazzjoni teknika",
+            "en": "use technical documentation",
+            "is": "notar tæknileg gögn",
+            "it": "utilizzare la documentazione tecnica",
+            "es": "emplear documentación técnica",
+            "et": "tehnilisi dokumente kasutama",
+            "cs": "používat technickou dokumentaci",
+            "ar": "استخدام الوثائق التقنية",
+            "pl": "korzystać z dokumentacji technicznej",
+            "da": "bruge teknisk dokumentation",
+            "ro": "utilizează documentație tehnică",
+            "nl": "technische documentatie gebruiken"
+          },
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/skill"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/cross-sector"
+          ],
+          "broaderSkill": [
+            "http://data.europa.eu/esco/skill/651675ef-d203-4ba9-bde0-c4fb8a2f3ef3"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/skill/S2.1.3"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/cffc3e97-e942-4b13-a2f3-0bf4910c06d3&language=en",
+              "uri": "http://data.europa.eu/esco/skill/cffc3e97-e942-4b13-a2f3-0bf4910c06d3",
+              "title": "use technical documentation"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,350 @@
+{
+  "url": "https://ec.europa.eu/esco/api/resource/skill?language=en&uri=http%3A%2F%2Fdata.europa.eu%2Fesco%2Fskill%2Fb535516b-9f8a-4c29-b6aa-a0a4561e1086",
+  "at": "2026-11-14T22:51:24.809Z",
+  "response": {
+    "className": "Skill",
+    "classId": "http://data.europa.eu/esco/model#Skill",
+    "uri": "http://data.europa.eu/esco/skill/b535516b-9f8a-4c29-b6aa-a0a4561e1086",
+    "title": "call quality assurance management",
+    "referenceLanguage": [
+      "en"
+    ],
+    "preferredLabel": {
+      "de": "Anrufqualitätssicherung",
+      "no": "administrering av samtalekvalitetssikring",
+      "en-us": "call quality assurance management",
+      "fi": "puhelujen laadunvarmistuksen hallinta",
+      "pt": "gestão da garantia de qualidade de chamadas",
+      "bg": "управление на осигуряване на качеството на повикванията",
+      "lt": "skambučių kokybės užtikrinimo valdymas",
+      "hr": "upravljanje osiguranjem kvalitete poziva",
+      "lv": "apkalpošanas pa tālruni kvalitātes nodrošināšanas pārvaldība",
+      "fr": "gestion de l'assurance de la qualité des appels",
+      "hu": "hívás‑minőségbiztosítás irányítása",
+      "sk": "manažment zabezpečenia kvality hovorov",
+      "sl": "upravljanje zagotavljanja kakovosti v zvezi s klici",
+      "ga": "bainistíocht dearbhú cáilíochta glaonna",
+      "sv": "säkrande av samtalskvalitet",
+      "mt": "immaniġġjar tal-garanzija tal-kwalità tat-telefonati",
+      "el": "διαχείριση διασφάλισης ποιότητας κλήσεων",
+      "en": "call quality assurance management",
+      "is": "gæðatryggingastjórnun símtala",
+      "it": "gestione della garanzia della qualità delle chiamate",
+      "es": "gestión de la garantía de calidad de las llamadas",
+      "et": "kõnekvaliteedi tagamise korraldus",
+      "cs": "řízení kontroly kvality hovorů",
+      "ar": "إدارة ضمان جودة المكالمات",
+      "pl": "zarządzanie służące zapewnieniu jakości rozmów telefonicznych",
+      "da": "ledelse af opkaldskvalitetssikring",
+      "ro": "management de asigurare a calității apelurilor telefonice",
+      "nl": "kwaliteitsborging van oproepen"
+    },
+    "alternativeLabel": {
+      "en": [
+        "call quality assurance administration",
+        "call quality assurance  regulation",
+        "call quality assurance  oversight",
+        "call quality assurance  supervision",
+        "call quality assurance managing",
+        "calls quality assurance management"
+      ],
+      "ro": [
+        "monitorizarea calității apelurilor telefonice"
+      ],
+      "es": [
+        "certificación de la garantía de calidad de las llamadas",
+        "administración de la garantía de calidad de las llamadas"
+      ]
+    },
+    "description": {
+      "de": {
+        "literal": "Aufzeichnungssysteme und Überwachungsverfahren zur Verfolgung der Anrufqualität und Verbesserungsmethoden.",
+        "mimetype": "plain/text"
+      },
+      "no": {
+        "literal": "Registrering av systemer og framgangsmåter for overvåking som brukes i forbindelse med å opprettholde kvaliteten på samtaler og metoder for forbedring.",
+        "mimetype": "plain/text"
+      },
+      "en-us": {
+        "literal": "Recording systems and monitoring procedures used in keeping track of call quality and methods for improvement.",
+        "mimetype": "plain/text"
+      },
+      "fi": {
+        "literal": "Nauhoitusjärjestelmät ja seurantamenettelyt, joilla seurataan ja parannetaan puhelujen laatua.",
+        "mimetype": "plain/text"
+      },
+      "pt": {
+        "literal": "Sistemas de registo e procedimentos de monitorização utilizados para controlar a qualidade das chamadas, bem como os métodos para a sua melhoria.",
+        "mimetype": "plain/text"
+      },
+      "bg": {
+        "literal": "Системи за записване и процедури за наблюдение, използвани за поддържане на качеството на повикванията и методите за подобрение.",
+        "mimetype": "plain/text"
+      },
+      "lt": {
+        "literal": "Įrašymo sistemos ir stebėsenos procedūros, taikomos stebint skambučių kokybę ir tobulinimo metodus.",
+        "mimetype": "plain/text"
+      },
+      "hr": {
+        "literal": "Sustavi za snimanje i postupci praćenja koji se primjenjuju za praćenje kvalitete poziva i metode poboljšanja.",
+        "mimetype": "plain/text"
+      },
+      "lv": {
+        "literal": "Ierakstīšanas sistēmas un uzraudzības procedūras, ko izmanto, lai sekotu līdzi zvanu kvalitātei, un uzlabošanas metodes.",
+        "mimetype": "plain/text"
+      },
+      "fr": {
+        "literal": "Systèmes d’enregistrement et procédures de contrôle utilisés pour le suivi de la qualité des appels et des méthodes d’amélioration.",
+        "mimetype": "plain/text"
+      },
+      "hu": {
+        "literal": "Olyan nyilvántartási rendszerek és nyomonkövetési eljárások, amelyek a hívásminőség és az annak javítására irányuló módszerek nyomon követésére szolgálnak.",
+        "mimetype": "plain/text"
+      },
+      "sk": {
+        "literal": "Systémy zaznamenávania a monitorovacie postupy používané na sledovanie kvality hovorov a metódy na zlepšenie.",
+        "mimetype": "plain/text"
+      },
+      "sl": {
+        "literal": "Sistemi evidentiranja in postopki spremljanja, ki se uporabljajo pri sledenju kakovosti klicev ter metode za izboljšanje.",
+        "mimetype": "plain/text"
+      },
+      "ga": {
+        "literal": "Na córais taifeadta agus na nósanna imeachta faireacháin a úsáidtear chun taifead a choimeád ar cháilíocht na glaonna agus ar mhodhanna chun feabhas a chur orthu.",
+        "mimetype": "plain/text"
+      },
+      "sv": {
+        "literal": "Registreringssystem och övervakningsförfaranden som används för att spåra samtalskvalitet och metoderna för förbättring.",
+        "mimetype": "plain/text"
+      },
+      "el": {
+        "literal": "Τα συστήματα καταγραφής και οι διαδικασίες ελέγχου που χρησιμοποιούνται για την παρακολούθηση της ποιότητας των κλήσεων, και οι μέθοδοι βελτίωσης.",
+        "mimetype": "plain/text"
+      },
+      "mt": {
+        "literal": "Sistemi ta’ reġistrazzjoni u proċeduri ta’ monitoraġġ użati biex jinżamm kont tal-kwalità tat-telefonati u l-metodi għal titjib.",
+        "mimetype": "plain/text"
+      },
+      "en": {
+        "literal": "Recording systems and monitoring procedures used in keeping track of call quality and methods for improvement.",
+        "mimetype": "plain/text"
+      },
+      "is": {
+        "literal": "Upptökukerfi og skráningarkerfi sem notað er til að halda utan um gæði úthringinga og aðferðir til úrbóta.",
+        "mimetype": "plain/text"
+      },
+      "it": {
+        "literal": "Sistemi di registrazione e procedure di monitoraggio utilizzati per registrare la qualità delle chiamate e i metodi di miglioramento della stessa.",
+        "mimetype": "plain/text"
+      },
+      "es": {
+        "literal": "Sistemas de grabación y procedimientos de supervisión utilizados para controlar la calidad de las llamadas y los métodos de mejora.",
+        "mimetype": "plain/text"
+      },
+      "et": {
+        "literal": "Salvestussüsteemid ja seiremenetlused, millega jälgitakse kõnekvaliteeti, ning täiustusmeetodid.",
+        "mimetype": "plain/text"
+      },
+      "cs": {
+        "literal": "Systémy zaznamenávaní a kontrolní postupy používané při sledování kvality hovorů a metody ke zlepšení kvality.",
+        "mimetype": "plain/text"
+      },
+      "ar": {
+        "literal": "أنظمة التسجيل وإجراءات المراقبة المستخدمة في تتبع جودة المكالمات وأساليب التحسين.",
+        "mimetype": "plain/text"
+      },
+      "pl": {
+        "literal": "Systemy rejestracji i procedury monitorowania stosowane w celu monitorowania jakości rozmów telefonicznych oraz metody ich poprawy.",
+        "mimetype": "plain/text"
+      },
+      "ro": {
+        "literal": "Sistemele de înregistrare și procedurile de monitorizare utilizate pentru a monitoriza calitatea apelurilor și metodele de îmbunătățire.",
+        "mimetype": "plain/text"
+      },
+      "da": {
+        "literal": "Registreringssystemer og overvågningsprocedurer, der anvendes til at registrere opkaldskvalitet, og metoder til forbedring.",
+        "mimetype": "plain/text"
+      },
+      "nl": {
+        "literal": "Opnamesystemen en monitoringprocedures die worden gebruikt voor het opvolgen van de gesprekskwaliteit, en methoden voor verbetering.",
+        "mimetype": "plain/text"
+      }
+    },
+    "status": "released",
+    "_links": {
+      "self": {
+        "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/b535516b-9f8a-4c29-b6aa-a0a4561e1086&language=en",
+        "uri": "http://data.europa.eu/esco/skill/b535516b-9f8a-4c29-b6aa-a0a4561e1086",
+        "title": "call quality assurance management"
+      },
+      "isTopConceptInScheme": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/taxonomy?uri=http://data.europa.eu/esco/concept-scheme/member-skills&language=en",
+          "uri": "http://data.europa.eu/esco/concept-scheme/member-skills",
+          "title": "ESCO member skills"
+        }
+      ],
+      "isInScheme": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/taxonomy?uri=http://data.europa.eu/esco/concept-scheme/member-skills&language=en",
+          "uri": "http://data.europa.eu/esco/concept-scheme/member-skills",
+          "title": "ESCO member skills"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/taxonomy?uri=http://data.europa.eu/esco/concept-scheme/skills&language=en",
+          "uri": "http://data.europa.eu/esco/concept-scheme/skills",
+          "title": "ESCO skills"
+        }
+      ],
+      "hasSkillType": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/concept?uri=http://data.europa.eu/esco/skill-type/knowledge&language=en",
+          "uri": "http://data.europa.eu/esco/skill-type/knowledge",
+          "title": "knowledge"
+        }
+      ],
+      "hasReuseLevel": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/concept?uri=http://data.europa.eu/esco/skill-reuse-level/cross-sector&language=en",
+          "uri": "http://data.europa.eu/esco/skill-reuse-level/cross-sector",
+          "title": "cross-sector skills and competences",
+          "code": "Level 2"
+        }
+      ],
+      "broaderHierarchyConcept": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/concept?uri=http://data.europa.eu/esco/isced-f/0417&language=en",
+          "uri": "http://data.europa.eu/esco/isced-f/0417",
+          "title": "work skills"
+        }
+      ],
+      "isEssentialForOccupation": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/580c98d4-fb97-4597-864c-54140f058f1b&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/580c98d4-fb97-4597-864c-54140f058f1b",
+          "title": "call centre quality auditor"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/6aa78e46-ce22-421f-8a75-e915ac63c9d0&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/6aa78e46-ce22-421f-8a75-e915ac63c9d0",
+          "title": "call centre supervisor"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/30ca97f4-a4fd-4189-a781-ac08f6b09b78&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/30ca97f4-a4fd-4189-a781-ac08f6b09b78",
+          "title": "call centre analyst"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/9d2aae3e-cbfe-409f-86cc-7cef9cd0435a&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/9d2aae3e-cbfe-409f-86cc-7cef9cd0435a",
+          "title": "contact centre supervisor"
+        }
+      ],
+      "isOptionalForOccupation": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/1242d99a-47f1-4a62-b884-33746db8a6ca&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/1242d99a-47f1-4a62-b884-33746db8a6ca",
+          "title": "ICT help desk manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/dd25a2b0-add0-4ae2-bd85-bb644e0d0c39&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/dd25a2b0-add0-4ae2-bd85-bb644e0d0c39",
+          "title": "call centre manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/bcc2c1db-f969-4355-bebf-4878ff6c2a94&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/bcc2c1db-f969-4355-bebf-4878ff6c2a94",
+          "title": "service manager"
+        }
+      ],
+      "isOptionalForSkill": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/a0c4e4a2-9d7c-499d-af51-4e32dd028418&language=en",
+          "uri": "http://data.europa.eu/esco/skill/a0c4e4a2-9d7c-499d-af51-4e32dd028418",
+          "title": "manage key performance indicators of call centres",
+          "skillType": "http://data.europa.eu/esco/skill-type/skill"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/0d9a7816-d3e4-4a6c-8fdc-4b4bbe278a85&language=en",
+          "uri": "http://data.europa.eu/esco/skill/0d9a7816-d3e4-4a6c-8fdc-4b4bbe278a85",
+          "title": "train staff on call quality assurance",
+          "skillType": "http://data.europa.eu/esco/skill-type/skill"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/d39f380c-a900-4bbd-8685-babd806f1abc&language=en",
+          "uri": "http://data.europa.eu/esco/skill/d39f380c-a900-4bbd-8685-babd806f1abc",
+          "title": "maintain high quality of calls",
+          "skillType": "http://data.europa.eu/esco/skill-type/skill"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/c2e5cdbf-22cc-4741-9529-9750ba552c4f&language=en",
+          "uri": "http://data.europa.eu/esco/skill/c2e5cdbf-22cc-4741-9529-9750ba552c4f",
+          "title": "measure call quality",
+          "skillType": "http://data.europa.eu/esco/skill-type/skill"
+        }
+      ]
+    },
+    "_embedded": {
+      "ancestors": [
+        {
+          "title": "call quality assurance management",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/b535516b-9f8a-4c29-b6aa-a0a4561e1086&language=en",
+              "uri": "http://data.europa.eu/esco/skill/b535516b-9f8a-4c29-b6aa-a0a4561e1086"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/isced-f/0417"
+          ]
+        },
+        {
+          "title": "work skills",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/isced-f/0417&language=en",
+              "uri": "http://data.europa.eu/esco/isced-f/0417"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/isced-f/041"
+          ]
+        },
+        {
+          "title": "business and administration",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/isced-f/041&language=en",
+              "uri": "http://data.europa.eu/esco/isced-f/041"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/isced-f/04"
+          ]
+        },
+        {
+          "title": "business, administration and law",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/isced-f/04&language=en",
+              "uri": "http://data.europa.eu/esco/isced-f/04"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/K"
+          ]
+        },
+        {
+          "title": "knowledge",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/K&language=en",
+              "uri": "http://data.europa.eu/esco/skill/K"
+            }
+          },
+          "parents": []
+        }
+      ]
+    }
+  }
+}

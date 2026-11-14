@@ -1,0 +1,389 @@
+{
+  "url": "https://ec.europa.eu/esco/api/search?type=skill&language=en&limit=6&text=process%20spreadsheet%20data",
+  "at": "2026-11-14T23:00:07.299Z",
+  "response": {
+    "total": 1797,
+    "offset": 0,
+    "limit": 6,
+    "text": "process spreadsheet data",
+    "language": "en",
+    "type": [
+      "skill"
+    ],
+    "isInScheme": null,
+    "facet": null,
+    "_links": {
+      "self": {
+        "href": "https://ec.europa.eu/esco/api/search?text=process%20spreadsheet%20data&type=skill&limit=6&offset=0&full=false&viewObsolete=false&language=en"
+      },
+      "next": {
+        "href": "https://ec.europa.eu/esco/api/search?text=process%20spreadsheet%20data&type=skill&limit=6&offset=1&full=false&viewObsolete=false&language=en"
+      }
+    },
+    "_embedded": {
+      "results": [
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/1225b032-7ead-464c-9072-64097d9a4b62",
+          "searchHit": "Use spreadsheet documents for organisation, analysis and data storage in tabular form.",
+          "title": "use spreadsheets",
+          "preferredLabel": {
+            "de": "Kalkulationstabellen nutzen",
+            "no": "bruke regneark",
+            "fi": "käyttää laskentataulukoita",
+            "en-us": "use spreadsheets",
+            "pt": "utilizar folhas de cálculo",
+            "bg": "използване на електронни таблици",
+            "lt": "naudotis skaičiuoklėmis",
+            "hr": "upotrebljavati tablice",
+            "lv": "lietot izklājlapas",
+            "fr": "utiliser des feuilles de calcul",
+            "hu": "táblázatszerkesztőket használ",
+            "sk": "používať tabuľky",
+            "sl": "uporabljati preglednice",
+            "ga": "scarbhileoga a úsáid",
+            "sv": "använda kalkylprogram",
+            "el": "χρήση λογιστικών φύλλων",
+            "mt": "użu tal-ispreadsheets",
+            "en": "use spreadsheets",
+            "is": "notar töflureikniforrit",
+            "it": "utilizzare i fogli elettronici",
+            "es": "utilizar hojas de cálculo",
+            "et": "arvutustabeleid kasutama",
+            "cs": "používat tabulky",
+            "ar": "استخدام جداول البيانات",
+            "pl": "korzystać z arkuszy kalkulacyjnych",
+            "da": "bruge regneark",
+            "ro": "folosește foi de calcul",
+            "nl": "spreadsheets gebruiken"
+          },
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/skill"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/cross-sector"
+          ],
+          "broaderSkill": [
+            "http://data.europa.eu/esco/skill/1973c966-f236-40c9-b2d4-5d71a89019be"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/skill/S5.5.2"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/1225b032-7ead-464c-9072-64097d9a4b62&language=en",
+              "uri": "http://data.europa.eu/esco/skill/1225b032-7ead-464c-9072-64097d9a4b62",
+              "title": "use spreadsheets"
+            }
+          }
+        },
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/1973c966-f236-40c9-b2d4-5d71a89019be",
+          "searchHit": "use spreadsheets software",
+          "title": "use spreadsheets software",
+          "preferredLabel": {
+            "de": "Tabellenkalkulationsprogramme verwenden",
+            "no": "bruke regnearkprogramvare",
+            "fi": "käyttää taulukkolaskentaohjelmistoja",
+            "en-us": "use spreadsheets software",
+            "pt": "utilizar software de folha de cálculo",
+            "bg": "използване на софтуер за електронни таблици",
+            "lt": "naudotis skaičiuoklių programine įranga",
+            "hr": "upotrebljavati softver za tablice",
+            "lv": "lietot izklājlapu programmatūru",
+            "fr": "utiliser un logiciel de tableur",
+            "hu": "táblázatkezelő programot használ",
+            "sk": "používať tabuľkové procesory",
+            "sl": "uporabljati programsko opremo za preglednice",
+            "ga": "bogearraí scarbhileog a úsáid",
+            "sv": "använda kalkylark",
+            "el": "χρήση λογισμικού λογιστικών φύλλων",
+            "mt": "użu tas-softwer tal-ispreadsheets",
+            "en": "use spreadsheets software",
+            "is": "notar töflureiknisforrit",
+            "it": "utilizzare software per fogli elettronici",
+            "es": "utilizar software de hojas de cálculo",
+            "et": "arvutustabelitarkvara kasutama",
+            "cs": "používat tabulkový procesor",
+            "ar": "استخدام برمجيات الجداول الحسابية",
+            "pl": "posługiwać się oprogramowaniem do korzystania z arkuszy kalkulacyjnych",
+            "da": "bruge regnearkssoftware",
+            "ro": "utilizează programe software pentru foi de calcul",
+            "nl": "software voor spreadsheets gebruiken"
+          },
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills",
+            "http://data.europa.eu/esco/concept-scheme/skill-transversal-groups"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/skill"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/transversal"
+          ],
+          "broaderSkill": [
+            "http://data.europa.eu/esco/skill/5fd5c985-eaaa-47aa-8314-62359c54505a"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/skill/S5.5.2"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/1973c966-f236-40c9-b2d4-5d71a89019be&language=en",
+              "uri": "http://data.europa.eu/esco/skill/1973c966-f236-40c9-b2d4-5d71a89019be",
+              "title": "use spreadsheets software"
+            }
+          }
+        },
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/cf310cff-0d28-4dbc-9dbb-cc500a3196c2",
+          "searchHit": "The characteristics and functioning of software programs for office tasks such as word processing, spreadsheets, presentation, email and database.",
+          "title": "office software",
+          "preferredLabel": {
+            "de": "Bürosoftware",
+            "no": "kontorprogramvare",
+            "fi": "toimisto-ohjelmistot",
+            "en-us": "office software",
+            "pt": "software de gestão para escritórios",
+            "bg": "офисен софтуер",
+            "lt": "biuro programinė įranga",
+            "hr": "uredski softver",
+            "lv": "biroja programmatūra",
+            "fr": "logiciels de bureautique",
+            "hu": "irodai szoftverek",
+            "sk": "kancelársky softvér",
+            "sl": "pisarniška programska oprema",
+            "ga": "bogearraí oifige",
+            "sv": "kontorsprogramvara",
+            "el": "λογισμικό γραφείου",
+            "mt": "softwer tal-uffiċċju",
+            "en": "office software",
+            "is": "skrifstofuhugbúnaður",
+            "it": "software per ufficio",
+            "es": "programas de ofimática",
+            "et": "kontoritarkvara",
+            "cs": "kancelářský software",
+            "ar": "البرمجيات المكتبية",
+            "pl": "oprogramowanie biurowe",
+            "da": "kontorsoftware",
+            "ro": "software de birotică",
+            "nl": "kantoorsoftware"
+          },
+          "isTopConceptInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/knowledge"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/cross-sector"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/isced-f/0611"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/cf310cff-0d28-4dbc-9dbb-cc500a3196c2&language=en",
+              "uri": "http://data.europa.eu/esco/skill/cf310cff-0d28-4dbc-9dbb-cc500a3196c2",
+              "title": "office software"
+            }
+          }
+        },
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/6a536b36-c5c7-4d10-bf67-a4fb0f8549b2",
+          "searchHit": "The techniques and methods that support a systematic and independent examination of data, policies, operations and performances using computer-assisted audit tools and techniques (CAATs) such as spreadsheets, databases, statistical analysis and business intelligence software.",
+          "title": "audit techniques",
+          "preferredLabel": {
+            "de": "Auditverfahren",
+            "no": "revisjonsteknikker",
+            "fi": "auditointitekniikat",
+            "en-us": "audit techniques",
+            "pt": "técnicas de auditoria",
+            "bg": "техники за одит",
+            "lt": "audito metodai",
+            "hr": "tehnike revizije",
+            "lv": "audita metodes",
+            "fr": "techniques d’audit",
+            "hu": "audit technikák",
+            "sk": "techniky auditu",
+            "sl": "revizijske tehnike",
+            "ga": "teicnící iniúchóireachta",
+            "sv": "revisionsmetoder",
+            "el": "τεχνικές ελέγχου",
+            "mt": "metodi tal-verifika",
+            "en": "audit techniques",
+            "is": "endurskoðunartækni",
+            "it": "tecniche di audit",
+            "es": "técnicas de auditoría",
+            "et": "audititehnikad",
+            "cs": "techniky auditu",
+            "ar": "تقنيات التدقيق",
+            "pl": "techniki audytu",
+            "da": "auditteknikker",
+            "ro": "tehnici de audit",
+            "nl": "audittechnieken"
+          },
+          "isTopConceptInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/knowledge"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/cross-sector"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/isced-f/0411"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/6a536b36-c5c7-4d10-bf67-a4fb0f8549b2&language=en",
+              "uri": "http://data.europa.eu/esco/skill/6a536b36-c5c7-4d10-bf67-a4fb0f8549b2",
+              "title": "audit techniques"
+            }
+          }
+        },
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/f2d57f41-43b4-4f5b-8100-3df5c21eda50",
+          "searchHit": "process data",
+          "title": "process data",
+          "preferredLabel": {
+            "de": "Daten verarbeiten",
+            "no": "behandle data",
+            "fi": "käsitellä tietoja",
+            "en-us": "process data",
+            "pt": "processar dados",
+            "bg": "обработване на данни",
+            "lt": "tvarkyti duomenis",
+            "hr": "obrađivati podatke",
+            "lv": "apstrādāt datus",
+            "fr": "traiter des données",
+            "hu": "adatokat dolgoz fel",
+            "sk": "spracovať údaje",
+            "sl": "obdelovati podatke",
+            "ga": "sonraí a phróiseáil",
+            "sv": "bearbeta data",
+            "el": "επεξεργασία δεδομένων",
+            "mt": "ipproċessar tad-data",
+            "en": "process data",
+            "is": "vinnur úr gögnum",
+            "it": "elaborare i dati",
+            "es": "procesar datos",
+            "et": "andmeid töötlema",
+            "cs": "zpracovávat data",
+            "ar": "معالجة البيانات",
+            "pl": "przetwarzać dane",
+            "da": "behandle data",
+            "ro": "procesează date",
+            "nl": "gegevens verwerken"
+          },
+          "isTopConceptInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/skill"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/cross-sector"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/skill/S2.4.2"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/f2d57f41-43b4-4f5b-8100-3df5c21eda50&language=en",
+              "uri": "http://data.europa.eu/esco/skill/f2d57f41-43b4-4f5b-8100-3df5c21eda50",
+              "title": "process data"
+            }
+          }
+        },
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/c95c29fe-3971-46b7-80e9-1f7e75ba99b3",
+          "searchHit": "Use specific software for data analysis, including statistics, spreadsheets, and databases. Explore possibilities in order to make reports to managers, superiors, or clients.",
+          "title": "use specific data analysis software",
+          "preferredLabel": {
+            "de": "spezielle Datenanalysesoftware nutzen",
+            "no": "bruke spesifikk dataanalyseprogramvare",
+            "fi": "käyttää tiettyä tietojen analysointiin tarkoitettua ohjelmistoa",
+            "en-us": "use specific data analysis software",
+            "pt": "utilizar software específico de análise de dados",
+            "bg": "използване на специализиран софтуер за анализ на данни",
+            "lt": "naudoti specialią duomenų analizės programinę įrangą",
+            "hr": "upotrebljavati poseban softver za analizu podataka",
+            "lv": "lietot specializētas datu analīzes programmatūras",
+            "fr": "utiliser un logiciel d’analyse de données spécifique",
+            "hu": "speciális adatelemző szoftvert használ",
+            "sk": "používať špecializovaný softvér na analýzu údajov",
+            "sl": "uporabljati posebno programsko opremo za analizo podatkov",
+            "ga": "bogearraí sonracha anailíse sonraí a úsáid",
+            "sv": "använda speciell programvara för dataanalys",
+            "el": "χρήση ειδικού λογισμικού για την ανάλυση δεδομένων",
+            "mt": "użu ta’ softwer speċifiku għall-analiżi tad-data",
+            "en": "use specific data analysis software",
+            "is": "notar sérstakan gagngreiningarhugbúnað",
+            "it": "utilizzare software specifici di analisi dei dati",
+            "es": "utilizar programas informáticos específicos para el análisis de datos",
+            "et": "spetsiaalset andmeanalüüsitarkvara kasutama",
+            "cs": "používat specializovaný software pro analýzu dat",
+            "ar": "إستخدام برمجيات تحليل البيانات المحددة",
+            "pl": "korzystać z konkretnego oprogramowania do analizy danych",
+            "da": "bruge specifik dataanalysesoftware",
+            "ro": "folosește softuri dedicate pentru analiza datelor",
+            "nl": "specifieke software voor gegevensanalyse gebruiken"
+          },
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/skill"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/occupation-specific"
+          ],
+          "broaderSkill": [
+            "http://data.europa.eu/esco/skill/2b92a5b2-6758-4ee3-9fb4-b6387a55cc8f"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/skill/S5.5.2"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/c95c29fe-3971-46b7-80e9-1f7e75ba99b3&language=en",
+              "uri": "http://data.europa.eu/esco/skill/c95c29fe-3971-46b7-80e9-1f7e75ba99b3",
+              "title": "use specific data analysis software"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,731 @@
+{
+  "url": "https://ec.europa.eu/esco/api/resource/skill?language=en&uri=http%3A%2F%2Fdata.europa.eu%2Fesco%2Fskill%2F81a2db2c-7e55-44d0-9cd9-74c25147d7cd",
+  "at": "2026-11-14T22:51:30.049Z",
+  "response": {
+    "className": "Skill",
+    "classId": "http://data.europa.eu/esco/model#Skill",
+    "uri": "http://data.europa.eu/esco/skill/81a2db2c-7e55-44d0-9cd9-74c25147d7cd",
+    "title": "analyse test data",
+    "referenceLanguage": [
+      "en"
+    ],
+    "preferredLabel": {
+      "de": "Testdaten auswerten",
+      "no": "analysere testdata",
+      "fi": "analysoida testidataa",
+      "en-us": "analyze  test data",
+      "pt": "analisar dados de ensaio",
+      "bg": "анализиране на данни от изпитвания",
+      "lt": "analizuoti bandymų duomenis",
+      "hr": "analizirati podatke dobivene testiranjem",
+      "lv": "analizēt testēšanas datus",
+      "fr": "analyser des données de tests",
+      "hu": "tesztelési adatokat elemez",
+      "sk": "analyzovať údaje z testov",
+      "sl": "analizirati podatke preskusov",
+      "ga": "sonraí tástála a anailísiú",
+      "sv": "analysera testdata",
+      "mt": "analiżi tad-data tal-ittestjar",
+      "el": "ανάλυση των δεδομένων δοκιμής",
+      "en": "analyse test data",
+      "is": "greinir prófunargögn",
+      "it": "analizzare i dati dei controlli",
+      "es": "analizar datos experimentales",
+      "et": "katseandmeid analüüsima",
+      "cs": "analyzovat údaje ze zkoušek",
+      "ar": "تحليل بيانات الاختبار",
+      "pl": "analizować dane z badań",
+      "ro": "analizează datele testelor",
+      "da": "analysere testdata",
+      "nl": "testgegevens analyseren"
+    },
+    "alternativeLabel": {
+      "en": [
+        "analysing test data",
+        "examine test data",
+        "analyze test data",
+        "evaluate test data",
+        "assess test data",
+        "analyzing test data"
+      ],
+      "hu": [
+        "vizsgálati adatokat elemez"
+      ],
+      "es": [
+        "interpretar datos experimentales",
+        "examinar datos de estudio",
+        "analizar datos de estudio",
+        "examinar datos experimentales",
+        "interpretar datos de estudio"
+      ]
+    },
+    "description": {
+      "de": {
+        "literal": "Auswerten und Analysieren von Testdaten, um Schlussfolgerungen, neue Erkenntnisse oder Lösungen zu formulieren.",
+        "mimetype": "plain/text"
+      },
+      "no": {
+        "literal": "Tolke og analysere data som samles inn under testing for å danne konklusjoner, ny innsikt eller løsninger.",
+        "mimetype": "plain/text"
+      },
+      "fi": {
+        "literal": "Tulkita ja analysoida testauksen aikana kerättyjä tietoja päätelmien, uusien näkemysten tai ratkaisujen laatimiseksi.",
+        "mimetype": "plain/text"
+      },
+      "en-us": {
+        "literal": "Interpret and analyze data collected during testing in order to formulate conclusions, new insights or solutions.",
+        "mimetype": "plain/text"
+      },
+      "pt": {
+        "literal": "Interpretar e analisar os dados recolhidos durante os ensaios, a fim de formular conclusões, novas perspetivas ou soluções.",
+        "mimetype": "plain/text"
+      },
+      "bg": {
+        "literal": "Тълкува и анализира данните, събрани по време на изпитването, за да формулират заключения, нови идеи или решения.",
+        "mimetype": "plain/text"
+      },
+      "lt": {
+        "literal": "Interpretuoti ir analizuoti per bandymus gautus duomenis siekiant suformuluoti išvadas, naujas įžvalgas ar sprendimus.",
+        "mimetype": "plain/text"
+      },
+      "hr": {
+        "literal": "Tumačiti i analizirati podatke prikupljene tijekom testiranja kako bi se oblikovali zaključci, nova saznanja ili rješenja.",
+        "mimetype": "plain/text"
+      },
+      "lv": {
+        "literal": "Izprast un analizēt testēšanas laikā iegūtos datus, lai sagatavotu secinājumus, jaunas atziņas vai risinājumus.",
+        "mimetype": "plain/text"
+      },
+      "fr": {
+        "literal": "Interpréter et analyser les données recueillies lors des essais afin de formuler des conclusions, de nouvelles connaissances ou de nouvelles solutions.",
+        "mimetype": "plain/text"
+      },
+      "hu": {
+        "literal": "A vizsgálatok során összegyűjtött adatokat úgy értelmezi és elemzi, hogy következtetéseket, új véleményeket vagy megoldásokat lehessen megfogalmazni.",
+        "mimetype": "plain/text"
+      },
+      "sk": {
+        "literal": "Interpretovať a analyzovať údaje zozbierané počas testovania s cieľom sformulovať závery, nové poznatky alebo riešenia.",
+        "mimetype": "plain/text"
+      },
+      "sl": {
+        "literal": "Razložiti in analizirati podatke, zbrane med preskušanjem, da se oblikujejo sklepi, nova spoznanja ali rešitve.",
+        "mimetype": "plain/text"
+      },
+      "ga": {
+        "literal": "Léirmhíniú agus anailís a dhéanamh ar na sonraí a bhailítear le linn na tástála d’fhonn conclúidí, léargais nua nó réitigh a cheapadh.",
+        "mimetype": "plain/text"
+      },
+      "sv": {
+        "literal": "Tolka och analysera data som har samlats in under testning för att formulera slutsatser, nya insikter eller lösningar.",
+        "mimetype": "plain/text"
+      },
+      "mt": {
+        "literal": "Interpreta u analizza d-data miġbura matul l-ittestjar sabiex jiġu fformulati konklużjonijiet, għarfien ġdid jew soluzzjonijiet.",
+        "mimetype": "plain/text"
+      },
+      "el": {
+        "literal": "Ερμηνεία και ανάλυση των δεδομένων που συλλέγονται κατά τη διάρκεια δοκιμών με σκοπό τη διατύπωση συμπερασμάτων, νέων θεωρήσεων ή λύσεων.",
+        "mimetype": "plain/text"
+      },
+      "en": {
+        "literal": "Interpret and analyse data collected during testing in order to formulate conclusions, new insights or solutions.",
+        "mimetype": "plain/text"
+      },
+      "is": {
+        "literal": "Túlkar og greinir gögn sem safnað er meðan á prófun stendur til að setja fram niðurstöður, nýjar hugmyndir eða lausnir.",
+        "mimetype": "plain/text"
+      },
+      "it": {
+        "literal": "Interpretare e analizzare i dati raccolti durante le prove al fine di formulare conclusioni, nuove conoscenze o soluzioni.",
+        "mimetype": "plain/text"
+      },
+      "es": {
+        "literal": "Interpretar y analizar datos recogidos durante ensayos para formular conclusiones, nuevos conocimientos o soluciones.",
+        "mimetype": "plain/text"
+      },
+      "et": {
+        "literal": "Katsetamisel kogutud andmete tõlgendamine ja analüüsimine, et sõnastada järeldusi, uusi arusaamu või lahendusi.",
+        "mimetype": "plain/text"
+      },
+      "cs": {
+        "literal": "Interpretovat a analyzovat údaje shromážděné během zkoušek za účelem vyvození závěrů, nových poznatků nebo řešení.",
+        "mimetype": "plain/text"
+      },
+      "ar": {
+        "literal": "تفسير البيانات التي تم تجميعها أثناء الاختبار وتحليلها من أجل استنباط استنتاجات أو رؤى أو حلول جديدة.",
+        "mimetype": "plain/text"
+      },
+      "pl": {
+        "literal": "Interpretować i analizować dane zebrane podczas badań w celu formułowania wniosków, nowych spostrzeżeń lub rozwiązań.",
+        "mimetype": "plain/text"
+      },
+      "ro": {
+        "literal": "Interpretează și analizează datele colectate în timpul testării, pentru a formula concluzii, perspective noi sau soluții.",
+        "mimetype": "plain/text"
+      },
+      "da": {
+        "literal": "Fortolke og analysere de data, der indsamles under testningen, med henblik på at formulere konklusioner, nye indsigter eller løsninger.",
+        "mimetype": "plain/text"
+      },
+      "nl": {
+        "literal": "De tijdens de tests verzamelde gegevens interpreteren en analyseren om conclusies, nieuwe inzichten of oplossingen te formuleren.",
+        "mimetype": "plain/text"
+      }
+    },
+    "status": "released",
+    "_links": {
+      "self": {
+        "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/81a2db2c-7e55-44d0-9cd9-74c25147d7cd&language=en",
+        "uri": "http://data.europa.eu/esco/skill/81a2db2c-7e55-44d0-9cd9-74c25147d7cd",
+        "title": "analyse test data"
+      },
+      "isInScheme": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/taxonomy?uri=http://data.europa.eu/esco/concept-scheme/skills&language=en",
+          "uri": "http://data.europa.eu/esco/concept-scheme/skills",
+          "title": "ESCO skills"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/taxonomy?uri=http://data.europa.eu/esco/concept-scheme/member-skills&language=en",
+          "uri": "http://data.europa.eu/esco/concept-scheme/member-skills",
+          "title": "ESCO member skills"
+        }
+      ],
+      "hasSkillType": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/concept?uri=http://data.europa.eu/esco/skill-type/skill&language=en",
+          "uri": "http://data.europa.eu/esco/skill-type/skill",
+          "title": "skill"
+        }
+      ],
+      "hasReuseLevel": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/concept?uri=http://data.europa.eu/esco/skill-reuse-level/cross-sector&language=en",
+          "uri": "http://data.europa.eu/esco/skill-reuse-level/cross-sector",
+          "title": "cross-sector skills and competences",
+          "code": "Level 2"
+        }
+      ],
+      "broaderHierarchyConcept": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/concept?uri=http://data.europa.eu/esco/skill/S2.7.6&language=en",
+          "uri": "http://data.europa.eu/esco/skill/S2.7.6",
+          "title": "evaluating systems, programmes, equipment and products",
+          "code": "S2.7.6"
+        }
+      ],
+      "broaderSkill": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/7dd94ad3-13d6-43fe-8b94-51fcbf67ced9&language=en",
+          "uri": "http://data.europa.eu/esco/skill/7dd94ad3-13d6-43fe-8b94-51fcbf67ced9",
+          "title": "evaluate information",
+          "skillType": "http://data.europa.eu/esco/skill-type/skill"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/1d6c7de4-350e-4868-a47b-333b4b0d9650&language=en",
+          "uri": "http://data.europa.eu/esco/skill/1d6c7de4-350e-4868-a47b-333b4b0d9650",
+          "title": "evaluate data, information and digital content",
+          "skillType": "http://data.europa.eu/esco/skill-type/skill"
+        }
+      ],
+      "narrowerSkill": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/aafbfaa4-5f93-457e-8cb8-d4ed855277f8&language=en",
+          "uri": "http://data.europa.eu/esco/skill/aafbfaa4-5f93-457e-8cb8-d4ed855277f8",
+          "title": "analyse experimental laboratory data",
+          "skillType": "http://data.europa.eu/esco/skill-type/skill"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/77f109c4-3107-4d2a-a512-5160ac103933&language=en",
+          "uri": "http://data.europa.eu/esco/skill/77f109c4-3107-4d2a-a512-5160ac103933",
+          "title": "analyse environmental data",
+          "skillType": "http://data.europa.eu/esco/skill-type/skill"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/47a49cd6-097d-457a-9f7b-c290c14930d5&language=en",
+          "uri": "http://data.europa.eu/esco/skill/47a49cd6-097d-457a-9f7b-c290c14930d5",
+          "title": "analyse big data",
+          "skillType": "http://data.europa.eu/esco/skill-type/skill"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/807d89b5-3557-4259-8e2c-1b374d497fe8&language=en",
+          "uri": "http://data.europa.eu/esco/skill/807d89b5-3557-4259-8e2c-1b374d497fe8",
+          "title": "analyse data for aeronautical publications",
+          "skillType": "http://data.europa.eu/esco/skill-type/skill"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/4ce06d6b-f3df-40b6-b950-570be5008032&language=en",
+          "uri": "http://data.europa.eu/esco/skill/4ce06d6b-f3df-40b6-b950-570be5008032",
+          "title": "analyse scanned data of the body",
+          "skillType": "http://data.europa.eu/esco/skill-type/skill"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/94f2935b-b4ac-446e-9775-60b4239d016c&language=en",
+          "uri": "http://data.europa.eu/esco/skill/94f2935b-b4ac-446e-9775-60b4239d016c",
+          "title": "interpret psychological tests",
+          "skillType": "http://data.europa.eu/esco/skill-type/skill"
+        }
+      ],
+      "isEssentialForOccupation": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/109e0a5d-203d-4af6-8f70-692111335ec3&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/109e0a5d-203d-4af6-8f70-692111335ec3",
+          "title": "quality services manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/f7ddb68a-beba-4aa9-b5cb-d174d70ea724&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/f7ddb68a-beba-4aa9-b5cb-d174d70ea724",
+          "title": "welding inspector"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/bb609566-3ab6-44dd-8f48-cf0b15b96827&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/bb609566-3ab6-44dd-8f48-cf0b15b96827",
+          "title": "automation engineer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/11833a96-fc27-4b03-a53d-892ac891a2bb&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/11833a96-fc27-4b03-a53d-892ac891a2bb",
+          "title": "production engineering technician"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/b31e404e-9af6-457d-a58a-208f612eeba3&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/b31e404e-9af6-457d-a58a-208f612eeba3",
+          "title": "mechanical engineering technician"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/8c0f59c9-9a47-42e7-8287-aab19df4e6ab&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/8c0f59c9-9a47-42e7-8287-aab19df4e6ab",
+          "title": "microelectronics engineer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/c262bb96-03bb-4c97-a45b-0cf36db5b048&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/c262bb96-03bb-4c97-a45b-0cf36db5b048",
+          "title": "assistant lecturer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/1c25fdb4-c6e2-4118-99a5-519e9657a2bd&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/1c25fdb4-c6e2-4118-99a5-519e9657a2bd",
+          "title": "electrical equipment inspector"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/92bb3d8c-8a9f-4cd7-80ec-247bbf173004&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/92bb3d8c-8a9f-4cd7-80ec-247bbf173004",
+          "title": "computer hardware engineer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/c8fa93eb-7c2c-42c3-b135-c2e825a6615e&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/c8fa93eb-7c2c-42c3-b135-c2e825a6615e",
+          "title": "test engineer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/2026adb2-62d7-4b92-9ccb-105abdebe37d&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/2026adb2-62d7-4b92-9ccb-105abdebe37d",
+          "title": "electromagnetic engineer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/76abbb82-c103-4d7a-a4c0-14dba4d6199a&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/76abbb82-c103-4d7a-a4c0-14dba4d6199a",
+          "title": "commissioning engineer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/ab3c4d3e-3189-47ad-82af-57cdae3cb589&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/ab3c4d3e-3189-47ad-82af-57cdae3cb589",
+          "title": "optical engineer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/fdb16700-109e-4d02-949e-3213f278df93&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/fdb16700-109e-4d02-949e-3213f278df93",
+          "title": "industrial quality manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/e6a3ce2e-c0f2-47a7-937a-61ae9abfe1fa&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/e6a3ce2e-c0f2-47a7-937a-61ae9abfe1fa",
+          "title": "metrology technician"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/35d41f4f-334b-452e-9e31-99f376302493&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/35d41f4f-334b-452e-9e31-99f376302493",
+          "title": "optoelectronic engineer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/7f0fe7d3-54c6-41e9-88ba-9d4f0f1a46b4&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/7f0fe7d3-54c6-41e9-88ba-9d4f0f1a46b4",
+          "title": "microsystem engineer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/08f5481e-9233-4ef2-9e4b-945224879ce5&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/08f5481e-9233-4ef2-9e4b-945224879ce5",
+          "title": "commissioning technician"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/778c1d37-69f2-4184-ac98-03b7dbfba332&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/778c1d37-69f2-4184-ac98-03b7dbfba332",
+          "title": "photonics engineer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/4f4d33a1-0b41-4dd9-8a42-aeba5a3974ab&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/4f4d33a1-0b41-4dd9-8a42-aeba5a3974ab",
+          "title": "sensor engineer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/42381741-f3a7-4b26-b35c-da6fad9f1cfd&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/42381741-f3a7-4b26-b35c-da6fad9f1cfd",
+          "title": "product development engineering technician"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/06351e17-67c4-44bc-adf7-64b73f92c3b5&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/06351e17-67c4-44bc-adf7-64b73f92c3b5",
+          "title": "metallurgical technician"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/30c0943c-caa1-411d-b273-26f475971273&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/30c0943c-caa1-411d-b273-26f475971273",
+          "title": "quality engineer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/53be4843-8f31-4645-b25c-9a5bbb04f6b6&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/53be4843-8f31-4645-b25c-9a5bbb04f6b6",
+          "title": "process engineering technician"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/1f8314c2-01bd-4af4-babc-04d7034591b8&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/1f8314c2-01bd-4af4-babc-04d7034591b8",
+          "title": "agricultural technician"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/93e4e70b-aae4-4fdc-8037-e48e7077564e&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/93e4e70b-aae4-4fdc-8037-e48e7077564e",
+          "title": "transport planner"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/43eb6228-8241-47d6-875e-7ccc214291d5&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/43eb6228-8241-47d6-875e-7ccc214291d5",
+          "title": "battery test technician"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/b2cac4bc-abb7-41b3-a515-2ad006b8ebf6&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/b2cac4bc-abb7-41b3-a515-2ad006b8ebf6",
+          "title": "control panel tester"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/bcc21c63-7eee-4520-8fa7-43eefd389668&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/bcc21c63-7eee-4520-8fa7-43eefd389668",
+          "title": "industrial engineering technician"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/ab360abd-32e2-4e03-967d-a10758efffa7&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/ab360abd-32e2-4e03-967d-a10758efffa7",
+          "title": "mechatronics engineer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/2296fa07-98ae-4875-b18d-96ed86134ffb&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/2296fa07-98ae-4875-b18d-96ed86134ffb",
+          "title": "electronic equipment inspector"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/77abfaec-a250-4765-95fa-6091e8da1bba&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/77abfaec-a250-4765-95fa-6091e8da1bba",
+          "title": "electromechanical engineer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/608edf30-fe37-4ae5-bdd1-2d3a8fd347bd&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/608edf30-fe37-4ae5-bdd1-2d3a8fd347bd",
+          "title": "flight test engineer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/ae8b19cc-8c6e-4a16-ada2-c15f97ded133&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/ae8b19cc-8c6e-4a16-ada2-c15f97ded133",
+          "title": "optomechanical engineer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/becbe3ca-e000-40c0-9f67-5c4035b930ea&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/becbe3ca-e000-40c0-9f67-5c4035b930ea",
+          "title": "computer hardware test technician"
+        }
+      ],
+      "isOptionalForOccupation": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/579254cf-6d69-4889-9000-9c79dc568644&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/579254cf-6d69-4889-9000-9c79dc568644",
+          "title": "mechanical engineer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/53d2052f-edc0-4f44-8be1-164526412bfe&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/53d2052f-edc0-4f44-8be1-164526412bfe",
+          "title": "industrial engineer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/fbceeac6-798b-4307-a825-626707a753ad&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/fbceeac6-798b-4307-a825-626707a753ad",
+          "title": "calculation engineer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/c6bd511a-d966-4df9-a48e-4f800354f268&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/c6bd511a-d966-4df9-a48e-4f800354f268",
+          "title": "operations manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/16cb1f72-3d8c-4404-84ec-9c31fbd7c86c&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/16cb1f72-3d8c-4404-84ec-9c31fbd7c86c",
+          "title": "welding engineer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/551a6797-3ca9-41fc-9dca-9a982a8fd8a6&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/551a6797-3ca9-41fc-9dca-9a982a8fd8a6",
+          "title": "robotics engineer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/82d75f3b-644a-4582-ad6b-a2a1833e44cb&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/82d75f3b-644a-4582-ad6b-a2a1833e44cb",
+          "title": "non-destructive testing specialist"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/994fe880-dc26-4f0f-a3cd-500709b6a665&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/994fe880-dc26-4f0f-a3cd-500709b6a665",
+          "title": "precision engineer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/4fef1907-cf82-413b-841a-02ef57e299a6&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/4fef1907-cf82-413b-841a-02ef57e299a6",
+          "title": "scientific laboratory technician"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/dca305c8-d665-462c-bdc9-c3a19734ba18&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/dca305c8-d665-462c-bdc9-c3a19734ba18",
+          "title": "surface engineer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/c0a35355-be44-44c0-82d2-acf8363ed45e&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/c0a35355-be44-44c0-82d2-acf8363ed45e",
+          "title": "metal product quality control inspector"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/4d5bd738-9202-4fd7-bd8c-7dbe914048de&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/4d5bd738-9202-4fd7-bd8c-7dbe914048de",
+          "title": "agricultural engineer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/998a0bf4-b1be-42ab-aee5-0096c9be3319&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/998a0bf4-b1be-42ab-aee5-0096c9be3319",
+          "title": "quality engineering technician"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/1f97f6e6-0ac7-4e77-88ab-2e3801c5a223&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/1f97f6e6-0ac7-4e77-88ab-2e3801c5a223",
+          "title": "heating, ventilation, air conditioning engineer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/ec21ce88-ce14-49b6-be0a-cc53cf5a3a67&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/ec21ce88-ce14-49b6-be0a-cc53cf5a3a67",
+          "title": "chemical engineer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/0da75680-fbf9-44d8-802a-ac12eb425a34&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/0da75680-fbf9-44d8-802a-ac12eb425a34",
+          "title": "biotechnical technician"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/eb00745b-9abb-4bd8-8291-aade48af029d&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/eb00745b-9abb-4bd8-8291-aade48af029d",
+          "title": "material testing technician"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/6fc8f605-98b9-4218-b5e2-91c4c9c55c4d&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/6fc8f605-98b9-4218-b5e2-91c4c9c55c4d",
+          "title": "design engineer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/86ca306c-ab99-420a-9e2a-aa73c5c4de22&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/86ca306c-ab99-420a-9e2a-aa73c5c4de22",
+          "title": "electrical engineer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/949ed945-f697-415e-b4c5-51d8abf7cfdf&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/949ed945-f697-415e-b4c5-51d8abf7cfdf",
+          "title": "nanoengineer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/1f958638-066f-470c-9549-a9070ba280a6&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/1f958638-066f-470c-9549-a9070ba280a6",
+          "title": "component engineer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/5ac65daa-0896-4193-9f0e-8b00746b78a1&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/5ac65daa-0896-4193-9f0e-8b00746b78a1",
+          "title": "university research assistant"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/fde4372d-8293-42de-afbb-8b5a9b274fe7&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/fde4372d-8293-42de-afbb-8b5a9b274fe7",
+          "title": "application engineer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/1c36dd08-f6a7-43f2-a889-beebedb71c25&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/1c36dd08-f6a7-43f2-a889-beebedb71c25",
+          "title": "equipment engineer"
+        }
+      ]
+    },
+    "_embedded": {
+      "ancestors": [
+        {
+          "title": "analyse test data",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/81a2db2c-7e55-44d0-9cd9-74c25147d7cd&language=en",
+              "uri": "http://data.europa.eu/esco/skill/81a2db2c-7e55-44d0-9cd9-74c25147d7cd"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/7dd94ad3-13d6-43fe-8b94-51fcbf67ced9",
+            "http://data.europa.eu/esco/skill/S2.7.6",
+            "http://data.europa.eu/esco/skill/1d6c7de4-350e-4868-a47b-333b4b0d9650"
+          ]
+        },
+        {
+          "title": "evaluate data, information and digital content",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/1d6c7de4-350e-4868-a47b-333b4b0d9650&language=en",
+              "uri": "http://data.europa.eu/esco/skill/1d6c7de4-350e-4868-a47b-333b4b0d9650"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S2.7.0",
+            "http://data.europa.eu/esco/skill/629685b8-5f9e-4522-8cff-b3e2c4ec625a"
+          ]
+        },
+        {
+          "title": "analysing and evaluating information and data",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S2.7.0&language=en",
+              "uri": "http://data.europa.eu/esco/skill/S2.7.0"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S2.7"
+          ]
+        },
+        {
+          "title": "analysing and evaluating information and data",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S2.7&language=en",
+              "uri": "http://data.europa.eu/esco/skill/S2.7"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S2"
+          ]
+        },
+        {
+          "title": "information skills",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S2&language=en",
+              "uri": "http://data.europa.eu/esco/skill/S2"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S"
+          ]
+        },
+        {
+          "title": "skills",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S&language=en",
+              "uri": "http://data.europa.eu/esco/skill/S"
+            }
+          },
+          "parents": []
+        },
+        {
+          "title": "digital data processing",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/629685b8-5f9e-4522-8cff-b3e2c4ec625a&language=en",
+              "uri": "http://data.europa.eu/esco/skill/629685b8-5f9e-4522-8cff-b3e2c4ec625a"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/aeecc330-0be9-419f-bddb-5218de926004"
+          ]
+        },
+        {
+          "title": "digital competencies",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/aeecc330-0be9-419f-bddb-5218de926004&language=en",
+              "uri": "http://data.europa.eu/esco/skill/aeecc330-0be9-419f-bddb-5218de926004"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/4f663b30-1c49-4634-82e4-7e582b1551b7"
+          ]
+        },
+        {
+          "title": "application of knowledge",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/4f663b30-1c49-4634-82e4-7e582b1551b7&language=en",
+              "uri": "http://data.europa.eu/esco/skill/4f663b30-1c49-4634-82e4-7e582b1551b7"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/7ee746cb-fded-47f5-9652-19ebebbce51b"
+          ]
+        },
+        {
+          "title": "Transversal skills/competences",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/7ee746cb-fded-47f5-9652-19ebebbce51b&language=en",
+              "uri": "http://data.europa.eu/esco/skill/7ee746cb-fded-47f5-9652-19ebebbce51b"
+            }
+          },
+          "parents": []
+        },
+        {
+          "title": "evaluate information",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/7dd94ad3-13d6-43fe-8b94-51fcbf67ced9&language=en",
+              "uri": "http://data.europa.eu/esco/skill/7dd94ad3-13d6-43fe-8b94-51fcbf67ced9"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S2.7.0",
+            "http://data.europa.eu/esco/skill/a06a5a3f-07a9-40b3-bb7b-d93a960b1be5"
+          ]
+        },
+        {
+          "title": "thinking",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/a06a5a3f-07a9-40b3-bb7b-d93a960b1be5&language=en",
+              "uri": "http://data.europa.eu/esco/skill/a06a5a3f-07a9-40b3-bb7b-d93a960b1be5"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/7ee746cb-fded-47f5-9652-19ebebbce51b"
+          ]
+        },
+        {
+          "title": "evaluating systems, programmes, equipment and products",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S2.7.6&language=en",
+              "uri": "http://data.europa.eu/esco/skill/S2.7.6"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S2.7"
+          ]
+        }
+      ]
+    }
+  }
+}

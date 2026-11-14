@@ -1,0 +1,208 @@
+{
+  "url": "https://ec.europa.eu/esco/api/search?type=skill&language=en&limit=3&text=information%20security",
+  "at": "2026-11-14T22:51:24.948Z",
+  "response": {
+    "total": 1211,
+    "offset": 0,
+    "limit": 3,
+    "text": "information security",
+    "language": "en",
+    "type": [
+      "skill"
+    ],
+    "isInScheme": null,
+    "facet": null,
+    "_links": {
+      "self": {
+        "href": "https://ec.europa.eu/esco/api/search?text=information%20security&type=skill&limit=3&offset=0&full=false&viewObsolete=false&language=en"
+      },
+      "next": {
+        "href": "https://ec.europa.eu/esco/api/search?text=information%20security&type=skill&limit=3&offset=1&full=false&viewObsolete=false&language=en"
+      }
+    },
+    "_embedded": {
+      "results": [
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/6833e58b-eceb-4599-9375-1b7e6ec64087",
+          "searchHit": "ensure information security",
+          "title": "ensure information security",
+          "preferredLabel": {
+            "de": "Informationssicherheit gewährleisten",
+            "no": "sikre informasjonssikkerhet",
+            "fi": "varmistaa tietoturva",
+            "en-us": "ensure information security",
+            "pt": "assegurar a segurança da informação",
+            "bg": "осигуряване на сигурността на информацията",
+            "lt": "užtikrinti informacijos saugumą",
+            "hr": "osigurati sigurnost informacija",
+            "lv": "nodrošināt informācijas drošību",
+            "fr": "garantir la sécurité d'informations",
+            "hu": "gondoskodik az információbiztonságról",
+            "sk": "zabezpečovať bezpečnosť informácií",
+            "sl": "zagotavljati varnost zbranih informacij",
+            "ga": "slándáil faisnéise a chinntiú",
+            "sv": "säkerställa informationssäkerhet",
+            "el": "διασφάλιση της ασφάλειας πληροφοριών",
+            "mt": "żgurar tas-sigurtà tal-informazzjoni",
+            "en": "ensure information security",
+            "is": "tryggir upplýsingaöryggi",
+            "it": "garantire la sicurezza delle informazioni",
+            "es": "garantizar la seguridad de la información",
+            "et": "infoturvet tagama",
+            "cs": "zajistit zabezpečení informací",
+            "ar": "التأكد من أمن المعلومات",
+            "pl": "zapewniać bezpieczeństwo informacji",
+            "da": "sikre informationssikkerheden",
+            "ro": "asigură securitatea informațiilor",
+            "nl": "zorgen voor informatiebeveiliging"
+          },
+          "isTopConceptInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/skill"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/cross-sector"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/skill/S3.3.6"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/6833e58b-eceb-4599-9375-1b7e6ec64087&language=en",
+              "uri": "http://data.europa.eu/esco/skill/6833e58b-eceb-4599-9375-1b7e6ec64087",
+              "title": "ensure information security"
+            }
+          }
+        },
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/11eebd42-44ab-401d-8a2c-bdb9fc9beb50",
+          "searchHit": "information security strategy",
+          "title": "information security strategy",
+          "preferredLabel": {
+            "de": "Strategie für Informationssicherheit",
+            "no": "informasjonssikkerhetsstrategi",
+            "fi": "tietoturvastrategia",
+            "en-us": "information security strategy",
+            "pt": "estratégia de segurança da informação",
+            "bg": "стратегия за информационна сигурност",
+            "lt": "informacijos saugumo strategija",
+            "hr": "strategija informacijske sigurnosti",
+            "lv": "informācijas drošības stratēģija",
+            "fr": "stratégie de sécurité de l’information",
+            "hu": "információbiztonsági stratégia",
+            "sk": "stratégia informačnej bezpečnosti",
+            "sl": "strategija informacijske varnosti",
+            "ga": "straitéis slándála faisnéise",
+            "sv": "informationssäkerhetsstrategi",
+            "el": "στρατηγική ασφάλειας πληροφοριών",
+            "mt": "strateġija ta' sigurtà tal-informazzjoni",
+            "en": "information security strategy",
+            "is": "stefna um upplýsingaöryggi",
+            "it": "strategia in materia di sicurezza delle informazioni",
+            "es": "estrategia de seguridad de la información",
+            "et": "infoturbe strateegia",
+            "cs": "strategie informační bezpečnosti",
+            "ar": "إستراتيجية أمن المعلومات",
+            "pl": "strategia ochrony informacji",
+            "da": "strategi for informationssikkerhed",
+            "ro": "strategie de securitate a informației",
+            "nl": "strategie voor informatiebeveiliging"
+          },
+          "isTopConceptInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/knowledge"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/sector-specific"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/isced-f/0612"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/11eebd42-44ab-401d-8a2c-bdb9fc9beb50&language=en",
+              "uri": "http://data.europa.eu/esco/skill/11eebd42-44ab-401d-8a2c-bdb9fc9beb50",
+              "title": "information security strategy"
+            }
+          }
+        },
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/ec85cc63-4e24-4631-bf92-8789db2605c0",
+          "searchHit": "Master a wide variety of information security controls in order to pursue maximal database protection.",
+          "title": "maintain database security",
+          "preferredLabel": {
+            "de": "Datenbanksicherheit pflegen",
+            "no": "vedlikeholde databasesikkerhet",
+            "fi": "ylläpitää tietokannan turvallisuutta",
+            "en-us": "maintain database security",
+            "pt": "efetuar a manutenção da segurança de bases de dados",
+            "bg": "поддържане на сигурността на база данни",
+            "lt": "užtikrinti duomenų bazių saugumą",
+            "hr": "održavati sigurnost baza podataka",
+            "lv": "uzturēt datubāzu drošību",
+            "fr": "maintenir la sécurité d’une base de données",
+            "hu": "adatbázis-biztonságot tart fenn",
+            "sk": "starať sa o bezpečnosť databázy",
+            "sl": "vzdrževati varnost zbirke podatkov",
+            "ga": "slándáil bunachar sonraí a chothabháil",
+            "sv": "upprätthålla databassäkerhet",
+            "el": "διατήρηση της ασφάλειας της βάσης δεδομένων",
+            "mt": "tieħu ħsieb is-sigurtà tad-database",
+            "en": "maintain database security",
+            "is": "viðheldur öryggi gagnagrunns",
+            "it": "garantire la sicurezza del database",
+            "es": "mantener la seguridad de las bases de datos",
+            "et": "andmebaasi turvalisust säilitama",
+            "cs": "udržovat bezpečnost databází",
+            "ar": "الحفاظ على أمن قاعدة البيانات",
+            "pl": "zapewniać bezpieczeństwo baz danych",
+            "da": "vedligeholde databasesikkerhed",
+            "ro": "menține securitatea bazei de date",
+            "nl": "beveiliging van databank onderhouden"
+          },
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/skill"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/sector-specific"
+          ],
+          "broaderSkill": [
+            "http://data.europa.eu/esco/skill/0df2e216-68ae-4952-b9dc-3c2f2bc04fe3"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/skill/S5.2.2"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/ec85cc63-4e24-4631-bf92-8789db2605c0&language=en",
+              "uri": "http://data.europa.eu/esco/skill/ec85cc63-4e24-4631-bf92-8789db2605c0",
+              "title": "maintain database security"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

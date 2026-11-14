@@ -1,0 +1,103 @@
+{
+  "model": "gemini-3.8-flash",
+  "prompt_version": "cg-2.1",
+  "at": "2026-11-14T23:00:59.941Z",
+  "kind": "polished-cvs",
+  "input_hash": "d584ed799d9e8370c7daf9f5efb35931e703d9b7ee95f91357b69fec81af29a7",
+  "answer": {
+    "cvs": [
+      {
+        "id": "e71a97d4690f75e747d7c1a2",
+        "text": "Detail-oriented operations and customer support coordinator with practical experience managing inventory systems and client services. Proficient in designing formula-driven spreadsheets to monitor stock health, track return cycles, and guide procurement decisions. Demonstrated success in front-line customer issue resolution, root-cause tracking, and staff training with structured onboarding materials."
+      },
+      {
+        "id": "047eecd0110608ae7f8151a3",
+        "text": "Organised project coordinator skilled in workflow optimisation, volunteer management, and operational reporting. Proven track record in launching community initiatives, managing project schedules through supply constraints, and streamlining intake processes using consolidated digital workflows. Experienced in delivering hands-on training and user-focused procedural documentation."
+      },
+      {
+        "id": "6269095a24572017f6644ec1",
+        "text": "Reliable systems and operations specialist with hands-on experience in server monitoring, access administration, and technical documentation. Adept at diagnosing performance bottlenecks during live operations, managing secure user permissions, and validating data backup and recovery workflows. Skilled in authoring standard operating runbooks to ensure operational resilience."
+      },
+      {
+        "id": "1774bf2db01b4002bc16353a",
+        "text": "Quality-focused testing specialist experienced in software verification and test automation. Proven ability to build automated browser test suites for core user journeys, isolate complex edge-case defects, and communicate detailed reproduction steps to development teams. Skilled in cross-browser defect analysis and embedding quality checklists into release cycles."
+      },
+      {
+        "id": "e437955ab8966499a552a412",
+        "text": "Methodical QA specialist with a background in customer-focused digital services. Experienced in designing automated browser tests for transactional workflows, recreating race conditions and intermittent defects using logs, and tracking system issues across platforms to drive reliable software releases."
+      },
+      {
+        "id": "2816dd134cd802c877bc0e48",
+        "text": "Analytical data coordinator experienced in database management, data reconciliation, and process mapping. Proficient in consolidating disparate data sets using SQL and PostgreSQL, designing entity-relationship models, and identifying reporting discrepancies between operational units. Strong communicator adept at producing documentation and actionable data workflows for finance teams."
+      },
+      {
+        "id": "0e8d34dc2db51c05250e749e",
+        "text": "Solutions-driven developer with practical experience building and deploying responsive web tools. Skilled in full-stack JavaScript development, rapid UI prototyping, identifying edge-case concurrency bugs, and implementing automated validation tests. Proven ability to create straightforward operational guides for non-technical stakeholders."
+      },
+      {
+        "id": "2b0b140913cc2db4c7918569",
+        "text": "Experienced operations supervisor with a four-year background directing high-volume service environments. Proven expertise in inventory control, shift coordination, and data-driven waste reduction, successfully lowering material loss by one-third through structured analysis. Skilled in team onboarding and continuous operational improvement."
+      },
+      {
+        "id": "4caa93f91aff2168c7ee0c95",
+        "text": "Meticulous technical coordinator with expertise in measurement logging, hardware diagnostics, and quality assurance. Proven track record of isolating instrumentation faults, validating test apparatus, and maintaining precise traceability between diagnostic logs and physical assets. Skilled in authoring detailed diagnostic procedures."
+      },
+      {
+        "id": "0e44065e7f8a73aa3a70cf0b",
+        "text": "Effective operations coordinator with a background in inventory tracking and client-facing support. Skilled in designing structured spreadsheet models to flag stock shortages, conducting root-cause reviews on equipment issues, and designing clear onboarding checklists to train colleagues in safety and return procedures."
+      },
+      {
+        "id": "fb510d076837505cf68d40d0",
+        "text": "Proactive coordinator and workflow designer experienced in community logistics and process management. Skilled in breaking complex projects into deliverable milestones, consolidating fragmented administrative processes into single-point workflows, and developing effective user-training modules and standard operating documentation."
+      },
+      {
+        "id": "7058e1515548897cfaec551f",
+        "text": "Hands-on systems administrator experienced in media infrastructure, performance monitoring, and business continuity. Proven success in identifying system contention during high-demand broadcasts, managing account lifecycles, validating restore routines, and creating illustrated technical runbooks for on-call operations."
+      },
+      {
+        "id": "838ef0db87e634a0abe81a90",
+        "text": "Dependable systems coordinator with expertise in infrastructure oversight, user administration, and technical support. Experienced in resolving performance lags during live broadcasts, managing access controls, executing backup verification tests, and crafting clear troubleshooting guides to maintain service reliability."
+      },
+      {
+        "id": "e13cf0872fdece559fdeba23",
+        "text": "Detail-oriented QA professional with practical experience in test automation and defect reporting. Proficient in writing browser test suites for core user flows, reproducing elusive edge-case issues through server logs, and categorising cross-platform UI anomalies to enhance release stability."
+      },
+      {
+        "id": "357e7d8a7d4140afbaaa234b",
+        "text": "Data-focused operations analyst skilled in SQL data migration, relational modelling, and reconciliation. Demonstrated expertise in mapping varied data feeds into PostgreSQL databases, investigating warehouse discrepancy trends, and producing clear procedural documentation for cross-functional finance teams."
+      },
+      {
+        "id": "df11590ccc82004fd14777a7",
+        "text": "Practical software developer with experience in end-to-end web tool implementation, testing, and documentation. Proficient in building interactive JavaScript applications, debugging request handling issues, establishing regression tests, and authoring clear operational handbooks for non-technical operators."
+      },
+      {
+        "id": "5cf361b17145fff1c1199f1b",
+        "text": "Accomplished operations manager with four years of leadership experience in fast-paced retail and hospitality environments. Proven track record of eliminating fulfillment errors, applying spreadsheet analytics to reduce material waste by 33%, and training staff using structured instructional guides."
+      },
+      {
+        "id": "ed09b012383b14675b4f33d4",
+        "text": "Precise technical specialist experienced in testing, diagnostic logging, and hardware verification. Proficient in recording multi-point diagnostic data, identifying equipment discrepancies, calibrating measurement apparatus, and establishing clear operational guides with technical documentation."
+      },
+      {
+        "id": "6f59ca637a3123f57c85e0a1",
+        "text": "Organised operations coordinator with hands-on experience in equipment desk administration and customer issue tracking. Skilled in spreadsheet-based inventory forecasting, customer service problem categorization, and delivering structured safety and workflow onboarding for new team members."
+      },
+      {
+        "id": "1b57c3a5fd7cfc458f9520e5",
+        "text": "Adaptable project coordinator skilled in operational planning, workflow refinement, and user education. Proven ability to pivot delivery schedules during supplier delays, streamline intake documentation into unified forms, and design iterative instructional training for incoming volunteers."
+      }
+    ]
+  },
+  "usage": {
+    "promptTokenCount": 5783,
+    "candidatesTokenCount": 1553,
+    "totalTokenCount": 7336,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 5783
+      }
+    ],
+    "serviceTier": "standard"
+  }
+}

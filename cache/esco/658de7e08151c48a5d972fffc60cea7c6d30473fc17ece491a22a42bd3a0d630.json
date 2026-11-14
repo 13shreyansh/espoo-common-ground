@@ -1,0 +1,389 @@
+{
+  "url": "https://ec.europa.eu/esco/api/search?type=skill&language=en&limit=6&text=back-end%20development",
+  "at": "2026-11-14T23:00:06.473Z",
+  "response": {
+    "total": 1481,
+    "offset": 0,
+    "limit": 6,
+    "text": "back-end development",
+    "language": "en",
+    "type": [
+      "skill"
+    ],
+    "isInScheme": null,
+    "facet": null,
+    "_links": {
+      "self": {
+        "href": "https://ec.europa.eu/esco/api/search?text=back-end%20development&type=skill&limit=6&offset=0&full=false&viewObsolete=false&language=en"
+      },
+      "next": {
+        "href": "https://ec.europa.eu/esco/api/search?text=back-end%20development&type=skill&limit=6&offset=1&full=false&viewObsolete=false&language=en"
+      }
+    },
+    "_embedded": {
+      "results": [
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/e50e10e0-33df-4045-9cc1-8f09e09ec81a",
+          "searchHit": "research for play development",
+          "title": "conduct background research for plays",
+          "preferredLabel": {
+            "de": "Hintergrundrecherchen für Theaterstücke durchführen",
+            "no": "gjennomføre bakgrunnsundersøkelser for skuespill",
+            "fi": "tehdä näytelmän taustatutkimusta",
+            "en-us": "conduct background research for plays",
+            "pt": "pesquisar sobe o contexto histórico das peças",
+            "bg": "извършване на предварително проучване за пиеси",
+            "lt": "tirti teatro pjesių istorinį kontekstą",
+            "hr": "istražiti kontekst za predstave",
+            "lv": "veikt lugu konteksta izpēti",
+            "fr": "effectuer des recherches préliminaires pour des pièces de théâtre",
+            "hu": "a színházi darabokhoz háttérkutatást végez",
+            "sk": "vykonať historický výskum pre divadelné hry",
+            "sl": "raziskovati ozadje za igre",
+            "ga": "taighde cúlra a dhéanamh le haghaidh drámaí",
+            "sv": "göra bakgrundsresearch om teaterpjäser",
+            "el": "διενέργεια έρευνας ιστορικού για παραστάσεις",
+            "mt": "twettiq tar-riċerka tal-isfond għar-reċti",
+            "en": "conduct background research for plays",
+            "is": "gerir bakgrunnsrannsóknir vegna leikrita",
+            "it": "condurre una ricerca di base per gli spettacoli",
+            "es": "realizar una investigación de contextos para obras de teatro",
+            "et": "etenduste kohta taustateavet otsima",
+            "cs": "provádět rešerše souvislostí ke hrám",
+            "ar": "إجراء البحوث الخلفية للمسرحيات",
+            "pl": "przeprowadzać dodatkowe badania na potrzeby sztuk teatralnych",
+            "da": "foretage baggrundsresearch til skuespil",
+            "ro": "desfășoară activitate de cercetare pentru piese de teatru",
+            "nl": "achtergrondonderzoek uitvoeren voor toneelstukken"
+          },
+          "isTopConceptInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/skill"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/sector-specific"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/skill/S1.12.3"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/e50e10e0-33df-4045-9cc1-8f09e09ec81a&language=en",
+              "uri": "http://data.europa.eu/esco/skill/e50e10e0-33df-4045-9cc1-8f09e09ec81a",
+              "title": "conduct background research for plays"
+            }
+          }
+        },
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/45b79278-465a-4eed-8809-369318bab119",
+          "searchHit": "Conduct field studies and and provide advice on areas with polluted soil or groundwater at industrial sites and mining sites. Devise methods to store excavated soil. Develop strategies to rehabilitate exhausted mining sites back into a natural state.",
+          "title": "develop site remediation strategies",
+          "preferredLabel": {
+            "de": "Strategien zur Standortsanierung entwickeln",
+            "no": "utvikle stedsutbedringsstrategier",
+            "fi": "kehittää puhdistusstrategioita",
+            "en-us": "develop site remediation strategies",
+            "pt": "desenvolver estratégias de reabilitação de instalações industriais ou mineiras",
+            "bg": "разработване на стратегии за възстановяване на екологията на обект",
+            "lt": "kurti vietos atkūrimo strategijas",
+            "hr": "razvijati strategije obnavljanja lokacija",
+            "lv": "izstrādāt objekta sanācijas stratēģijas",
+            "fr": "élaborer des stratégies de restauration de sites",
+            "hu": "terület‑helyreállítási stratégiákat dolgoz ki",
+            "sk": "vypracúvať stratégie nápravy priemyselne využívaných miest",
+            "sl": "razvijati strategije za sanacijo lokacij",
+            "ga": "straitéisí athshlánaithe láithreán a fhorbairt",
+            "sv": "utveckla saneringsstrategier för verksamhetsplatser",
+            "el": "εκπόνηση στρατηγικών για την αποκατάσταση της περιοχής",
+            "mt": "żvilupp ta’ strateġiji ta’ rimedjazzjoni tas-siti",
+            "en": "develop site remediation strategies",
+            "is": "þróar stefnumótun í hreinsun vinnusvæðis",
+            "it": "elaborare strategie di bonifica del sito",
+            "es": "desarrollar estrategias de descontaminación de yacimientos",
+            "et": "asukoha taastamise strateegiaid arendama",
+            "cs": "vyvíjet rekultivační strategie",
+            "ar": "وضع استراتيجيات معالجة المواقع",
+            "pl": "opracowywać strategie rekultywacji obszarów",
+            "da": "udvikle strategier for genopretning af område",
+            "ro": "dezvoltă strategii de remediere a siturilor",
+            "nl": "terreinsaneringsstrategieën ontwikkelen"
+          },
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/skill"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/sector-specific"
+          ],
+          "broaderSkill": [
+            "http://data.europa.eu/esco/skill/e4ff825c-7376-4135-93cd-3892fd67b7c1"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/skill/S4.1.3"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/45b79278-465a-4eed-8809-369318bab119&language=en",
+              "uri": "http://data.europa.eu/esco/skill/45b79278-465a-4eed-8809-369318bab119",
+              "title": "develop site remediation strategies"
+            }
+          }
+        },
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/0d90f823-6f6a-44df-8ab0-1771300d9660",
+          "searchHit": "monitor developments in technology used for design",
+          "title": "monitor developments in technology used for design",
+          "preferredLabel": {
+            "de": "technologische Entwicklungen des Designs verfolgen",
+            "no": "følge med på utviklingen innen designteknologi",
+            "fi": "seurata suunnittelemiseen käytettävän tekniikan kehitystä",
+            "en-us": "monitor developments in technology used for design",
+            "pt": "monitorizar desenvolvimentos da tecnologia usada em design",
+            "bg": "наблюдение на развитията в технологията, използвана за дизайна",
+            "lt": "stebėti dizaino technologijų raidą",
+            "hr": "pratiti kretanja u pogledu tehnologije koja se upotrebljava za dizajn",
+            "lv": "sekot dizaina nozares tehnoloģiju attīstībai",
+            "fr": "surveiller l’évolution d’une technologie utilisée en conception",
+            "hu": "figyelemmel kíséri a tervezéshez használt technológia fejlődését",
+            "sk": "sledovať vývoj technológií používaných v dizajne",
+            "sl": "spremljati razvoj na področju tehnologije za oblikovanje",
+            "ga": "faireachán a dhéanamh ar fhorbairtí sa teicneolaíocht a úsáidtear chun críocha dearaidh",
+            "sv": "övervaka teknisk utveckling inom design",
+            "el": "παρακολούθηση των εξελίξεων στην τεχνολογία που χρησιμοποιείται για τον σχεδιασμό προϊόντων",
+            "mt": "monitoraġġ tal-iżviluppi fit-teknoloġija li tintuża għad-disinni",
+            "en": "monitor developments in technology used for design",
+            "is": "fylgist með tækninýjungum í hönnun",
+            "it": "controllare gli sviluppi della tecnologia utilizzata per la progettazione",
+            "es": "realizar el seguimiento de los avances en tecnología empleados en diseño",
+            "et": "kujundustehnoloogia arengut jälgima",
+            "cs": "sledovat vývoj technologií používaných v designu",
+            "ar": "مراقبة تطورات التكنولوجيا المستخدمة للتصميم",
+            "pl": "monitorować zmiany na rynku technologii na potrzeby projektów",
+            "da": "overvåge udviklingen inden for teknologi anvendt til design",
+            "ro": "monitorizează evoluțiile de pe piața tehnologiei utilizate în design",
+            "nl": "ontwikkelingen in technologie die gebruikt wordt in het ontwerp opvolgen"
+          },
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/skill"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/sector-specific"
+          ],
+          "broaderSkill": [
+            "http://data.europa.eu/esco/skill/9bf266a6-188b-4d17-a22f-2f266d76832b"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/skill/S2.9.0"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/0d90f823-6f6a-44df-8ab0-1771300d9660&language=en",
+              "uri": "http://data.europa.eu/esco/skill/0d90f823-6f6a-44df-8ab0-1771300d9660",
+              "title": "monitor developments in technology used for design"
+            }
+          }
+        },
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/9ccecb58-e720-4465-b309-46e362ca6f75",
+          "searchHit": "Understand the developments and the development needs of children and young persons, observing the behaviour and the attachment relationships in order to detect developmental delay.",
+          "title": "adolescent psychological development",
+          "preferredLabel": {
+            "de": "psychologische Entwicklung Heranwachsender",
+            "no": "ungdommers psykologiske utvikling",
+            "fi": "nuorten psykologinen kehitys",
+            "en-us": "adolescent psychological development",
+            "pt": "desenvolvimento psicológico dos adolescentes",
+            "bg": "психологическо развитие на юношите",
+            "lt": "psichologinis paauglių vystymasis",
+            "hr": "psihološki razvoj adolescenata",
+            "lv": "pusaudžu psiholoģiskā attīstība",
+            "fr": "développement psychologique des adolescents",
+            "hu": "serdülőkori pszichológiai fejlődés",
+            "sk": "psychický vývin adolescentov",
+            "sl": "duševni razvoj mladostnikov",
+            "ga": "forbairt shíceolaíoch ógánach",
+            "sv": "ungdomars psykologiska utveckling",
+            "el": "ψυχολογική ανάπτυξη εφήβων",
+            "mt": "żvilupp psikoloġiku tal-adolexxenti",
+            "en": "adolescent psychological development",
+            "is": "sálfræðilegur þroski unglinga",
+            "it": "sviluppo psicologico dell’adolescente",
+            "es": "desarrollo psicológico de los adolescentes",
+            "et": "psühholoogiline areng noorukieas",
+            "cs": "psychologický vývoj dospívajících",
+            "ar": "التنمية النفسية للمراهقين",
+            "pl": "rozwój psychologiczny młodzieży",
+            "da": "unges psykologiske udvikling",
+            "ro": "dezvoltare psihologică adolescenți",
+            "nl": "psychologische ontwikkeling van jongeren"
+          },
+          "isTopConceptInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/knowledge"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/cross-sector"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/isced-f/0313"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/9ccecb58-e720-4465-b309-46e362ca6f75&language=en",
+              "uri": "http://data.europa.eu/esco/skill/9ccecb58-e720-4465-b309-46e362ca6f75",
+              "title": "adolescent psychological development"
+            }
+          }
+        },
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/82de2df7-0d6c-42b1-94ac-b3e9a029e917",
+          "searchHit": "use back-up and recovery tools",
+          "title": "use back-up and recovery tools",
+          "preferredLabel": {
+            "de": "Programme zur Datensicherung und Datenwiederherstellung verwenden",
+            "no": "bruke back-up utstyr",
+            "fi": "käyttää varmuuskopiointi- ja palautustyökaluja",
+            "en-us": "use back-up and recovery tools",
+            "pt": "utilizar ferramentas para fazer cópias de segurança e recuperar informação perdida («back-up and recovery»)",
+            "bg": "използване на средства за съхраняване на резервно копие и възстановяване на данни",
+            "lt": "naudotis duomenų atsarginio kopijavimo ir atkūrimo priemonėmis",
+            "hr": "upotrebljavati alate za izradu sigurnosnih kopija i oporavak",
+            "lv": "lietot dublēšanas un atkopšanas rīkus",
+            "fr": "utiliser des outils de sauvegarde et de récupération",
+            "hu": "biztonsági mentésre és helyreállításra szolgáló eszközöket használ",
+            "sk": "používať nástroje zálohovania a obnovy",
+            "sl": "uporabljati orodja za varnostno kopiranje in obnavljanje",
+            "ga": "uirlisí cúltaca agus athshlánaithe a úsáid",
+            "sv": "använda verktyg för säkerhetskopiering och återställning",
+            "el": "χρήση εργαλείων για τη δημιουργία αντιγράφων ασφαλείας και την ανάκτηση δεδομένων",
+            "mt": "użu tal-għodda tal-ikkupjar ta’ riżerva u tal-irkupru",
+            "en": "use back-up and recovery tools",
+            "is": "notar afritunar og endurheimtarbúnað",
+            "it": "utilizzare strumenti di back-up e di recupero",
+            "es": "utilizar herramientas para realizar copias de seguridad y recuperar datos",
+            "et": "tagavarakoopiate tegemise ja taastamise vahendeid kasutama",
+            "cs": "používat nástroje pro zálohu a obnovu dat",
+            "ar": "استخدام أدوات النسخ الاحتياطي والاستعادة",
+            "pl": "posługiwać się narzędziami do tworzenia kopii zapasowych i narzędziami do odzyskiwania danych",
+            "da": "bruge sikkerhedskopierings- og gendannelsesværktøjer",
+            "ro": "utilizează instrumente pentru copiere de rezervă și recuperare",
+            "nl": "backup- en herstelprogramma's gebruiken"
+          },
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills",
+            "http://data.europa.eu/esco/concept-scheme/skill-transversal-groups"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/skill"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/transversal"
+          ],
+          "broaderSkill": [
+            "http://data.europa.eu/esco/skill/df329d70-87b0-466b-a214-3431f36e2a5e"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/skill/S5.2.2"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/82de2df7-0d6c-42b1-94ac-b3e9a029e917&language=en",
+              "uri": "http://data.europa.eu/esco/skill/82de2df7-0d6c-42b1-94ac-b3e9a029e917",
+              "title": "use back-up and recovery tools"
+            }
+          }
+        },
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/70de94f5-9575-4edd-bca7-c797b023b9d6",
+          "searchHit": "The application server Oracle WebLogic is Java EE based application server which serves as a middle tier that links the back-end databases to the related applications.",
+          "title": "Oracle WebLogic",
+          "preferredLabel": {
+            "de": "Oracle WebLogic",
+            "no": "Oracle WebLogic",
+            "fi": "Oracle WebLogic",
+            "en-us": "Oracle WebLogic",
+            "pt": "Oracle WebLogic",
+            "bg": "Oracle WebLogic",
+            "lt": "„Oracle WebLogic“",
+            "hr": "Oracle WebLogic",
+            "lv": "Oracle WebLogic",
+            "fr": "Oracle WebLogic",
+            "hu": "Oracle WebLogic",
+            "sk": "Oracle WebLogic",
+            "sl": "Oracle WebLogic",
+            "ga": "Oracle WebLogic",
+            "sv": "Oracle WebLogic",
+            "el": "Oracle WebLogic",
+            "mt": "Oracle WebLogic",
+            "en": "Oracle WebLogic",
+            "is": "Oracle WebLogic",
+            "it": "Oracle WebLogic",
+            "es": "Oracle WebLogic",
+            "et": "Oracle WebLogic",
+            "cs": "Oracle WebLogic",
+            "ar": "برنامج Oracle WebLogic",
+            "pl": "Oracle WebLogic",
+            "da": "Oracle WebLogic",
+            "ro": "Oracle WebLogic",
+            "nl": "Oracle WebLogic"
+          },
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/knowledge"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/sector-specific"
+          ],
+          "broaderSkill": [
+            "http://data.europa.eu/esco/skill/69bbd53f-fbb0-4476-b4b2-ef7844464e28"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/isced-f/0613"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/70de94f5-9575-4edd-bca7-c797b023b9d6&language=en",
+              "uri": "http://data.europa.eu/esco/skill/70de94f5-9575-4edd-bca7-c797b023b9d6",
+              "title": "Oracle WebLogic"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

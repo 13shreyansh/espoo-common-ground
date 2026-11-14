@@ -1,0 +1,483 @@
+{
+  "url": "https://ec.europa.eu/esco/api/resource/skill?language=en&uri=http%3A%2F%2Fdata.europa.eu%2Fesco%2Fskill%2Fbd14968e-e409-45af-b362-3495ed7b10e0",
+  "at": "2026-11-14T22:51:29.310Z",
+  "response": {
+    "className": "Skill",
+    "classId": "http://data.europa.eu/esco/model#Skill",
+    "uri": "http://data.europa.eu/esco/skill/bd14968e-e409-45af-b362-3495ed7b10e0",
+    "title": "cloud technologies",
+    "referenceLanguage": [
+      "en"
+    ],
+    "preferredLabel": {
+      "no": "nettskyteknologier",
+      "de": "Cloud-Technologien",
+      "fi": "pilviteknologiat",
+      "en-us": "cloud technologies",
+      "pt": "tecnologias em nuvem",
+      "bg": "облачни технологии",
+      "lt": "debesijos technologijos",
+      "lv": "mākoņtehnoloģijas",
+      "hr": "tehnologije oblaka",
+      "fr": "technologies de dématérialisation",
+      "hu": "felhőalapú technológiák",
+      "sk": "cloudové technológie",
+      "sl": "tehnologije v oblaku",
+      "ga": "néalteicneolaíochtaí",
+      "sv": "molnteknik",
+      "mt": "cloud technologies",
+      "el": "τεχνολογίες νέφους",
+      "en": "cloud technologies",
+      "is": "skýstækni",
+      "it": "tecnologie cloud",
+      "es": "tecnologías en la nube",
+      "et": "pilvetehnoloogiad",
+      "cs": "cloudové technologie",
+      "ar": "التقنيات السحابية",
+      "pl": "technologie chmurowe",
+      "da": "sky-teknologier",
+      "ro": "tehnologii cloud",
+      "nl": "cloudtechnologieën"
+    },
+    "alternativeLabel": {
+      "de": [
+        "Cloud Computing",
+        "Cloud-Infrastrukturen",
+        "Cloud-Anwendungen",
+        "Cloud-Technologie",
+        "Cloudtechnologien"
+      ],
+      "sv": [
+        "molntekniker",
+        "teknik för moln"
+      ],
+      "fi": [
+        "pilvipalvelut",
+        "pilvipohjaiset tekniikat",
+        "pilviteknologia",
+        "pilvipalvelu",
+        "pilvipohjaiset palvelut"
+      ],
+      "pt": [
+        "tecnologias na nuvem",
+        "tecnologias de nuvem",
+        "tecnologias de computação em nuvem",
+        "computação em nuvem"
+      ],
+      "bg": [
+        "облачна технология",
+        "изчисления в облак",
+        "облачните технологии",
+        "работа в облак",
+        "технологии от тип облак"
+      ],
+      "el": [
+        "τεχνολογία υπολογιστικού νέφους· τεχνολογία νέφους",
+        "τεχνολογικά συστήματα νέφους· ηλεκτρονικά προγράμματα υπολογιστικού νέφους· λύσεις υπολογιστικού νέφους"
+      ],
+      "mt": [
+        "cloud computing",
+        "cloud technology"
+      ],
+      "lt": [
+        "debesies technologijos",
+        "debesijos kompiuterija",
+        "kompiuterija",
+        "debesų technologija",
+        "debesų kompiuterija",
+        "debesija"
+      ],
+      "en": [
+        "cloud computing"
+      ],
+      "lv": [
+        "mākoņdatošanas tehnoloģijas",
+        "mākoņskaitļošanas tehnoloģijas",
+        "mākoņdatošanas tehnoloģiju pakalpojumi",
+        "mākoņtehnoloģijas pakalpojumi",
+        "mākoņskaitļošana",
+        "mākoņdatošana"
+      ],
+      "is": [
+        "skýstæknin",
+        "tækni tölvuskýja",
+        "skýstækninnar",
+        "tölvuskýstækni"
+      ],
+      "hr": [
+        "tehnologije u oblaku",
+        "pohrana u oblaku",
+        "pohrana podataka u oblak"
+      ],
+      "it": [
+        "tecnologia del cloud computing",
+        "servizi cloud",
+        "sistemi cloud",
+        "software cloud",
+        "reti cloud",
+        "tecnologia cloud",
+        "tecnologie cloud computing"
+      ],
+      "fr": [
+        "technologies en nuage",
+        "technologie cloud",
+        "dématérialisation",
+        "technologie de dématérialisation",
+        "informatique en nuage",
+        "informatique dématérialisée"
+      ],
+      "hu": [
+        "felhő alapú szolgáltatások",
+        "felhő technológiák",
+        "felhő alapú technológia",
+        "felhő alapú szolgáltatás",
+        "felhő technológia",
+        "felhő alapú számítástechnika"
+      ],
+      "es": [
+        "tecnologías en la nube",
+        "tecnologías de cloud",
+        "tecnologías de nube",
+        "tecnologías en el cloud",
+        "tecnologías relativas a la nube"
+      ],
+      "et": [
+        "pilvesüsteemid",
+        "pilveteenused",
+        "pilvandmetöötlus",
+        "pilvtehnoloogia"
+      ],
+      "cs": [
+        "cloudy",
+        "používat cloudy",
+        "cloudová technologie"
+      ],
+      "sk": [
+        "technológie klaudu",
+        "internetové počítanie",
+        "cloudcomputing",
+        "technológia cloudu",
+        "klaud kompjúting",
+        "výpočtové mračno",
+        "cloudové technológie",
+        "cloud computing",
+        "klaudové služby"
+      ],
+      "sl": [
+        "računalništvo v oblaku",
+        "računalniško omrežje v oblaku",
+        "računalniške storitve v oblaku",
+        "tehnologija v oblaku",
+        "tehnologija oblaka"
+      ],
+      "pl": [
+        "technologie chmur obliczeniowych",
+        "chmury obliczeniowe"
+      ],
+      "ro": [
+        "tehnologii IT de tip cloud",
+        "tehnologii bazate pe cloud",
+        "tehnologii informatice de tip cloud",
+        "tehnologie cloud"
+      ],
+      "da": [
+        "cloud-teknologier",
+        "sky-teknik",
+        "sky-metoder",
+        "cloudcomputing",
+        "clouding"
+      ],
+      "nl": [
+        "cloudcomputing",
+        "technologieën op het gebied van cloudservices en -apparatuur",
+        "cloudservices",
+        "cloudbeheer",
+        "cloudbeveiliging"
+      ]
+    },
+    "description": {
+      "no": {
+        "literal": "Teknologier som gjør det mulig å få tilgang til maskinvare, programvare, data og tjenester gjennom eksterne servere og programvare, uavhengig av deres plassering og arkitektur.",
+        "mimetype": "plain/text"
+      },
+      "de": {
+        "literal": "Technologien, die den Zugang zu Hardware, Software, Daten und Diensten über Remoteserver und Softwarenetze unabhängig von deren Standort und Architektur ermöglichen.",
+        "mimetype": "plain/text"
+      },
+      "en-us": {
+        "literal": "The technologies which enable access to hardware, software, data and services through remote servers and software networks irrespective of their location and architecture.",
+        "mimetype": "plain/text"
+      },
+      "fi": {
+        "literal": "Tekniikat, joiden avulla laitteistot, ohjelmistot, tiedot ja palvelut ovat saatavilla etäpalvelimien ja ohjelmistoverkkojen kautta riippumatta niiden sijainnista ja arkkitehtuurista.",
+        "mimetype": "plain/text"
+      },
+      "pt": {
+        "literal": "As tecnologias que permitem o acesso a hardware, software, dados e serviços através de servidores e redes de software remotos, independentemente da sua localização e arquitetura.",
+        "mimetype": "plain/text"
+      },
+      "bg": {
+        "literal": "Технологии, които позволяват достъп до хардуер, софтуер, данни и услуги чрез отдалечени сървъри и софтуерни мрежи, независимо от тяхното местоположение и архитектура.",
+        "mimetype": "plain/text"
+      },
+      "lt": {
+        "literal": "Technologijos, suteikiančios galimybę prieiti prie aparatinės įrangos, programinės įrangos, duomenų ir paslaugų per nuotolinius serverius ir programinės įrangos tinklus, nepriklausomai nuo jų vietos ir architektūros.",
+        "mimetype": "plain/text"
+      },
+      "lv": {
+        "literal": "Tehnoloģijas, kas nodrošina piekļuvi aparatūrai, programmatūrai, datiem un pakalpojumiem, izmantojot attālinātus serverus un programmatūras tīklus, neatkarīgi no to atrašanās vietas un arhitektūras.",
+        "mimetype": "plain/text"
+      },
+      "hr": {
+        "literal": "Tehnologije koje omogućuju pristup hardveru, softveru, podacima i uslugama s pomoću udaljenih poslužitelja i softverskih mreža bez obzira na njihovu lokaciju i arhitekturu.",
+        "mimetype": "plain/text"
+      },
+      "fr": {
+        "literal": "Les technologies permettant l’accès au matériel, aux logiciels, aux données et aux services par l’intermédiaire de serveurs et de réseaux de logiciels à distance, quelle que soit leur localisation et leur architecture.",
+        "mimetype": "plain/text"
+      },
+      "hu": {
+        "literal": "A hardverekhez, szoftverekhez, adatokhoz és szolgáltatásokhoz távoli szerverek és szoftverhálózatok révén történő hozzáférést lehetővé tevő technológiák, függetlenül azok elhelyezkedésétől és felépítésétől.",
+        "mimetype": "plain/text"
+      },
+      "sk": {
+        "literal": "Technológie, ktoré umožňujú prístup k hardvéru, softvéru, údajom a službám prostredníctvom vzdialených serverov a softvérových sietí bez ohľadu na ich polohu a štruktúru.",
+        "mimetype": "plain/text"
+      },
+      "sl": {
+        "literal": "Tehnologije, ki omogočajo dostop do strojne opreme, programske opreme, podatkov in storitev prek oddaljenih strežnikov in programskih omrežij, ne glede na njihovo lokacijo in arhitekturo.",
+        "mimetype": "plain/text"
+      },
+      "ga": {
+        "literal": "Na teicneolaíochtaí lena gcumasaítear rochtain ar chrua-earraí, ar bhogearraí, ar shonraí agus ar sheirbhísí trí chianfhreastalaithe agus líonraí bogearraí, beag beann ar an áit ina bhfuil siad agus ar an ailtireacht.",
+        "mimetype": "plain/text"
+      },
+      "sv": {
+        "literal": "Teknik som möjliggör tillgång till hårdvara, programvara, data och tjänster via fjärrservrar och programvarunät, oavsett var de befinner sig och hur de är uppbyggda.",
+        "mimetype": "plain/text"
+      },
+      "el": {
+        "literal": "Οι τεχνολογίες που επιτρέπουν την πρόσβαση σε υλικό, λογισμικό, δεδομένα και υπηρεσίες μέσω απομακρυσμένων εξυπηρετητών και δικτύων λογισμικού, ανεξάρτητα από την τοποθεσία και την αρχιτεκτονική τους.",
+        "mimetype": "plain/text"
+      },
+      "mt": {
+        "literal": "It-teknoloġiji li jippermettu aċċess għal ħardwer, softwer, dejta u servizzi permezz ta’ servers remoti u netwerks ta’ softwer irrispettivament minn fejn jinsabu u l-arkitettura tagħhom.",
+        "mimetype": "plain/text"
+      },
+      "en": {
+        "literal": "The technologies which enable access to hardware, software, data and services through remote servers and software networks irrespective of their location and architecture.",
+        "mimetype": "plain/text"
+      },
+      "is": {
+        "literal": "Tækni sem veitir aðgang að vélbúnaði, hugbúnaði, gögnum og þjónustu í gegnum ytri netþjóna og hugbúnaðarnets, óháð staðsetningu þeirra og arkitektúr.",
+        "mimetype": "plain/text"
+      },
+      "it": {
+        "literal": "Le tecnologie che consentono l’accesso a hardware, software, dati e servizi attraverso server remoti e reti software, indipendentemente dalla loro ubicazione e architettura.",
+        "mimetype": "plain/text"
+      },
+      "es": {
+        "literal": "Las tecnologías que permiten el acceso al hardware, software, datos y servicios a través de servidores remotos y redes de software, independientemente de su ubicación y arquitectura.",
+        "mimetype": "plain/text"
+      },
+      "et": {
+        "literal": "Tehnoloogiad, mis võimaldavad juurdepääsu riistvarale, tarkvarale, andmetele ja teenustele kaugserverite ja tarkvaravõrkude kaudu, olenemata nende asukohast ja arhitektuurist.",
+        "mimetype": "plain/text"
+      },
+      "cs": {
+        "literal": "Technologie, které umožňují přístup k hardwaru, softwaru, datům a službám prostřednictvím vzdálených serverů a softwarových sítí bez ohledu na jejich umístění a architekturu.",
+        "mimetype": "plain/text"
+      },
+      "ar": {
+        "literal": "التقنيات التي تتيح الوصول إلى الأجهزة والبرامج والبيانات والخدمات من خلال الخوادم البعيدة وشبكات البرمجيات بغض النظر عن موقعها ومعماريتها.",
+        "mimetype": "plain/text"
+      },
+      "pl": {
+        "literal": "Technologie umożliwiające dostęp do sprzętu, oprogramowania, danych oraz usług za pośrednictwem zdalnych serwerów i sieci oprogramowania, niezależnie od ich lokalizacji i architektury.",
+        "mimetype": "plain/text"
+      },
+      "da": {
+        "literal": "Teknologier, der muliggør adgang til hardware, software, data og tjenester via fjernservere og softwarenetværk, uanset deres placering og arkitektur.",
+        "mimetype": "plain/text"
+      },
+      "ro": {
+        "literal": "Tehnologiile care permit accesul la hardware, software, date și servicii prin servere și rețele de software la distanță, indiferent de locația și arhitectura acestora.",
+        "mimetype": "plain/text"
+      },
+      "nl": {
+        "literal": "De technologieën die toegang tot hardware, software, gegevens en diensten mogelijk maken via servers op afstand en softwarenetwerken, ongeacht hun locatie en architectuur.",
+        "mimetype": "plain/text"
+      }
+    },
+    "status": "released",
+    "_links": {
+      "self": {
+        "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/bd14968e-e409-45af-b362-3495ed7b10e0&language=en",
+        "uri": "http://data.europa.eu/esco/skill/bd14968e-e409-45af-b362-3495ed7b10e0",
+        "title": "cloud technologies"
+      },
+      "isTopConceptInScheme": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/taxonomy?uri=http://data.europa.eu/esco/concept-scheme/member-skills&language=en",
+          "uri": "http://data.europa.eu/esco/concept-scheme/member-skills",
+          "title": "ESCO member skills"
+        }
+      ],
+      "isInScheme": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/taxonomy?uri=http://data.europa.eu/esco/concept-scheme/skills&language=en",
+          "uri": "http://data.europa.eu/esco/concept-scheme/skills",
+          "title": "ESCO skills"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/taxonomy?uri=http://data.europa.eu/esco/concept-scheme/member-skills&language=en",
+          "uri": "http://data.europa.eu/esco/concept-scheme/member-skills",
+          "title": "ESCO member skills"
+        }
+      ],
+      "hasSkillType": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/concept?uri=http://data.europa.eu/esco/skill-type/knowledge&language=en",
+          "uri": "http://data.europa.eu/esco/skill-type/knowledge",
+          "title": "knowledge"
+        }
+      ],
+      "hasReuseLevel": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/concept?uri=http://data.europa.eu/esco/skill-reuse-level/sector-specific&language=en",
+          "uri": "http://data.europa.eu/esco/skill-reuse-level/sector-specific",
+          "title": "sector specific skills and competences",
+          "code": "Level 3"
+        }
+      ],
+      "broaderHierarchyConcept": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/concept?uri=http://data.europa.eu/esco/isced-f/0612&language=en",
+          "uri": "http://data.europa.eu/esco/isced-f/0612",
+          "title": "database and network design and administration"
+        }
+      ],
+      "isEssentialForOccupation": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/81480b40-a318-47f3-9b2c-56b69ed67d95&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/81480b40-a318-47f3-9b2c-56b69ed67d95",
+          "title": "ICT network administrator"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/cf2b03cd-feb7-4f47-90f6-ff1ed6016d3d&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/cf2b03cd-feb7-4f47-90f6-ff1ed6016d3d",
+          "title": "ICT network engineer"
+        }
+      ],
+      "isOptionalForOccupation": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/d3edb8f8-3a06-47a0-8fb9-9b212c006aa2&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/d3edb8f8-3a06-47a0-8fb9-9b212c006aa2",
+          "title": "data analyst"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/e297ec12-4712-40a4-ad98-ba004cacb205&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/e297ec12-4712-40a4-ad98-ba004cacb205",
+          "title": "chief data officer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/4543bf7b-8ffb-4ade-88b9-58da34366f04&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/4543bf7b-8ffb-4ade-88b9-58da34366f04",
+          "title": "ICT capacity planner"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/cdd3d773-75a4-4f35-bd1d-1ac720afcf9d&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/cdd3d773-75a4-4f35-bd1d-1ac720afcf9d",
+          "title": "IT auditor"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/fe0fa514-b48d-4a53-9757-a283c0baacf0&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/fe0fa514-b48d-4a53-9757-a283c0baacf0",
+          "title": "ICT business analyst"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/812c217d-32b7-4f6a-9faf-993d3577ac7f&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/812c217d-32b7-4f6a-9faf-993d3577ac7f",
+          "title": "knowledge engineer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/0c448a27-10ec-43ba-b880-d9938bade424&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/0c448a27-10ec-43ba-b880-d9938bade424",
+          "title": "digital forensics expert"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/76a1a76c-b014-4600-8901-56cb936de7ed&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/76a1a76c-b014-4600-8901-56cb936de7ed",
+          "title": "ICT auditor manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/98c3d8f8-e3a8-49b7-9e58-236f25a6f6a0&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/98c3d8f8-e3a8-49b7-9e58-236f25a6f6a0",
+          "title": "system configurator"
+        }
+      ]
+    },
+    "_embedded": {
+      "ancestors": [
+        {
+          "title": "cloud technologies",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/bd14968e-e409-45af-b362-3495ed7b10e0&language=en",
+              "uri": "http://data.europa.eu/esco/skill/bd14968e-e409-45af-b362-3495ed7b10e0"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/isced-f/0612"
+          ]
+        },
+        {
+          "title": "database and network design and administration",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/isced-f/0612&language=en",
+              "uri": "http://data.europa.eu/esco/isced-f/0612"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/isced-f/061"
+          ]
+        },
+        {
+          "title": "information and communication technologies (icts)",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/isced-f/061&language=en",
+              "uri": "http://data.europa.eu/esco/isced-f/061"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/isced-f/06"
+          ]
+        },
+        {
+          "title": "information and communication technologies (icts)",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/isced-f/06&language=en",
+              "uri": "http://data.europa.eu/esco/isced-f/06"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/K"
+          ]
+        },
+        {
+          "title": "knowledge",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/K&language=en",
+              "uri": "http://data.europa.eu/esco/skill/K"
+            }
+          },
+          "parents": []
+        }
+      ]
+    }
+  }
+}

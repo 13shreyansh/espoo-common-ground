@@ -1,0 +1,208 @@
+{
+  "url": "https://ec.europa.eu/esco/api/search?type=skill&language=en&limit=3&text=SQL",
+  "at": "2026-11-14T22:51:26.240Z",
+  "response": {
+    "total": 6,
+    "offset": 0,
+    "limit": 3,
+    "text": "SQL",
+    "language": "en",
+    "type": [
+      "skill"
+    ],
+    "isInScheme": null,
+    "facet": null,
+    "_links": {
+      "self": {
+        "href": "https://ec.europa.eu/esco/api/search?text=SQL&type=skill&limit=3&offset=0&full=false&viewObsolete=false&language=en"
+      },
+      "next": {
+        "href": "https://ec.europa.eu/esco/api/search?text=SQL&type=skill&limit=3&offset=1&full=false&viewObsolete=false&language=en"
+      }
+    },
+    "_embedded": {
+      "results": [
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/598de5b0-5b58-4ea7-8058-a4bc4d18c742",
+          "searchHit": "SQL",
+          "title": "SQL",
+          "preferredLabel": {
+            "de": "SQL",
+            "no": "SQL",
+            "fi": "SQL",
+            "en-us": "SQL",
+            "pt": "SQL",
+            "bg": "SQL",
+            "lt": "SQL",
+            "hr": "SQL",
+            "lv": "SQL",
+            "fr": "SQL",
+            "hu": "SQL",
+            "sk": "SQL",
+            "sl": "SQL",
+            "ga": "SQL",
+            "sv": "SQL",
+            "el": "SQL",
+            "mt": "SQL",
+            "en": "SQL",
+            "is": "SQL",
+            "it": "SQL",
+            "es": "SQL",
+            "et": "SQL",
+            "cs": "SQL",
+            "ar": "الإخماد",
+            "pl": "SQL",
+            "da": "SQL",
+            "ro": "SQL",
+            "nl": "SQL"
+          },
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/knowledge"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/sector-specific"
+          ],
+          "broaderSkill": [
+            "http://data.europa.eu/esco/skill/9cf681c7-89ec-470c-b651-7fe03786f586"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/isced-f/0613"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/598de5b0-5b58-4ea7-8058-a4bc4d18c742&language=en",
+              "uri": "http://data.europa.eu/esco/skill/598de5b0-5b58-4ea7-8058-a4bc4d18c742",
+              "title": "SQL"
+            }
+          }
+        },
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/c062bab3-3ea0-4291-9220-a2d8fef4bead",
+          "searchHit": "SQL Server",
+          "title": "SQL Server",
+          "preferredLabel": {
+            "de": "SQL Server",
+            "no": "SQL Server",
+            "fi": "SQL Server",
+            "en-us": "SQL Server",
+            "pt": "SQL Server",
+            "bg": "SQL Server",
+            "lt": "„SQL Server“",
+            "hr": "SQL Server",
+            "lv": "SQL Server",
+            "fr": "SQL Server",
+            "hu": "SQL Server",
+            "sk": "SQL Server",
+            "sl": "SQL Server",
+            "ga": "SQL Server",
+            "sv": "SQL Server",
+            "el": "SQL Server",
+            "mt": "SQL Server",
+            "en": "SQL Server",
+            "is": "SQL Server",
+            "it": "SQL Server",
+            "es": "SQL Server",
+            "et": "SQL Server",
+            "cs": "SQL Server",
+            "ar": "SQL Server",
+            "pl": "SQL Server",
+            "da": "SQL Server",
+            "ro": "SQL Server",
+            "nl": "SQL Server"
+          },
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/knowledge"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/sector-specific"
+          ],
+          "broaderSkill": [
+            "http://data.europa.eu/esco/skill/ab1e97ed-2319-4293-a8b7-072d2648822f"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/isced-f/0612"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/c062bab3-3ea0-4291-9220-a2d8fef4bead&language=en",
+              "uri": "http://data.europa.eu/esco/skill/c062bab3-3ea0-4291-9220-a2d8fef4bead",
+              "title": "SQL Server"
+            }
+          }
+        },
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/ab1e97ed-2319-4293-a8b7-072d2648822f",
+          "searchHit": "The tools for creating, updating and managing databases, such as Oracle, MySQL and Microsoft SQL Server.",
+          "title": "database management systems",
+          "preferredLabel": {
+            "de": "Datenbankmanagementsysteme",
+            "no": "systemer for databaseadministrering",
+            "fi": "tietokannan hallintajärjestelmät",
+            "en-us": "database management systems",
+            "pt": "sistemas de gestão de bases de dados",
+            "bg": "системи за управление на база данни",
+            "lt": "duomenų bazių valdymo sistemos",
+            "hr": "sustavi upravljanja bazama podataka",
+            "lv": "datubāzes pārvaldības sistēmas",
+            "fr": "systèmes de gestion de base de données",
+            "hu": "adatbázis-kezelő rendszerek",
+            "sk": "systémy riadenia databáz",
+            "sl": "sistemi upravljanja podatkovnih baz",
+            "ga": "córais bhainistíochta bunachar sonraí",
+            "sv": "databashanteringssystem",
+            "el": "συστήματα διαχείρισης βάσεων δεδομένων",
+            "mt": "sistemi għall-ġestjoni tad-databases",
+            "en": "database management systems",
+            "is": "umsjónarkerfi gagnagrunna",
+            "it": "sistemi di gestione di database",
+            "es": "sistemas de gestión de bases de datos",
+            "et": "andmebaasihaldussüsteemid",
+            "cs": "systémy řízení databází",
+            "ar": "أنظمة إدارة قواعد البيانات",
+            "pl": "system zarządzania bazą danych",
+            "da": "databasestyringssystemer",
+            "ro": "sisteme de gestionare a bazelor de date",
+            "nl": "databasebeheersystemen"
+          },
+          "isTopConceptInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/knowledge"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/sector-specific"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/isced-f/0612"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/ab1e97ed-2319-4293-a8b7-072d2648822f&language=en",
+              "uri": "http://data.europa.eu/esco/skill/ab1e97ed-2319-4293-a8b7-072d2648822f",
+              "title": "database management systems"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

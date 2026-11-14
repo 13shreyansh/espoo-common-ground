@@ -1,0 +1,208 @@
+{
+  "url": "https://ec.europa.eu/esco/api/search?type=skill&language=en&limit=3&text=develop%20automated%20software%20tests",
+  "at": "2026-11-14T22:51:19.887Z",
+  "response": {
+    "total": 1956,
+    "offset": 0,
+    "limit": 3,
+    "text": "develop automated software tests",
+    "language": "en",
+    "type": [
+      "skill"
+    ],
+    "isInScheme": null,
+    "facet": null,
+    "_links": {
+      "self": {
+        "href": "https://ec.europa.eu/esco/api/search?text=develop%20automated%20software%20tests&type=skill&limit=3&offset=0&full=false&viewObsolete=false&language=en"
+      },
+      "next": {
+        "href": "https://ec.europa.eu/esco/api/search?text=develop%20automated%20software%20tests&type=skill&limit=3&offset=1&full=false&viewObsolete=false&language=en"
+      }
+    },
+    "_embedded": {
+      "results": [
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/6a322874-e32f-4cd8-9683-badce67a7f73",
+          "searchHit": "develop automated software tests",
+          "title": "develop automated software tests",
+          "preferredLabel": {
+            "de": "automatisierte Softwaretests entwickeln",
+            "no": "utvikle automatiserte programvaretester",
+            "fi": "kehittää automaattisia ohjelmistotestejä",
+            "en-us": "develop automated software tests",
+            "pt": "desenvolver testes de software automatizados",
+            "bg": "разработване на автоматизирани софтуерни тестове",
+            "lt": "kurti automatizuotus programinės įrangos testus",
+            "hr": "razviti automatizirane testove softvera",
+            "lv": "automatizētās testu programmatūras izstrāde",
+            "fr": "développer des tests logiciels automatisés",
+            "hu": "automatizált szoftverteszteket fejleszt",
+            "sk": "vyvinúť automatizované softvérové skúšky",
+            "sl": "razvijati avtomatizirane preizkuse programske opreme",
+            "ga": "tástálacha uathoibrithe bogearraí a fhorbairt",
+            "sv": "utveckla automatiska programvarutester",
+            "el": "ανάπτυξη αυτοματοποιημένων δοκιμών λογισμικού",
+            "mt": "tiżviluppa testijiet tas-softwer awtomatizzati",
+            "en": "develop automated software tests",
+            "is": "þróa sjálfvirkar hugbúnaðarprófanir",
+            "it": "sviluppare test software automatici",
+            "es": "desarrollar pruebas de software automatizadas",
+            "et": "automatiseeritud tarkvarateste arendama",
+            "cs": "vyvíjet automatické softwarové testy",
+            "ar": "تطوير اختبارات البرمجيات الآلية",
+            "pl": "opracowywać automatyczne testy oprogramowania",
+            "da": "udvikle automatiserede softwaretests",
+            "ro": "dezvoltă teste de software automate",
+            "nl": "geautomatiseerde softwaretests ontwikkelen"
+          },
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/skill"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/sector-specific"
+          ],
+          "broaderSkill": [
+            "http://data.europa.eu/esco/skill/5d74614d-32c8-4ca4-9818-6980e52424b1"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/skill/S1.11.1"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/6a322874-e32f-4cd8-9683-badce67a7f73&language=en",
+              "uri": "http://data.europa.eu/esco/skill/6a322874-e32f-4cd8-9683-badce67a7f73",
+              "title": "develop automated software tests"
+            }
+          }
+        },
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/85f46538-ae70-498a-bfbc-b8ddafe96c7d",
+          "searchHit": "The levels of testing in the software development process, such as unit testing, integration testing, system testing and acceptance testing.",
+          "title": "levels of software testing",
+          "preferredLabel": {
+            "de": "Software-Testebenen",
+            "no": "nivåer av programvaretesting",
+            "fi": "ohjelmistotestauksen tasot",
+            "en-us": "levels of software testing",
+            "pt": "níveis de testes de software",
+            "bg": "нива на тестване на софтуер",
+            "lt": "programinės įrangos testavimo lygiai",
+            "hr": "razine softverskog testiranja",
+            "lv": "programmatūras testēšanas līmeņi",
+            "fr": "niveaux de test logiciels",
+            "hu": "szoftvertesztelés szintjei",
+            "sk": "úrovne testovania softvéru",
+            "sl": "ravni preizkušanja programske opreme",
+            "ga": "leibhéil tástála bogearraí",
+            "sv": "nivåer för programvarutestning",
+            "el": "επίπεδα δοκιμών λογισμικού",
+            "mt": "livelli tal-ittestjar tas-softwer",
+            "en": "levels of software testing",
+            "is": "stig hugbúnaðarprófunar",
+            "it": "livelli di test per il collaudo di un software",
+            "es": "niveles de pruebas del software",
+            "et": "tarkvara testimise tasemed",
+            "cs": "úrovně testování softwaru",
+            "ar": "مستويات اختبار البرامج",
+            "pl": "poziomy testowania oprogramowania",
+            "da": "niveauer af softwaretestning",
+            "ro": "niveluri de testare software",
+            "nl": "softwaretestniveaus"
+          },
+          "isTopConceptInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/knowledge"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/sector-specific"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/isced-f/0613"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/85f46538-ae70-498a-bfbc-b8ddafe96c7d&language=en",
+              "uri": "http://data.europa.eu/esco/skill/85f46538-ae70-498a-bfbc-b8ddafe96c7d",
+              "title": "levels of software testing"
+            }
+          }
+        },
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/df12fd50-55dc-4cfd-a021-818880668789",
+          "searchHit": "Check, maintain and repair electrical and electronic elements. Check and update software of automated equipment.",
+          "title": "maintain control systems for automated equipment",
+          "preferredLabel": {
+            "de": "Steuerungen für automatisierte Anlagen pflegen",
+            "no": "vedlikeholde kontrollsystemer for automatisk utstyr",
+            "fi": "huolehtia automatisoitujen laitteiden hallintajärjestelmistä",
+            "en-us": "maintain control systems for automated equipment",
+            "pt": "efetuar a manutenção dos sistemas de controlo de equipamentos automáticos",
+            "bg": "поддържане на контролни системи за автоматично оборудване",
+            "lt": "prižiūrėti automatizuotos įrangos valdymo sistemas",
+            "hr": "održavati kontrolne sustave za automatiziranu opremu",
+            "lv": "uzturēt kārtībā automātisko iekārtu vadības sistēmas",
+            "fr": "entretenir les systèmes de commande d'équipements automatisés",
+            "hu": "karbantartja az automatizált berendezések vezérlőrendszereit",
+            "sk": "vykonávať údržbu riadiacich systémov automatizovaných zariadení",
+            "sl": "vzdrževati nadzorne sisteme za avtomatizirano opremo",
+            "ga": "córais rialaithe a chothabháil le haghaidh trealamh uathoibrithe",
+            "sv": "underhålla kontrollsystem för automatisk utrustning",
+            "el": "συντήρηση συστημάτων ελέγχου για τον αυτοματοποιημένο εξοπλισμό",
+            "mt": "manutenzjoni tas-sistemi ta’ kontroll għat-tagħmir awtomatizzat",
+            "en": "maintain control systems for automated equipment",
+            "is": "viðheldur stjórnarkerfum fyrir sjálfvirkan búnað",
+            "it": "effettuare la manutenzione dei sistemi di controllo delle attrezzature automatizzate",
+            "es": "mantener los sistemas de control para un equipo automatizado",
+            "et": "automaatseadmete juhtimissüsteeme hooldama",
+            "cs": "provádět údržbu řídicích systémů automatického zařízení",
+            "ar": "القيام بصيانة أنظمة تحكم المعدات الآلية",
+            "pl": "dbać o systemy kontroli zautomatyzowanego wyposażenia",
+            "da": "vedligeholde kontrolsystemer til automatiseret udstyr",
+            "ro": "operează sistemele de comandă pentru echipamentele automate",
+            "nl": "controlesystemen voor automatische uitrusting onderhouden"
+          },
+          "isTopConceptInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/skill"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/sector-specific"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/skill/S8.8.2"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/df12fd50-55dc-4cfd-a021-818880668789&language=en",
+              "uri": "http://data.europa.eu/esco/skill/df12fd50-55dc-4cfd-a021-818880668789",
+              "title": "maintain control systems for automated equipment"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

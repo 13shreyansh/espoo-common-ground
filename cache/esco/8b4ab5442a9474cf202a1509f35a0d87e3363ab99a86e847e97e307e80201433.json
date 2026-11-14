@@ -1,0 +1,208 @@
+{
+  "url": "https://ec.europa.eu/esco/api/search?type=skill&language=en&limit=3&text=develop%20software%20prototype",
+  "at": "2026-11-14T22:51:14.444Z",
+  "response": {
+    "total": 1492,
+    "offset": 0,
+    "limit": 3,
+    "text": "develop software prototype",
+    "language": "en",
+    "type": [
+      "skill"
+    ],
+    "isInScheme": null,
+    "facet": null,
+    "_links": {
+      "self": {
+        "href": "https://ec.europa.eu/esco/api/search?text=develop%20software%20prototype&type=skill&limit=3&offset=0&full=false&viewObsolete=false&language=en"
+      },
+      "next": {
+        "href": "https://ec.europa.eu/esco/api/search?text=develop%20software%20prototype&type=skill&limit=3&offset=1&full=false&viewObsolete=false&language=en"
+      }
+    },
+    "_embedded": {
+      "results": [
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/797a4416-0b8d-44f3-8fcd-eb10bd0be6b4",
+          "searchHit": "develop software prototype",
+          "title": "develop software prototype",
+          "preferredLabel": {
+            "de": "Softwareprototyp entwickeln",
+            "no": "utvikle programvareprototype",
+            "fi": "kehittää ohjelmiston prototyyppi",
+            "en-us": "develop software prototype",
+            "pt": "desenvolver protótipos de «software»",
+            "bg": "разработване на прототип на софтуер",
+            "lt": "sukurti programinės įrangos prototipą",
+            "hr": "razviti prototip softvera",
+            "lv": "programmatūras prototipa izstrāde",
+            "fr": "développer un prototype de logiciel",
+            "hu": "szoftverprototípust készít",
+            "sk": "vyvinúť softvérový prototyp",
+            "sl": "razviti prototip programske opreme",
+            "ga": "fréamhshamhail bogearraí a fhorbairt",
+            "sv": "utveckla programprototyp",
+            "el": "ανάπτυξη πρωτότυπου λογισμικού",
+            "mt": "żvilupp ta’ prototip tas-softwer",
+            "en": "develop software prototype",
+            "is": "þróar frumgerð hugbúnaðar",
+            "it": "sviluppare prototipi software",
+            "es": "desarrollar un prototipo de software",
+            "et": "tarkvara prototüüpi arendama",
+            "cs": "vyvíjet softwarové prototypy",
+            "ar": "وضع نموذج البرمجيات الأولى",
+            "pl": "opracowywać prototyp oprogramowania",
+            "da": "udvikle softwareprototype",
+            "ro": "dezvoltă prototipul pentru software",
+            "nl": "softwareprototype ontwikkelen"
+          },
+          "isTopConceptInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/skill"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/sector-specific"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/skill/S5.1.0"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/797a4416-0b8d-44f3-8fcd-eb10bd0be6b4&language=en",
+              "uri": "http://data.europa.eu/esco/skill/797a4416-0b8d-44f3-8fcd-eb10bd0be6b4",
+              "title": "develop software prototype"
+            }
+          }
+        },
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/eabc06f6-2daf-45bb-b525-7fc078e2eadf",
+          "searchHit": "Design and develop prototypes of optical products and components using technical drawing software.",
+          "title": "design optical prototypes",
+          "preferredLabel": {
+            "de": "optische Prototypen entwickeln",
+            "no": "utforme optiske prototyper",
+            "fi": "suunnitella optisia prototyyppejä",
+            "en-us": "design optical prototypes",
+            "pt": "desenhar protótipos óticos",
+            "bg": "проектиране на оптични прототипи",
+            "lt": "projektuoti optinės įrangos prototipus",
+            "hr": "projektirati optičke prototipove",
+            "lv": "izstrādāt optiskos prototipus",
+            "fr": "concevoir des prototypes optiques",
+            "hu": "optikai prototípusokat tervez",
+            "sk": "navrhovať optické prototypy",
+            "sl": "razvijati optične prototipe",
+            "ga": "fréamhshamhlacha optúla a dhearadh",
+            "sv": "designa optiska prototyper",
+            "el": "σχεδιασμός οπτικών πρωτοτύπων",
+            "mt": "disinn tal-prototipi ottiċi",
+            "en": "design optical prototypes",
+            "is": "hannar ljósfræðilegar frumgerðir",
+            "it": "progettare prototipi ottici",
+            "es": "diseñar prototipos de productos ópticos",
+            "et": "optilisi prototüüpe projekteerima",
+            "cs": "navrhovat optické prototypy",
+            "ar": "تصميم النماذج البصرية",
+            "pl": "projektować prototypy wyrobów optycznych",
+            "da": "designe optiske prototyper",
+            "ro": "proiectează prototipuri de produse optice",
+            "nl": "optische prototypes ontwerpen"
+          },
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/skill"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/sector-specific"
+          ],
+          "broaderSkill": [
+            "http://data.europa.eu/esco/skill/bacbfc27-4b5d-47de-8bfd-af5fa27562a2"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/skill/S1.11.5"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/eabc06f6-2daf-45bb-b525-7fc078e2eadf&language=en",
+              "uri": "http://data.europa.eu/esco/skill/eabc06f6-2daf-45bb-b525-7fc078e2eadf",
+              "title": "design optical prototypes"
+            }
+          }
+        },
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/a50c6a0a-5171-4be6-aa2b-50fe4d025d45",
+          "searchHit": "Be able to read and understand visual elements and technical design specifications from hand-made or computer-made sketches, pictures and drawings. Digitise or scan the lasts. Create the design upon the shape of the lasts according to dimensional requirements of the customer. Perform 3D footwear modelling by using various functionalities of the CAD software such as producing, manipulating and testing virtual images for computer aided 3D artistic and technical design of footwear. Produce alternative designs and develop virtual models and collection lines. Make presentation boards and catalogues.",
+          "title": "create 3D CAD footwear prototypes",
+          "preferredLabel": {
+            "de": "3D-CAD-Schuhprototypen entwerfen",
+            "no": "lage 3D CAD-fottøyprototyper",
+            "fi": "valmistaa kolmiulotteisia jalkineprototyyppejä tietokoneavusteisesti",
+            "en-us": "create 3D CAD footwear prototypes",
+            "pt": "criar protótipos de calçado 3D e CAD",
+            "bg": "3D CAD моделиране на прототипи на обувни изделия",
+            "lt": "kurti trimačius avalynės prototipus naudojantis automatizuoto projektavimo programomis",
+            "hr": "izrađivati 3D CAD prototipe obuće",
+            "lv": "veidot telpisku datorizētās projektēšanas apavu prototipus",
+            "fr": "créer des prototypes d’articles chaussants en 3D par CAO",
+            "hu": "számítógéppel támogatott tervezőszoftverrel háromdimenziós cipőprototípusokat hoz létre",
+            "sk": "vytvoriť trojrozmerné prototypy obuvi v softvéri CAD",
+            "sl": "ustvarjati 3D prototipe obutve s CAD",
+            "ga": "fréamhshamhlacha coisbhirt tríthoiseacha dearadh ríomhchuidithe a chruthú",
+            "sv": "skapa tredimensionella skoprototyper genom datorstödd konstruktion",
+            "el": "δημιουργία τρισδιάστατων πρωτοτύπων υποδημάτων με το λογισμικό CAD",
+            "mt": "ħolqien ta’ disinni 3D bil-kompjuter tal-prototipi ta’ xedd is-saqajn",
+            "en": "create 3D CAD footwear prototypes",
+            "is": "býr til þrívíddarfrumgerðir af skófatnaði",
+            "it": "creare prototipi di calzature in 3D CAD",
+            "es": "hacer prototipos de calzado con programas de diseño tridimensional asistido por ordenador",
+            "et": "jalatsite 3D CAD-prototüüpe looma",
+            "cs": "vytvářet 3D prototypy obuvi v nástroji CAD",
+            "ar": "إنشاء نماذج أحذية ثلاثية الأبعاد بتصميم بمساعدة الحاسوب",
+            "pl": "tworzyć prototypy 3D obuwia przy wykorzystaniu projektowania wspomaganego komputerowo",
+            "da": "skabe 3D-prototyper af fodtøj ved computerstøttet design",
+            "ro": "creează prototipuri de încălțăminte 3D în CAD",
+            "nl": "3D-CAD-prototypen van schoeisel maken"
+          },
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/skill"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/sector-specific"
+          ],
+          "broaderSkill": [
+            "http://data.europa.eu/esco/skill/b34e2ba1-9080-48c9-9b42-ee9192a4d3f1"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/skill/S5.6.3"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/a50c6a0a-5171-4be6-aa2b-50fe4d025d45&language=en",
+              "uri": "http://data.europa.eu/esco/skill/a50c6a0a-5171-4be6-aa2b-50fe4d025d45",
+              "title": "create 3D CAD footwear prototypes"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

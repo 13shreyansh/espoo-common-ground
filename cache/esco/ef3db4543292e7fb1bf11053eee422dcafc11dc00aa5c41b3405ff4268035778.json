@@ -1,0 +1,516 @@
+{
+  "url": "https://ec.europa.eu/esco/api/resource/skill?language=en&uri=http%3A%2F%2Fdata.europa.eu%2Fesco%2Fskill%2F2180bd8c-86de-4889-8165-adac902eee9d",
+  "at": "2026-11-14T22:51:26.092Z",
+  "response": {
+    "className": "Skill",
+    "classId": "http://data.europa.eu/esco/model#Skill",
+    "uri": "http://data.europa.eu/esco/skill/2180bd8c-86de-4889-8165-adac902eee9d",
+    "title": "embedded systems",
+    "referenceLanguage": [
+      "en"
+    ],
+    "preferredLabel": {
+      "de": "eingebettete Systeme",
+      "no": "innebygde systemer",
+      "fi": "sulautetut järjestelmät",
+      "en-us": "embedded systems",
+      "pt": "sistemas integrados",
+      "bg": "вградени системи",
+      "lt": "įterptosios sistemos",
+      "hr": "ugrađeni sustavi",
+      "lv": "iegultā sistēma",
+      "fr": "systèmes embarqués",
+      "hu": "beágyazott rendszerek",
+      "sk": "vnorené systémy",
+      "sl": "vgrajeni sistemi",
+      "ga": "córais leabaithe",
+      "sv": "inbäddade system",
+      "el": "ενσωματωμένα συστήματα",
+      "mt": "sistemi inkorporati",
+      "en": "embedded systems",
+      "is": "ívafskerfi",
+      "it": "sistemi integrati",
+      "es": "sistemas incrustados",
+      "et": "sardsüsteem",
+      "cs": "vestavěné systémy",
+      "ar": "الأنظمة المدمجة",
+      "pl": "systemy wbudowane",
+      "da": "indlejrede systemer",
+      "ro": "sisteme înglobate",
+      "nl": "geïntegreerd systeem"
+    },
+    "alternativeLabel": {
+      "de": [
+        "integrierte Systeme",
+        "eingebundene Rechner",
+        "eingebettetes System",
+        "Softwarearchitekturen für eingebettete Systeme",
+        "Embedded Systems",
+        "Embedded-System-Softwarearchitekturen",
+        "Embedded-PCs"
+      ],
+      "sv": [
+        "inbäddade strukturer",
+        "system som är inbäddat",
+        "inbäddade konstruktioner",
+        "inbäddade scheman",
+        "system som är inbäddade"
+      ],
+      "fi": [
+        "sulautettu järjestelmä",
+        "upotetut järjestelmät",
+        "sulautettujen järjestelmien ohjelmistoarkkitehtuurit",
+        "sulautetut oheislaitteet  suunnitteluperiaatteet ja kehitystyökalut",
+        "sulautettujen järjestelmien ohjelmiston arkkitehtuurit"
+      ],
+      "pt": [
+        "sistema integrado",
+        "arquitetura de software integrada",
+        "sistemas informáticos integrados",
+        "equipamentos integrados"
+      ],
+      "bg": [
+        "вградена система",
+        "интегрирани системи",
+        "вградените системи",
+        "софтуерна архитектура на вградени системи",
+        "специализирани системи",
+        "вградени периферни устройства"
+      ],
+      "el": [
+        "ανάπτυξη λογισμικού ενσωματωμένων συστημάτων",
+        "λογισμικό ενσωματωμένων συστημάτων",
+        "προγραμματισμός ένθετων συστημάτων",
+        "ένθετα προγραμματικά συστήματα",
+        "προγραμματισμός ενσωματωμένων συστημάτων",
+        "αρχιτεκτονικές λογισμικού ενσωματωμένων συστημάτων"
+      ],
+      "mt": [
+        "0.0",
+        "sistemi speċifiċi fi ħdan sistema akbar",
+        "sistemi inkorporati flimkien",
+        "sistemi integrati"
+      ],
+      "lt": [
+        "įterptoji sistema",
+        "įterptosios sistemos ir programinės įrangos architektūra",
+        "įstatytosios sistemos",
+        "įterptosios kompiuterinės sistemos",
+        "įterptos sistemos"
+      ],
+      "en": [
+        "embedded systems software architectures"
+      ],
+      "hr": [
+        "umetnuti sustav",
+        "ugrađeni sustavi",
+        "ugrađeni sustav"
+      ],
+      "is": [
+        "Ívafin kerfi",
+        "samvafin kerfi",
+        "ívafskerfa",
+        "ívafskerfum"
+      ],
+      "lv": [
+        "operētājsistēma",
+        "iegulta sistēma",
+        "iegultā datorsistēma"
+      ],
+      "it": [
+        "sistema integrato",
+        "sistemi embedded",
+        "architettura software integrata",
+        "insiemi di applicazioni software integrate",
+        "sistema software integrato",
+        "sistema embedded"
+      ],
+      "fr": [
+        "systèmes électroniques et informatiques",
+        "systèmes intégrés",
+        "architecture logicielle des systèmes intégrés",
+        "systèmes informatiques embarqués",
+        "système embarqué",
+        "systèmes électroniques et informatiques autonomes"
+      ],
+      "hu": [
+        "beágyazott szoftvermérnökök",
+        "beágyazott rendszer mérnök",
+        "beágyazott szoftvermérnök",
+        "beágyazott rendszer fejlesztő",
+        "beágyazott szoftverfejlesztő mérnök",
+        "beágyazott rendszer"
+      ],
+      "es": [
+        "sistemas empotrados",
+        "sistemas insertados",
+        "sistemas embebidos",
+        "sistemas incorporados",
+        "sistemas integrados"
+      ],
+      "et": [
+        "manustatud süsteemid",
+        "manussüsteemid",
+        "manussüsteemide tarkvaraarhitektuur",
+        "manusena kastutatavad süsteemid",
+        "sardsüsteemid",
+        "manuse süsteemid"
+      ],
+      "cs": [
+        "softwarové architektury vestavěných systémů",
+        "zabudované systémy",
+        "vestavěný systém"
+      ],
+      "sk": [
+        "vstavané systémy",
+        "vnorené operačné systémy",
+        "vnorený systém",
+        "vnorené počítačové systémy",
+        "embedded systém",
+        "včlenené systémy"
+      ],
+      "sl": [
+        "vgrajeni računalniški sistemi",
+        "vgrajeni računalniški elementi",
+        "vgradni sistemi",
+        "vgrajen sistem",
+        "vgrajena programska oprema",
+        "vgrajena računalniška oprema"
+      ],
+      "pl": [
+        "architektura systemów wbudowanych",
+        "oprogramowanie wbudowane",
+        "system wbudowany"
+      ],
+      "ro": [
+        "sisteme încorporate",
+        "sistem înglobat",
+        "sisteme integrate",
+        "sisteme embedded"
+      ],
+      "da": [
+        "integrerede systemer",
+        "implementerede systemer",
+        "indlejret arkitektur af systemsoftware",
+        "indlejret systemsoftware",
+        "indarbejdede systemer"
+      ],
+      "nl": [
+        "softwarearchitectuur voor geïntegreerde systemen",
+        "geïntegreerde systemen",
+        "firmware",
+        "ingebedde softwarearchitectuur",
+        "ingebedde systemen"
+      ]
+    },
+    "description": {
+      "no": {
+        "literal": "Datasystemene og komponentene med en spesialisert og selvstendig funksjon innenfor et større system eller en annen maskin, f.eks. innebygde systemer for systemprogramvarearkitekturer, innebygd perifert utstyr, designprinsipper og utviklingsverktøy.",
+        "mimetype": "plain/text"
+      },
+      "de": {
+        "literal": "Computersysteme und Komponenten mit einer speziellen, eigenständigen Funktion innerhalb eines größeren Systems oder einer größeren Maschine, z. B. Softwarearchitekturen mit eingebetteten Systemen, eingebettete Peripheriegeräte, Gestaltungsprinzipien und Entwicklungswerkzeuge.",
+        "mimetype": "plain/text"
+      },
+      "fi": {
+        "literal": "Tietokonejärjestelmät ja komponentit, joilla on erityinen ja itsenäinen tehtävä laajemmassa järjestelmässä tai koneessa, kuten sulautettujen järjestelmien ohjelmistoarkkitehtuurit, niihin sulautetut oheislaitteet, suunnittelun periaatteet ja kehittämistyökalut.",
+        "mimetype": "plain/text"
+      },
+      "en-us": {
+        "literal": "The computer systems and components with a specialized and autonomous function within a larger system or machine such as embedded systems software architectures, embedded peripherals, design principles and development tools.",
+        "mimetype": "plain/text"
+      },
+      "pt": {
+        "literal": "Os sistemas e componentes informáticos com uma função especializada e autónoma dentro de um sistema ou máquina maior, como as arquiteturas de software com sistemas integrados, periféricos incorporados, princípios de design e ferramentas de desenvolvimento.",
+        "mimetype": "plain/text"
+      },
+      "bg": {
+        "literal": "Компютърни системи и компоненти със специализирана и автономна функция в рамките на по-голяма система или машина, например софтуерни архитектури за вградени системи, вградени периферни устройства, принципи на проектиране и инструменти за разработка.",
+        "mimetype": "plain/text"
+      },
+      "lt": {
+        "literal": "Kompiuterių sistemos ir komponentai, turintys specializuotą ir savarankišką funkciją didesnėje sistemoje arba įrangoje, pvz., įterptųjų sistemų programinės įrangos architektūros, įterptieji periferiniai įrenginiai, projektavimo principai ir projektavimo priemonės.",
+        "mimetype": "plain/text"
+      },
+      "lv": {
+        "literal": "Datorsistēmas un komponenti ar specializētu un autonomu funkciju plašākā sistēmā vai iekārtā, piemēram, iegultās sistēmas programmatūras arhitektūra, iegultās perifērijas ierīces, projektēšanas principi un izstrādes rīki.",
+        "mimetype": "plain/text"
+      },
+      "hr": {
+        "literal": "Računalni sustavi i komponente sa specijaliziranom i autonomnom funkcijom unutar većeg sustava ili stroja, kao što su ugrađeni sustavi arhitektura softvera, ugrađeni periferijski uređaji, načela oblikovanja i razvojni alati.",
+        "mimetype": "plain/text"
+      },
+      "fr": {
+        "literal": "Les systèmes et composants informatiques dotés d’une fonction spécialisée et autonome au sein d’un système ou d’une machine plus large, tels que les architectures logicielles des systèmes embarqués, les périphériques embarqués, les principes de conception et les outils de développement.",
+        "mimetype": "plain/text"
+      },
+      "hu": {
+        "literal": "Specializált és önálló funkcióval rendelkező számítógépes rendszerek és komponensek, nagyobb rendszeren vagy gépen belül, mint például beágyazott rendszerek, szoftverarchitektúrák, beágyazott perifériák, tervezési alapelvek és fejlesztési eszközök.",
+        "mimetype": "plain/text"
+      },
+      "sk": {
+        "literal": "Počítačové systémy a komponenty so špecializovanou a autonómnou funkciou v rámci väčšieho systému alebo zariadenia, ako sú softvérové architektúry s vnorenými systémami, vstavané periférne zariadenia, zásady navrhovania a vývojové nástroje.",
+        "mimetype": "plain/text"
+      },
+      "sl": {
+        "literal": "Računalniški sistemi in sestavni deli s specializirano in avtonomno funkcijo v okviru večjega sistema ali stroja, kot so vgrajene sistemske arhitekture programske opreme, vgrajene periferne enote, načela zasnove in razvojna orodja.",
+        "mimetype": "plain/text"
+      },
+      "ga": {
+        "literal": "Na córais ríomhaireachta agus na comhpháirteanna a bhfuil sainfheidhm speisialaithe fhéinrialaitheach acu laistigh de chóras níos mó nó meaisín, ailtireachtaí córais leabaithe bhogearraí, aonaid fhorimeallacha leabaithe, prionsabail dearaidh agus uirlisí forbartha.",
+        "mimetype": "plain/text"
+      },
+      "sv": {
+        "literal": "Datasystem och datorkomponenter med en specialiserad och oberoende funktion inom ett större system eller en större maskin såsom inbäddade systemprogramarkitekturer, inbäddad kringutrustning, designprinciper och utvecklingsverktyg.",
+        "mimetype": "plain/text"
+      },
+      "mt": {
+        "literal": "Is-sistemi tal-kompjuter u l-komponenti b’funzjoni speċjalizzata u awtonoma fi ħdan sistema akbar jew magna bħal arkitetturi tas-softwer ta’ sistemi integrati, periferali integrati, prinċipji tad-disinn u għodda għall-iżvilupp.",
+        "mimetype": "plain/text"
+      },
+      "el": {
+        "literal": "Τα συστήματα και στοιχεία πληροφορικής με εξειδικευμένη και αυτόνομη λειτουργία μέσα σε ένα ευρύτερο σύστημα ή μηχανή, όπως ενσωματωμένα συστήματα αρχιτεκτονικής λογισμικού, τα ενσωματωμένα περιφερειακά, οι αρχές σχεδιασμού και τα εργαλεία ανάπτυξης.",
+        "mimetype": "plain/text"
+      },
+      "en": {
+        "literal": "The computer systems and components with a specialised and autonomous function within a larger system or machine such as embedded systems software architectures, embedded peripherals, design principles and development tools.",
+        "mimetype": "plain/text"
+      },
+      "is": {
+        "literal": "Tölvukerfin og -íhlutirnir með sérhæfða og sjálfstæða einingu í stærra kerfi eða vél, s.s. hugbúnaðarhögun með ívafskerfi, innfeld jaðartæki, hönnunarreglum og þróunartækjum.",
+        "mimetype": "plain/text"
+      },
+      "it": {
+        "literal": "I sistemi informatici e i componenti con una funzione specializzata e autonoma all’interno di un sistema o di una macchina di dimensioni maggiori, come le architetture di software dei sistemi integrati, le unità periferiche, i principi di progettazione e gli strumenti di sviluppo integrati.",
+        "mimetype": "plain/text"
+      },
+      "es": {
+        "literal": "Sistemas y componentes informáticos con una función especializada y autónoma en un sistema o máquina más amplio, como arquitecturas de software de sistemas incrustados, periféricos integrados, principios de diseño y herramientas de desarrollo.",
+        "mimetype": "plain/text"
+      },
+      "et": {
+        "literal": "Spetsiaalse ja autonoomse funktsiooniga arvutisüsteemid ja -komponendid suuremas süsteemis või masinas, nagu sardsüsteemide tarkvaraarhitektuurid, integreeritud välisseadmed, projekteerimispõhimõtted ja arendusvahendid.",
+        "mimetype": "plain/text"
+      },
+      "cs": {
+        "literal": "Počítačové systémy a komponenty se specializovanou a samostatnou funkcí v rámci většího systému nebo stroje, jako jsou softwarové architektury s vestavěnými systémy, vestavěná periferní zařízení, zásady navrhování a vývojové nástroje.",
+        "mimetype": "plain/text"
+      },
+      "ar": {
+        "literal": "أنظمة الكمبيوتر ومكوناته مع وظيفة متخصصة ومستقلة داخل نظام أو جهاز أكبر، مثل بنيات برامج الأنظمة المضمنة، والأجهزة الطرفية المتكاملة، ومبادئ التصميم، وأدوات التطوير.",
+        "mimetype": "plain/text"
+      },
+      "pl": {
+        "literal": "Systemy i elementy komputerowe posiadające wyspecjalizowaną i autonomiczną funkcję w ramach większego systemu lub maszyny, takie jak architektura oprogramowania systemów wbudowanych, zintegrowane urządzenia peryferyjne, zasady projektowania oraz narzędzia rozwoju.",
+        "mimetype": "plain/text"
+      },
+      "ro": {
+        "literal": "Sistemele informatice și componentele cu funcție specializată și autonomă în cadrul unui sistem sau al unei mașini mai mari, cum ar fi arhitecturile software înglobate pentru sisteme, perifericele încorporate, principiile de proiectare și instrumentele de dezvoltare.",
+        "mimetype": "plain/text"
+      },
+      "da": {
+        "literal": "IT-systemer og komponenter med en specialiseret og autonom funktion inden for et større system eller en større maskine, såsom indlejrede softwarearkitekturer til systemer, integreret periferiudstyr, designprincipper og udviklingsværktøjer.",
+        "mimetype": "plain/text"
+      },
+      "nl": {
+        "literal": "Computersystemen en -componenten met een gespecialiseerde en autonome functie binnen een groter systeem of grotere machine, waaronder softwarearchitectuur met geïntegreerde systemen, geïntegreerde randapparatuur, ontwerpprincipes en ontwikkeltools.",
+        "mimetype": "plain/text"
+      }
+    },
+    "status": "released",
+    "_links": {
+      "self": {
+        "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/2180bd8c-86de-4889-8165-adac902eee9d&language=en",
+        "uri": "http://data.europa.eu/esco/skill/2180bd8c-86de-4889-8165-adac902eee9d",
+        "title": "embedded systems"
+      },
+      "isInScheme": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/taxonomy?uri=http://data.europa.eu/esco/concept-scheme/skills&language=en",
+          "uri": "http://data.europa.eu/esco/concept-scheme/skills",
+          "title": "ESCO skills"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/taxonomy?uri=http://data.europa.eu/esco/concept-scheme/member-skills&language=en",
+          "uri": "http://data.europa.eu/esco/concept-scheme/member-skills",
+          "title": "ESCO member skills"
+        }
+      ],
+      "hasSkillType": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/concept?uri=http://data.europa.eu/esco/skill-type/knowledge&language=en",
+          "uri": "http://data.europa.eu/esco/skill-type/knowledge",
+          "title": "knowledge"
+        }
+      ],
+      "hasReuseLevel": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/concept?uri=http://data.europa.eu/esco/skill-reuse-level/sector-specific&language=en",
+          "uri": "http://data.europa.eu/esco/skill-reuse-level/sector-specific",
+          "title": "sector specific skills and competences",
+          "code": "Level 3"
+        }
+      ],
+      "broaderHierarchyConcept": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/concept?uri=http://data.europa.eu/esco/isced-f/0714&language=en",
+          "uri": "http://data.europa.eu/esco/isced-f/0714",
+          "title": "electronics and automation"
+        }
+      ],
+      "broaderSkill": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/d0c6d77e-cb25-4770-bf77-2073fc5f7523&language=en",
+          "uri": "http://data.europa.eu/esco/skill/d0c6d77e-cb25-4770-bf77-2073fc5f7523",
+          "title": "ICT infrastructure",
+          "skillType": "http://data.europa.eu/esco/skill-type/knowledge"
+        }
+      ],
+      "isEssentialForOccupation": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/10469d70-78a3-4650-9e29-d04de13c62c1&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/10469d70-78a3-4650-9e29-d04de13c62c1",
+          "title": "embedded system designer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/57af9090-55b4-4911-b2d0-86db01c00b02&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/57af9090-55b4-4911-b2d0-86db01c00b02",
+          "title": "embedded systems software developer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/bb6198c4-1d3e-40b9-9cc4-ad2dd9d7c74b&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/bb6198c4-1d3e-40b9-9cc4-ad2dd9d7c74b",
+          "title": "industrial mobile devices software developer"
+        }
+      ],
+      "isOptionalForOccupation": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/c90e5009-37f2-4dcd-aea2-362fc817bc98&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/c90e5009-37f2-4dcd-aea2-362fc817bc98",
+          "title": "ICT environmental manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/07e60525-1aad-4099-aaf3-2c7014c92212&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/07e60525-1aad-4099-aaf3-2c7014c92212",
+          "title": "integration engineer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/4e8a5d3e-66de-4661-9927-ef3123cc79e9&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/4e8a5d3e-66de-4661-9927-ef3123cc79e9",
+          "title": "architecture lecturer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/98c3d8f8-e3a8-49b7-9e58-236f25a6f6a0&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/98c3d8f8-e3a8-49b7-9e58-236f25a6f6a0",
+          "title": "system configurator"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/b37d15b3-402e-4792-8292-f18c0de7aca6&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/b37d15b3-402e-4792-8292-f18c0de7aca6",
+          "title": "mobile devices technician"
+        }
+      ],
+      "isOptionalForSkill": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/f7e2eb04-3e50-4561-bce1-7e51a1fec308&language=en",
+          "uri": "http://data.europa.eu/esco/skill/f7e2eb04-3e50-4561-bce1-7e51a1fec308",
+          "title": "define software architecture",
+          "skillType": "http://data.europa.eu/esco/skill-type/skill"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/2857540c-180b-4208-9127-e94a01871966&language=en",
+          "uri": "http://data.europa.eu/esco/skill/2857540c-180b-4208-9127-e94a01871966",
+          "title": "align software with system architectures",
+          "skillType": "http://data.europa.eu/esco/skill-type/skill"
+        }
+      ]
+    },
+    "_embedded": {
+      "ancestors": [
+        {
+          "title": "embedded systems",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/2180bd8c-86de-4889-8165-adac902eee9d&language=en",
+              "uri": "http://data.europa.eu/esco/skill/2180bd8c-86de-4889-8165-adac902eee9d"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/d0c6d77e-cb25-4770-bf77-2073fc5f7523",
+            "http://data.europa.eu/esco/isced-f/0714"
+          ]
+        },
+        {
+          "title": "ICT infrastructure",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/d0c6d77e-cb25-4770-bf77-2073fc5f7523&language=en",
+              "uri": "http://data.europa.eu/esco/skill/d0c6d77e-cb25-4770-bf77-2073fc5f7523"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/isced-f/0714"
+          ]
+        },
+        {
+          "title": "electronics and automation",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/isced-f/0714&language=en",
+              "uri": "http://data.europa.eu/esco/isced-f/0714"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/isced-f/071"
+          ]
+        },
+        {
+          "title": "engineering and engineering trades",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/isced-f/071&language=en",
+              "uri": "http://data.europa.eu/esco/isced-f/071"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/isced-f/07"
+          ]
+        },
+        {
+          "title": "engineering, manufacturing and construction",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/isced-f/07&language=en",
+              "uri": "http://data.europa.eu/esco/isced-f/07"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/K"
+          ]
+        },
+        {
+          "title": "knowledge",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/K&language=en",
+              "uri": "http://data.europa.eu/esco/skill/K"
+            }
+          },
+          "parents": []
+        },
+        {
+          "title": "electronics and automation",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/isced-f/0714&language=en",
+              "uri": "http://data.europa.eu/esco/isced-f/0714"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/isced-f/071"
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,575 @@
+{
+  "url": "https://ec.europa.eu/esco/api/resource/skill?language=en&uri=http%3A%2F%2Fdata.europa.eu%2Fesco%2Fskill%2F7af6e9e8-1e11-4c0b-b7c6-ac96bbbbc674",
+  "at": "2026-11-14T22:51:30.800Z",
+  "response": {
+    "className": "Skill",
+    "classId": "http://data.europa.eu/esco/model#Skill",
+    "uri": "http://data.europa.eu/esco/skill/7af6e9e8-1e11-4c0b-b7c6-ac96bbbbc674",
+    "title": "coordinate engineering teams",
+    "referenceLanguage": [
+      "en"
+    ],
+    "preferredLabel": {
+      "no": "koordinere teknisk team",
+      "de": "Technikerteams koordinieren",
+      "en-us": "coordinate engineering teams",
+      "fi": "koordinoida teknisiä tiimejä",
+      "pt": "coordenar equipas de engenharia",
+      "bg": "координиране на инженерни екипи",
+      "lt": "koordinuoti inžinierių grupių darbą",
+      "lv": "koordinēt inženieru kolektīva darbu",
+      "hr": "koordinirati inženjerske timove",
+      "fr": "coordonner des équipes d’ingénieurs",
+      "hu": "mérnökcsapatokat irányít",
+      "sk": "koordinovať inžinierske tímy",
+      "sl": "voditi inženirske skupine",
+      "ga": "foirne innealtóireachta a chomhordú",
+      "sv": "samordna ingenjörsgrupper",
+      "mt": "koordinazzjoni tat-timijiet tal-inġinerija",
+      "el": "συντονισμός ομάδων μηχανικών",
+      "en": "coordinate engineering teams",
+      "is": "samræmir verkfræðiteymi",
+      "it": "coordinare gruppi tecnici",
+      "es": "coordinar equipos de ingeniería",
+      "et": "insenerirühmi koordineerima",
+      "cs": "koordinovat inženýrské týmy",
+      "ar": "تنسيق الفرق الهندسية",
+      "pl": "koordynować prace zespołów inżynierskich",
+      "ro": "coordonează echipele tehnice",
+      "da": "koordinere teknikerteam",
+      "nl": "technische teams coördineren"
+    },
+    "alternativeLabel": {
+      "en": [
+        "coordinating engineering teams",
+        "supervise engineering activities",
+        "co-ordinating engineering teams",
+        "engineering team co-ordinating",
+        "engineering teams co-ordinating",
+        "co-ordinate engineering teams",
+        "engineering teams coordinating",
+        "engineering activities supervising",
+        "supervising engineering activities",
+        "engineering team coordinating"
+      ],
+      "ro": [
+        "coordonează echipele de ingineri"
+      ],
+      "es": [
+        "dirigir equipos de ingeniería"
+      ]
+    },
+    "description": {
+      "no": {
+        "literal": "Planlegge, koordinere og overvåke ingeniørvirksomhet sammen med ingeniører og teknikere. Sikre tydelige og effektive kanaler for kommunikasjon mellom alle avdelinger. Sørge for at teamet kjenner til standarder og mål for forskning og utvikling.",
+        "mimetype": "plain/text"
+      },
+      "de": {
+        "literal": "Planen, Koordinieren und Überwachen der Ingenieurarbeiten zusammen mit Ingenieuren und Technikern. Gewährleisten klarer und wirksamer Kommunikationskanäle in allen Abteilungen. Sicherstellen, dass das Team die Forschungs- und Entwicklungsstandards und -ziele kennt.",
+        "mimetype": "plain/text"
+      },
+      "fi": {
+        "literal": "Suunnitella, koordinoida ja valvoa teknisiä toimia yhdessä insinöörien ja teknisten asiantuntijoiden kanssa. Varmistaa selkeä ja tehokas viestintä kaikkien osastojen välillä. Varmistaa, että ryhmä on tietoinen tutkimus- ja kehitystyön standardeista ja tavoitteista.",
+        "mimetype": "plain/text"
+      },
+      "en-us": {
+        "literal": "Plan, coordinate and supervise engineering activities together with engineers and engineering technicians. Ensure clear and effective channels of communication across all departments. Make sure the team is aware of the standards and objectives of the research and development.",
+        "mimetype": "plain/text"
+      },
+      "pt": {
+        "literal": "Planear, coordenar e supervisionar atividades de engenharia, juntamente com engenheiros e técnicos de engenharia. Assegurar canais de comunicação claros e eficazes em todos os departamentos. Certificar-se de que a equipa está ciente das normas e objetivos da investigação e desenvolvimento.",
+        "mimetype": "plain/text"
+      },
+      "bg": {
+        "literal": "Планира, координира и контролира инженерните дейности заедно с инженери и техници. Осигурява ясни и ефективни канали за комуникация във всички отдели. Гарантира, че екипът е запознат със стандартите и целите на научноизследователската и развойната дейност.",
+        "mimetype": "plain/text"
+      },
+      "lt": {
+        "literal": "Planuoti, koordinuoti ir prižiūrėti inžinerinę veiklą kartu su inžinieriais ir inžinerijos technikais. Užtikrinti aiškius ir veiksmingus komunikacijos kanalus visuose padaliniuose. Užtikrinti, kad grupė žinotų mokslinių tyrimų ir plėtros standartus ir tikslus.",
+        "mimetype": "plain/text"
+      },
+      "hr": {
+        "literal": "Planirati, koordinirati i nadgledati inženjerske aktivnosti zajedno s inženjerima i inženjerskim tehničarima. Osigurati jasne i učinkovite komunikacijske kanale u svim odjelima. Pobrinuti se da je tim svjestan standarda i ciljeva istraživanja i razvoja.",
+        "mimetype": "plain/text"
+      },
+      "lv": {
+        "literal": "Kopā ar inženieriem un inženiertehniskajiem speciālistiem plānot, koordinēt un uzraudzīt inženiertehniskos darbus. Nodrošināt skaidrus un efektīvus saziņas kanālus visās struktūrvienībās. Pārliecināties, ka komanda ir informēta par pētniecības un izstrādes standartiem un mērķiem.",
+        "mimetype": "plain/text"
+      },
+      "fr": {
+        "literal": "Planifier, coordonner et superviser les activités d’ingénierie ainsi que les ingénieurs et techniciens en génie. Assurer des voies de communication claires et efficaces dans tous les services. Veiller à ce que l’équipe soit consciente des normes et des objectifs de la recherche et du développement.",
+        "mimetype": "plain/text"
+      },
+      "hu": {
+        "literal": "Mérnöki tevékenységek tervezése, koordinálása és felügyelete mérnökökkel és műszaki technikusokkal együtt. Az összes szervezeti egység számára egyértelmű és hatékony kommunikációs csatornák biztosítása. Biztosítja, hogy a csoport ismerje a kutatás és fejlesztés szabványait és célkitűzéseit.",
+        "mimetype": "plain/text"
+      },
+      "sk": {
+        "literal": "Plánovať, koordinovať a dozerať na inžinierske činnosti spolu s inžiniermi a technikmi. Zabezpečiť jasné a účinné spôsoby komunikácie medzi všetkými oddeleniami. Zaistiť, by tím poznal normy a ciele výskumu a vývoja.",
+        "mimetype": "plain/text"
+      },
+      "sl": {
+        "literal": "Načrtovati, uskladiti in nadzirati inženirske dejavnosti skupaj z inženirji in inženirskimi tehniki. Zagotoviti jasne in učinkovite komunikacijske kanale v vseh oddelkih. Prepričati se, da je skupina seznanjena s standardi in cilji raziskav in razvoja.",
+        "mimetype": "plain/text"
+      },
+      "ga": {
+        "literal": "Gníomhaíochtaí innealtóireachta a phleanáil, a chomhordú agus a mhaoirsiú, in éineacht le hinnealtóirí agus teicneoirí innealtóireachta. Bealaí cumarsáide atá soiléir agus éifeachtach a chinntiú i ngach roinn. Deimhin a dhéanamh de go bhfuil an fhoireann ar an eolas faoi chaighdeáin agus faoi chuspóirí an lucht taighde agus forbartha.",
+        "mimetype": "plain/text"
+      },
+      "sv": {
+        "literal": "Planera, samordna och övervaka ingenjörsarbetet tillsammans med ingenjörer och tekniker. Säkerställa tydliga och effektiva kommunikationskanaler mellan alla avdelningar. Se till att teamet är medvetet om standarderna och målen för forskning och utveckling.",
+        "mimetype": "plain/text"
+      },
+      "mt": {
+        "literal": "Ippjana, ikkoordina u ssorvelja attivitajiet ta’ inġinerija flimkien ma’ inġiniera u tekniċi tal-inġinerija. Żgura kanali ta’ komunikazzjoni ċari u effettivi fid-dipartimenti kollha. Kun ċert li t-tim ikun konxju mill-istandards u l-objettivi tar-riċerka u l-iżvilupp.",
+        "mimetype": "plain/text"
+      },
+      "el": {
+        "literal": "Σχεδιασμός, συντονισμός και επίβλεψη μηχανολογικών δραστηριοτήτων από κοινού με μηχανικούς και τεχνικούς. Διασφάλιση της ύπαρξης σαφών και αποτελεσματικών διαύλων επικοινωνίας σε όλα τα τμήματα. Μέριμνα ώστε η ομάδα να γνωρίζει τα πρότυπα και τους στόχους έρευνας και ανάπτυξης.",
+        "mimetype": "plain/text"
+      },
+      "en": {
+        "literal": "Plan, coordinate and supervise engineering activities together with engineers and engineering technicians. Ensure clear and effective channels of communication across all departments. Make sure the team is aware of the standards and objectives of the research and development.",
+        "mimetype": "plain/text"
+      },
+      "is": {
+        "literal": "Skipuleggur, samræmir og hefur eftirlit með verkfræðivinnu ásamt verkfræðingum og tæknimönnum. Tryggir skýrar og skilvirkar leiðir til samskipta allra deilda. Sér til þess að hópurinn sé meðvitaður um staðla og markmið rannsókna og þróunar.",
+        "mimetype": "plain/text"
+      },
+      "it": {
+        "literal": "Pianificare, coordinare e supervisionare le attività ingegneristiche, insieme a ingegneri e tecnici. Garantire canali chiari ed efficaci di comunicazione tra tutti i reparti. Assicurarsi che l’équipe sia a conoscenza delle norme e degli obiettivi della ricerca e dello sviluppo.",
+        "mimetype": "plain/text"
+      },
+      "es": {
+        "literal": "Planificar, coordinar y supervisar las actividades de ingeniería, junto con ingenieros y técnicos en ingeniería. Garantizar canales de comunicación claros y efectivos entre todos los departamentos. Asegurarse de que el equipo conoce las normas y objetivos de la investigación y el desarrollo.",
+        "mimetype": "plain/text"
+      },
+      "et": {
+        "literal": "Koos inseneride ja inseneritehnikutega inseneritegevuste kavandamine, kooskõlastamine ja jälgimine. Kõigi osakondade vahel selgete ja tõhusate suhtluskanalite tagamine. Tagamine, et rühm teab teadus- ja arendustegevuse standardeid ja eesmärke.",
+        "mimetype": "plain/text"
+      },
+      "cs": {
+        "literal": "Plánovat, koordinovat a dohlížet na inženýrské činnosti spolu s inženýry a inženýrskými techniky. Zajistit jasné a účinné způsoby komunikace napříč všemi odděleními. Zajistit, aby si tým byl vědom standardů a cílů výzkumu a vývoje.",
+        "mimetype": "plain/text"
+      },
+      "ar": {
+        "literal": "تولي تخطيط وتنسيق الأنشطة الهندسية والإشراف عليها بالاشتراك مع المهندسين وفنيي الشؤون الهندسية. التأكد من وجود قنوات اتصال واضحة وفعالة بين جميع الإدارات. التأكد من أن الفريق على دراية بمعايير وأهداف البحث والتطوير.",
+        "mimetype": "plain/text"
+      },
+      "pl": {
+        "literal": "Planować, koordynować i nadzorować działalność inżynieryjną wraz z inżynierami i technikami. Zapewniać zrozumiałą i skuteczną komunikację we wszystkich działach. Dbać, aby zespół znał standardy i cele badań i rozwoju.",
+        "mimetype": "plain/text"
+      },
+      "ro": {
+        "literal": "Planifică, coordonează și supraveghează activitățile de inginerie în colaborare cu ingineri și tehnicieni ingineri. Asigură canale de comunicare clare și eficiente în toate departamentele. Se asigură că echipa este conștientă de standardele și obiectivele cercetării și dezvoltării.",
+        "mimetype": "plain/text"
+      },
+      "da": {
+        "literal": "Planlægge, koordinere og føre tilsyn med ingeniørarbejder sammen med ingeniører og teknikere. Sikre, at der findes klare og effektive kommunikationskanaler mellem alle afdelinger. Sørge for, at holdet er bekendt med standarder og målsætninger for forskning og udvikling.",
+        "mimetype": "plain/text"
+      },
+      "nl": {
+        "literal": "Werkzaamheden van ingenieurs plannen, coördineren en er toezicht op houden samen met ingenieurs en techniekers. Zorgen voor duidelijke en doeltreffende communicatiekanalen tussen alle departementen. Ervoor zorgen dat het team op de hoogte is van de normen en doelstellingen van het onderzoek en de ontwikkeling.",
+        "mimetype": "plain/text"
+      }
+    },
+    "status": "released",
+    "_links": {
+      "self": {
+        "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/7af6e9e8-1e11-4c0b-b7c6-ac96bbbbc674&language=en",
+        "uri": "http://data.europa.eu/esco/skill/7af6e9e8-1e11-4c0b-b7c6-ac96bbbbc674",
+        "title": "coordinate engineering teams"
+      },
+      "isInScheme": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/taxonomy?uri=http://data.europa.eu/esco/concept-scheme/member-skills&language=en",
+          "uri": "http://data.europa.eu/esco/concept-scheme/member-skills",
+          "title": "ESCO member skills"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/taxonomy?uri=http://data.europa.eu/esco/concept-scheme/skills&language=en",
+          "uri": "http://data.europa.eu/esco/concept-scheme/skills",
+          "title": "ESCO skills"
+        }
+      ],
+      "hasSkillType": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/concept?uri=http://data.europa.eu/esco/skill-type/skill&language=en",
+          "uri": "http://data.europa.eu/esco/skill-type/skill",
+          "title": "skill"
+        }
+      ],
+      "hasReuseLevel": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/concept?uri=http://data.europa.eu/esco/skill-reuse-level/cross-sector&language=en",
+          "uri": "http://data.europa.eu/esco/skill-reuse-level/cross-sector",
+          "title": "cross-sector skills and competences",
+          "code": "Level 2"
+        }
+      ],
+      "broaderHierarchyConcept": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/concept?uri=http://data.europa.eu/esco/skill/S4.2.1&language=en",
+          "uri": "http://data.europa.eu/esco/skill/S4.2.1",
+          "title": "directing operational activities",
+          "code": "S4.2.1"
+        }
+      ],
+      "broaderSkill": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/75d8e5d9-bef3-418b-9011-01bff9f27207&language=en",
+          "uri": "http://data.europa.eu/esco/skill/75d8e5d9-bef3-418b-9011-01bff9f27207",
+          "title": "lead others",
+          "skillType": "http://data.europa.eu/esco/skill-type/skill"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/60c78287-22eb-4103-9c8c-28deaa460da0&language=en",
+          "uri": "http://data.europa.eu/esco/skill/60c78287-22eb-4103-9c8c-28deaa460da0",
+          "title": "work in teams",
+          "skillType": "http://data.europa.eu/esco/skill-type/skill"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/1f1d2ff8-c4c1-45cc-9812-6a7ee84a73cb&language=en",
+          "uri": "http://data.europa.eu/esco/skill/1f1d2ff8-c4c1-45cc-9812-6a7ee84a73cb",
+          "title": "lead a team",
+          "skillType": "http://data.europa.eu/esco/skill-type/skill"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/cb668e89-6ef5-4ff3-ab4a-506010e7e70b&language=en",
+          "uri": "http://data.europa.eu/esco/skill/cb668e89-6ef5-4ff3-ab4a-506010e7e70b",
+          "title": "manage a team",
+          "skillType": "http://data.europa.eu/esco/skill-type/skill"
+        }
+      ],
+      "isOptionalForOccupation": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/8c0f59c9-9a47-42e7-8287-aab19df4e6ab&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/8c0f59c9-9a47-42e7-8287-aab19df4e6ab",
+          "title": "microelectronics engineer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/0c7c9606-fde3-4658-8136-8fe0c9b8bd09&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/0c7c9606-fde3-4658-8136-8fe0c9b8bd09",
+          "title": "medical device engineer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/ab360abd-32e2-4e03-967d-a10758efffa7&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/ab360abd-32e2-4e03-967d-a10758efffa7",
+          "title": "mechatronics engineer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/bb609566-3ab6-44dd-8f48-cf0b15b96827&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/bb609566-3ab6-44dd-8f48-cf0b15b96827",
+          "title": "automation engineer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/16cb1f72-3d8c-4404-84ec-9c31fbd7c86c&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/16cb1f72-3d8c-4404-84ec-9c31fbd7c86c",
+          "title": "welding engineer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/ab3c4d3e-3189-47ad-82af-57cdae3cb589&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/ab3c4d3e-3189-47ad-82af-57cdae3cb589",
+          "title": "optical engineer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/92bb3d8c-8a9f-4cd7-80ec-247bbf173004&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/92bb3d8c-8a9f-4cd7-80ec-247bbf173004",
+          "title": "computer hardware engineer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/579254cf-6d69-4889-9000-9c79dc568644&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/579254cf-6d69-4889-9000-9c79dc568644",
+          "title": "mechanical engineer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/53d2052f-edc0-4f44-8be1-164526412bfe&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/53d2052f-edc0-4f44-8be1-164526412bfe",
+          "title": "industrial engineer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/35d41f4f-334b-452e-9e31-99f376302493&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/35d41f4f-334b-452e-9e31-99f376302493",
+          "title": "optoelectronic engineer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/ae8b19cc-8c6e-4a16-ada2-c15f97ded133&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/ae8b19cc-8c6e-4a16-ada2-c15f97ded133",
+          "title": "optomechanical engineer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/778c1d37-69f2-4184-ac98-03b7dbfba332&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/778c1d37-69f2-4184-ac98-03b7dbfba332",
+          "title": "photonics engineer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/e047b8f5-9491-4da2-8816-7aa37ad2370d&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/e047b8f5-9491-4da2-8816-7aa37ad2370d",
+          "title": "patent engineer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/7f0fe7d3-54c6-41e9-88ba-9d4f0f1a46b4&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/7f0fe7d3-54c6-41e9-88ba-9d4f0f1a46b4",
+          "title": "microsystem engineer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/2026adb2-62d7-4b92-9ccb-105abdebe37d&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/2026adb2-62d7-4b92-9ccb-105abdebe37d",
+          "title": "electromagnetic engineer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/86ca306c-ab99-420a-9e2a-aa73c5c4de22&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/86ca306c-ab99-420a-9e2a-aa73c5c4de22",
+          "title": "electrical engineer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/4f4d33a1-0b41-4dd9-8a42-aeba5a3974ab&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/4f4d33a1-0b41-4dd9-8a42-aeba5a3974ab",
+          "title": "sensor engineer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/77abfaec-a250-4765-95fa-6091e8da1bba&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/77abfaec-a250-4765-95fa-6091e8da1bba",
+          "title": "electromechanical engineer"
+        }
+      ]
+    },
+    "_embedded": {
+      "ancestors": [
+        {
+          "title": "coordinate engineering teams",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/7af6e9e8-1e11-4c0b-b7c6-ac96bbbbc674&language=en",
+              "uri": "http://data.europa.eu/esco/skill/7af6e9e8-1e11-4c0b-b7c6-ac96bbbbc674"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/60c78287-22eb-4103-9c8c-28deaa460da0",
+            "http://data.europa.eu/esco/skill/cb668e89-6ef5-4ff3-ab4a-506010e7e70b",
+            "http://data.europa.eu/esco/skill/1f1d2ff8-c4c1-45cc-9812-6a7ee84a73cb",
+            "http://data.europa.eu/esco/skill/75d8e5d9-bef3-418b-9011-01bff9f27207",
+            "http://data.europa.eu/esco/skill/S4.2.1"
+          ]
+        },
+        {
+          "title": "work in teams",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/60c78287-22eb-4103-9c8c-28deaa460da0&language=en",
+              "uri": "http://data.europa.eu/esco/skill/60c78287-22eb-4103-9c8c-28deaa460da0"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/8f18f987-33e2-4228-9efb-65de25d03330",
+            "http://data.europa.eu/esco/skill/S1.8.1"
+          ]
+        },
+        {
+          "title": "social interaction",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/8f18f987-33e2-4228-9efb-65de25d03330&language=en",
+              "uri": "http://data.europa.eu/esco/skill/8f18f987-33e2-4228-9efb-65de25d03330"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/7ee746cb-fded-47f5-9652-19ebebbce51b"
+          ]
+        },
+        {
+          "title": "Transversal skills/competences",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/7ee746cb-fded-47f5-9652-19ebebbce51b&language=en",
+              "uri": "http://data.europa.eu/esco/skill/7ee746cb-fded-47f5-9652-19ebebbce51b"
+            }
+          },
+          "parents": []
+        },
+        {
+          "title": "working in teams",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S1.8.1&language=en",
+              "uri": "http://data.europa.eu/esco/skill/S1.8.1"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S1.8"
+          ]
+        },
+        {
+          "title": "working with others",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S1.8&language=en",
+              "uri": "http://data.europa.eu/esco/skill/S1.8"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S1"
+          ]
+        },
+        {
+          "title": "communication, collaboration and creativity",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S1&language=en",
+              "uri": "http://data.europa.eu/esco/skill/S1"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S"
+          ]
+        },
+        {
+          "title": "skills",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S&language=en",
+              "uri": "http://data.europa.eu/esco/skill/S"
+            }
+          },
+          "parents": []
+        },
+        {
+          "title": "manage a team",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/cb668e89-6ef5-4ff3-ab4a-506010e7e70b&language=en",
+              "uri": "http://data.europa.eu/esco/skill/cb668e89-6ef5-4ff3-ab4a-506010e7e70b"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S4.8.1",
+            "http://data.europa.eu/esco/skill/75d8e5d9-bef3-418b-9011-01bff9f27207"
+          ]
+        },
+        {
+          "title": "supervising a team or group",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S4.8.1&language=en",
+              "uri": "http://data.europa.eu/esco/skill/S4.8.1"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S4.8"
+          ]
+        },
+        {
+          "title": "supervising people",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S4.8&language=en",
+              "uri": "http://data.europa.eu/esco/skill/S4.8"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S4"
+          ]
+        },
+        {
+          "title": "management skills",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S4&language=en",
+              "uri": "http://data.europa.eu/esco/skill/S4"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S"
+          ]
+        },
+        {
+          "title": "lead others",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/75d8e5d9-bef3-418b-9011-01bff9f27207&language=en",
+              "uri": "http://data.europa.eu/esco/skill/75d8e5d9-bef3-418b-9011-01bff9f27207"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/8f18f987-33e2-4228-9efb-65de25d03330",
+            "http://data.europa.eu/esco/skill/S4.5.0"
+          ]
+        },
+        {
+          "title": "leading and motivating",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S4.5.0&language=en",
+              "uri": "http://data.europa.eu/esco/skill/S4.5.0"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S4.5"
+          ]
+        },
+        {
+          "title": "leading and motivating",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S4.5&language=en",
+              "uri": "http://data.europa.eu/esco/skill/S4.5"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S4"
+          ]
+        },
+        {
+          "title": "directing operational activities",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S4.2.1&language=en",
+              "uri": "http://data.europa.eu/esco/skill/S4.2.1"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S4.2"
+          ]
+        },
+        {
+          "title": "organising, planning and scheduling work and activities",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S4.2&language=en",
+              "uri": "http://data.europa.eu/esco/skill/S4.2"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S4"
+          ]
+        },
+        {
+          "title": "lead a team",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/1f1d2ff8-c4c1-45cc-9812-6a7ee84a73cb&language=en",
+              "uri": "http://data.europa.eu/esco/skill/1f1d2ff8-c4c1-45cc-9812-6a7ee84a73cb"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S4.8.1",
+            "http://data.europa.eu/esco/skill/75d8e5d9-bef3-418b-9011-01bff9f27207"
+          ]
+        },
+        {
+          "title": "lead others",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/75d8e5d9-bef3-418b-9011-01bff9f27207&language=en",
+              "uri": "http://data.europa.eu/esco/skill/75d8e5d9-bef3-418b-9011-01bff9f27207"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/8f18f987-33e2-4228-9efb-65de25d03330",
+            "http://data.europa.eu/esco/skill/S4.5.0"
+          ]
+        }
+      ]
+    }
+  }
+}

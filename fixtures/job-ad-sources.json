@@ -1,0 +1,69 @@
+{
+  "captured_at": "2026-11-14T22:59:29.107Z",
+  "note": "Fictional company needs are simplified event-sized tasks inspired by public advert responsibilities. Archived ads are labelled. No advertiser is represented or endorsed.",
+  "sources": [
+    {
+      "url": "https://thehub.io/jobs/5d7f7ca6fbd94760dd20a73f",
+      "title": "Software Developer, Analytics & Optimization",
+      "location": "Leppävaara, Espoo",
+      "status": "archived public advert",
+      "seed": "Operational data analysis and scheduling from historical measurements."
+    },
+    {
+      "url": "https://thehub.io/jobs/65ae0ecb68ec61152d913835",
+      "title": "Senior Java Software Engineer",
+      "location": "Otaniemi, Espoo",
+      "status": "archived public advert",
+      "seed": "Designing, coding, testing and debugging software."
+    },
+    {
+      "url": "https://thehub.io/jobs/611e21ebe707123e51a34153",
+      "title": "Data engineer",
+      "location": "Espoo",
+      "status": "archived public advert",
+      "seed": "Acquiring, harmonising and analysing datasets, then managing the data."
+    },
+    {
+      "url": "https://www.workinfinland.com/en/open-jobs/?query=Software",
+      "title": "Software roles in Espoo",
+      "location": "Espoo",
+      "status": "public listing captured 15 Nov 2026",
+      "seed": "Software testing, manufacturing software and telemetry engineering."
+    },
+    {
+      "url": "https://thehub.io/jobs/6a670aa3574e266cb973dabf",
+      "title": "Senior Software Engineer, Telemetry",
+      "location": "Espoo",
+      "status": "public advert captured 15 Nov 2026",
+      "seed": "Reliable pipelines, monitored stores, automated recovery and technical support."
+    },
+    {
+      "url": "https://thehub.io/jobs/6ae47f6b381715d3e6b7fbea",
+      "title": "Customer Success Operations Specialist",
+      "location": "Espoo",
+      "status": "public advert captured 15 Nov 2026",
+      "seed": "Playbooks, action registers, team coordination, reports and dashboards."
+    },
+    {
+      "url": "https://thehub.io/jobs/6ae47f6b381715d3e6b7fbea",
+      "title": "Customer Success Operations Specialist",
+      "location": "Espoo",
+      "status": "public advert captured 15 Nov 2026",
+      "seed": "Recurring customer requests, follow-up and consistent case records."
+    },
+    {
+      "url": "https://www.workinfinland.com/en/open-jobs/?category=software-development%2Cengineering",
+      "title": "Engineering and measurement roles in Espoo",
+      "location": "Espoo",
+      "status": "public listing captured 15 Nov 2026",
+      "seed": "Engineering tests, measurement collection and validation."
+    },
+    {
+      "url": "https://duunitori.fi/tyopaikat/ammatti/ohjelmistokehittaja/alue/espoo",
+      "title": "Espoo software development roles",
+      "location": "Espoo",
+      "status": "public listing captured 15 Nov 2026",
+      "seed": "Software development and testing of practical applications."
+    }
+  ]
+}

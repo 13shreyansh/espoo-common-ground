@@ -1,0 +1,324 @@
+{
+  "url": "https://ec.europa.eu/esco/api/resource/skill?language=en&uri=http%3A%2F%2Fdata.europa.eu%2Fesco%2Fskill%2Fe50e10e0-33df-4045-9cc1-8f09e09ec81a",
+  "at": "2026-11-14T23:00:06.709Z",
+  "response": {
+    "className": "Skill",
+    "classId": "http://data.europa.eu/esco/model#Skill",
+    "uri": "http://data.europa.eu/esco/skill/e50e10e0-33df-4045-9cc1-8f09e09ec81a",
+    "title": "conduct background research for plays",
+    "referenceLanguage": [
+      "en"
+    ],
+    "preferredLabel": {
+      "no": "gjennomføre bakgrunnsundersøkelser for skuespill",
+      "de": "Hintergrundrecherchen für Theaterstücke durchführen",
+      "en-us": "conduct background research for plays",
+      "fi": "tehdä näytelmän taustatutkimusta",
+      "pt": "pesquisar sobe o contexto histórico das peças",
+      "bg": "извършване на предварително проучване за пиеси",
+      "lt": "tirti teatro pjesių istorinį kontekstą",
+      "lv": "veikt lugu konteksta izpēti",
+      "hr": "istražiti kontekst za predstave",
+      "fr": "effectuer des recherches préliminaires pour des pièces de théâtre",
+      "hu": "a színházi darabokhoz háttérkutatást végez",
+      "sk": "vykonať historický výskum pre divadelné hry",
+      "sl": "raziskovati ozadje za igre",
+      "ga": "taighde cúlra a dhéanamh le haghaidh drámaí",
+      "sv": "göra bakgrundsresearch om teaterpjäser",
+      "el": "διενέργεια έρευνας ιστορικού για παραστάσεις",
+      "mt": "twettiq tar-riċerka tal-isfond għar-reċti",
+      "en": "conduct background research for plays",
+      "is": "gerir bakgrunnsrannsóknir vegna leikrita",
+      "it": "condurre una ricerca di base per gli spettacoli",
+      "es": "realizar una investigación de contextos para obras de teatro",
+      "et": "etenduste kohta taustateavet otsima",
+      "cs": "provádět rešerše souvislostí ke hrám",
+      "ar": "إجراء البحوث الخلفية للمسرحيات",
+      "pl": "przeprowadzać dodatkowe badania na potrzeby sztuk teatralnych",
+      "da": "foretage baggrundsresearch til skuespil",
+      "ro": "desfășoară activitate de cercetare pentru piese de teatru",
+      "nl": "achtergrondonderzoek uitvoeren voor toneelstukken"
+    },
+    "alternativeLabel": {
+      "sl": [
+        "izvajati raziskave ozadja gledaliških iger"
+      ],
+      "en": [
+        "research for play development",
+        "conduct historical research for plays",
+        "research background information for play development",
+        "research and develop plays",
+        "conduct research for plays",
+        "conduct artistic and literary research for plays"
+      ],
+      "ro": [
+        "face cercetare istorică pentru piese de teatru"
+      ],
+      "nl": [
+        "achtergrondonderzoek uitvoeren voor theaterstukken",
+        "achtergrondonderzoek verrichten voor toneelstukken",
+        "achtergrondonderzoek verrichten voor theaterstukken"
+      ]
+    },
+    "description": {
+      "no": {
+        "literal": "Undersøke historiske bakgrunner og kunstneriske konsepter for skuespill.",
+        "mimetype": "plain/text"
+      },
+      "de": {
+        "literal": "Recherchieren des historischen Hintergrunds und der künstlerischen Konzepte von Theaterstücken.",
+        "mimetype": "plain/text"
+      },
+      "fi": {
+        "literal": "Tutkia näytelmien historiallisia taustoja ja taiteellisia konsepteja.",
+        "mimetype": "plain/text"
+      },
+      "en-us": {
+        "literal": "Research historical backgrounds and artistic concepts of plays.",
+        "mimetype": "plain/text"
+      },
+      "pt": {
+        "literal": "Investigar contextos históricos e conceitos artísticos relacionados com peças de teatro.",
+        "mimetype": "plain/text"
+      },
+      "bg": {
+        "literal": "Проучва историята и художествените концепции на пиеси.",
+        "mimetype": "plain/text"
+      },
+      "lt": {
+        "literal": "Nagrinėti teatro spektaklių istorines aplinkybes ir meninę koncepciją.",
+        "mimetype": "plain/text"
+      },
+      "lv": {
+        "literal": "Izpētīt lugu vēsturisko kontekstu un mākslinieciskās koncepcijas.",
+        "mimetype": "plain/text"
+      },
+      "hr": {
+        "literal": "Istraživati povijesne pozadine i umjetničke koncepte predstava.",
+        "mimetype": "plain/text"
+      },
+      "fr": {
+        "literal": "Faire l’historique et étudier les concepts artistiques des pièces de théâtre.",
+        "mimetype": "plain/text"
+      },
+      "hu": {
+        "literal": "Kutatja a színházi darabok történelmi hátterét és művészi koncepcióit.",
+        "mimetype": "plain/text"
+      },
+      "sk": {
+        "literal": "Preskúmať historické pozadie a umelecké koncepcie divadelných hier.",
+        "mimetype": "plain/text"
+      },
+      "sl": {
+        "literal": "Raziskovati zgodovinska ozadja in umetniške koncepte iger.",
+        "mimetype": "plain/text"
+      },
+      "ga": {
+        "literal": "Tá cúlra an taighde, chomh maith le coincheapa ealaíne, den scoth.",
+        "mimetype": "plain/text"
+      },
+      "sv": {
+        "literal": "Göra research om historisk bakgrund och konstnärligt koncept bakom pjäser.",
+        "mimetype": "plain/text"
+      },
+      "mt": {
+        "literal": "Ir-riċerka ta’ sfondi storiċi u kunċetti artistiċi ta’ reċti.",
+        "mimetype": "plain/text"
+      },
+      "el": {
+        "literal": "Έρευνα ιστορικού και καλλιτεχνικών ιδεών θεατρικών έργων.",
+        "mimetype": "plain/text"
+      },
+      "en": {
+        "literal": "Research historical backgrounds and artistic concepts of plays.",
+        "mimetype": "plain/text"
+      },
+      "is": {
+        "literal": "Rannsakar sögulegan bakgrunn og listræn hugtök leikrita.",
+        "mimetype": "plain/text"
+      },
+      "it": {
+        "literal": "Condurre ricerche su basi storiche e concetti artistici per spettacoli.",
+        "mimetype": "plain/text"
+      },
+      "es": {
+        "literal": "Investigar los contextos históricos y conceptos artísticos de obras de teatro.",
+        "mimetype": "plain/text"
+      },
+      "et": {
+        "literal": "Etenduste ajaloolise tausta ja kunstilise kontseptsiooni uurimine.",
+        "mimetype": "plain/text"
+      },
+      "cs": {
+        "literal": "Provádět výzkum historických souvislostí a uměleckých konceptů her.",
+        "mimetype": "plain/text"
+      },
+      "ar": {
+        "literal": "البحث في الخلفيات التاريخية والمفاهيم الفنية للمسرحيات.",
+        "mimetype": "plain/text"
+      },
+      "pl": {
+        "literal": "Badanie tła historycznego i koncepcji artystycznych sztuk teatralnych.",
+        "mimetype": "plain/text"
+      },
+      "ro": {
+        "literal": "Desfășoară activitate de cercetare istorică și concepte artistice pentru piese de teatru.",
+        "mimetype": "plain/text"
+      },
+      "da": {
+        "literal": "Forske i skuespils historiske baggrund og kunstnerisk karakter.",
+        "mimetype": "plain/text"
+      },
+      "nl": {
+        "literal": "Historische achtergronden en artistieke concepten van toneelstukken onderzoeken.",
+        "mimetype": "plain/text"
+      }
+    },
+    "status": "released",
+    "_links": {
+      "self": {
+        "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/e50e10e0-33df-4045-9cc1-8f09e09ec81a&language=en",
+        "uri": "http://data.europa.eu/esco/skill/e50e10e0-33df-4045-9cc1-8f09e09ec81a",
+        "title": "conduct background research for plays"
+      },
+      "isTopConceptInScheme": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/taxonomy?uri=http://data.europa.eu/esco/concept-scheme/member-skills&language=en",
+          "uri": "http://data.europa.eu/esco/concept-scheme/member-skills",
+          "title": "ESCO member skills"
+        }
+      ],
+      "isInScheme": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/taxonomy?uri=http://data.europa.eu/esco/concept-scheme/member-skills&language=en",
+          "uri": "http://data.europa.eu/esco/concept-scheme/member-skills",
+          "title": "ESCO member skills"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/taxonomy?uri=http://data.europa.eu/esco/concept-scheme/skills&language=en",
+          "uri": "http://data.europa.eu/esco/concept-scheme/skills",
+          "title": "ESCO skills"
+        }
+      ],
+      "hasSkillType": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/concept?uri=http://data.europa.eu/esco/skill-type/skill&language=en",
+          "uri": "http://data.europa.eu/esco/skill-type/skill",
+          "title": "skill"
+        }
+      ],
+      "hasReuseLevel": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/concept?uri=http://data.europa.eu/esco/skill-reuse-level/sector-specific&language=en",
+          "uri": "http://data.europa.eu/esco/skill-reuse-level/sector-specific",
+          "title": "sector specific skills and competences",
+          "code": "Level 3"
+        }
+      ],
+      "broaderHierarchyConcept": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/concept?uri=http://data.europa.eu/esco/skill/S1.12.3&language=en",
+          "uri": "http://data.europa.eu/esco/skill/S1.12.3",
+          "title": "creating artistic designs or performances",
+          "code": "S1.12.3"
+        }
+      ],
+      "isEssentialForOccupation": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/00747307-6341-4266-a061-25416f7c6a96&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/00747307-6341-4266-a061-25416f7c6a96",
+          "title": "performing arts theatre instructor"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/f6ca9392-708d-46cb-a2e9-51519595baa2&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/f6ca9392-708d-46cb-a2e9-51519595baa2",
+          "title": "drama teacher secondary school"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/572c51ef-531b-4331-8e66-b1641173e54e&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/572c51ef-531b-4331-8e66-b1641173e54e",
+          "title": "dramaturge"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/cbde2432-cb7f-451f-a686-b22cad3957a6&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/cbde2432-cb7f-451f-a686-b22cad3957a6",
+          "title": "drama teacher"
+        }
+      ],
+      "isOptionalForOccupation": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/26171f39-e85a-448f-bd28-a73a5a99927f&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/26171f39-e85a-448f-bd28-a73a5a99927f",
+          "title": "actor/actress"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/5efb2c08-ba3a-4659-a2e4-1883f54e77b6&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/5efb2c08-ba3a-4659-a2e4-1883f54e77b6",
+          "title": "secondary school teacher"
+        }
+      ]
+    },
+    "_embedded": {
+      "ancestors": [
+        {
+          "title": "conduct background research for plays",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/e50e10e0-33df-4045-9cc1-8f09e09ec81a&language=en",
+              "uri": "http://data.europa.eu/esco/skill/e50e10e0-33df-4045-9cc1-8f09e09ec81a"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S1.12.3"
+          ]
+        },
+        {
+          "title": "creating artistic designs or performances",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S1.12.3&language=en",
+              "uri": "http://data.europa.eu/esco/skill/S1.12.3"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S1.12"
+          ]
+        },
+        {
+          "title": "creating artistic, visual or instructive materials",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S1.12&language=en",
+              "uri": "http://data.europa.eu/esco/skill/S1.12"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S1"
+          ]
+        },
+        {
+          "title": "communication, collaboration and creativity",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S1&language=en",
+              "uri": "http://data.europa.eu/esco/skill/S1"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S"
+          ]
+        },
+        {
+          "title": "skills",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S&language=en",
+              "uri": "http://data.europa.eu/esco/skill/S"
+            }
+          },
+          "parents": []
+        }
+      ]
+    }
+  }
+}

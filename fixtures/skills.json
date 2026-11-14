@@ -4,21 +4,36 @@
     "uri": "http://data.europa.eu/esco/skill/2b92a5b2-6758-4ee3-9fb4-b6387a55cc8f",
     "label": "perform data analysis",
     "description": "Collect data and statistics to test and evaluate in order to generate assertions and pattern predictions, with the aim of discovering useful information in a decision-making process.",
-    "narrower": []
+    "narrower": [
+      "http://data.europa.eu/esco/skill/c544a9f3-5945-4b54-afed-de0697852817",
+      "http://data.europa.eu/esco/skill/062320e5-79d1-45e8-8b7e-5deeb53279a2",
+      "http://data.europa.eu/esco/skill/c95c29fe-3971-46b7-80e9-1f7e75ba99b3",
+      "http://data.europa.eu/esco/skill/47a49cd6-097d-457a-9f7b-c290c14930d5"
+    ]
   },
   {
     "query": "use spreadsheets software",
     "uri": "http://data.europa.eu/esco/skill/1973c966-f236-40c9-b2d4-5d71a89019be",
     "label": "use spreadsheets software",
     "description": "Use software tools to create and edit tabular data to carry out mathematical calculations, organise data and information, create diagrams based on data and to retrieve them.",
-    "narrower": []
+    "narrower": [
+      "http://data.europa.eu/esco/skill/1225b032-7ead-464c-9072-64097d9a4b62"
+    ]
   },
   {
     "query": "manage databases",
     "uri": "http://data.europa.eu/esco/skill/29fb0fb5-dfc4-4098-ac9b-3a712000f48f",
     "label": "manage database",
     "description": "Apply database design schemes and models, define data dependencies, use query languages and database management systems (DBMS) to develop and manage databases.",
-    "narrower": []
+    "narrower": [
+      "http://data.europa.eu/esco/skill/5b776f2d-cac1-437e-badd-9871876209a5",
+      "http://data.europa.eu/esco/skill/6c08403c-a5bb-4868-b8c2-b7d039c0e511",
+      "http://data.europa.eu/esco/skill/58888680-07cd-4baa-8eb1-f846bff7e2d4",
+      "http://data.europa.eu/esco/skill/9ba8fd27-275d-4bad-8c48-f668aa99a578",
+      "http://data.europa.eu/esco/skill/84f58e3d-8669-4d83-8c1d-5dd1e73a654f",
+      "http://data.europa.eu/esco/skill/d6cdef49-b669-4507-91d1-3f959cf98e47",
+      "http://data.europa.eu/esco/skill/694f1a0a-b6bd-453f-af6d-a833503da307"
+    ]
   },
   {
     "query": "develop software prototype",
@@ -53,21 +68,30 @@
     "uri": "http://data.europa.eu/esco/skill/56042303-972b-41be-9310-58467599ff7e",
     "label": "analyse business processes",
     "description": "Study the contribution of the work processes to the business goals and monitor their efficiency and productivity.",
-    "narrower": []
+    "narrower": [
+      "http://data.europa.eu/esco/skill/b8316819-feca-403d-902f-a86562fd91e9"
+    ]
   },
   {
     "query": "manage projects",
     "uri": "http://data.europa.eu/esco/skill/c881ddd2-9c0e-4743-bd24-36be650493dd",
     "label": "manage several projects",
     "description": "Oversee and direct the development of several projects running independently. Ensure coherence and leveraging forces among projects in order to secure an overall success and profitability.",
-    "narrower": []
+    "narrower": [
+      "http://data.europa.eu/esco/skill/c5a135be-218d-48e6-a422-5225a576dcd8"
+    ]
   },
   {
     "query": "provide technical documentation",
     "uri": "http://data.europa.eu/esco/skill/04dfd9fb-e0cf-40f6-96c6-9d2280c4347e",
     "label": "provide technical documentation",
     "description": "Prepare documentation for existing and upcoming products or services, describing their functionality and composition in such a way that it is understandable for a wide audience without technical background and compliant with defined requirements and standards. Keep documentation up to date.",
-    "narrower": []
+    "narrower": [
+      "http://data.europa.eu/esco/skill/d3db0350-dcfd-4a36-b5a8-f9e6cd1ef6f5",
+      "http://data.europa.eu/esco/skill/80274731-15ce-490a-8d5b-f55a36b976b0",
+      "http://data.europa.eu/esco/skill/6b29b77f-7265-4dae-8309-78077f99ab60",
+      "http://data.europa.eu/esco/skill/64db87c7-2360-4e20-88d3-d222402e477c"
+    ]
   },
   {
     "query": "assess risks",
@@ -81,14 +105,29 @@
     "uri": "http://data.europa.eu/esco/skill/ab6265f2-a9bf-49e8-a9a5-67cbab4de38b",
     "label": "manage inventory",
     "description": "Control product inventory in balance of availability and storage costs.",
-    "narrower": []
+    "narrower": [
+      "http://data.europa.eu/esco/skill/222bcd83-1ac6-4c2f-93c9-39ac835067f1",
+      "http://data.europa.eu/esco/skill/d58f5962-b014-41ea-943b-3d1f86076781",
+      "http://data.europa.eu/esco/skill/5d2e82cc-5943-4218-a459-a1956fad2b63",
+      "http://data.europa.eu/esco/skill/9f9a3323-879a-445a-9c1f-8fd01c1b834e",
+      "http://data.europa.eu/esco/skill/a2eb9bb5-e539-4c71-98a7-595709f2d699",
+      "http://data.europa.eu/esco/skill/ab4edb09-9daa-418e-a915-ab69b657c69b",
+      "http://data.europa.eu/esco/skill/cd7146d4-499a-479b-8dc2-c605d38b4b03"
+    ]
   },
   {
     "query": "train employees",
     "uri": "http://data.europa.eu/esco/skill/e54ff029-1ce9-447d-a5b2-eb7283a23e6e",
     "label": "train employees",
     "description": "Lead and guide employees through a process in which they are taught the necessary skills for the perspective job. Organise activities aimed at introducing the work and systems or improving the performance of individuals and groups in organisational settings.",
-    "narrower": []
+    "narrower": [
+      "http://data.europa.eu/esco/skill/9bb98cbd-cfb0-49e9-b1f2-9496233eee07",
+      "http://data.europa.eu/esco/skill/4e4a9605-66d5-4e47-b591-bdc2d0fbdba1",
+      "http://data.europa.eu/esco/skill/7ace7312-2775-4bfc-9705-3416a9f7b35b",
+      "http://data.europa.eu/esco/skill/e3fbd312-a4b2-4bfb-a589-be28f134f1c1",
+      "http://data.europa.eu/esco/skill/852d758c-f222-4edc-99ad-31c9e3bd8079",
+      "http://data.europa.eu/esco/skill/3bee464c-bf7c-47c9-b33b-0668d201a387"
+    ]
   },
   {
     "query": "user interface design",
@@ -102,7 +141,9 @@
     "uri": "http://data.europa.eu/esco/skill/6a322874-e32f-4cd8-9683-badce67a7f73",
     "label": "develop automated software tests",
     "description": "Create software test sets in an automated manner, ​using specialised languages or tools, that can be performed by testing tools in order to save resources, gain efficiency and effectiveness in test execution.",
-    "narrower": []
+    "narrower": [
+      "http://data.europa.eu/esco/skill/7253d98c-4a6d-4e37-8b6c-accca9f4b639"
+    ]
   },
   {
     "query": "computer programming",
@@ -123,7 +164,13 @@
     "uri": "http://data.europa.eu/esco/skill/9ff9db9d-d14b-426e-83f3-e7449af6c79f",
     "label": "manage data",
     "description": "Administer all types of data resources through their lifecycle by performing data profiling, parsing, standardisation, identity resolution, cleansing, enhancement and auditing. Ensure the data is fit for purpose, using specialised ICT tools to fulfil the data quality criteria.",
-    "narrower": []
+    "narrower": [
+      "http://data.europa.eu/esco/skill/3bf7e0ee-2580-41e8-924d-9d504dc98546",
+      "http://data.europa.eu/esco/skill/a80fb090-63f4-4b05-83a5-2f090deb7757",
+      "http://data.europa.eu/esco/skill/fbafa41f-cd05-4109-a649-8b44d306d779",
+      "http://data.europa.eu/esco/skill/a89a94fb-c417-49b4-a9a9-9a22e0f12697",
+      "http://data.europa.eu/esco/skill/f879a418-3e81-4216-9533-aaedce55fa97"
+    ]
   },
   {
     "query": "customer service",
@@ -137,7 +184,14 @@
     "uri": "http://data.europa.eu/esco/skill/0d6714c6-720e-4985-9791-5ab85d28da79",
     "label": "gather data",
     "description": "Extract exportable data from multiple sources.",
-    "narrower": []
+    "narrower": [
+      "http://data.europa.eu/esco/skill/7f783956-f734-4d56-85de-10f0c1706f8a",
+      "http://data.europa.eu/esco/skill/0c766ca3-9364-4203-916b-fed16e4814c1",
+      "http://data.europa.eu/esco/skill/c216b67a-7462-4f6a-ba14-db02f6e91b68",
+      "http://data.europa.eu/esco/skill/79e29b8b-47d1-470d-b7b1-32506bfe7d9a",
+      "http://data.europa.eu/esco/skill/d89b9a3f-19bf-4b9b-9664-ed35924eb399",
+      "http://data.europa.eu/esco/skill/89db623e-e1fc-4ec2-9a0f-7b72b4c35303"
+    ]
   },
   {
     "query": "quality assurance",
@@ -200,13 +254,102 @@
     "uri": "http://data.europa.eu/esco/skill/81a2db2c-7e55-44d0-9cd9-74c25147d7cd",
     "label": "analyse test data",
     "description": "Interpret and analyse data collected during testing in order to formulate conclusions, new insights or solutions.",
-    "narrower": []
+    "narrower": [
+      "http://data.europa.eu/esco/skill/aafbfaa4-5f93-457e-8cb8-d4ed855277f8",
+      "http://data.europa.eu/esco/skill/77f109c4-3107-4d2a-a512-5160ac103933",
+      "http://data.europa.eu/esco/skill/47a49cd6-097d-457a-9f7b-c290c14930d5",
+      "http://data.europa.eu/esco/skill/807d89b5-3557-4259-8e2c-1b374d497fe8",
+      "http://data.europa.eu/esco/skill/4ce06d6b-f3df-40b6-b950-570be5008032",
+      "http://data.europa.eu/esco/skill/94f2935b-b4ac-446e-9775-60b4239d016c"
+    ]
   },
   {
     "query": "coordinate engineering teams",
     "uri": "http://data.europa.eu/esco/skill/7af6e9e8-1e11-4c0b-b7c6-ac96bbbbc674",
     "label": "coordinate engineering teams",
     "description": "Plan, coordinate and supervise engineering activities together with engineers and engineering technicians. Ensure clear and effective channels of communication across all departments. Make sure the team is aware of the standards and objectives of the research and development.",
+    "narrower": []
+  },
+  {
+    "query": "develop web user interfaces",
+    "uri": "http://data.europa.eu/esco/skill/1019423b-3368-4f83-b24f-19e5fa23e816",
+    "label": "software UI design patterns",
+    "description": "The reusable solutions and formalised best practices to solve common user interface tasks in software development and design.",
+    "narrower": []
+  },
+  {
+    "query": "implement front-end website design",
+    "uri": "http://data.europa.eu/esco/skill/c4b1f326-224a-420a-b8b3-814a8f13b6cb",
+    "label": "implement front-end website design",
+    "description": "Develop website layout and enhance user experience based on provided design concepts.",
+    "narrower": []
+  },
+  {
+    "query": "back-end development",
+    "uri": "http://data.europa.eu/esco/skill/e50e10e0-33df-4045-9cc1-8f09e09ec81a",
+    "label": "conduct background research for plays",
+    "description": "Research historical backgrounds and artistic concepts of plays.",
+    "narrower": []
+  },
+  {
+    "query": "data analysis",
+    "uri": "http://data.europa.eu/esco/skill/7ee4c2ea-b349-4bd2-81a3-ec31475d4833",
+    "label": "statistics",
+    "description": "The study of statistical theory, methods and practices such as collection, organisation, analysis, interpretation and presentation of data. It deals with all aspects of data including the planning of data collection in terms of the design of surveys and experiments in order to forecast and plan work-related activities.",
+    "narrower": [
+      "http://data.europa.eu/esco/skill/a261c61a-29b8-4b6a-a283-e5a7d5077352",
+      "http://data.europa.eu/esco/skill/0c77bcd5-b94a-475d-98e9-5a4327e4d726"
+    ]
+  },
+  {
+    "query": "process spreadsheet data",
+    "uri": "http://data.europa.eu/esco/skill/1225b032-7ead-464c-9072-64097d9a4b62",
+    "label": "use spreadsheets",
+    "description": "Use spreadsheet documents for organisation, analysis and data storage in tabular form.",
+    "narrower": []
+  },
+  {
+    "query": "data extraction",
+    "uri": "http://data.europa.eu/esco/skill/9d0d89be-bffa-4393-b6f6-8d05bea49051",
+    "label": "data extraction, transformation and loading tools",
+    "description": "The tools for integration of information from multiple applications, created and maintained by organisations, into one consistent and transparent data structure.",
+    "narrower": [
+      "http://data.europa.eu/esco/skill/42c3287f-5e50-4559-a2d1-2000c70e0aab",
+      "http://data.europa.eu/esco/skill/81b082fb-9a00-4660-976a-10c985979100",
+      "http://data.europa.eu/esco/skill/23900e3d-06fa-424c-a5dc-c0ea42edde1e",
+      "http://data.europa.eu/esco/skill/6f7512ab-d46d-402a-8c30-a8878d7c1f88",
+      "http://data.europa.eu/esco/skill/696e3b5b-8b61-45af-ae4c-3ab700f197ec",
+      "http://data.europa.eu/esco/skill/3af687cb-8c7a-46ea-a730-32dbaed040c6",
+      "http://data.europa.eu/esco/skill/f8e3425c-fe44-4ffb-bafe-0e20d91dadf4",
+      "http://data.europa.eu/esco/skill/e5a6e1e0-1b07-4432-83ba-77d593b2cb47",
+      "http://data.europa.eu/esco/skill/14fdac88-6d4a-4e47-9df5-02c6d1e86fdd",
+      "http://data.europa.eu/esco/skill/97bdd757-29d4-4126-92a6-07608825aa3b",
+      "http://data.europa.eu/esco/skill/0f00f63f-3ab4-4057-b92f-500584b51757"
+    ]
+  },
+  {
+    "query": "develop automated reports",
+    "uri": "http://data.europa.eu/esco/skill/6a322874-e32f-4cd8-9683-badce67a7f73",
+    "label": "develop automated software tests",
+    "description": "Create software test sets in an automated manner, ​using specialised languages or tools, that can be performed by testing tools in order to save resources, gain efficiency and effectiveness in test execution.",
+    "narrower": [
+      "http://data.europa.eu/esco/skill/7253d98c-4a6d-4e37-8b6c-accca9f4b639"
+    ]
+  },
+  {
+    "query": "design dashboard",
+    "uri": "http://data.europa.eu/esco/skill/d4a4ec38-63e1-4fcf-8768-debc0dc382e8",
+    "label": "clean vehicle interiors",
+    "description": "Remove dirt, rubbish or impurities of the interior of vehicles, including consoles and dashboards; vacuum car seats and carpets; clean hinges and door trims.",
+    "narrower": [
+      "http://data.europa.eu/esco/skill/c8b5b67b-d8d9-4857-bb26-1e35faf2ce22"
+    ]
+  },
+  {
+    "query": "business intelligence",
+    "uri": "http://data.europa.eu/esco/skill/143769cb-b61e-47d8-a61e-eedfbec1016c",
+    "label": "business intelligence",
+    "description": "The tools used to transform large amounts of raw data into relevant and helpful business information.",
     "narrower": []
   }
 ]

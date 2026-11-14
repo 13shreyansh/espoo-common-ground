@@ -1,0 +1,208 @@
+{
+  "url": "https://ec.europa.eu/esco/api/search?type=skill&language=en&limit=3&text=manage%20inventory",
+  "at": "2026-11-14T22:51:18.340Z",
+  "response": {
+    "total": 1476,
+    "offset": 0,
+    "limit": 3,
+    "text": "manage inventory",
+    "language": "en",
+    "type": [
+      "skill"
+    ],
+    "isInScheme": null,
+    "facet": null,
+    "_links": {
+      "self": {
+        "href": "https://ec.europa.eu/esco/api/search?text=manage%20inventory&type=skill&limit=3&offset=0&full=false&viewObsolete=false&language=en"
+      },
+      "next": {
+        "href": "https://ec.europa.eu/esco/api/search?text=manage%20inventory&type=skill&limit=3&offset=1&full=false&viewObsolete=false&language=en"
+      }
+    },
+    "_embedded": {
+      "results": [
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/e705db38-4fcf-4069-b01f-3fbdda894cc1",
+          "searchHit": "manage inventory",
+          "title": "manage stock rotation",
+          "preferredLabel": {
+            "de": "Lagerbewegungen verwalten",
+            "no": "administrere beholdningsrotasjon",
+            "fi": "hallita varaston kiertoa",
+            "en-us": "manage stock rotation",
+            "pt": "gerir a reposição do stock",
+            "bg": "управление на запасите",
+            "lt": "valdyti atsargas",
+            "hr": "upravljati zalihama",
+            "lv": "inventāra rotācijas pārvaldīšana",
+            "fr": "gérer la rotation du stock",
+            "hu": "veszteségmentes módon kezeli a raktári készleteket",
+            "sk": "riadiť obrat zásob",
+            "sl": "upravljati kroženje zalog",
+            "ga": "rothlú stoic a bhainistiú",
+            "sv": "ansvara för lageromsättning",
+            "el": "διαχείριση εναλλαγής αποθεμάτων",
+            "mt": "immaniġġjar tar-rotazzjoni tal-istokks",
+            "en": "manage stock rotation",
+            "is": "stjórna birgðahaldi",
+            "it": "gestire la rotazione delle scorte",
+            "es": "gestionar la rotación de existencias",
+            "et": "varude ringlust juhtima",
+            "cs": "řídit rotaci skladových zásob",
+            "ar": "إدارة دوران الأسهم",
+            "pl": "zarządzać rotacją zapasów",
+            "da": "styre lageromsætningen",
+            "ro": "gestionează rotația stocurilor",
+            "nl": "voorraadrotatie beheren"
+          },
+          "isTopConceptInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/skill"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/cross-sector"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/skill/S4.3.3"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/e705db38-4fcf-4069-b01f-3fbdda894cc1&language=en",
+              "uri": "http://data.europa.eu/esco/skill/e705db38-4fcf-4069-b01f-3fbdda894cc1",
+              "title": "manage stock rotation"
+            }
+          }
+        },
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/ab6265f2-a9bf-49e8-a9a5-67cbab4de38b",
+          "searchHit": "manage inventory",
+          "title": "manage inventory",
+          "preferredLabel": {
+            "de": "Bestand verwalten",
+            "no": "administrere inventar",
+            "fi": "hoitaa varastoa",
+            "en-us": "manage inventory",
+            "pt": "gerir inventário",
+            "bg": "администриране на запасите",
+            "lt": "rūpintis atsargomis",
+            "hr": "upravljati inventarom",
+            "lv": "pārvaldīt produktu krājumus",
+            "fr": "gérer des stocks",
+            "hu": "készletet kezel",
+            "sk": "spravovať zásoby",
+            "sl": "voditi popis",
+            "ga": "fardal a bhainistiú",
+            "sv": "göra lagerinventering",
+            "el": "διαχείριση καταλόγου απογραφής",
+            "mt": "immaniġġjar tal-inventarji",
+            "en": "manage inventory",
+            "is": "sér um birgðir",
+            "it": "gestire l’inventario",
+            "es": "gestionar el inventario",
+            "et": "varusid haldama",
+            "cs": "spravovat inventář",
+            "ar": "إدارة المخزون",
+            "pl": "zarządzać zapasami",
+            "da": "administrere lager",
+            "ro": "supervizează inventarul",
+            "nl": "inventaris beheren"
+          },
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/skill"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/sector-specific"
+          ],
+          "broaderSkill": [
+            "http://data.europa.eu/esco/skill/19ba11f3-9c99-41fd-a7c9-f77e6a026186"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/skill/S4.3.3"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/ab6265f2-a9bf-49e8-a9a5-67cbab4de38b&language=en",
+              "uri": "http://data.europa.eu/esco/skill/ab6265f2-a9bf-49e8-a9a5-67cbab4de38b",
+              "title": "manage inventory"
+            }
+          }
+        },
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/00ec5333-e570-477b-9017-2e95fea0150a",
+          "searchHit": "manage inventory of cleaning supplies",
+          "title": "maintain inventory of cleaning supplies",
+          "preferredLabel": {
+            "de": "Bestand an Reinigungsmitteln aufrechterhalten",
+            "no": "vedlikeholde beholdningen av rengjøringsartikler",
+            "fi": "ylläpitää siivoustarvikkeiden varastoja",
+            "en-us": "maintain inventory of cleaning supplies",
+            "pt": "manter um inventário de materiais de limpeza",
+            "bg": "поддържане на запаси от почистващи материали",
+            "lt": "tvarkyti valymo priemonių atsargas",
+            "hr": "voditi popis sredstava za čišćenje",
+            "lv": "veikt tīrīšanas līdzekļu uzskaiti",
+            "fr": "maintenir des stocks de fournitures de nettoyage",
+            "hu": "kezeli a tisztítószerkészletet",
+            "sk": "spravovať zásoby čistiacich prostriedkov",
+            "sl": "voditi popis čistilnih sredstev in pripomočkov",
+            "ga": "fardal soláthairtí glanta a choinneáil",
+            "sv": "se till att det finns en uppsättning städartiklar",
+            "el": "τήρηση καταλόγου απογραφής υλικών καθαρισμού",
+            "mt": "żamma ta’ inventarju tal-prodotti tat-tindif",
+            "en": "maintain inventory of cleaning supplies",
+            "is": "heldur skrá yfir hreingerningarvörur",
+            "it": "tenere l’inventario dei prodotti per la pulizia",
+            "es": "llevar el inventario de los productos de limpieza",
+            "et": "koristustarvete varusid haldama",
+            "cs": "inventarizovat úklidové prostředky",
+            "ar": "المحافظة على مخزون مواد التنظيف",
+            "pl": "prowadzić wykaz środków czyszczących",
+            "da": "vedligeholde beholdning af rengøringsmaterialer",
+            "ro": "ține evidența stocurilor de produse de curățat/curățenie",
+            "nl": "voorraad van schoonmaakmateriaal bijhouden"
+          },
+          "isTopConceptInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/skill"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/sector-specific"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/skill/S2.2.5"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/00ec5333-e570-477b-9017-2e95fea0150a&language=en",
+              "uri": "http://data.europa.eu/esco/skill/00ec5333-e570-477b-9017-2e95fea0150a",
+              "title": "maintain inventory of cleaning supplies"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

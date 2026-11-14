@@ -1,0 +1,389 @@
+{
+  "url": "https://ec.europa.eu/esco/api/search?type=skill&language=en&limit=6&text=implement%20front-end%20website%20design",
+  "at": "2026-11-14T23:00:06.137Z",
+  "response": {
+    "total": 1463,
+    "offset": 0,
+    "limit": 6,
+    "text": "implement front-end website design",
+    "language": "en",
+    "type": [
+      "skill"
+    ],
+    "isInScheme": null,
+    "facet": null,
+    "_links": {
+      "self": {
+        "href": "https://ec.europa.eu/esco/api/search?text=implement%20front-end%20website%20design&type=skill&limit=6&offset=0&full=false&viewObsolete=false&language=en"
+      },
+      "next": {
+        "href": "https://ec.europa.eu/esco/api/search?text=implement%20front-end%20website%20design&type=skill&limit=6&offset=1&full=false&viewObsolete=false&language=en"
+      }
+    },
+    "_embedded": {
+      "results": [
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/c4b1f326-224a-420a-b8b3-814a8f13b6cb",
+          "searchHit": "implement front-end website design",
+          "title": "implement front-end website design",
+          "preferredLabel": {
+            "de": "Frontend-Webdesign erstellen",
+            "no": "implementere frontnettdesign",
+            "fi": "toteuttaa front-end-verkkosivusuunnittelu",
+            "en-us": "implement front-end website design",
+            "pt": "executar design de front-end",
+            "bg": "извършване на фронт-енд уеб дизайн",
+            "lt": "sukurti interneto svetainės naudotojo sąsajos dizainą",
+            "hr": "implementirati frontend web dizajn",
+            "lv": "īstenot priekšgalsistēmas tīmekļa vietnes dizainu",
+            "fr": "mettre en œuvre le design front end d’un site web",
+            "hu": "Honlap felhasználói felületének arculatát készíti el.",
+            "sk": "realizovať návrh klientskej webovej stránky",
+            "sl": "izvajati oblikovanje sprednjega dela spletnega mesta",
+            "ga": "dearadh láithreán gréasáin tosaigh a chur i bhfeidhm",
+            "sv": "implementera front-end webbdesign",
+            "el": "σχεδιασμός διεπαφής δικτυακού τόπου",
+            "mt": "implimenta disinn front-end tas-sit web",
+            "en": "implement front-end website design",
+            "is": "innleiðir vefsíðuhönnun framenda",
+            "it": "creare il design front-end di un sito web",
+            "es": "aplicar diseño de interfaz de una web",
+            "et": "esialgset veebisaidi kujundust rakendama",
+            "cs": "zavádět klientský design webové stránky",
+            "ar": "تطبيق تصميم الواجهة الأمامية لمواقع الويب",
+            "pl": "tworzyć projekt interfejsu (front-end) strony internetowej",
+            "da": "anvende front-end-hjemmesidedesign",
+            "ro": "implementează designul vizual al website-urilor",
+            "nl": "ontwerp van front-endwebsites implementeren"
+          },
+          "isTopConceptInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/skill"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/sector-specific"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/skill/S5.2.1"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/c4b1f326-224a-420a-b8b3-814a8f13b6cb&language=en",
+              "uri": "http://data.europa.eu/esco/skill/c4b1f326-224a-420a-b8b3-814a8f13b6cb",
+              "title": "implement front-end website design"
+            }
+          }
+        },
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/6ad40ca3-dc34-4442-b23f-0b1b28936f56",
+          "searchHit": "maintain responsive design",
+          "title": "maintain responsive design",
+          "preferredLabel": {
+            "de": "reagierendes Webdesign pflegen",
+            "no": "vedlikeholde responsiv design",
+            "fi": "huolehtia responsiivisesta suunnittelusta",
+            "en-us": "maintain responsive design",
+            "pt": "manter design responsivo",
+            "bg": "поддържане на актуален дизайн",
+            "lt": "palaikyti interaktyvų dizainą",
+            "hr": "održavati responzivni dizajn",
+            "lv": "reaģējoša dizaina uzturēšana",
+            "fr": "maintenir une conception réactive",
+            "hu": "reszponzív webdesignt alkalmaz",
+            "sk": "zachovať responzívny dizajn",
+            "sl": "ohranjati odzivno oblikovanje",
+            "ga": "dearadh freagrúil a chothabháil",
+            "sv": "upprätthålla responsiv design",
+            "el": "διατήρηση αποκριτικού σχεδιασμού",
+            "mt": "iżżomm disinn kompatibbli",
+            "en": "maintain responsive design",
+            "is": "viðhalda svarbúinni hönnun",
+            "it": "mantenere un design responsive",
+            "es": "mantener un diseño adaptativo",
+            "et": "seadmetundlikku disaini säilitama",
+            "cs": "zachovávat responzivní design",
+            "ar": "المحافظة على التصميم الحساس",
+            "pl": "stosować technikę responsive design",
+            "da": "opretholde et dynamisk design",
+            "ro": "menține un design receptiv",
+            "nl": "responsive design onderhouden"
+          },
+          "isTopConceptInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/skill"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/occupation-specific"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/skill/S1.11.1"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/6ad40ca3-dc34-4442-b23f-0b1b28936f56&language=en",
+              "uri": "http://data.europa.eu/esco/skill/6ad40ca3-dc34-4442-b23f-0b1b28936f56",
+              "title": "maintain responsive design"
+            }
+          }
+        },
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/f6868852-9bf6-4899-a5d6-5f9532fb877d",
+          "searchHit": "design and implement component interfaces",
+          "title": "design component interfaces",
+          "preferredLabel": {
+            "de": "Komponentenschnittstellen konzipieren",
+            "no": "utforme komponentgrensesnitt",
+            "fi": "suunnitella komponenttien käyttöliittymiä",
+            "en-us": "design component interfaces",
+            "pt": "conceber interfaces de componentes",
+            "bg": "проектиране на интерфейси на компонент",
+            "lt": "projektuoti komponentų sąsajas",
+            "hr": "osmisliti sučelja komponenti",
+            "lv": "izstrādāt komponentu saskarnes",
+            "fr": "concevoir des interfaces pour les composants",
+            "hu": "komponensek közötti interfészeket tervez",
+            "sk": "navrhnúť rozhrania súčastí",
+            "sl": "oblikovati vmesnike komponent",
+            "ga": "comhéadain chomhpháirte a dhearadh",
+            "sv": "utforma komponentgränssnitt",
+            "el": "σχεδιασμός διεπαφής επιμέρους μερών",
+            "mt": "disinn tal-interfaċċi tal-komponenti",
+            "en": "design component interfaces",
+            "is": "hanna íhlutaskil",
+            "it": "progettare interfacce di componenti",
+            "es": "diseñar interfaces para componentes",
+            "et": "komponendiliideseid projekteerima",
+            "cs": "navrhovat rozhraní komponent",
+            "ar": "تصميم مكونات الواجهات",
+            "pl": "projektować interfejsy komponentowe",
+            "da": "designe komponenter til brugergrænseflade",
+            "ro": "proiectează interfețe între componente",
+            "nl": "componentinterfaces ontwerpen"
+          },
+          "isTopConceptInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/skill"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/occupation-specific"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/skill/S5.1.0"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/f6868852-9bf6-4899-a5d6-5f9532fb877d&language=en",
+              "uri": "http://data.europa.eu/esco/skill/f6868852-9bf6-4899-a5d6-5f9532fb877d",
+              "title": "design component interfaces"
+            }
+          }
+        },
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/2d6d4784-0992-48e7-b100-22d7229b3f0a",
+          "searchHit": "Develop visual design from given specifications and requirements, based on the analysis of the scope and target audience. Create a visual representation of ideas such as logos, website graphics, digital games and layouts.",
+          "title": "translate requirement concepts into visual design",
+          "preferredLabel": {
+            "de": "Bedarfskonzepte in visuelle Gestaltung übertragen",
+            "no": "gjøre om kravspesifikasjon til visuelt design",
+            "fi": "muuntaa vaatimuskonseptit visuaaliseksi malliksi",
+            "en-us": "translate requirement concepts into visual design",
+            "pt": "traduzir conceitos em design visual",
+            "bg": "пресъздаване на изисквани концепции във визуален дизайн",
+            "lt": "kurti vizualinį dizainą pagal reikalavimus",
+            "hr": "prevoditi koncepte zahtjeva u vizualni dizajn",
+            "lv": "prasību koncepcijas pārvēršana vizuālā noformējumā",
+            "fr": "traduire les exigences en conception visuelle",
+            "hu": "vizuális tervet hoz létre adott követelményrendszer alapján",
+            "sk": "premietnuť požadované koncepcie do vizuálneho dizajnu",
+            "sl": "prenesti konceptualne zahteve v vizualno oblikovanje",
+            "ga": "coincheapa riachtanais a aistriú ina ndearadh físiúil",
+            "sv": "omvandla krav till visuell design",
+            "el": "μετάφραση εννοιών απαιτήσεων σε οπτικό σχέδιο",
+            "mt": "applikazzjoni tal-kunċetti tar-rekwiżiti f'disinn viżiv",
+            "en": "translate requirement concepts into visual design",
+            "is": "breyta kröfuhugtökum í sjónræna hönnun",
+            "it": "tradurre requisiti concettuali in visual design",
+            "es": "traducir conceptos de requisitos en diseños visuales",
+            "et": "nõuete kontseptsiooni visuaalse disainina väljendama",
+            "cs": "měnit koncepce požadavků na vizuální design",
+            "ar": "تحويل مفاهيم المتطلبات إلى تصاميم بصرية",
+            "pl": "przekładać wymagania koncepcyjne do projektowania wizualnego",
+            "da": "omsætte krav til visuelt design",
+            "ro": "transpune conceptele de cerințe într-un model vizual",
+            "nl": "vereisten van concepten vertalen naar visueel ontwerp"
+          },
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/skill"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/cross-sector"
+          ],
+          "broaderSkill": [
+            "http://data.europa.eu/esco/skill/f058bf62-70d1-4f5e-be2a-8b26fac24a96"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/skill/S1.12.3"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/2d6d4784-0992-48e7-b100-22d7229b3f0a&language=en",
+              "uri": "http://data.europa.eu/esco/skill/2d6d4784-0992-48e7-b100-22d7229b3f0a",
+              "title": "translate requirement concepts into visual design"
+            }
+          }
+        },
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/f8e7c608-a92d-4b61-b84f-e2453b0aa4a4",
+          "searchHit": "conduct activities to meet requests of website users",
+          "title": "follow up online user requests",
+          "preferredLabel": {
+            "de": "Anfragen von Online-Nutzern weiterverfolgen",
+            "no": "følge opp elektroniske brukerforespørsler",
+            "fi": "huolehtia verkkokäyttäjien palautteen jatkotoimista",
+            "en-us": "follow up online user requests",
+            "pt": "acompanhar pedidos de utilizadores online",
+            "bg": "предприемане на последващи действия във връзка с искания на онлайн потребители",
+            "lt": "imtis tolesnių veiksmų, susijusių su internetinėmis vartotojų užklausomis",
+            "hr": "rješavati zahtjeve korisnika na internetu",
+            "lv": "apstrādāt tiešsaistes lietotāju pieprasījumus",
+            "fr": "assurer le suivi des demandes des utilisateurs en ligne",
+            "hu": "nyomon követi az online felhasználói megkereséseket",
+            "sk": "reagovať na požiadavky online používateľov",
+            "sl": "spremljati zahteve spletnih uporabnikov",
+            "ga": "iarrataí ó úsáideoirí ar líne a fhiosrú",
+            "sv": "följa upp önskemål från online-besökare",
+            "el": "διερεύνηση των ηλεκτρονικών αιτημάτων των χρηστών",
+            "mt": "segwitu għat-talbiet tal-utenti online",
+            "en": "follow up online user requests",
+            "is": "fylgir beiðnum netnotenda eftir",
+            "it": "dare seguito alle richieste degli utenti in linea",
+            "es": "dar seguimiento a las solicitudes de los usuarios en línea",
+            "et": "veebikasutajate taotlustele reageerima",
+            "cs": "vyřizovat žádosti online uživatelů",
+            "ar": "متابعة طلبات المستخدمين عبر الإنترنت",
+            "pl": "przeprowadzać działania następcze w związku z prośbami użytkowników internetowych",
+            "da": "følge op på onlinebrugeranmodninger",
+            "ro": "dă curs solicitărilor online formulate de utilizatori",
+            "nl": "online verzoeken van gebruikers opvolgen"
+          },
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/skill"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/cross-sector"
+          ],
+          "broaderSkill": [
+            "http://data.europa.eu/esco/skill/debb8d81-ed7f-447d-853a-5d107fda6fcf",
+            "http://data.europa.eu/esco/skill/698be2d3-8768-422d-a2d3-1cb701816089"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/skill/S3.4.1"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/f8e7c608-a92d-4b61-b84f-e2453b0aa4a4&language=en",
+              "uri": "http://data.europa.eu/esco/skill/f8e7c608-a92d-4b61-b84f-e2453b0aa4a4",
+              "title": "follow up online user requests"
+            }
+          }
+        },
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/d04ee340-5378-4601-8181-19da6d5cbfe0",
+          "searchHit": "manage website",
+          "title": "manage website",
+          "preferredLabel": {
+            "de": "Website pflegen",
+            "no": "administrere nettsted",
+            "fi": "hallita verkkosivuja",
+            "en-us": "manage website",
+            "pt": "gerir um sítio Web",
+            "bg": "поддръжка на уебсайт",
+            "lt": "tvarkyti interneto svetainę",
+            "hr": "upravljati mrežnim mjestom",
+            "lv": "pārvaldīt tīmekļa vietni",
+            "fr": "gérer un site web",
+            "hu": "weboldalt kezel",
+            "sk": "spravovať webové sídlo",
+            "sl": "upravljati spletno stran",
+            "ga": "an suíomh gréasáin a bhainistiú",
+            "sv": "sköta webbplats",
+            "el": "διαχείριση ιστοτόπου",
+            "mt": "immaniġġjar tas-siti elettroniċi",
+            "en": "manage website",
+            "is": "sér um heimasíðu",
+            "it": "gestire il sito web",
+            "es": "administrar una página web",
+            "et": "veebilehte haldama",
+            "cs": "spravovat webové stránky",
+            "ar": "إدارة موقع ويب",
+            "pl": "zarządzać stroną internetową",
+            "da": "administrere websted",
+            "ro": "administrează site-uri web",
+            "nl": "website beheren"
+          },
+          "isTopConceptInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/skill"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/cross-sector"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/skill/S5.5.2"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/d04ee340-5378-4601-8181-19da6d5cbfe0&language=en",
+              "uri": "http://data.europa.eu/esco/skill/d04ee340-5378-4601-8181-19da6d5cbfe0",
+              "title": "manage website"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

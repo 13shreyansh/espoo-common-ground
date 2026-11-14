@@ -1,0 +1,317 @@
+{
+  "url": "https://ec.europa.eu/esco/api/resource/skill?language=en&uri=http%3A%2F%2Fdata.europa.eu%2Fesco%2Fskill%2Fc4b1f326-224a-420a-b8b3-814a8f13b6cb",
+  "at": "2026-11-14T23:00:06.340Z",
+  "response": {
+    "className": "Skill",
+    "classId": "http://data.europa.eu/esco/model#Skill",
+    "uri": "http://data.europa.eu/esco/skill/c4b1f326-224a-420a-b8b3-814a8f13b6cb",
+    "title": "implement front-end website design",
+    "referenceLanguage": [
+      "en"
+    ],
+    "preferredLabel": {
+      "de": "Frontend-Webdesign erstellen",
+      "no": "implementere frontnettdesign",
+      "en-us": "implement front-end website design",
+      "fi": "toteuttaa front-end-verkkosivusuunnittelu",
+      "pt": "executar design de front-end",
+      "bg": "извършване на фронт-енд уеб дизайн",
+      "lt": "sukurti interneto svetainės naudotojo sąsajos dizainą",
+      "lv": "īstenot priekšgalsistēmas tīmekļa vietnes dizainu",
+      "hr": "implementirati frontend web dizajn",
+      "fr": "mettre en œuvre le design front end d’un site web",
+      "hu": "Honlap felhasználói felületének arculatát készíti el.",
+      "sk": "realizovať návrh klientskej webovej stránky",
+      "sl": "izvajati oblikovanje sprednjega dela spletnega mesta",
+      "ga": "dearadh láithreán gréasáin tosaigh a chur i bhfeidhm",
+      "sv": "implementera front-end webbdesign",
+      "el": "σχεδιασμός διεπαφής δικτυακού τόπου",
+      "mt": "implimenta disinn front-end tas-sit web",
+      "en": "implement front-end website design",
+      "is": "innleiðir vefsíðuhönnun framenda",
+      "it": "creare il design front-end di un sito web",
+      "es": "aplicar diseño de interfaz de una web",
+      "et": "esialgset veebisaidi kujundust rakendama",
+      "cs": "zavádět klientský design webové stránky",
+      "ar": "تطبيق تصميم الواجهة الأمامية لمواقع الويب",
+      "pl": "tworzyć projekt interfejsu (front-end) strony internetowej",
+      "ro": "implementează designul vizual al website-urilor",
+      "da": "anvende front-end-hjemmesidedesign",
+      "nl": "ontwerp van front-endwebsites implementeren"
+    },
+    "alternativeLabel": {
+      "cs": [
+        "zavádět klientský design webových stránek",
+        "zavést klientský design webové stránky",
+        "vytvářet uživatelský design webových stránek",
+        "zavádět klientský design internetových stránek",
+        "zavádět uživatelský design internetových stránek"
+      ],
+      "el": [
+        "σχεδιασμός ιστοσελίδας προσκηνίου",
+        "εφαρμογή σχεδιασμού ιστοσελίδας περιβάλλοντος χρήστη",
+        "υλοποίηση σχεδιασμού ιστοσελίδας περιβάλλοντος χρήστη",
+        "σχεδιασμός δικτυακού τόπου μετωπιαίου άκρου"
+      ],
+      "mt": [
+        "timplimenta disinn front-end għall-websajt",
+        "timplimenta disinn front-end tas-sit",
+        "tapplika disinn front-end għall-websajt"
+      ],
+      "nl": [
+        "ontwikkeling van websites implementeren",
+        "ontwikkeling van gebruikersdeel van websites implementeren",
+        "websites ontwikkelen",
+        "ervaring van websitegebruikers optimaliseren",
+        "indeling van website opstellen en gebruikerservaring optimaliseren aan de hand van gegeven ontwerpconcepten",
+        "front-endwebsites ontwikkelen"
+      ]
+    },
+    "description": {
+      "no": {
+        "literal": "Utvikle nettsidedesign og forbedre brukeropplevelsen med utgangspunkt i fastsatte designkonsepter.",
+        "mimetype": "plain/text"
+      },
+      "de": {
+        "literal": "Entwicklung des Layouts einer Website und Verbesserung der Nutzererfahrung anhand bereitgestellter Designkonzepte.",
+        "mimetype": "plain/text"
+      },
+      "en-us": {
+        "literal": "Develop website layout and enhance user experience based on provided design concepts.",
+        "mimetype": "plain/text"
+      },
+      "fi": {
+        "literal": "Kehittää verkkosivujen asettelua ja parantaa käyttäjäkokemusta annettujen suunnitelmien perusteella.",
+        "mimetype": "plain/text"
+      },
+      "pt": {
+        "literal": "Desenvolver a configuração do sítio Web e melhorar a experiência dos utilizadores com base nos conceitos de conceção fornecidos.",
+        "mimetype": "plain/text"
+      },
+      "bg": {
+        "literal": "Разработва оформлението на уебсайт и подобрява опита на потребителите въз основа на предоставени проектни концепции.",
+        "mimetype": "plain/text"
+      },
+      "lt": {
+        "literal": "Sukurti interneto svetainės maketą ir gerinti naudotojų patirtį, naudojantis dizaino koncepcijomis.",
+        "mimetype": "plain/text"
+      },
+      "lv": {
+        "literal": "Izstrādāt tīmekļa vietnes izkārtojumu un uzlabot lietotāja pieredzi, pamatojoties uz sniegtajiem dizaina jēdzieniem.",
+        "mimetype": "plain/text"
+      },
+      "hr": {
+        "literal": "Razvijati raspored elemenata internetskih stranica i poboljšavati korisničko iskustvo na temelju dostavljenih koncepata dizajna.",
+        "mimetype": "plain/text"
+      },
+      "fr": {
+        "literal": "Concevoir la mise en page du site web et renforcer l’expérience des utilisateurs sur la base des concepts de conception fournis.",
+        "mimetype": "plain/text"
+      },
+      "hu": {
+        "literal": "Kialakítja a honlap elrendezését és a tervezési koncepció alapján javítja a felhasználói élményt.",
+        "mimetype": "plain/text"
+      },
+      "sk": {
+        "literal": "Vytvoriť rozloženie webových stránok a zlepšiť skúsenosti používateľov založené na dizajnových koncepciách.",
+        "mimetype": "plain/text"
+      },
+      "sl": {
+        "literal": "Razviti postavitev spletnega mesta in izboljšati uporabniško izkušnjo na podlagi ponujenih konceptov oblikovanja.",
+        "mimetype": "plain/text"
+      },
+      "ga": {
+        "literal": "Leagan amach láithreán gréasáin a fhorbairt agus eispéireas na n-úsáideoirí a fheabhsú bunaithe ar choincheapa dearaidh a soláthraíodh.",
+        "mimetype": "plain/text"
+      },
+      "sv": {
+        "literal": "Utveckla webbplatsens utformning och förbättra användarupplevelsen med hjälp av medföljande designkoncept.",
+        "mimetype": "plain/text"
+      },
+      "el": {
+        "literal": "Ανάπτυξη διάταξης του δικτυακού τόπου και ενίσχυση της εμπειρίας χρήστη, βάσει των παρεχόμενων αντιλήψεων σχεδιασμού.",
+        "mimetype": "plain/text"
+      },
+      "mt": {
+        "literal": "Żviluppa tqassim tas-sit web u tejjeb l-esperjenza tal-utent dwar il-kunċetti tad-disinn ipprovduti.",
+        "mimetype": "plain/text"
+      },
+      "en": {
+        "literal": "Develop website layout and enhance user experience based on provided design concepts.",
+        "mimetype": "plain/text"
+      },
+      "is": {
+        "literal": "Þróar vefsíðuskipulag og eykur notendaupplifun byggða á meðfylgjandi hönnunarhugtökum.",
+        "mimetype": "plain/text"
+      },
+      "it": {
+        "literal": "Sviluppare la configurazione del sito web e migliorare l’esperienza degli utenti sulla base dei concetti di design forniti.",
+        "mimetype": "plain/text"
+      },
+      "es": {
+        "literal": "Desarrollar el diseño de interfaz del sitio web y mejorar el servicio al usuario basándose en los conceptos de diseño facilitados.",
+        "mimetype": "plain/text"
+      },
+      "et": {
+        "literal": "Veebisaidi paigutuse väljatöötamine ja kasutajakogemuse parandamine, tuginedes etteantud kujunduskontseptsioonile.",
+        "mimetype": "plain/text"
+      },
+      "cs": {
+        "literal": "Vytvořit grafické uspořádání webových stránek a zlepšit uživatelské zkušenosti na základě poskytnuté koncepce designu.",
+        "mimetype": "plain/text"
+      },
+      "ar": {
+        "literal": "تطوير تصميم مواقع الويب وتحسين تجربة المُستخدم بناءً على مفاهيم التّصميم المُقدّمة.",
+        "mimetype": "plain/text"
+      },
+      "pl": {
+        "literal": "Opracowywać układ stron internetowych i poprawiać doświadczenia użytkownika w oparciu o przedstawione koncepcje projektowe.",
+        "mimetype": "plain/text"
+      },
+      "ro": {
+        "literal": "Dezvoltă configurația site-ului de internet și îmbunătățește experiența utilizatorilor pe baza unor concepte de design furnizate.",
+        "mimetype": "plain/text"
+      },
+      "da": {
+        "literal": "Udvikle layoutet på webstedet og forbedre brugeroplevelsen baseret på de opstillede designkoncepter.",
+        "mimetype": "plain/text"
+      },
+      "nl": {
+        "literal": "Ontwikkelen van de lay-out van de website en verbeteren van de gebruikerservaring op basis van geleverde ontwerpconcepten.",
+        "mimetype": "plain/text"
+      }
+    },
+    "status": "released",
+    "_links": {
+      "self": {
+        "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/c4b1f326-224a-420a-b8b3-814a8f13b6cb&language=en",
+        "uri": "http://data.europa.eu/esco/skill/c4b1f326-224a-420a-b8b3-814a8f13b6cb",
+        "title": "implement front-end website design"
+      },
+      "isTopConceptInScheme": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/taxonomy?uri=http://data.europa.eu/esco/concept-scheme/member-skills&language=en",
+          "uri": "http://data.europa.eu/esco/concept-scheme/member-skills",
+          "title": "ESCO member skills"
+        }
+      ],
+      "isInScheme": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/taxonomy?uri=http://data.europa.eu/esco/concept-scheme/skills&language=en",
+          "uri": "http://data.europa.eu/esco/concept-scheme/skills",
+          "title": "ESCO skills"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/taxonomy?uri=http://data.europa.eu/esco/concept-scheme/member-skills&language=en",
+          "uri": "http://data.europa.eu/esco/concept-scheme/member-skills",
+          "title": "ESCO member skills"
+        }
+      ],
+      "hasSkillType": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/concept?uri=http://data.europa.eu/esco/skill-type/skill&language=en",
+          "uri": "http://data.europa.eu/esco/skill-type/skill",
+          "title": "skill"
+        }
+      ],
+      "hasReuseLevel": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/concept?uri=http://data.europa.eu/esco/skill-reuse-level/sector-specific&language=en",
+          "uri": "http://data.europa.eu/esco/skill-reuse-level/sector-specific",
+          "title": "sector specific skills and competences",
+          "code": "Level 3"
+        }
+      ],
+      "broaderHierarchyConcept": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/concept?uri=http://data.europa.eu/esco/skill/S5.2.1&language=en",
+          "uri": "http://data.europa.eu/esco/skill/S5.2.1",
+          "title": "setting up computer systems",
+          "code": "S5.2.1"
+        }
+      ],
+      "hasOptionalSkill": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/95ee5e38-5c1e-4cd2-a21d-6921390025a9&language=en",
+          "uri": "http://data.europa.eu/esco/skill/95ee5e38-5c1e-4cd2-a21d-6921390025a9",
+          "title": "usability engineering",
+          "skillType": "http://data.europa.eu/esco/skill-type/knowledge"
+        }
+      ],
+      "isEssentialForOccupation": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/c40a2919-48a9-40ea-b506-1f34f693496d&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/c40a2919-48a9-40ea-b506-1f34f693496d",
+          "title": "web developer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/dc8ef7da-d2c0-4474-96a0-6d0385eeec1e&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/dc8ef7da-d2c0-4474-96a0-6d0385eeec1e",
+          "title": "webmaster"
+        }
+      ]
+    },
+    "_embedded": {
+      "ancestors": [
+        {
+          "title": "implement front-end website design",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/c4b1f326-224a-420a-b8b3-814a8f13b6cb&language=en",
+              "uri": "http://data.europa.eu/esco/skill/c4b1f326-224a-420a-b8b3-814a8f13b6cb"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S5.2.1"
+          ]
+        },
+        {
+          "title": "setting up computer systems",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S5.2.1&language=en",
+              "uri": "http://data.europa.eu/esco/skill/S5.2.1"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S5.2"
+          ]
+        },
+        {
+          "title": "setting up and protecting computer systems",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S5.2&language=en",
+              "uri": "http://data.europa.eu/esco/skill/S5.2"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S5"
+          ]
+        },
+        {
+          "title": "working with computers",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S5&language=en",
+              "uri": "http://data.europa.eu/esco/skill/S5"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S"
+          ]
+        },
+        {
+          "title": "skills",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S&language=en",
+              "uri": "http://data.europa.eu/esco/skill/S"
+            }
+          },
+          "parents": []
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,436 @@
+{
+  "url": "https://ec.europa.eu/esco/api/resource/skill?language=en&uri=http%3A%2F%2Fdata.europa.eu%2Fesco%2Fskill%2F598de5b0-5b58-4ea7-8058-a4bc4d18c742",
+  "at": "2026-11-14T22:51:26.647Z",
+  "response": {
+    "className": "Skill",
+    "classId": "http://data.europa.eu/esco/model#Skill",
+    "uri": "http://data.europa.eu/esco/skill/598de5b0-5b58-4ea7-8058-a4bc4d18c742",
+    "title": "SQL",
+    "referenceLanguage": [
+      "en"
+    ],
+    "preferredLabel": {
+      "no": "SQL",
+      "de": "SQL",
+      "en-us": "SQL",
+      "fi": "SQL",
+      "pt": "SQL",
+      "bg": "SQL",
+      "lt": "SQL",
+      "hr": "SQL",
+      "lv": "SQL",
+      "fr": "SQL",
+      "hu": "SQL",
+      "sk": "SQL",
+      "sl": "SQL",
+      "ga": "SQL",
+      "sv": "SQL",
+      "mt": "SQL",
+      "el": "SQL",
+      "en": "SQL",
+      "is": "SQL",
+      "it": "SQL",
+      "es": "SQL",
+      "et": "SQL",
+      "cs": "SQL",
+      "ar": "الإخماد",
+      "pl": "SQL",
+      "ro": "SQL",
+      "da": "SQL",
+      "nl": "SQL"
+    },
+    "alternativeLabel": {
+      "no": [
+        "Informix 4GL/SQL",
+        "SEQUEL",
+        "Subquery"
+      ],
+      "de": [
+        "Informix 4GL/SQL",
+        "SEQUEL",
+        "Subquery"
+      ],
+      "fi": [
+        "Informix 4GL/SQL",
+        "SEQUEL",
+        "Subquery"
+      ],
+      "en-us": [
+        "Informix 4GL/SQL",
+        "SEQUEL",
+        "Subquery"
+      ],
+      "pt": [
+        "Informix 4GL/SQL",
+        "SEQUEL",
+        "Subquery"
+      ],
+      "bg": [
+        "Informix 4GL/SQL",
+        "SEQUEL",
+        "Subquery"
+      ],
+      "lt": [
+        "Informix 4GL/SQL",
+        "SEQUEL",
+        "Subquery"
+      ],
+      "lv": [
+        "Informix 4GL/SQL",
+        "SEQUEL",
+        "Subquery"
+      ],
+      "hr": [
+        "Informix 4GL/SQL",
+        "SEQUEL",
+        "Subquery"
+      ],
+      "fr": [
+        "Informix 4GL/SQL",
+        "SEQUEL",
+        "Subquery"
+      ],
+      "hu": [
+        "Informix 4GL/SQL",
+        "SEQUEL",
+        "Subquery"
+      ],
+      "sk": [
+        "Informix 4GL/SQL",
+        "SEQUEL",
+        "Subquery"
+      ],
+      "sl": [
+        "Informix 4GL/SQL",
+        "SEQUEL",
+        "Subquery"
+      ],
+      "ga": [
+        "Informix 4GL/SQL",
+        "SEQUEL",
+        "Subquery"
+      ],
+      "sv": [
+        "Informix 4GL/SQL",
+        "SEQUEL",
+        "Subquery"
+      ],
+      "mt": [
+        "Informix 4GL/SQL",
+        "SEQUEL",
+        "Subquery"
+      ],
+      "el": [
+        "Informix 4GL/SQL",
+        "SEQUEL",
+        "Subquery"
+      ],
+      "en": [
+        "Informix 4GL/SQL",
+        "SEQUEL",
+        "Subquery"
+      ],
+      "is": [
+        "Informix 4GL/SQL",
+        "SEQUEL",
+        "Subquery"
+      ],
+      "it": [
+        "Informix 4GL/SQL",
+        "SEQUEL",
+        "Subquery"
+      ],
+      "es": [
+        "Informix 4GL/SQL",
+        "SEQUEL",
+        "Subquery"
+      ],
+      "et": [
+        "Informix 4GL/SQL",
+        "SEQUEL",
+        "Subquery"
+      ],
+      "cs": [
+        "Informix 4GL/SQL",
+        "SEQUEL",
+        "Subquery"
+      ],
+      "ar": [
+        "Informix 4GL/SQL",
+        "SEQUEL",
+        "Subquery"
+      ],
+      "pl": [
+        "Informix 4GL/SQL",
+        "SEQUEL",
+        "Subquery"
+      ],
+      "da": [
+        "Informix 4GL/SQL",
+        "SEQUEL",
+        "Subquery"
+      ],
+      "ro": [
+        "Informix 4GL/SQL",
+        "SEQUEL",
+        "Subquery"
+      ],
+      "nl": [
+        "Informix 4GL/SQL",
+        "SEQUEL",
+        "Subquery"
+      ]
+    },
+    "description": {
+      "no": {
+        "literal": "Dataspråket SQL er et spørrespråk for gjenfinning av opplysninger fra en database, og for dokumenter som inneholder nødvendige opplysninger. Det er utviklet av American National Standards Institute og Den internasjonale standardiseringsorganisasjon.",
+        "mimetype": "plain/text"
+      },
+      "de": {
+        "literal": "Die Computersprache SQL ist eine Abfragesprache für den Abruf von Informationen aus einer Datenbank und aus Dokumenten. Sie wird vom American National Standards Institute und der Internationalen Organisation für Normung entwickelt.",
+        "mimetype": "plain/text"
+      },
+      "en-us": {
+        "literal": "The computer language SQL is a query language for retrieval of information from a database and of documents containing the needed information. It is developed by the American National Standards Institute and the International Organization for Standardization.",
+        "mimetype": "plain/text"
+      },
+      "fi": {
+        "literal": "Tietokonekieli SQL on hakukieli, jota käytetään tiedonhaussa tietokannasta ja tarvittavat tiedot sisältävistä asiakirjoista. Sen on kehittänyt American National Standards Institute ja Kansainvälinen standardisoimisjärjestö.",
+        "mimetype": "plain/text"
+      },
+      "pt": {
+        "literal": "A linguagem informática SQL é uma linguagem de pesquisa para obter informações de uma base de dados e de documentos que contêm as informações necessárias. É desenvolvida pelo American National Standards Institute (Instituto Nacional Americano de Normas) e pela International Organization for Standardization (Organização Internacional de Normalização).",
+        "mimetype": "plain/text"
+      },
+      "bg": {
+        "literal": "Компютърната програма SQL е език за търсене за извличане на информация от база данни и документи, съдържащи необходимата информация. Разработена е от Американския национален институт за стандарти и Международната организация по стандартизация.",
+        "mimetype": "plain/text"
+      },
+      "lt": {
+        "literal": "„SQL“ kompiuterio kalba yra užklausų kalba, skirta informacijai ir dokumentams, kuriuose yra reikiamos informacijos, iš duomenų bazės gauti. Ją sukūrė Amerikos nacionalinis standartų institutas ir Tarptautinė standartizacijos organizacija.",
+        "mimetype": "plain/text"
+      },
+      "hr": {
+        "literal": "Programski jezik SQL je jezik upita za dohvaćanje informacija iz baze podataka i dokumenata koji sadržavaju potrebne informacije. Razvijaju ga Američki institut za nacionalne standarde i Međunarodna organizacija za normizaciju.",
+        "mimetype": "plain/text"
+      },
+      "lv": {
+        "literal": "Datora valoda “SQL” ir vaicājumvaloda informācijas iegūšanai no kādas datubāzes un dokumentiem, kuros glabājas nepieciešamā informācija. To izstrādā Amerikas Nacionālais standartu institūts un Starptautiskā standartizācijas organizācija.",
+        "mimetype": "plain/text"
+      },
+      "fr": {
+        "literal": "Le langage informatique SQL est un langage d’interrogation pour la récupération d’informations provenant d’une base de données et de documents contenant les informations nécessaires. Il est développé par l’American National Standards Institute (ANSI) et l’Organisation internationale de normalisation (ISO).",
+        "mimetype": "plain/text"
+      },
+      "hu": {
+        "literal": "Az SQL számítógépes nyelv olyan lekérdezési nyelv, amely lehetővé teszi az információk kinyerését adatbázisokból, illetve a szükséges információkat tartalmazó dokumentumok lekérdezését. Az SQL az Amerikai Nemzeti Szabványügyi Intézet és a Nemzetközi Szabványügyi Szervezet fejlesztése.",
+        "mimetype": "plain/text"
+      },
+      "sk": {
+        "literal": "Počítačový jazyk SQL je dotazovací jazyk na získavanie informácií z databázy a dokumentov obsahujúcich potrebné informácie. Vyvíja ho Americký národný normalizačný ústav a Medzinárodná organizácia pre normalizáciu.",
+        "mimetype": "plain/text"
+      },
+      "sl": {
+        "literal": "Računalniški jezik SQL je poizvedovalni jezik za iskanje informacij iz zbirke podatkov in dokumentov, ki vsebujejo potrebne informacije. Razvila sta ga Ameriški nacionalni institut za standarde (American National Standards Institute) in Mednarodna organizacija za standardizacijo (International Organisation for Standardisation).",
+        "mimetype": "plain/text"
+      },
+      "ga": {
+        "literal": "Is éard atá i dteanga SQL ná teanga cuardaigh chun faisnéis a aisghabháil i mbunachar sonraí agus i ndoiciméid ina bhfuil an fhaisnéis a theastaíonn. Tá sé forbartha ag an Institiúid um Chaighdeáin Náisiúnta Mheiriceánach agus an Eagraíocht Idirnáisiúnta um Chaighdeánú.",
+        "mimetype": "plain/text"
+      },
+      "sv": {
+        "literal": "Datorspråket SQL är ett sökspråk som används för att hämta information från en databas och från handlingar som innehåller den eftersökta informationen. Språket är utvecklat av American National Standards Institute (ANSI) och Internationella standardiseringsorganisationen (ISO).",
+        "mimetype": "plain/text"
+      },
+      "mt": {
+        "literal": "Il-lingwa tal-kompjuter SQL hija lingwa għal queries għall-irkupru ta’ informazzjoni minn database u ta’ dokumenti li jkun fihom l-informazzjoni meħtieġa. Din hija żviluppata mill-Istitut Amerikan tal-Istandards Nazzjonali u mill-Organizzazzjoni Internazzjonali għall-Istandardizzazzjoni.",
+        "mimetype": "plain/text"
+      },
+      "el": {
+        "literal": "Η γλώσσα ηλεκτρονικού υπολογιστή SQL είναι μια γλώσσα που επιτρέπει την ανάκτηση πληροφοριών από μια βάση δεδομένων και εγγράφων που περιέχουν τις απαιτούμενες πληροφορίες. Αναπτύσσεται από το Αμερικανικό Ινστιτούτο Εθνικών Προτύπων και τον Διεθνή Οργανισμό Τυποποίησης.",
+        "mimetype": "plain/text"
+      },
+      "en": {
+        "literal": "The computer language SQL is a query language for retrieval of information from a database and of documents containing the needed information. It is developed by the American National Standards Institute and the International Organization for Standardization.",
+        "mimetype": "plain/text"
+      },
+      "is": {
+        "literal": "SQL forritunarmálið, er fyrirspurnarmál til að sækja upplýsingar úr gagnagrunni og skjölum sem innihalda nauðsynlegar upplýsingar. Það er þróað af American National Standards Institute og International Organization for Standardization.",
+        "mimetype": "plain/text"
+      },
+      "it": {
+        "literal": "Il linguaggio informatico SQL è una lingua di ricerca per il recupero delle informazioni da una banca dati e di documenti contenenti le informazioni necessarie. È sviluppato dall’American National Standards Institute e dall’Organizzazione internazionale per la standardizzazione.",
+        "mimetype": "plain/text"
+      },
+      "es": {
+        "literal": "El lenguaje informático SQL es un lenguaje de consulta para la extracción de información de una base de datos y de documentos que contienen la información necesaria. Lo desarrolla el Instituto Nacional Estadounidense de Estándares y la Organización Internacional de Normalización.",
+        "mimetype": "plain/text"
+      },
+      "et": {
+        "literal": "Arvuti keel SQL on otsingukeel andmebaasist teabe ja vajalikku teavet sisaldavate dokumentide hankimiseks. Seda arendab American National Standards Institute ja International Organization for Standardization.",
+        "mimetype": "plain/text"
+      },
+      "cs": {
+        "literal": "Počítačový jazyk SQL je dotazovací jazyk pro vyhledávání informací z databáze a dokumentů obsahujících potřebné informace. Byl vyvinut Americkým národním standardizačním institutem a Mezinárodní organizací pro normalizaci.",
+        "mimetype": "plain/text"
+      },
+      "ar": {
+        "literal": "الإخماد هي لغة كمبيوتر الاستعلام لاسترجاع المعلومات من قاعدة البيانات والوثائق التي تحتوي على المعلومات المطلوبة. تم تطويرها من قبل المعهد الوطني الأمريكي للمعايير والمنظمة الدولية للتوحيد القياسي.",
+        "mimetype": "plain/text"
+      },
+      "pl": {
+        "literal": "Język informatyczny SQL jest językiem wyszukiwania w celu wyszukiwania informacji z bazy danych i dokumentów zawierających potrzebne informacje. Jest on opracowywany przez Amerykański Krajowy Instytut Standaryzacji oraz Międzynarodową Organizację Normalizacyjną.",
+        "mimetype": "plain/text"
+      },
+      "da": {
+        "literal": "Datasproget SQL er et søgesprog til hentning af oplysninger fra en database og hentning af dokumenter, der indeholder de nødvendige oplysninger. Det er udviklet af American National Standards Institute og International Organization for Standardization.",
+        "mimetype": "plain/text"
+      },
+      "ro": {
+        "literal": "Limbajul informatic SQL este un limbaj de interogare pentru extragerea de informații dintr-o bază de date și a documentele care conțin informațiile necesare. Acesta este elaborat de Institutul Național American de Standardizare și de Organizația Internațională pentru Standardizare.",
+        "mimetype": "plain/text"
+      },
+      "nl": {
+        "literal": "SQL is een computer-zoektaal voor het opvragen van informatie uit een databank en van documenten die de vereiste informatie bevatten. De taal is ontwikkeld door het American National Standards Institute en de Internationale Organisatie voor Normalisatie.",
+        "mimetype": "plain/text"
+      }
+    },
+    "status": "released",
+    "_links": {
+      "self": {
+        "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/598de5b0-5b58-4ea7-8058-a4bc4d18c742&language=en",
+        "uri": "http://data.europa.eu/esco/skill/598de5b0-5b58-4ea7-8058-a4bc4d18c742",
+        "title": "SQL"
+      },
+      "isInScheme": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/taxonomy?uri=http://data.europa.eu/esco/concept-scheme/skills&language=en",
+          "uri": "http://data.europa.eu/esco/concept-scheme/skills",
+          "title": "ESCO skills"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/taxonomy?uri=http://data.europa.eu/esco/concept-scheme/member-skills&language=en",
+          "uri": "http://data.europa.eu/esco/concept-scheme/member-skills",
+          "title": "ESCO member skills"
+        }
+      ],
+      "hasSkillType": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/concept?uri=http://data.europa.eu/esco/skill-type/knowledge&language=en",
+          "uri": "http://data.europa.eu/esco/skill-type/knowledge",
+          "title": "knowledge"
+        }
+      ],
+      "hasReuseLevel": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/concept?uri=http://data.europa.eu/esco/skill-reuse-level/sector-specific&language=en",
+          "uri": "http://data.europa.eu/esco/skill-reuse-level/sector-specific",
+          "title": "sector specific skills and competences",
+          "code": "Level 3"
+        }
+      ],
+      "broaderHierarchyConcept": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/concept?uri=http://data.europa.eu/esco/isced-f/0613&language=en",
+          "uri": "http://data.europa.eu/esco/isced-f/0613",
+          "title": "software and applications development and analysis"
+        }
+      ],
+      "broaderSkill": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/9cf681c7-89ec-470c-b651-7fe03786f586&language=en",
+          "uri": "http://data.europa.eu/esco/skill/9cf681c7-89ec-470c-b651-7fe03786f586",
+          "title": "query languages",
+          "skillType": "http://data.europa.eu/esco/skill-type/knowledge"
+        }
+      ]
+    },
+    "_embedded": {
+      "ancestors": [
+        {
+          "title": "SQL",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/598de5b0-5b58-4ea7-8058-a4bc4d18c742&language=en",
+              "uri": "http://data.europa.eu/esco/skill/598de5b0-5b58-4ea7-8058-a4bc4d18c742"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/9cf681c7-89ec-470c-b651-7fe03786f586",
+            "http://data.europa.eu/esco/isced-f/0613"
+          ]
+        },
+        {
+          "title": "query languages",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/9cf681c7-89ec-470c-b651-7fe03786f586&language=en",
+              "uri": "http://data.europa.eu/esco/skill/9cf681c7-89ec-470c-b651-7fe03786f586"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/isced-f/0613"
+          ]
+        },
+        {
+          "title": "software and applications development and analysis",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/isced-f/0613&language=en",
+              "uri": "http://data.europa.eu/esco/isced-f/0613"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/isced-f/061"
+          ]
+        },
+        {
+          "title": "information and communication technologies (icts)",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/isced-f/061&language=en",
+              "uri": "http://data.europa.eu/esco/isced-f/061"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/isced-f/06"
+          ]
+        },
+        {
+          "title": "information and communication technologies (icts)",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/isced-f/06&language=en",
+              "uri": "http://data.europa.eu/esco/isced-f/06"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/K"
+          ]
+        },
+        {
+          "title": "knowledge",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/K&language=en",
+              "uri": "http://data.europa.eu/esco/skill/K"
+            }
+          },
+          "parents": []
+        },
+        {
+          "title": "software and applications development and analysis",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/isced-f/0613&language=en",
+              "uri": "http://data.europa.eu/esco/isced-f/0613"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/isced-f/061"
+          ]
+        }
+      ]
+    }
+  }
+}

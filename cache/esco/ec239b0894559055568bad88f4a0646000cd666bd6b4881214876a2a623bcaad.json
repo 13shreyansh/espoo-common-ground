@@ -1,0 +1,209 @@
+{
+  "url": "https://ec.europa.eu/esco/api/search?type=skill&language=en&limit=3&text=use%20spreadsheets%20software",
+  "at": "2026-11-14T22:51:13.535Z",
+  "response": {
+    "total": 3406,
+    "offset": 0,
+    "limit": 3,
+    "text": "use spreadsheets software",
+    "language": "en",
+    "type": [
+      "skill"
+    ],
+    "isInScheme": null,
+    "facet": null,
+    "_links": {
+      "self": {
+        "href": "https://ec.europa.eu/esco/api/search?text=use%20spreadsheets%20software&type=skill&limit=3&offset=0&full=false&viewObsolete=false&language=en"
+      },
+      "next": {
+        "href": "https://ec.europa.eu/esco/api/search?text=use%20spreadsheets%20software&type=skill&limit=3&offset=1&full=false&viewObsolete=false&language=en"
+      }
+    },
+    "_embedded": {
+      "results": [
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/1973c966-f236-40c9-b2d4-5d71a89019be",
+          "searchHit": "use spreadsheets software",
+          "title": "use spreadsheets software",
+          "preferredLabel": {
+            "de": "Tabellenkalkulationsprogramme verwenden",
+            "no": "bruke regnearkprogramvare",
+            "fi": "käyttää taulukkolaskentaohjelmistoja",
+            "en-us": "use spreadsheets software",
+            "pt": "utilizar software de folha de cálculo",
+            "bg": "използване на софтуер за електронни таблици",
+            "lt": "naudotis skaičiuoklių programine įranga",
+            "hr": "upotrebljavati softver za tablice",
+            "lv": "lietot izklājlapu programmatūru",
+            "fr": "utiliser un logiciel de tableur",
+            "hu": "táblázatkezelő programot használ",
+            "sk": "používať tabuľkové procesory",
+            "sl": "uporabljati programsko opremo za preglednice",
+            "ga": "bogearraí scarbhileog a úsáid",
+            "sv": "använda kalkylark",
+            "el": "χρήση λογισμικού λογιστικών φύλλων",
+            "mt": "użu tas-softwer tal-ispreadsheets",
+            "en": "use spreadsheets software",
+            "is": "notar töflureiknisforrit",
+            "it": "utilizzare software per fogli elettronici",
+            "es": "utilizar software de hojas de cálculo",
+            "et": "arvutustabelitarkvara kasutama",
+            "cs": "používat tabulkový procesor",
+            "ar": "استخدام برمجيات الجداول الحسابية",
+            "pl": "posługiwać się oprogramowaniem do korzystania z arkuszy kalkulacyjnych",
+            "da": "bruge regnearkssoftware",
+            "ro": "utilizează programe software pentru foi de calcul",
+            "nl": "software voor spreadsheets gebruiken"
+          },
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills",
+            "http://data.europa.eu/esco/concept-scheme/skill-transversal-groups"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/skill"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/transversal"
+          ],
+          "broaderSkill": [
+            "http://data.europa.eu/esco/skill/5fd5c985-eaaa-47aa-8314-62359c54505a"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/skill/S5.5.2"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/1973c966-f236-40c9-b2d4-5d71a89019be&language=en",
+              "uri": "http://data.europa.eu/esco/skill/1973c966-f236-40c9-b2d4-5d71a89019be",
+              "title": "use spreadsheets software"
+            }
+          }
+        },
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/1225b032-7ead-464c-9072-64097d9a4b62",
+          "searchHit": "use spreadsheets",
+          "title": "use spreadsheets",
+          "preferredLabel": {
+            "de": "Kalkulationstabellen nutzen",
+            "no": "bruke regneark",
+            "fi": "käyttää laskentataulukoita",
+            "en-us": "use spreadsheets",
+            "pt": "utilizar folhas de cálculo",
+            "bg": "използване на електронни таблици",
+            "lt": "naudotis skaičiuoklėmis",
+            "hr": "upotrebljavati tablice",
+            "lv": "lietot izklājlapas",
+            "fr": "utiliser des feuilles de calcul",
+            "hu": "táblázatszerkesztőket használ",
+            "sk": "používať tabuľky",
+            "sl": "uporabljati preglednice",
+            "ga": "scarbhileoga a úsáid",
+            "sv": "använda kalkylprogram",
+            "el": "χρήση λογιστικών φύλλων",
+            "mt": "użu tal-ispreadsheets",
+            "en": "use spreadsheets",
+            "is": "notar töflureikniforrit",
+            "it": "utilizzare i fogli elettronici",
+            "es": "utilizar hojas de cálculo",
+            "et": "arvutustabeleid kasutama",
+            "cs": "používat tabulky",
+            "ar": "استخدام جداول البيانات",
+            "pl": "korzystać z arkuszy kalkulacyjnych",
+            "da": "bruge regneark",
+            "ro": "folosește foi de calcul",
+            "nl": "spreadsheets gebruiken"
+          },
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/skill"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/cross-sector"
+          ],
+          "broaderSkill": [
+            "http://data.europa.eu/esco/skill/1973c966-f236-40c9-b2d4-5d71a89019be"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/skill/S5.5.2"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/1225b032-7ead-464c-9072-64097d9a4b62&language=en",
+              "uri": "http://data.europa.eu/esco/skill/1225b032-7ead-464c-9072-64097d9a4b62",
+              "title": "use spreadsheets"
+            }
+          }
+        },
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/6a536b36-c5c7-4d10-bf67-a4fb0f8549b2",
+          "searchHit": "The techniques and methods that support a systematic and independent examination of data, policies, operations and performances using computer-assisted audit tools and techniques (CAATs) such as spreadsheets, databases, statistical analysis and business intelligence software.",
+          "title": "audit techniques",
+          "preferredLabel": {
+            "de": "Auditverfahren",
+            "no": "revisjonsteknikker",
+            "fi": "auditointitekniikat",
+            "en-us": "audit techniques",
+            "pt": "técnicas de auditoria",
+            "bg": "техники за одит",
+            "lt": "audito metodai",
+            "hr": "tehnike revizije",
+            "lv": "audita metodes",
+            "fr": "techniques d’audit",
+            "hu": "audit technikák",
+            "sk": "techniky auditu",
+            "sl": "revizijske tehnike",
+            "ga": "teicnící iniúchóireachta",
+            "sv": "revisionsmetoder",
+            "el": "τεχνικές ελέγχου",
+            "mt": "metodi tal-verifika",
+            "en": "audit techniques",
+            "is": "endurskoðunartækni",
+            "it": "tecniche di audit",
+            "es": "técnicas de auditoría",
+            "et": "audititehnikad",
+            "cs": "techniky auditu",
+            "ar": "تقنيات التدقيق",
+            "pl": "techniki audytu",
+            "da": "auditteknikker",
+            "ro": "tehnici de audit",
+            "nl": "audittechnieken"
+          },
+          "isTopConceptInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/knowledge"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/cross-sector"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/isced-f/0411"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/6a536b36-c5c7-4d10-bf67-a4fb0f8549b2&language=en",
+              "uri": "http://data.europa.eu/esco/skill/6a536b36-c5c7-4d10-bf67-a4fb0f8549b2",
+              "title": "audit techniques"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

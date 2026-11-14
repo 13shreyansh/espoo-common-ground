@@ -1,0 +1,208 @@
+{
+  "url": "https://ec.europa.eu/esco/api/search?type=skill&language=en&limit=3&text=manage%20projects",
+  "at": "2026-11-14T22:51:16.768Z",
+  "response": {
+    "total": 1629,
+    "offset": 0,
+    "limit": 3,
+    "text": "manage projects",
+    "language": "en",
+    "type": [
+      "skill"
+    ],
+    "isInScheme": null,
+    "facet": null,
+    "_links": {
+      "self": {
+        "href": "https://ec.europa.eu/esco/api/search?text=manage%20projects&type=skill&limit=3&offset=0&full=false&viewObsolete=false&language=en"
+      },
+      "next": {
+        "href": "https://ec.europa.eu/esco/api/search?text=manage%20projects&type=skill&limit=3&offset=1&full=false&viewObsolete=false&language=en"
+      }
+    },
+    "_embedded": {
+      "results": [
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/c881ddd2-9c0e-4743-bd24-36be650493dd",
+          "searchHit": "manage several projects",
+          "title": "manage several projects",
+          "preferredLabel": {
+            "de": "mehrere Projekte leiten",
+            "no": "administrere flere prosjekter",
+            "fi": "hallinnoida useita projekteja",
+            "en-us": "manage several projects",
+            "pt": "gerir vários projetos",
+            "bg": "управляване на няколко проекти",
+            "lt": "valdyti kelis projektus",
+            "hr": "voditi nekoliko projekata",
+            "lv": "vadīt vairākus projektus",
+            "fr": "gérer plusieurs projets à la fois",
+            "hu": "számos projektet kezel",
+            "sk": "riadiť viaceré projekty",
+            "sl": "voditi več projektov",
+            "ga": "roinnt tionscadal a bhainistiú ag an aon am amháin",
+            "sv": "leda flera projekt",
+            "el": "διαχείριση πολλών έργων",
+            "mt": "immaniġġjar ta’ diversi proġetti",
+            "en": "manage several projects",
+            "is": "stýrir nokkrum verkefnum",
+            "it": "gestire numerosi progetti",
+            "es": "gestionar varios proyectos",
+            "et": "mitut projekti juhtima",
+            "cs": "řídit více projektů",
+            "ar": "إدارة العديد من المشاريع",
+            "pl": "zarządzać szeregiem projektów",
+            "da": "lede flere projekter",
+            "ro": "administrează mai multe proiecte în paralel",
+            "nl": "verschillende projecten beheren"
+          },
+          "isTopConceptInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/skill"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/cross-sector"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/skill/S4.2.1"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/c881ddd2-9c0e-4743-bd24-36be650493dd&language=en",
+              "uri": "http://data.europa.eu/esco/skill/c881ddd2-9c0e-4743-bd24-36be650493dd",
+              "title": "manage several projects"
+            }
+          }
+        },
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/cd5efa8c-e44d-4cbc-91c6-796018dbed68",
+          "searchHit": "perform project management",
+          "title": "perform project management",
+          "preferredLabel": {
+            "de": "Projekte managen",
+            "no": "utføre prosjektledelse",
+            "fi": "suorittaa projektinhallintaa",
+            "en-us": "perform project management",
+            "pt": "gerir projetos",
+            "bg": "осъществяване на управление на проект",
+            "lt": "valdyti projektą",
+            "hr": "upravljati projektom",
+            "lv": "vadīt projektus",
+            "fr": "assurer la gestion de projets",
+            "hu": "irányítja a projektet",
+            "sk": "vykonávať projektový manažment",
+            "sl": "voditi projekt",
+            "ga": "tionscadal a bhainistiú",
+            "sv": "genomföra projektledning",
+            "el": "διαχείριση έργου",
+            "mt": "twettiq tal-immaniġġjar tal-proġetti",
+            "en": "perform project management",
+            "is": "sinnir verkefnastjórnun",
+            "it": "eseguire la gestione del progetto",
+            "es": "gestionar proyectos",
+            "et": "projektijuhtimist tegema",
+            "cs": "zajišťovat řízení projektů",
+            "ar": "إدارة قسم المشاريع",
+            "pl": "zarządzać projektem",
+            "da": "varetage projektstyring",
+            "ro": "asigură managementul de proiect",
+            "nl": "projectbeheer uitvoeren"
+          },
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/skill"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/cross-sector"
+          ],
+          "broaderSkill": [
+            "http://data.europa.eu/esco/skill/ccfbdaad-b91d-4bfe-bd0e-d30b33587f19"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/skill/S4.2.1"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/cd5efa8c-e44d-4cbc-91c6-796018dbed68&language=en",
+              "uri": "http://data.europa.eu/esco/skill/cd5efa8c-e44d-4cbc-91c6-796018dbed68",
+              "title": "perform project management"
+            }
+          }
+        },
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/a79f7982-36b8-44e7-b19a-9b7366ca2e87",
+          "searchHit": "manage projects for the conservation of heritage buildings",
+          "title": "supervise projects for the conservation of heritage buildings",
+          "preferredLabel": {
+            "de": "Projekte zur Erhaltung historischer Gebäude betreuen",
+            "no": "overvåke prosjekter for konservering av verneverdige bygninger",
+            "fi": "valvoa perintökohderakennusten konservointiprojekteja",
+            "en-us": "supervise projects for the conservation of heritage buildings",
+            "pt": "supervisionar projetos para a conservação de edifícios históricos",
+            "bg": "надзор над проекти за консервация на сгради от културното наследство",
+            "lt": "prižiūrėti pastatų paveldo konservavimo projektus",
+            "hr": "nadzirati projekte za očuvanje zgrada kulturne baštine",
+            "lv": "uzraudzīt vēsturiskā mantojuma ēku saglabāšanas projektus",
+            "fr": "superviser des projets de conservation de bâtiments historiques",
+            "hu": "felügyeli a kulturális örökség részét képező épületek állagmegóvási projektjeit",
+            "sk": "vykonávať dohľad nad projektmi konzervovania stavebných pamiatok",
+            "sl": "nadzirati projekte za ohranitev objektov kulturne dediščine",
+            "ga": "maoirseacht a dhéanamh ar thionscadail a bhaineann le foirgnimh oidhreachta a chaomhnú",
+            "sv": "leda projekt för bevarande av kulturarv",
+            "el": "επιτήρηση έργων για τη διατήρηση κτιρίων πολιτιστικής κληρονομιάς",
+            "mt": "superviżjoni tal-proġetti għall-konservazzjoni tal-binjiet li jkunu wirt",
+            "en": "supervise projects for the conservation of heritage buildings",
+            "is": "hefur umsjón með verkefnum varðandi varðveislu sögulegra bygginga",
+            "it": "supervisionare i progetti per la conservazione di edifici storici",
+            "es": "supervisar proyectos para la conservación del patrimonio artístico",
+            "et": "kultuuripärandi hoonete säilitamise projektide üle järelevalvet tegema",
+            "cs": "dohlížet na projekty konzervace památkově chráněných budov",
+            "ar": "الاشراف على مشاريع تحويل المباني التراثية",
+            "pl": "nadzorować projekty w zakresie konserwacji zabytkowych budynków",
+            "da": "lede projekter vedrørende konservering af bevaringsværdige bygninger",
+            "ro": "supervizează proiecte de conservare a clădirilor de patrimoniu",
+            "nl": "projecten voor het behoud van historisch erfgoed leiden"
+          },
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/skill"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/sector-specific"
+          ],
+          "broaderSkill": [
+            "http://data.europa.eu/esco/skill/1de548e0-9535-4d2e-9d20-d4474c1ea813"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/skill/S4.2.1"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/a79f7982-36b8-44e7-b19a-9b7366ca2e87&language=en",
+              "uri": "http://data.europa.eu/esco/skill/a79f7982-36b8-44e7-b19a-9b7366ca2e87",
+              "title": "supervise projects for the conservation of heritage buildings"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

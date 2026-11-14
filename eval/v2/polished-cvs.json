@@ -1,0 +1,458 @@
+[
+  {
+    "id": "b793bc620197b308cd85f77f",
+    "text": "Versatile professional combining four years of operational café leadership and customer support with technical capabilities in full-stack software development, software engineering, cloud, APIs, Python, SQL, data analytics, and testing. Proven track record of improving efficiency and reducing waste by 33% through data logging and spreadsheet analysis, streamlining workflow communications, and training team members using clear documentation."
+  },
+  {
+    "id": "baf92b2dc2d5e2625e159de9",
+    "text": "Detail-oriented technical support specialist experienced in precision workshop measurements, data integrity, and spreadsheet reporting. Proven ability to isolate hardware faults through systematic testing, maintain rigorous measurement documentation, and create visual standard operating procedures that enable accurate team-wide execution and quality control."
+  },
+  {
+    "id": "448a5ddc6ed48e1c21ba85a5",
+    "text": "Customer-focused operations coordinator skilled in inventory management, equipment rental operations, and business tools. Experienced in building automated tracking systems to optimize stock availability, resolving technical customer inquiries, analyzing recurring issues to enhance product guidance, and mentoring team members on quality and safety protocols."
+  },
+  {
+    "id": "4f07fa9a404775ddc0838ca8",
+    "text": "Proactive project coordinator with hands-on experience leading community service initiatives and practical workflow testing. Demonstrates strong skills in process optimization, transitioning fragmented documentation into unified workflows, and developing effective user guides and training sessions that support seamless operational execution."
+  },
+  {
+    "id": "5e86806fc4ec247ea16ce061",
+    "text": "System administrator and technical support specialist experienced in managing community media server infrastructure. Proven ability to diagnose performance bottlenecks during live broadcasts, maintain secure access controls and verified backup procedures, and author comprehensive runbooks that facilitate effective incident response."
+  },
+  {
+    "id": "89d4e1ac59fe9f467031806f",
+    "text": "Full-stack software developer and quality assurance specialist with expertise in software engineering, Python, SQL, APIs, cloud environments, and data analytics. Adept at designing automated browser testing suites, isolating edge-case concurrency defects with detailed reproduction steps, and analyzing aggregate test data to drive continuous application improvements."
+  },
+  {
+    "id": "49290eb927c05fb338cc9f47",
+    "text": "Data and reporting specialist experienced in utilizing business tools, relational databases, and SQL to support distribution operations. Skilled in building PostgreSQL mapping tables, conducting rigorous cross-system reconciliations to resolve inventory anomalies, and developing data models and training guides for cross-functional teams."
+  },
+  {
+    "id": "1c5d97b9f2bcda4da6983373",
+    "text": "Solutions-oriented developer experienced in building user-centered web applications and conducting practical testing. Proficient in JavaScript and server-side development, with demonstrated ability in rapid prototyping, diagnosing and resolving edge-case network issues through request log analysis, and creating accessible documentation for technical maintenance."
+  },
+  {
+    "id": "3d31cc1769f2d610542c26bb",
+    "text": "Customer support and technical solutions specialist experienced in developing and maintaining web-based tools. Proven background in gathering user requirements, prototyping lightweight web tools using JavaScript, resolving edge-case bugs through log analysis, and authoring clear maintenance documentation to ensure smooth operational continuity."
+  },
+  {
+    "id": "260e75b90c1cb6d476898021",
+    "text": "Operations manager with four years of café leadership experience, specializing in workflow optimization and spreadsheet reporting. Proven track record of eliminating operational redundancies, reducing material waste by approximately 33% using data-driven tracking, and training staff through structured procedural guides."
+  },
+  {
+    "id": "bbd97876c8fde72cba1dedff",
+    "text": "Full-stack software developer with strong analytical capabilities spanning software engineering, Python, SQL, cloud, APIs, and data analytics. Experienced in technical workshop environments utilizing business tools, diagnostic testing, and systematic measurement logging to isolate hardware discrepancies and establish standardized procedures."
+  },
+  {
+    "id": "a32e1f413bebc6fc6d81ce8d",
+    "text": "Equipment operations coordinator experienced in practical testing, customer support, and inventory tracking systems. Skilled at utilizing formula-driven spreadsheets to monitor assets, troubleshooting equipment failures with clients, analyzing incident patterns to improve documentation, and training staff on essential safety and operational checks."
+  },
+  {
+    "id": "ef97ae21dfa6f5956e37cd47",
+    "text": "Community operations coordinator with a background in customer support and volunteer management. Proven ability to lead community initiative launches under shifting constraints, streamline dual-entry documentation into single shared workflows, and author practical onboarding materials tailored to user feedback."
+  },
+  {
+    "id": "bb10523a67bf990069da593a",
+    "text": "Systems and operations specialist experienced in media studio infrastructure, server monitoring, and spreadsheet reporting. Proven track record of resolving broadcast latency by optimizing scheduled tasks, managing secure user access controls, verifying disaster recovery backups, and producing tested operational runbooks."
+  },
+  {
+    "id": "eabe46fe27618c34490b6497",
+    "text": "Quality assurance and business tools specialist with expertise in automated web application testing. Demonstrated strength in developing end-to-end browser test suites, replicating complex race-condition defects for development teams, and performing cross-browser failure analysis to continuously enhance software reliability."
+  },
+  {
+    "id": "372e838ded43ed56fafb0a3a",
+    "text": "Full-stack software developer and data specialist proficient in Python, SQL, APIs, cloud systems, and data analytics. Proven track record in data migration and reconciliation using PostgreSQL, designing relational data models, conducting thorough practical testing, and creating comprehensive technical documentation for operational teams."
+  },
+  {
+    "id": "ad77e569ad32137f37c16edf",
+    "text": "Data reporting and customer support specialist experienced in database management and business reporting. Demonstrated success in consolidating multi-source order data using PostgreSQL and SQL queries, investigating inventory discrepancies alongside operational teams, and documenting data structures to empower internal stakeholders."
+  },
+  {
+    "id": "ffae31bc37cd3b0a411660e5",
+    "text": "Front-end and web tool developer experienced in spreadsheet reporting and application testing. Proficient in delivering accessible JavaScript solutions based on direct user feedback, troubleshooting concurrency and retry issues using server logs, and writing comprehensive operational handbooks to support ongoing tool administration."
+  },
+  {
+    "id": "ca9916568d69d40cea999267",
+    "text": "Operations and business tools coordinator with four years of managerial experience leading fast-paced café teams. Highly effective in leveraging data tracking to cut inventory waste by a third, restructuring order fulfillment workflows to eliminate errors, and mentoring staff with clear, example-driven documentation."
+  },
+  {
+    "id": "fb86d27a79d49f93eacb7fba",
+    "text": "Quality and testing technician experienced in mechanical and electrical workshop diagnostics and practical testing. Skilled in structured data collection, identifying measurement anomalies to isolate faulty testing equipment, and drafting standardized inspection guidelines to ensure reproducible quality control."
+  },
+  {
+    "id": "e71a97d4690f75e747d7c1a2",
+    "text": "Detail-oriented operations and customer support coordinator with practical experience managing inventory systems and client services. Proficient in designing formula-driven spreadsheets to monitor stock health, track return cycles, and guide procurement decisions. Demonstrated success in front-line customer issue resolution, root-cause tracking, and staff training with structured onboarding materials."
+  },
+  {
+    "id": "047eecd0110608ae7f8151a3",
+    "text": "Organised project coordinator skilled in workflow optimisation, volunteer management, and operational reporting. Proven track record in launching community initiatives, managing project schedules through supply constraints, and streamlining intake processes using consolidated digital workflows. Experienced in delivering hands-on training and user-focused procedural documentation."
+  },
+  {
+    "id": "6269095a24572017f6644ec1",
+    "text": "Reliable systems and operations specialist with hands-on experience in server monitoring, access administration, and technical documentation. Adept at diagnosing performance bottlenecks during live operations, managing secure user permissions, and validating data backup and recovery workflows. Skilled in authoring standard operating runbooks to ensure operational resilience."
+  },
+  {
+    "id": "1774bf2db01b4002bc16353a",
+    "text": "Quality-focused testing specialist experienced in software verification and test automation. Proven ability to build automated browser test suites for core user journeys, isolate complex edge-case defects, and communicate detailed reproduction steps to development teams. Skilled in cross-browser defect analysis and embedding quality checklists into release cycles."
+  },
+  {
+    "id": "e437955ab8966499a552a412",
+    "text": "Methodical QA specialist with a background in customer-focused digital services. Experienced in designing automated browser tests for transactional workflows, recreating race conditions and intermittent defects using logs, and tracking system issues across platforms to drive reliable software releases."
+  },
+  {
+    "id": "2816dd134cd802c877bc0e48",
+    "text": "Analytical data coordinator experienced in database management, data reconciliation, and process mapping. Proficient in consolidating disparate data sets using SQL and PostgreSQL, designing entity-relationship models, and identifying reporting discrepancies between operational units. Strong communicator adept at producing documentation and actionable data workflows for finance teams."
+  },
+  {
+    "id": "0e8d34dc2db51c05250e749e",
+    "text": "Solutions-driven developer with practical experience building and deploying responsive web tools. Skilled in full-stack JavaScript development, rapid UI prototyping, identifying edge-case concurrency bugs, and implementing automated validation tests. Proven ability to create straightforward operational guides for non-technical stakeholders."
+  },
+  {
+    "id": "2b0b140913cc2db4c7918569",
+    "text": "Experienced operations supervisor with a four-year background directing high-volume service environments. Proven expertise in inventory control, shift coordination, and data-driven waste reduction, successfully lowering material loss by one-third through structured analysis. Skilled in team onboarding and continuous operational improvement."
+  },
+  {
+    "id": "4caa93f91aff2168c7ee0c95",
+    "text": "Meticulous technical coordinator with expertise in measurement logging, hardware diagnostics, and quality assurance. Proven track record of isolating instrumentation faults, validating test apparatus, and maintaining precise traceability between diagnostic logs and physical assets. Skilled in authoring detailed diagnostic procedures."
+  },
+  {
+    "id": "0e44065e7f8a73aa3a70cf0b",
+    "text": "Effective operations coordinator with a background in inventory tracking and client-facing support. Skilled in designing structured spreadsheet models to flag stock shortages, conducting root-cause reviews on equipment issues, and designing clear onboarding checklists to train colleagues in safety and return procedures."
+  },
+  {
+    "id": "fb510d076837505cf68d40d0",
+    "text": "Proactive coordinator and workflow designer experienced in community logistics and process management. Skilled in breaking complex projects into deliverable milestones, consolidating fragmented administrative processes into single-point workflows, and developing effective user-training modules and standard operating documentation."
+  },
+  {
+    "id": "7058e1515548897cfaec551f",
+    "text": "Hands-on systems administrator experienced in media infrastructure, performance monitoring, and business continuity. Proven success in identifying system contention during high-demand broadcasts, managing account lifecycles, validating restore routines, and creating illustrated technical runbooks for on-call operations."
+  },
+  {
+    "id": "838ef0db87e634a0abe81a90",
+    "text": "Dependable systems coordinator with expertise in infrastructure oversight, user administration, and technical support. Experienced in resolving performance lags during live broadcasts, managing access controls, executing backup verification tests, and crafting clear troubleshooting guides to maintain service reliability."
+  },
+  {
+    "id": "e13cf0872fdece559fdeba23",
+    "text": "Detail-oriented QA professional with practical experience in test automation and defect reporting. Proficient in writing browser test suites for core user flows, reproducing elusive edge-case issues through server logs, and categorising cross-platform UI anomalies to enhance release stability."
+  },
+  {
+    "id": "357e7d8a7d4140afbaaa234b",
+    "text": "Data-focused operations analyst skilled in SQL data migration, relational modelling, and reconciliation. Demonstrated expertise in mapping varied data feeds into PostgreSQL databases, investigating warehouse discrepancy trends, and producing clear procedural documentation for cross-functional finance teams."
+  },
+  {
+    "id": "df11590ccc82004fd14777a7",
+    "text": "Practical software developer with experience in end-to-end web tool implementation, testing, and documentation. Proficient in building interactive JavaScript applications, debugging request handling issues, establishing regression tests, and authoring clear operational handbooks for non-technical operators."
+  },
+  {
+    "id": "5cf361b17145fff1c1199f1b",
+    "text": "Accomplished operations manager with four years of leadership experience in fast-paced retail and hospitality environments. Proven track record of eliminating fulfillment errors, applying spreadsheet analytics to reduce material waste by 33%, and training staff using structured instructional guides."
+  },
+  {
+    "id": "ed09b012383b14675b4f33d4",
+    "text": "Precise technical specialist experienced in testing, diagnostic logging, and hardware verification. Proficient in recording multi-point diagnostic data, identifying equipment discrepancies, calibrating measurement apparatus, and establishing clear operational guides with technical documentation."
+  },
+  {
+    "id": "6f59ca637a3123f57c85e0a1",
+    "text": "Organised operations coordinator with hands-on experience in equipment desk administration and customer issue tracking. Skilled in spreadsheet-based inventory forecasting, customer service problem categorization, and delivering structured safety and workflow onboarding for new team members."
+  },
+  {
+    "id": "1b57c3a5fd7cfc458f9520e5",
+    "text": "Adaptable project coordinator skilled in operational planning, workflow refinement, and user education. Proven ability to pivot delivery schedules during supplier delays, streamline intake documentation into unified forms, and design iterative instructional training for incoming volunteers."
+  },
+  {
+    "id": "6378b06f24a4031eb3c7c289",
+    "text": "Full-stack software developer with core capabilities across Python, SQL, API design, cloud services, data analytics, software engineering, and testing, complemented by a strong track record in customer support and community initiative leadership. Demonstrates practical expertise in workflow optimisation, project planning, and onboarding. Successfully launched a community tool-sharing service by organising tasks, managing dependencies, and steering team delivery through supplier disruptions. Redesigned internal handover workflows by consolidating dual-entry tracking into an effective single-form process, and designed hands-on training materials and documentation to upskill team members efficiently."
+  },
+  {
+    "id": "1417f46ec1088701a54c96b8",
+    "text": "Systems support and operations specialist experienced in infrastructure maintenance, performance monitoring, and spreadsheet reporting within live media environments. Proven ability to ensure operational reliability by analysing server metrics, response times, and disk capacity, including diagnosing and resolving live broadcast latency by rescheduling automated jobs. Diligent in security administration, user access lifecycle management, and disaster recovery testing. Skilled in creating accessible technical documentation, having developed tested incident response runbooks to streamline troubleshooting and empower on-duty team members."
+  },
+  {
+    "id": "2834e29779496c89dc649722",
+    "text": "Detail-oriented QA and testing specialist experienced with core business tools, automated browser testing, and defect lifecycle management. Proficient in designing automated end-to-end test suites using isolated test environments to safeguard production data, successfully integrating automated checks into regular release cycles. Highly skilled at isolating edge-case defects, reproducing complex race conditions through concurrency testing, and capturing detailed logs for engineering teams. Proven analytical ability in categorising test run failures across platforms and devices, proactively updating QA checklists to improve overall software quality."
+  },
+  {
+    "id": "7cc2cbd6c4e636f7d3fc2b30",
+    "text": "Data and reporting specialist with expertise in relational databases, PostgreSQL, SQL querying, and practical quality assurance. Experienced in unifying distributed monthly order records into centralised databases, establishing robust mapping tables to resolve duplicate entries, and verifying end-to-end auditability for finance teams. Strong problem-solving background in reconciling discrepancies between operational warehouse reports and physical counts. Adept at communicating technical structures by creating clear data models, import guidelines, and reference documentation for non-technical stakeholders."
+  },
+  {
+    "id": "0e282c4dad382bd9e9af3e90",
+    "text": "Web developer with hands-on experience building practical digital tools, troubleshooting web services, and delivering user-focused customer support. Proficient in developing interactive applications using JavaScript and lightweight web servers, driving projects from user-centric wireframes to deployed mobile-friendly tools. Experienced in debugging production issues, tracing server request logs, resolving concurrency errors, and establishing test cases for edge cases. Skilled at knowledge transfer and support, having created comprehensive operational guides and facilitated peer onboarding for tool maintenance."
+  },
+  {
+    "id": "1ab022f1e1466aa78f31aeee",
+    "text": "Full-stack software developer and operational team lead bringing four years of high-volume management experience in Tapiola alongside strong technical foundations in Python, SQL, APIs, cloud concepts, data analytics, and testing. Proven capability in workflow structuring, data reporting, and operational efficiency. Led busy shifts by establishing clear shared tracking systems to eliminate duplicated work, built targeted analytical models to identify waste patterns—achieving a 30% reduction—and developed practical training materials, formula-driven inventory sheets, and structured onboarding processes."
+  },
+  {
+    "id": "9437c930cdd235bf0499bbd7",
+    "text": "Technical data recorder and quality control specialist experienced in precise hardware diagnostics, measurement methodologies, and business tools. Demonstrates a disciplined approach to workshop data collection, establishing systematic tracking systems for brake and battery diagnostics to ensure data integrity and traceability. Skilled in isolating hardware faults and measurement anomalies across electrical test setups by systematically troubleshooting faulty components. Experienced in standardising technical workflows through clear diagrams, step-by-step procedures, and documentation for peer review."
+  },
+  {
+    "id": "17d7f48982935d1ed80d5610",
+    "text": "Operations coordinator and customer service specialist with a strong background in inventory management, practical verification, and rental desk operations. Expert in designing formula-driven spreadsheets to monitor asset availability, track equipment conditions, and automate reorder alerts for busy operational cycles. Highly capable in customer support and dispute resolution, systematically diagnosing technical equipment faults, escalating solutions, and categorising recurring issues to enhance user instructions. Experienced mentor who designs hands-on onboarding checklists prioritising safety protocols and operational consistency."
+  },
+  {
+    "id": "ea7db8cc36527ba922a5fe83",
+    "text": "Customer support and operations coordinator with demonstrated skill in inventory control, customer relations, and procedural management. Experienced in managing equipment rental operations, utilising structured spreadsheets and conditional formulas to track asset lifecycle, schedule maintenance, and ensure stock readiness. Strong communicator skilled in assisting customers through equipment malfunctions, logging incident causes, and analysing monthly trends to improve user guidance. Proven aptitude in team coaching, having designed practical training frameworks and safety-first onboarding procedures."
+  },
+  {
+    "id": "26437371cff057fea21aef29",
+    "text": "Community organiser and operational workflow specialist with proven expertise in team coordination, spreadsheet reporting, and process improvement. Led the setup of a volunteer repair service by structuring workflows, establishing milestones, and dynamically adapting schedules to supply delays. Experienced in business process mapping, successfully streamlining reception-to-repair operations by replacing redundant manual tracking with a unified data collection method. Skilled in training volunteers through interactive exercises, structured guides, and continuous process refinements."
+  },
+  {
+    "id": "12142b182ca6ad9a11469914",
+    "text": "Full-stack software developer with comprehensive capabilities in Python, SQL, API engineering, cloud services, software testing, and data analytics, supported by real-world systems administration and business tool experience. Track record of monitoring server performance during live media events, identifying throughput bottlenecks, and re-architecting background job schedules to ensure stable streaming. Experienced in access control governance, server security audits, and backup verification. Skilled technical communicator who authorises detailed system runbooks and failure drills to maintain high operational continuity."
+  },
+  {
+    "id": "c4c23837e1e4c9397c7ecb1f",
+    "text": "Software quality assurance specialist with focused experience in test automation, regression testing, and defect analysis for web platforms. Proficient in building automated browser test suites for core user journeys, isolating test data to safeguard system integrity, and integrating testing checkpoints into release workflows. Demonstrated capability in identifying subtle, high-concurrency race conditions through log capture and repeatable test cases. Analytical problem-solver skilled in aggregating failure trends across screen resolutions and updating QA protocols to catch bugs early."
+  },
+  {
+    "id": "c8f2dc001ad988a1d2b37754",
+    "text": "Data coordinator and customer support specialist experienced in relational data management, SQL analysis, and process reconciliation. Successfully mapped and integrated disparate sales files into PostgreSQL databases, using structured mapping keys and deduplication to maintain accurate reporting for finance departments. Proven diagnostic skills in investigating discrepancies between return logs and physical inventory, pinpointing process errors, and updating documentation to preserve data accuracy. Experienced in conveying database schemas and data entry procedures clearly to cross-functional teams."
+  },
+  {
+    "id": "996f9472e307e239c77bd129",
+    "text": "Front-end and web solutions developer experienced in application prototyping, spreadsheet analysis, and user support. Developed custom JavaScript web applications for workshop scheduling, incorporating user feedback into iterative UI designs to enhance adoption. Strong troubleshooting ability, having identified and resolved network retry errors and missing validation checks using server request logs and automated test cases. Dedicated to clear documentation, authoring step-by-step administration manuals and conducting practical peer coaching to support self-sufficient tool management."
+  },
+  {
+    "id": "9075a4c3c4b3b9442152bea6",
+    "text": "Operations manager with four years of leadership experience running a fast-paced hospitality venue in Tapiola, skilled in business tools, data-driven waste reduction, and team supervision. Introduced centralised tracking sheets to replace loose paperwork, eliminating fulfillment errors during peak operational rushes. Designed and analysed custom waste-tracking spreadsheets, leveraging weekly trends to adjust prep levels and reduce waste by approximately 33%. Experienced in onboarding and training staff on inventory processes, formula-driven order sheets, and operational standards."
+  },
+  {
+    "id": "7780298dd319113a2d78cfd7",
+    "text": "Full-stack software developer with robust technical capabilities in Python, SQL, API development, cloud architectures, data analytics, and testing, paired with meticulous hardware testing and measurement experience. Demonstrated precision in gathering and structuring complex technical readings, implementing reproducible labelling conventions, and maintaining clear baseline records. Skilled at methodical diagnostic troubleshooting, successfully identifying equipment faults through controlled comparisons, and experienced in writing rigorous technical procedures and edge-case documentation."
+  },
+  {
+    "id": "d576025004703e6ac63f7e3e",
+    "text": "Detail-focused measurement technician and customer support specialist with extensive experience in procedural testing, data recording, and standardisation. Diligent in conducting hardware diagnostic assessments, verifying irregular readings through controlled testing, and managing structured data records to support repair technicians. Proven analytical skills in investigating anomalous test stand variations to pinpoint faulty hardware. Adept at translating complex technical workflows into clear diagrams, tool setup guides, and structured reference manuals for team use."
+  },
+  {
+    "id": "82d6017749d32f42d8b32eb3",
+    "text": "Logistics and inventory coordinator with proven expertise in spreadsheet modeling, asset management, and customer support. Built and maintained comprehensive inventory spreadsheets utilising custom formulas to track equipment condition, monitor return timelines, and trigger timely maintenance or reorders. Experienced in handling technical customer inquiries, resolving equipment issues systematically, and synthesising feedback to update operating manuals. Experienced trainer who creates structured checklists to onboard staff on inventory tracking and safety protocols."
+  },
+  {
+    "id": "5a8b1d84378994389ebf7321",
+    "text": "Project coordinator and process improvement specialist experienced in community operations, business tools, and workflow optimisation. Spearheaded the launch of a local tool-sharing programme by defining project scope, scheduling deliverables, and steering progress through vendor delays. Successfully overhauled internal service workflows by mapping end-to-end handoffs and replacing duplicate data entry with a streamlined, single-form intake system. Skilled facilitator who designs practical training materials, exercises, and process guides to onboard team members effectively."
+  },
+  {
+    "id": "fb01a44faff6b101c5bce3fa",
+    "text": "Systems and operations support technician experienced in live server monitoring, infrastructure verification, and practical IT testing. Proven track record in maintaining uptime for community media broadcasts by monitoring CPU, memory, and disk usage, successfully resolving upload bottlenecks by rescheduling high-load background tasks. Methodical in access governance, verifying user access permissions, and conducting end-to-end backup and recovery tests. Skilled in authoring practical incident runbooks, validating procedures through user testing, and refining operational guides."
+  },
+  {
+    "id": "553100910622c0c94a0e05cc",
+    "text": "Full-stack software developer with core strengths in Python, SQL, API integration, and automated testing. Experienced in building automated browser test suites for web services, diagnosing complex race conditions through detailed log analysis, and integrating quality checks into deployment processes. Skilled at root-cause analysis, defect tracking, and producing accessible failure reports and documentation for cross-functional teams."
+  },
+  {
+    "id": "6f2c8ed5e732d705e6bfe78a",
+    "text": "Detail-oriented data and reporting specialist experienced in managing relational data within PostgreSQL and consolidating complex spreadsheets. Proven ability to build data models, write SQL verification queries, and perform reconciliation between operational and financial records. Adept at identifying reporting discrepancies, creating standardized data import workflows, and documenting transparent processes for team handovers."
+  },
+  {
+    "id": "dff90c8049fc5cd0f81c6025",
+    "text": "Software solutions builder experienced in end-to-end tool development using JavaScript and lightweight web servers. Demonstrated ability to collaborate with non-technical users to design intuitive user interfaces, diagnose edge-case bugs and request-retry errors, and implement automated tests. Skilled in user-centered design, technical support, and drafting clear procedural runbooks for operations teams."
+  },
+  {
+    "id": "3fe20c37673ade6a7fee06b1",
+    "text": "Operations-focused team lead with four years of management experience driving process improvements and efficiency. Proven track record in operational testing, inventory control, and data-driven waste reduction through spreadsheet analytics, cutting product waste by one-third. Skilled in cross-departmental coordination, onboarding staff, and creating practical standard operating procedures."
+  },
+  {
+    "id": "2bde8f9b764938923b5fd08e",
+    "text": "Customer service and operations lead with four years of experience optimizing front-line workflows and team communication. Adept at implementing structured order-tracking systems, analyzing operational spreadsheets to cut product loss by a third, and training new team members using clear documentation and hands-on exercises to ensure service consistency."
+  },
+  {
+    "id": "f20798aa7d25447fbb9523d3",
+    "text": "Full-stack developer and technical analyst experienced in Python, SQL, APIs, and data analytics. Strong foundation in hardware testing, measurement integrity, and systematic fault isolation. Skilled in identifying root causes across testing apparatus, maintaining meticulous data logs, and producing structured technical documentation and verification workflows."
+  },
+  {
+    "id": "903b431dfdc3012ad46bb58f",
+    "text": "Operations coordinator skilled in inventory tracking, client service, and workflow management using business tools and spreadsheets. Proven ability to build stock-monitoring sheets with automated alert formulas, resolve equipment issues through customer support, and design onboarding checklists that prioritize safety and accuracy."
+  },
+  {
+    "id": "407d8dc7008eae4ab5abb84c",
+    "text": "Operations and logistics organizer experienced in service launches, practical workflow testing, and community coordination. Skilled at mapping complex operational processes into single, unified forms to remove duplication, adjusting project plans in response to supply delays, and developing interactive training materials for onboarding new staff."
+  },
+  {
+    "id": "097b3d0d80767be40350fde0",
+    "text": "Systems and customer support technician experienced in monitoring production servers, diagnosing performance bottlenecks, and optimizing task scheduling to ensure uninterrupted broadcast operations. Proficient in access control administration, backup verification testing, and drafting user-friendly runbooks and emergency response documentation."
+  },
+  {
+    "id": "950418b9ca761b058ddda4ad",
+    "text": "Quality assurance and test specialist skilled in automated browser testing, release pipeline verification, and spreadsheet reporting. Demonstrated track record in reproducing complex concurrency defects, isolating UI bugs across screen resolutions, and translating test analytics into clear, actionable bug reports and updated test checklists."
+  },
+  {
+    "id": "3ae28c172cbd3176fe3577f6",
+    "text": "Full-stack software developer and data analyst proficient in Python, SQL, PostgreSQL, and API architectures. Proven success in consolidating fragmented business datasets, building data models, and performing rigorous data reconciliations to support finance and operations. Adept at system testing, documentation, and creating reliable data import pipelines."
+  },
+  {
+    "id": "57526483d96ea6e7e5015212",
+    "text": "Software developer with practical testing experience, focused on building user-friendly web tools using JavaScript and web servers. Experienced in conducting user testing to refine web forms, isolating concurrency bugs via request logs, and establishing regression test cases. Strong communicator dedicated to authoring clean documentation and operational guides."
+  },
+  {
+    "id": "0b418a3183bb4d6d71d61ed7",
+    "text": "Technical coordinator and developer combining user-facing customer support with practical JavaScript development. Experienced in prototyping community web applications, gathering direct feedback to enhance usability, debugging intermittent request errors, and coaching team members using comprehensive procedural guides."
+  },
+  {
+    "id": "b01fd7ec1fdb1fcbf64007e4",
+    "text": "Experienced operations supervisor with a four-year track record in workflow organization, spreadsheet reporting, and team management. Demonstrated ability to eliminate order duplication through unified tracking, analyze inventory logs to decrease waste by 33%, and author training documentation to maintain high standards across daily operations."
+  },
+  {
+    "id": "19548ffeda0cdd65567aba46",
+    "text": "Quality control and operations technician experienced in precise measurement tracking, diagnostic testing, and business spreadsheet management. Skilled at isolating hardware anomalies through structured comparative testing, maintaining traceability across raw and summary data, and authoring clear standard operating procedures for team use."
+  },
+  {
+    "id": "193ac2e406703087c0b9871a",
+    "text": "Full-stack software developer and operations analyst experienced in Python, SQL, APIs, and practical testing methodologies. Proven background in inventory tracking, spreadsheet modeling with automated formula triggers, and structured customer problem resolution. Strong communicator skilled in process verification and peer training."
+  },
+  {
+    "id": "09fb13f738da4cef05f56c31",
+    "text": "Community operations and support coordinator experienced in project planning, stakeholder communication, and workflow optimization. Proven track record in streamlining multi-step service processes into unified shared tools, adapting delivery schedules under constraint, and providing structured coaching and onboarding materials to volunteers."
+  },
+  {
+    "id": "ebdede877471e2ba6373e94b",
+    "text": "Systems administrator and operations analyst experienced in server monitoring, workload optimization, and reporting. Demonstrated success in resolving server latency issues by rescheduling automated tasks, auditing user permissions, validating disaster-recovery backups, and publishing structured runbooks with visual guides for operations teams."
+  },
+  {
+    "id": "87dde5da1db52ec52a3ce142",
+    "text": "Software QA specialist experienced in automated end-to-end browser testing, release checks, and business tool integrations. Strong background in isolating difficult-to-reproduce race conditions using server logs, conducting cross-browser and responsive design defect analyses, and maintaining clear QA documentation for stakeholders."
+  },
+  {
+    "id": "32a5eb91a49d9da7bc299f93",
+    "text": "Data specialist with hands-on experience in practical testing, data integrity verification, and PostgreSQL database management. Skilled in writing SQL validation queries, mapping fragmented operational codes into unified schemas, resolving warehouse reporting discrepancies, and drafting comprehensive data modeling documentation."
+  },
+  {
+    "id": "f76f694865ad56edd3c623a2",
+    "text": "Full-stack software developer with core strengths in SQL, data analytics, and reporting data architecture. Proven track record consolidating dispersed order data into structured PostgreSQL databases, designing robust data models, and performing detailed reconciliation between inventory and financial records. Experienced in cross-functional collaboration, customer support, and producing clear technical documentation to ensure operational consistency."
+  },
+  {
+    "id": "632864385a70fbcc5efd97a7",
+    "text": "User-focused software developer experienced in building web tools and booking solutions using JavaScript and web servers. Skilled in iterative prototyping, responsive UI design, log tracing, and writing comprehensive test cases to eliminate edge-case errors. Adept at creating practical documentation, training team members, and supporting workflow reporting."
+  },
+  {
+    "id": "aa72aca55e70f600e1753231",
+    "text": "Proactive operations and team manager with four years of leadership experience running high-volume hospitality services. Skilled in process optimization, spreadsheet modeling, and inventory control, having successfully reduced product waste by one-third through structured tracking. Proven ability to onboard staff, implement streamlined ordering workflows, and adapt operations to evolving supplier requirements."
+  },
+  {
+    "id": "607089bf162533abddce6d58",
+    "text": "Detail-oriented technical specialist with strong expertise in practical testing, data collection, and diagnostic hardware analysis. Experienced in establishing systematic measurement procedures, troubleshooting electrical faults through methodical isolation, and documenting standardized operating procedures. Proven communicator who ensures data integrity and seamless handover between technicians and operational teams."
+  },
+  {
+    "id": "23b34fc2181370c5a4dbb057",
+    "text": "Organized operations and customer support coordinator experienced in managing equipment inventory and client service desks. Skilled in utilizing automated spreadsheet formulas to track assets, flag overdue returns, and plan maintenance schedules. Adept at technical troubleshooting with clients, logging recurring issues to drive continuous improvement, and training team members in safe operational practices."
+  },
+  {
+    "id": "2988477a1dc1d1ab94e28b25",
+    "text": "Full-stack software developer and community organizer with proven experience in workflow automation, systems analysis, and agile project coordination. Skilled in mapping operational processes, designing unified reporting sheets, and adjusting project timelines in response to resource constraints. Brings solid technical fundamentals in software engineering, API integration, Python, and testing, paired with strong user training capabilities."
+  },
+  {
+    "id": "859ee5b05e8fe54b3a781400",
+    "text": "Systems and operations specialist experienced in server administration, live broadcast monitoring, and access management. Proven capability in diagnosing performance bottlenecks, optimizing scheduled jobs, and validating secure backup and restore procedures. Adept at authoring clear operational runbooks, troubleshooting mission-critical media platforms, and utilizing business tools to support teams."
+  },
+  {
+    "id": "89b839e7263197fca038a393",
+    "text": "Quality assurance and test automation specialist with expertise in automated browser testing, release management, and defect triage. Experienced in designing isolated test accounts, diagnosing complex edge-case concurrency errors, and analyzing multi-browser failure trends. Skilled at collaborating with developers, updating regression checklists, and delivering reliable software quality."
+  },
+  {
+    "id": "d963aeedcfcccdd2e6244aee",
+    "text": "QA-focused professional with a strong blend of software testing and customer support capabilities. Proven experience designing automated browser tests, isolating concurrency issues through log analysis, and identifying UI/UX defects across varied screen sizes and browsers. Skilled at translating user pain points into actionable bug reports to ensure smooth platform releases."
+  },
+  {
+    "id": "f6a3d4c4291d54992022d3ae",
+    "text": "Data specialist experienced in database management, data reconciliation, and operational reporting. Skilled in constructing PostgreSQL relational schemas, building mapping tables for legacy imports, and executing SQL validation queries to guarantee financial traceability. Strong communicator adept at explaining technical data models and authoring clear documentation for cross-functional teams."
+  },
+  {
+    "id": "14b71722d8fd5e2d5707597b",
+    "text": "Full-stack software developer experienced in delivering robust end-to-end web applications and booking tools. Proficient in JavaScript, API development, backend servers, and relational data handling, with a solid focus on automated testing and concurrency issue resolution. Skilled in user-centered design, stakeholder collaboration, and maintaining thorough operational documentation."
+  },
+  {
+    "id": "afd3d931b3cad60d7320daa4",
+    "text": "Results-driven operations lead with four years of business management and team leadership experience. Proficient in practical process testing, workflow streamlining, and data-driven inventory management that reduced operational waste by 33%. Experienced in mentoring staff, developing structured standard operating procedures, and rapidly adapting workflows to supply chain changes."
+  },
+  {
+    "id": "73493e0b452b33bdf6505e0e",
+    "text": "Meticulous testing and customer support professional experienced in collecting precision measurements and managing technical diagnostics. Proficient in detecting hardware anomalies through controlled variable testing, maintaining immaculate inspection logs, and translating complex diagnostics into accessible operational guides and client updates."
+  },
+  {
+    "id": "b9c4677d5658f1f1e44bf79c",
+    "text": "Client-focused operations coordinator with expertise in inventory management, spreadsheet reporting, and service desk administration. Skilled in designing automated stock tracking models, resolving client hardware issues, and analyzing incident logs to drive preventative solutions. Effective mentor skilled in creating safety-first onboarding procedures."
+  },
+  {
+    "id": "2f7aa91d921aaacddc1d0e59",
+    "text": "Operational coordinator and project organizer with strong proficiency in business tools and process redesign. Experienced in launching community initiatives, managing resource constraints, and consolidating duplicated workflows into unified digital forms. Skilled in drafting intuitive documentation and training diverse teams to ensure sustained operational efficiency."
+  },
+  {
+    "id": "5101274e0a50cf3ea51845c1",
+    "text": "Full-stack software developer and systems engineer with practical testing and systems administration experience. Proven background in monitoring server health, diagnosing load bottlenecks, managing access control, and executing disaster recovery drills. Combines hands-on experience in APIs, cloud platforms, Python, and SQL with a dedication to rigorous process documentation."
+  },
+  {
+    "id": "56b24ed8004ad05b5ca2e9a2",
+    "text": "Systems support specialist with a strong background in customer service and live infrastructure monitoring. Experienced in optimizing server load during critical operating hours, managing user access privileges, and validating disaster recovery procedures. Adept at developing step-by-step incident runbooks to empower frontline support staff and ensure high availability."
+  },
+  {
+    "id": "58ff43da57110d631874e778",
+    "text": "Quality assurance specialist experienced in automated browser testing, test data management, and spreadsheet reporting. Proven ability to isolate intermittent concurrency bugs, analyze cross-browser regression patterns, and generate transparent defect reports for development teams. Committed to embedding robust testing practices into ongoing release cycles."
+  },
+  {
+    "id": "40746dcf15da2794fed43115",
+    "text": "Data reporting analyst with a solid track record in database migration, data normalization, and financial reconciliation. Proficient in writing SQL queries, modeling relational data flows, and identifying root causes behind inventory discrepancies. Experienced in collaborating with finance stakeholders and authoring comprehensive data process guides."
+  },
+  {
+    "id": "3bfe1180c29069a14d59bdb0",
+    "text": "Practical software developer and QA specialist skilled in building and testing user-friendly web applications. Experienced in developing JavaScript solutions, reproducing tricky network edge cases via server logs, and writing regression test suites. Adept at testing prototypes directly with end users and authoring practical technical runbooks."
+  },
+  {
+    "id": "e6028a38072f0f845c691894",
+    "text": "Full-stack software developer and operational leader with a four-year background managing café operations in Tapiola, experienced in customer support, Python, SQL, APIs, cloud systems, and data analytics. Proven track record of leveraging data analysis and structured workflows to drive operational efficiency, including reducing inventory waste by one-third through custom tracking sheets and eliminating preparation errors. Adept at cross-functional communication, team training, and building robust documentation to ensure process continuity and effective software engineering solutions."
+  },
+  {
+    "id": "2d4e5e2dc0da5029f10011db",
+    "text": "Detail-oriented technical specialist experienced in precision data collection, diagnostic testing, and spreadsheet reporting within a mechanical workshop environment. Demonstrated expertise in establishing rigorous measurement protocols, maintaining traceable records, and isolating hardware faults through systematic troubleshooting. Strong communicator skilled in creating comprehensive technical runbooks, diagrams, and training documentation that empower colleagues and safeguard data integrity."
+  },
+  {
+    "id": "e507e9bf1ad5aa394c22da94",
+    "text": "Operations coordinator with extensive experience managing equipment inventory, logistics, and client support using modern business tools. Proficient in designing automated spreadsheet systems to track asset lifecycles, monitor stock levels, and mitigate operational delays. Skilled in issue resolution, customer-facing troubleshooting, and trend analysis to enhance service quality, alongside a proven ability to mentor staff through practical onboarding and structured safety checklists."
+  },
+  {
+    "id": "b7effc954188c08e117a0808",
+    "text": "Proactive coordinator experienced in project delivery, workflow optimisation, and practical testing within community service initiatives. Demonstrated success in managing service rollouts, adapting project schedules against supply delays, and streamlining intake processes to eliminate redundant data entry. Skilled in designing user-focused training materials, conducting iterative process testing, and documenting standard operating procedures to ensure sustainable team performance."
+  },
+  {
+    "id": "cce52025057f061110f62f5a",
+    "text": "Organisational lead with a strong background in customer support, operations management, and community engagement. Experienced in planning and executing service launches, aligning cross-functional teams, and transforming administrative workflows to boost service efficiency. Adept at user onboarding and instructional design, using direct stakeholder feedback to refine guides, resolve operational bottlenecks, and foster collaborative environments."
+  },
+  {
+    "id": "4956855ef0c0921e1602273e",
+    "text": "Full-stack software developer and systems specialist experienced in cloud architecture, SQL, Python, APIs, and data analytics. Proven background in maintaining live community media servers, diagnosing performance bottlenecks, and optimising operational scheduling to prevent latency. Adept at implementing secure access controls, conducting disaster-recovery testing, and authoring clear incident-response runbooks to support robust system engineering."
+  },
+  {
+    "id": "94a7a6ee2199947ccf8506e6",
+    "text": "Quality-focused testing specialist experienced in test automation, defect isolation, and business tools within digital service platforms. Demonstrated expertise in developing automated browser suites, reproducing complex edge-case concurrency issues, and generating clear technical documentation for development teams. Skilled at aggregating test telemetry to identify recurring defects across viewports and integrating preventative testing standards into continuous delivery workflows."
+  },
+  {
+    "id": "2f3d670e91ed16c6db838df5",
+    "text": "Data specialist experienced in database consolidation, practical testing, and financial reporting analysis. Proficient in designing PostgreSQL data architectures, mapping legacy datasets, and executing targeted SQL verification queries to guarantee end-to-end data integrity. Proven ability to audit discrepancies between warehouse logs and reporting pipelines, supported by strong skills in technical documentation and stakeholder communication."
+  },
+  {
+    "id": "99230c8f405a92112efd0077",
+    "text": "Software developer and support specialist experienced in building responsive, user-friendly booking applications using JavaScript and web server environments. Proven ability to translate user feedback into functional prototypes, debug asynchronous edge-case race conditions, and implement rigorous automated test coverage. Skilled in writing user-centric technical documentation and providing hands-on training to non-technical maintainers."
+  },
+  {
+    "id": "174e74c10933d27a41d1428d",
+    "text": "Experienced operations manager with a four-year record running high-volume café operations, specialising in workflow optimisation and spreadsheet reporting. Proven ability to design inventory and waste-tracking models that reduce product loss by a third, alongside creating unified order-management processes that eliminate service errors. Strong mentor adept at training staff, authoring reference materials, and adapting operational formulas to dynamic supplier requirements."
+  },
+  {
+    "id": "a155161ed668ea7560ae0574",
+    "text": "Full-stack software developer and analytical specialist combining hands-on technical diagnostics with expertise in Python, SQL, APIs, cloud environments, and data analytics. Experienced in designing structured measurement workflows, executing controlled diagnostic testing, and identifying systemic equipment faults. Adept at building clear technical documentation, process diagrams, and standardized testing procedures to enhance team efficiency and technical precision."
+  },
+  {
+    "id": "dc488d63af3249b7fa6280b5",
+    "text": "Operations coordinator experienced in inventory control, customer resolution, and practical process testing within equipment rental environments. Skilled in building dynamic spreadsheet models to monitor asset status, forecast maintenance needs, and manage supply readiness. Adept at root-cause analysis for technical issues, iterative safety process improvements, and onboarding staff through structured, hands-on training."
+  },
+  {
+    "id": "cdf7e74d9679985109c12d1d",
+    "text": "Customer support and operations coordinator with demonstrated experience managing rental desk logistics and inventory workflows. Proficient in maintaining automated tracking systems to optimize asset availability and streamline routine audits. Skilled in active listening and issue resolution for malfunctioning equipment, utilizing feedback data to improve customer-facing guidance and training team members on safety and administrative standards."
+  },
+  {
+    "id": "2d7cbb48e7516c66639e923c",
+    "text": "Operations and logistics coordinator skilled in project scheduling, process design, and spreadsheet reporting. Experienced in leading community repair initiatives, coordinating volunteer teams, and successfully managing launch timelines despite logistical constraints. Adept at eliminating redundant reporting steps through streamlined workflow design and developing practical, question-driven onboarding guides that enhance team productivity."
+  }
+]

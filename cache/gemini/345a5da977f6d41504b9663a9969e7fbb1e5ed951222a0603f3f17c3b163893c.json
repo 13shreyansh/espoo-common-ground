@@ -1,0 +1,110 @@
+{
+  "model": "gemini-3.8-flash",
+  "prompt_version": "cg-2.1",
+  "at": "2026-11-14T22:56:43.052Z",
+  "kind": "polished-cvs",
+  "input_hash": "345a5da977f6d41504b9663a9969e7fbb1e5ed951222a0603f3f17c3b163893c",
+  "answer": {
+    "cvs": [
+      {
+        "id": "6378b06f24a4031eb3c7c289",
+        "text": "Full-stack software developer with core capabilities across software engineering, Python, SQL, APIs, cloud systems, testing, and data analytics. Proven background in community operations and customer support, demonstrated through leading a volunteer repair group. Skilled in operational coordination, agile problem-solving, process mapping, and workflow optimisation. Experienced in creating user-centred onboarding documentation and maintaining detailed operational records."
+      },
+      {
+        "id": "1417f46ec1088701a54c96b8",
+        "text": "Systems and operations professional experienced in managing server infrastructure and producing spreadsheet reports. Proven track record monitoring live broadcast environments, identifying performance bottlenecks, and optimising automated jobs to ensure uninterrupted service delivery. Skilled in access management, disaster recovery validation, and authoring clear, practical runbooks with user-tested troubleshooting instructions."
+      },
+      {
+        "id": "2834e29779496c89dc649722",
+        "text": "Quality assurance and testing specialist experienced with modern business tools, automated browser testing, and membership platform verification. Adept at designing isolated test workflows for core transactional journeys, diagnosing edge-case defects under concurrency, and pinpointing UI/browser inconsistencies. Known for translating technical test logs into accessible stakeholder reports and updating QA protocols for early defect prevention."
+      },
+      {
+        "id": "7cc2cbd6c4e636f7d3fc2b30",
+        "text": "Data and reporting specialist with hands-on experience in relational databases and practical testing. Proficient in consolidating complex multi-source distributor data into PostgreSQL, building robust mapping tables, and writing SQL validation queries to guarantee financial traceability. Strong communicator adept at entity-relationship data modelling, warehouse discrepancy analysis, and authoring comprehensive data ingestion documentation."
+      },
+      {
+        "id": "0e282c4dad382bd9e9af3e90",
+        "text": "Software developer with practical experience delivering web booking tools and managing customer support workflows. Skilled in building JavaScript and web-server applications, conducting participatory user prototyping, and troubleshooting production bugs through log tracing and concurrency test cases. Adept at empowering non-technical team members through structured training and clear operational runbooks."
+      },
+      {
+        "id": "1ab022f1e1466aa78f31aeee",
+        "text": "Full-stack software developer with four years of operational café leadership, combining expertise in software engineering, Python, SQL, APIs, cloud environments, and data analytics with advanced spreadsheet reporting. Proven ability to streamline team communication, eliminate operational redundancy, and leverage data analysis to cut inventory waste significantly. Strong mentor experienced in standardising operational workflows and training teams."
+      },
+      {
+        "id": "9437c930cdd235bf0499bbd7",
+        "text": "Detail-oriented technician and measurement specialist experienced in workshop diagnostics and business tools. Demonstrated expertise in logging electrical and mechanical readings, maintaining comprehensive data lineage, and conducting rigorous root-cause analysis on faulty test apparatus. Experienced in establishing standard operating procedures, authoring visual technical guides, and standardising inspection routines."
+      },
+      {
+        "id": "17d7f48982935d1ed80d5610",
+        "text": "Operations coordinator experienced in inventory management, practical testing, and equipment rental desk administration. Proficient in designing automated tracking spreadsheets, forecasting maintenance needs, and resolving customer equipment issues systematically. Skilled in analysing recurring defects to drive process improvements and mentoring new team members using structured, safety-first workflows."
+      },
+      {
+        "id": "ea7db8cc36527ba922a5fe83",
+        "text": "Customer support and operations coordinator with proven experience managing an equipment rental desk. Expert in spreadsheet inventory control, tracking asset lifecycles, and resolving technical client issues with rapid-response problem solving. Skilled in identifying recurring product issues to improve customer documentation, training staff, and developing structured procedural checklists."
+      },
+      {
+        "id": "26437371cff057fea21aef29",
+        "text": "Community operations lead and project organiser experienced in volunteer coordination, workflow optimisation, and spreadsheet reporting. Proven ability to plan and launch service initiatives, adapt delivery schedules under supply constraints, and eliminate administrative duplication through streamlined process mapping. Experienced in creating hands-on training materials and standardising documentation for long-term repeatability."
+      },
+      {
+        "id": "12142b182ca6ad9a11469914",
+        "text": "Full-stack software developer with strong expertise in cloud platforms, APIs, SQL, Python, software engineering, testing, and data analytics, supported by hands-on systems administration and business tools. Experienced in monitoring production media servers, identifying scheduled resource conflicts, and securing server access governance. Skilled in backup verification and producing clear technical runbooks validated through user testing."
+      },
+      {
+        "id": "c4c23837e1e4c9397c7ecb1f",
+        "text": "Quality assurance and testing professional with demonstrated success in automated browser testing, exploratory verification, and release pipeline integration. Experienced in isolating edge-case booking issues via concurrent request testing, analysing system logs, and categorising cross-browser defect trends. Skilled in producing concise test summaries and refining testing checklists to catch defects early."
+      },
+      {
+        "id": "c8f2dc001ad988a1d2b37754",
+        "text": "Data reporting and operations specialist with a strong customer support orientation. Proven track record managing data ingestion into PostgreSQL databases, building entity mapping tables, and writing SQL validation queries to ensure financial reporting accuracy. Experienced in reconciling warehouse inventory anomalies, data modelling, and producing user-friendly technical guides for cross-functional teams."
+      },
+      {
+        "id": "996f9472e307e239c77bd129",
+        "text": "Software developer skilled in building lightweight web tools and generating analytical spreadsheet reports. Experienced in full development lifecycles using JavaScript and web servers, from interactive UI prototyping to production defect resolution using request logs and targeted regression tests. Proficient in writing clear operational documentation and guiding peers through system management workflows."
+      },
+      {
+        "id": "9075a4c3c4b3b9442152bea6",
+        "text": "Operations manager with four years of café leadership experience and a strong command of business tools and spreadsheet reporting. Proven success in restructuring workflow communications, establishing inventory tracking sheets, and using data trends to reduce waste by approximately one third. Skilled in onboarding and training team members, drafting procedural manuals, and maintaining supplier accuracy."
+      },
+      {
+        "id": "7780298dd319113a2d78cfd7",
+        "text": "Full-stack software developer with extensive expertise across software engineering, Python, SQL, APIs, cloud environments, data analytics, and testing, complemented by rigorous hands-on diagnostic measurement experience. Highly proficient in methodical hardware testing, isolating measurement errors, and maintaining reliable test records. Skilled in authoring standard operating procedures and technical documentation."
+      },
+      {
+        "id": "d576025004703e6ac63f7e3e",
+        "text": "Technical operations and customer support specialist experienced in precision measurement and workshop diagnostics. Demonstrated capability in maintaining comprehensive technical records, isolating testing anomalies through systematic hardware checks, and delivering clear documentation for complex procedures. Strong communicator committed to data accuracy and high service standards."
+      },
+      {
+        "id": "82d6017749d32f42d8b32eb3",
+        "text": "Operations coordinator and inventory specialist with strong spreadsheet reporting capabilities. Proven experience designing dynamic tracking sheets with automated alerts for equipment maintenance and returns. Adept at customer troubleshooting, analysing incident trends to enhance user guidelines, and onboarding team members using structured safety and inventory checklists."
+      },
+      {
+        "id": "5a8b1d84378994389ebf7321",
+        "text": "Project and volunteer operations organiser proficient in utilizing modern business tools to streamline community initiatives. Skilled in launch coordination, task breakdown, and dynamic schedule adaptation during vendor delays. Experienced in process mapping to eliminate redundant administration, designing intuitive shared workflows, and mentoring volunteers with structured training guides."
+      },
+      {
+        "id": "fb01a44faff6b101c5bce3fa",
+        "text": "Systems administration and testing specialist experienced in supporting live community media infrastructure. Demonstrated proficiency in real-time server monitoring, diagnosing system bottlenecks, and optimising operational schedules for uninterrupted broadcasts. Skilled in access governance, backup recovery testing, and producing user-validated technical runbooks for incident response."
+      }
+    ]
+  },
+  "usage": {
+    "promptTokenCount": 5778,
+    "candidatesTokenCount": 2049,
+    "totalTokenCount": 7827,
+    "cachedContentTokenCount": 3759,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 5778
+      }
+    ],
+    "cacheTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 3759
+      }
+    ],
+    "serviceTier": "standard"
+  }
+}

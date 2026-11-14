@@ -1,0 +1,408 @@
+{
+  "url": "https://ec.europa.eu/esco/api/resource/skill?language=en&uri=http%3A%2F%2Fdata.europa.eu%2Fesco%2Fskill%2F6833e58b-eceb-4599-9375-1b7e6ec64087",
+  "at": "2026-11-14T22:51:25.162Z",
+  "response": {
+    "className": "Skill",
+    "classId": "http://data.europa.eu/esco/model#Skill",
+    "uri": "http://data.europa.eu/esco/skill/6833e58b-eceb-4599-9375-1b7e6ec64087",
+    "title": "ensure information security",
+    "referenceLanguage": [
+      "en"
+    ],
+    "preferredLabel": {
+      "de": "Informationssicherheit gewährleisten",
+      "no": "sikre informasjonssikkerhet",
+      "fi": "varmistaa tietoturva",
+      "en-us": "ensure information security",
+      "pt": "assegurar a segurança da informação",
+      "bg": "осигуряване на сигурността на информацията",
+      "lt": "užtikrinti informacijos saugumą",
+      "lv": "nodrošināt informācijas drošību",
+      "hr": "osigurati sigurnost informacija",
+      "fr": "garantir la sécurité d'informations",
+      "hu": "gondoskodik az információbiztonságról",
+      "sk": "zabezpečovať bezpečnosť informácií",
+      "sl": "zagotavljati varnost zbranih informacij",
+      "ga": "slándáil faisnéise a chinntiú",
+      "sv": "säkerställa informationssäkerhet",
+      "el": "διασφάλιση της ασφάλειας πληροφοριών",
+      "mt": "żgurar tas-sigurtà tal-informazzjoni",
+      "en": "ensure information security",
+      "is": "tryggir upplýsingaöryggi",
+      "it": "garantire la sicurezza delle informazioni",
+      "es": "garantizar la seguridad de la información",
+      "et": "infoturvet tagama",
+      "cs": "zajistit zabezpečení informací",
+      "ar": "التأكد من أمن المعلومات",
+      "pl": "zapewniać bezpieczeństwo informacji",
+      "ro": "asigură securitatea informațiilor",
+      "da": "sikre informationssikkerheden",
+      "nl": "zorgen voor informatiebeveiliging"
+    },
+    "alternativeLabel": {
+      "fi": [
+        "varmistaa tietoturvallisuus"
+      ],
+      "sl": [
+        "zagotavljati informacijsko varnost"
+      ],
+      "en": [
+        "secure information surveillance",
+        "assure information surveillance",
+        "enable information surveillance",
+        "assure information security",
+        "provide information surveillance",
+        "secure information security",
+        "enable information security",
+        "provide information security"
+      ],
+      "nl": [
+        "informatieveiligheid garanderen",
+        "informatieveiligheid verzekeren",
+        "informatiebeveiliging verzekeren",
+        "informatiebeveiliging garanderen",
+        "zorgen voor informatieveiligheid"
+      ]
+    },
+    "description": {
+      "no": {
+        "literal": "Sikre at informasjonen som samles inn under tilsyn eller kontroller, forblir hos de som er autorisert til å motta og bruke den, og at den ikke havner hos fiender eller andre uautoriserte enkeltpersoner.",
+        "mimetype": "plain/text"
+      },
+      "de": {
+        "literal": "Sicherstellen, dass die bei Überwachungen oder Ermittlungen gesammelten Informationen nur von befugten Personen empfangen und verwendet werden und nicht in feindliche oder unbefugte Hände gelangen.",
+        "mimetype": "plain/text"
+      },
+      "en-us": {
+        "literal": "Ensure that the information gathered during surveillance or investigations remains in the hands of those authorized to receive and use it, and does not fall into enemy or otherwise non-authorized individuals' hands.",
+        "mimetype": "plain/text"
+      },
+      "fi": {
+        "literal": "Varmistaa, että valvonnan tai tutkimusten aikana kerätyt tiedot pysyvät niiden henkilöiden hallussa, joilla on valtuudet vastaanottaa ja käyttää niitä, ja että tiedot eivät joudu vihollisten tai valtuuttamattomien ihmisten käsiin.",
+        "mimetype": "plain/text"
+      },
+      "pt": {
+        "literal": "Assegurar que as informações recolhidas durante as ações de vigilância ou de investigação permanecem na posse das entidades autorizadas a recebê-las e utilizá-las, e não são transmitidas a entidades não autorizadas.",
+        "mimetype": "plain/text"
+      },
+      "bg": {
+        "literal": "Гарантира, че информацията, събрана по време на наблюдението или разследванията, остава на разположение на лицата, които имат разрешение да я получават и използват, и не достига врага или други неупълномощени лица.",
+        "mimetype": "plain/text"
+      },
+      "lt": {
+        "literal": "Užtikrinti, kad stebėjimo ar tyrimų metu surinkta informacija liktų tų asmenų, kuriems suteikta teisė ją gauti ir ja naudotis, rankose ir kad ji nepatektų į priešo ar kitų leidimo neturinčių asmenų rankas.",
+        "mimetype": "plain/text"
+      },
+      "hr": {
+        "literal": "Osigurati da informacije prikupljene tijekom nadzora ili istrage ostanu u rukama onih koji su ovlašteni za njihovo primanje i upotrebu te da ne dođu u ruke neprijatelja ili pojedinaca koji nisu za to ovlašteni.",
+        "mimetype": "plain/text"
+      },
+      "lv": {
+        "literal": "Nodrošināt, ka uzraudzības vai izmeklēšanas laikā iegūtā informācija paliek to personu rokās, kuras ir pilnvarotas saņemt un izmantot šo informāciju, un ka tā nenonāk pretinieku vai kā citādi nepilnvarotu personu rīcībā.",
+        "mimetype": "plain/text"
+      },
+      "fr": {
+        "literal": "Veiller à ce que les informations recueillies au cours de la surveillance ou des enquêtes restent entre les mains des personnes autorisées à les recevoir et à les utiliser, et ne tombent pas dans les mains de l’ennemi ou de toute autre personne non autorisée.",
+        "mimetype": "plain/text"
+      },
+      "hu": {
+        "literal": "Annak biztosítása, hogy a megfigyelés vagy vizsgálat során gyűjtött információk továbbra is azok kezében legyenek, akik jogosultak arra, hogy megkapják és felhasználják azokat, és ne kerüljenek ellenség, vagy más módon illetéktelen személyek kezébe.",
+        "mimetype": "plain/text"
+      },
+      "sk": {
+        "literal": "Zabezpečovať, aby informácie získané počas dohľadu alebo vyšetrovania zostali v rukách tých, ktorí sú oprávnení prijímať a používať ich, a aby sa nedostali do rúk nepriateľa ani inak nepovolaných jednotlivcov.",
+        "mimetype": "plain/text"
+      },
+      "sl": {
+        "literal": "Zagotavljati, da informacije, zbrane med nadzorom ali preiskavami, ostanejo v rokah tistih, ki imajo dovoljenje za njihov prejem in uporabo, in da ne pridejo v roke sovražnikom ali drugim nepooblaščenim osebam.",
+        "mimetype": "plain/text"
+      },
+      "ga": {
+        "literal": "A áirithiú go bhfanfaidh an fhaisnéis a bailíodh le linn an fhaireachais nó na n-imscrúduithe faoi chúram na ndaoine sin atá údaraithe, í a fháil agus a úsáid, agus nach dtagann siad i seilbh duine amháin nó daoine aonair neamhúdaraithe ar shlí eile.",
+        "mimetype": "plain/text"
+      },
+      "sv": {
+        "literal": "Se till att den information som samlas in under övervakning eller utredningar blir kvar hos dem som har tillstånd att ta emot och använda den, och att den inte hamnar i fiendens händer eller i händerna på andra obehöriga personer.",
+        "mimetype": "plain/text"
+      },
+      "mt": {
+        "literal": "Żgurar li l-informazzjoni miġbura matul is-sorveljanza jew l-investigazzjonijiet tibqa’ f’idejn dawk awtorizzati li jirċivuha u jużawha, u ma taqax f’idejn l-għadu jew inkella f’idejn individwi mhux awtorizzati b’xi mod ieħor.",
+        "mimetype": "plain/text"
+      },
+      "el": {
+        "literal": "Διασφάλιση της παραμονής των πληροφοριών οι οποίες συλλέγονται κατά τη διάρκεια επιτήρησης ή ερευνών στην κατοχή των ατόμων τα οποία είναι εξουσιοδοτημένα για την παραλαβή και τη χρήση τους, και της μη απόκτησής τους από τον εχθρό ή μη εξουσιοδοτημένα άτομα.",
+        "mimetype": "plain/text"
+      },
+      "en": {
+        "literal": "Ensure that the information gathered during surveillance or investigations remains in the hands of those authorised to receive and use it, and does not fall into enemy or otherwise non-authorised individuals' hands.",
+        "mimetype": "plain/text"
+      },
+      "is": {
+        "literal": "Tryggir að upplýsingarnar sem safnað er á meðan á eftirliti eða rannsókn stendur séu í höndum þeirra sem hafa heimild til að taka á móti og nota þær, og að þær lendi ekki í höndum óvina eða þeirra sem hafa ekki heimild til að hafa upplýsingarnar.",
+        "mimetype": "plain/text"
+      },
+      "it": {
+        "literal": "Garantire che le informazioni raccolte durante la sorveglianza o le indagini restino nelle mani di coloro che sono autorizzati a riceverle e a utilizzarle, senza cadere in mani nemiche o di altre persone non autorizzate.",
+        "mimetype": "plain/text"
+      },
+      "es": {
+        "literal": "Asegurarse de que la información recopilada durante la vigilancia o las investigaciones permanezca en manos de las personas autorizadas a recibirla y usarla, y no caiga en manos enemigas o de personas no autorizadas.",
+        "mimetype": "plain/text"
+      },
+      "et": {
+        "literal": "Tagamine, et jälitustegevuse või uurimise käigus kogutud teave jääb selle vastuvõtmiseks ja kasutamiseks volitatud isikute kätte ega satu vaenlaste või muude volitamata isikute kätte.",
+        "mimetype": "plain/text"
+      },
+      "cs": {
+        "literal": "Zajistit, aby informace shromážděné během dozoru nebo vyšetřování zůstaly v rukou osob oprávněných je přijímat a využívat a nepadly do rukou nepřítele nebo jinak nepovolané osoby.",
+        "mimetype": "plain/text"
+      },
+      "ar": {
+        "literal": "التأكد أن المعلومات التي تُجمع أثناء المراقبة أو التحقيقات تظل في حوزة أولئك المخولين للحصول عليها واستخدامها والحرص على عدم وقوعها في حوزة العدو أو أفراد آخرين غير مخولين.",
+        "mimetype": "plain/text"
+      },
+      "pl": {
+        "literal": "Zapewniać, że informacje zebrane podczas inwigilacji lub dochodzeń pozostają w rękach osób upoważnionych do ich otrzymania i wykorzystania oraz że nie wpadają w ręce nieprzyjaciela lub innych osób nieupoważnionych.",
+        "mimetype": "plain/text"
+      },
+      "da": {
+        "literal": "Sikre, at de oplysninger, der indsamles i forbindelse med overvågning eller undersøgelser, forbliver hos de personer, der har bemyndigelse til at modtage og anvende dem, og ikke kommer i fjendens besiddelse eller falder i hænderne på ikke-bemyndigede personer.",
+        "mimetype": "plain/text"
+      },
+      "ro": {
+        "literal": "Se asigură că informațiile colectate în timpul supravegherii sau al investigațiilor rămân în mâinile persoanelor autorizate să le primească și să le utilizeze și că acestea nu ajung la inamici sau în posesia persoanelor neautorizate.",
+        "mimetype": "plain/text"
+      },
+      "nl": {
+        "literal": "Ervoor zorgen dat de informatie die tijdens de surveillance of onderzoeken wordt verzameld, in de handen blijft van degenen die gemachtigd zijn de informatie te ontvangen en te gebruiken en niet in de handen valt van vijand of anderszins niet-gemachtigde personen.",
+        "mimetype": "plain/text"
+      }
+    },
+    "status": "released",
+    "_links": {
+      "self": {
+        "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/6833e58b-eceb-4599-9375-1b7e6ec64087&language=en",
+        "uri": "http://data.europa.eu/esco/skill/6833e58b-eceb-4599-9375-1b7e6ec64087",
+        "title": "ensure information security"
+      },
+      "isTopConceptInScheme": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/taxonomy?uri=http://data.europa.eu/esco/concept-scheme/member-skills&language=en",
+          "uri": "http://data.europa.eu/esco/concept-scheme/member-skills",
+          "title": "ESCO member skills"
+        }
+      ],
+      "isInScheme": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/taxonomy?uri=http://data.europa.eu/esco/concept-scheme/skills&language=en",
+          "uri": "http://data.europa.eu/esco/concept-scheme/skills",
+          "title": "ESCO skills"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/taxonomy?uri=http://data.europa.eu/esco/concept-scheme/member-skills&language=en",
+          "uri": "http://data.europa.eu/esco/concept-scheme/member-skills",
+          "title": "ESCO member skills"
+        }
+      ],
+      "hasSkillType": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/concept?uri=http://data.europa.eu/esco/skill-type/skill&language=en",
+          "uri": "http://data.europa.eu/esco/skill-type/skill",
+          "title": "skill"
+        }
+      ],
+      "hasReuseLevel": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/concept?uri=http://data.europa.eu/esco/skill-reuse-level/cross-sector&language=en",
+          "uri": "http://data.europa.eu/esco/skill-reuse-level/cross-sector",
+          "title": "cross-sector skills and competences",
+          "code": "Level 2"
+        }
+      ],
+      "broaderHierarchyConcept": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/concept?uri=http://data.europa.eu/esco/skill/S3.3.6&language=en",
+          "uri": "http://data.europa.eu/esco/skill/S3.3.6",
+          "title": "protecting privacy and personal data",
+          "code": "S3.3.6"
+        }
+      ],
+      "hasOptionalSkill": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/7814e88f-c133-4c3b-b27f-857afa145d42&language=en",
+          "uri": "http://data.europa.eu/esco/skill/7814e88f-c133-4c3b-b27f-857afa145d42",
+          "title": "ICT security legislation",
+          "skillType": "http://data.europa.eu/esco/skill-type/knowledge"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/11eebd42-44ab-401d-8a2c-bdb9fc9beb50&language=en",
+          "uri": "http://data.europa.eu/esco/skill/11eebd42-44ab-401d-8a2c-bdb9fc9beb50",
+          "title": "information security strategy",
+          "skillType": "http://data.europa.eu/esco/skill-type/knowledge"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/3ff589b7-68df-4ea5-ae41-b395bdb2378f&language=en",
+          "uri": "http://data.europa.eu/esco/skill/3ff589b7-68df-4ea5-ae41-b395bdb2378f",
+          "title": "ICT security standards",
+          "skillType": "http://data.europa.eu/esco/skill-type/knowledge"
+        }
+      ],
+      "isEssentialForOccupation": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/4ca8ba6c-dc55-40c0-ae6c-d55c94dd2e03&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/4ca8ba6c-dc55-40c0-ae6c-d55c94dd2e03",
+          "title": "intelligence officer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/b864c9a3-ef6e-46a0-a40c-66188f74dfa7&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/b864c9a3-ef6e-46a0-a40c-66188f74dfa7",
+          "title": "colonel"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/86c892cf-09a3-44c8-b9d1-814d93dbcbb4&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/86c892cf-09a3-44c8-b9d1-814d93dbcbb4",
+          "title": "warfare specialist"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/2ae275fe-4f11-4a38-9e95-d466d74b42a3&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/2ae275fe-4f11-4a38-9e95-d466d74b42a3",
+          "title": "police commissioner"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/853698f5-0f1e-42ae-9301-e5411a26dae2&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/853698f5-0f1e-42ae-9301-e5411a26dae2",
+          "title": "armed forces training and education officer"
+        }
+      ],
+      "isOptionalForOccupation": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/9bf4c8ea-e814-4772-ae31-0f29672dc497&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/9bf4c8ea-e814-4772-ae31-0f29672dc497",
+          "title": "army captain"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/3880e9e8-bc2b-48d9-8afc-a0f258c1c4b0&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/3880e9e8-bc2b-48d9-8afc-a0f258c1c4b0",
+          "title": "police detective"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/ce2b8609-34c7-40d3-a4f7-581c76bd258a&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/ce2b8609-34c7-40d3-a4f7-581c76bd258a",
+          "title": "police inspector"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/8b26eec6-7497-4218-8364-9b5983b04ae7&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/8b26eec6-7497-4218-8364-9b5983b04ae7",
+          "title": "defence administration officer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/bbd1fe06-1b55-4937-9317-fc162311ab38&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/bbd1fe06-1b55-4937-9317-fc162311ab38",
+          "title": "brigadier"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/b223f402-0318-4e27-8691-df6e7f7295d2&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/b223f402-0318-4e27-8691-df6e7f7295d2",
+          "title": "lieutenant"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/c6e5e0e7-fa99-4f71-9fc1-9889d85282a5&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/c6e5e0e7-fa99-4f71-9fc1-9889d85282a5",
+          "title": "army general"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/0f63619d-63ea-4345-81f5-4673353fe8d2&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/0f63619d-63ea-4345-81f5-4673353fe8d2",
+          "title": "court clerk"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/1f665529-96e9-46c1-99f4-9ffbf9ffa036&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/1f665529-96e9-46c1-99f4-9ffbf9ffa036",
+          "title": "auditing clerk"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/bac62d45-bb74-45fa-9b38-a3ebf2095212&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/bac62d45-bb74-45fa-9b38-a3ebf2095212",
+          "title": "case administrator"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/0b1d8dcb-d941-4d79-99bf-fc10c1806c43&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/0b1d8dcb-d941-4d79-99bf-fc10c1806c43",
+          "title": "fleet commander"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/6db9eeae-aef5-4f56-913d-4650e4c720c6&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/6db9eeae-aef5-4f56-913d-4650e4c720c6",
+          "title": "correctional services manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/e4c915ff-6c9c-4fa9-a8fb-09d0c67e30d4&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/e4c915ff-6c9c-4fa9-a8fb-09d0c67e30d4",
+          "title": "army major"
+        }
+      ]
+    },
+    "_embedded": {
+      "ancestors": [
+        {
+          "title": "ensure information security",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/6833e58b-eceb-4599-9375-1b7e6ec64087&language=en",
+              "uri": "http://data.europa.eu/esco/skill/6833e58b-eceb-4599-9375-1b7e6ec64087"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S3.3.6"
+          ]
+        },
+        {
+          "title": "protecting privacy and personal data",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S3.3.6&language=en",
+              "uri": "http://data.europa.eu/esco/skill/S3.3.6"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S3.3"
+          ]
+        },
+        {
+          "title": "protecting and enforcing",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S3.3&language=en",
+              "uri": "http://data.europa.eu/esco/skill/S3.3"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S3"
+          ]
+        },
+        {
+          "title": "assisting and caring",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S3&language=en",
+              "uri": "http://data.europa.eu/esco/skill/S3"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S"
+          ]
+        },
+        {
+          "title": "skills",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S&language=en",
+              "uri": "http://data.europa.eu/esco/skill/S"
+            }
+          },
+          "parents": []
+        }
+      ]
+    }
+  }
+}

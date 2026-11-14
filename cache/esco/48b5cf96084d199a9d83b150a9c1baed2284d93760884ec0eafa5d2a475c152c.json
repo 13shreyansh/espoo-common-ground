@@ -1,0 +1,882 @@
+{
+  "url": "https://ec.europa.eu/esco/api/resource/skill?language=en&uri=http%3A%2F%2Fdata.europa.eu%2Fesco%2Fskill%2F7ee4c2ea-b349-4bd2-81a3-ec31475d4833",
+  "at": "2026-11-14T23:00:07.156Z",
+  "response": {
+    "className": "Skill",
+    "classId": "http://data.europa.eu/esco/model#Skill",
+    "uri": "http://data.europa.eu/esco/skill/7ee4c2ea-b349-4bd2-81a3-ec31475d4833",
+    "title": "statistics",
+    "referenceLanguage": [
+      "en"
+    ],
+    "preferredLabel": {
+      "no": "statistikk",
+      "de": "Statistik",
+      "fi": "tilastot",
+      "en-us": "statistics",
+      "pt": "estatística",
+      "bg": "статистика",
+      "lt": "statistika",
+      "lv": "statistika",
+      "hr": "statistika",
+      "fr": "statistiques",
+      "hu": "statisztika",
+      "sk": "štatistika",
+      "sl": "statistika",
+      "ga": "staidreamh",
+      "sv": "statistik",
+      "mt": "statistika",
+      "el": "στατιστικές",
+      "en": "statistics",
+      "is": "tölfræði",
+      "it": "statistica",
+      "es": "estadística",
+      "et": "statistika",
+      "cs": "statistika",
+      "ar": "علم الإحصاء",
+      "pl": "statystyka",
+      "da": "statistik",
+      "ro": "statistică",
+      "nl": "statistiek"
+    },
+    "alternativeLabel": {
+      "fi": [
+        "tilastotiede"
+      ],
+      "en": [
+        "use of statistics in performance of work",
+        "data analysis",
+        "data",
+        "stats",
+        "use of data",
+        "use of data in performance of work",
+        "statistical analysis",
+        "use of statistics"
+      ]
+    },
+    "description": {
+      "de": {
+        "literal": "Fachgebiet der statistischen Theorie, Methoden und Praktiken, z. B. Erhebung, Organisation, Auswertung, Auslegung und Darstellung von Daten. Statistik befasst sich mit allen Aspekten von Daten, einschließlich der Planung der Datenerhebung in Bezug auf die Konzeption von Umfragen und Experimenten zur Prognose und Planung arbeitsbezogener Tätigkeiten.",
+        "mimetype": "plain/text"
+      },
+      "no": {
+        "literal": "Studiet av statistisk teori, metoder og praksis, f.eks. innsamling, organisering, analyse, tolkning og presentasjon av data. Det omhandler alle aspekter ved data, inkludert planlegging av datainnsamling med hensyn til design av undersøkelser og eksperimenter for å anslå og planlegge arbeidsrelaterte aktiviteter.",
+        "mimetype": "plain/text"
+      },
+      "fi": {
+        "literal": "Tilastoteorian tutkimus, menetelmiä ja käytäntöjä, kuten tietojen keruuta, järjestämistä, analysointia, tulkintaa ja esittämistä. Siinä käsitellään kaikkia tietojen näkökohtia, muun muassa tiedonkeruun suunnittelua kyselyjen ja kokeiden suunnittelun kannalta, jotta voitaisiin ennakoida ja suunnitella työhön liittyviä toimintoja.",
+        "mimetype": "plain/text"
+      },
+      "en-us": {
+        "literal": "The study of statistical theory, methods and practices such as collection, organization, analysis, interpretation and presentation of data. It deals with all aspects of data including the planning of data collection in terms of the design of surveys and experiments in order to forecast and plan work-related activities.",
+        "mimetype": "plain/text"
+      },
+      "pt": {
+        "literal": "Estudo da teoria estatística, métodos e práticas como a recolha, a organização, a análise, a interpretação e a apresentação de dados. Trata de todos os aspetos dos dados, incluindo o planeamento da recolha de dados em termos de conceção de inquéritos e experiências, a fim de prever e planear atividades relacionadas com o trabalho.",
+        "mimetype": "plain/text"
+      },
+      "bg": {
+        "literal": "Изследването на статистическата теория, методи и практики, като събиране, организация, анализ, обяснение и представяне на данни. Тя се занимава с всички аспекти на данните, включително планирането на събирането на данни от гледна точка на планиране на проучвания и експерименти, за да се прогнозират и планират дейности, свързани с работата.",
+        "mimetype": "plain/text"
+      },
+      "lt": {
+        "literal": "Statistikos teorijos, metodų ir praktikos, kaip antai duomenų rinkimas, tvarkymas, analizė, aiškinimas ir pateikimas, studijos. Jose aptariami visi duomenų aspektai, įskaitant duomenų rinkimo planavimą rengiant apklausas ir eksperimentus, siekiant prognozuoti ir planuoti su darbu susijusią veiklą.",
+        "mimetype": "plain/text"
+      },
+      "lv": {
+        "literal": "Statistikas teorijas izpēte, metodes un prakse, piemēram, datu vākšana, organizēšana, analīze, interpretācija un datu noformēšana. Tā attiecas uz visiem datu aspektiem, tostarp datu vākšanas plānošanu saistībā ar aptauju un eksperimentu izstrādi, lai prognozētu un plānotu ar darbu saistītus pasākumus.",
+        "mimetype": "plain/text"
+      },
+      "hr": {
+        "literal": "Proučavanje statističke teorije, primjena metoda i praksi kao što su prikupljanje, organizacija, analiza, tumačenje i predstavljanje podataka. Bavi se svim aspektima podataka, uključujući planiranje prikupljanja podataka u pogledu osmišljavanja anketa i eksperimenata kako bi se predvidjele i provodile aktivnosti povezane s poslom.",
+        "mimetype": "plain/text"
+      },
+      "fr": {
+        "literal": "L’étude de la théorie, des méthodes et des pratiques statistiques, telles que la collecte, l’organisation, l’analyse, l’interprétation et la présentation des données. Les statistiques traitent de tous les aspects des données, y compris la planification de la collecte de données pour ce qui est de la conception des enquêtes et des expériences, afin de prévoir et de planifier des activités liées au travail.",
+        "mimetype": "plain/text"
+      },
+      "hu": {
+        "literal": "Az adatok gyűjtésére, szervezésére, elemzésére, értelmezésére és bemutatására vonatkozó statisztikai elmélet, módszerek és gyakorlatok tanulmányozása. Az adatok valamennyi aspektusával foglalkozik, többek között az adatgyűjtés megtervezésével, a felmérések és kísérletek megtervezésével annak érdekében, hogy előre jelezzék és megtervezzék a munkával kapcsolatos tevékenységeket.",
+        "mimetype": "plain/text"
+      },
+      "sk": {
+        "literal": "Štúdium štatistickej teórie, metód a postupov, ako je získavanie, organizácia, analýza, výklad a prezentácia údajov. Zaoberá sa všetkými aspektmi údajov vrátane plánovania získavania údajov pri navrhovaní prieskumov a experimentov s cieľom predpovedať a plánovať pracovné aktivity.",
+        "mimetype": "plain/text"
+      },
+      "sl": {
+        "literal": "Proučevanje statistične teorije, metod in praks, kot so zbiranje, organizacija, analiza, razlaga in predstavitev podatkov. Obravnava vse vidike podatkov, vključno z načrtovanjem zbiranja podatkov v skladu z zasnovo raziskav in preskusov z namenom napovedati in načrtovati dejavnosti, povezane z delom.",
+        "mimetype": "plain/text"
+      },
+      "ga": {
+        "literal": "An staidéar ar theoiric, mhodhanna agus chleachtais staidrimh amhail bailiú, eagrú, anailísiú, léirmhíniú agus cur i láthair sonraí. Pléann sé le gach gné de shonraí, lena n-áirítear bailiú sonraí a phleanáil maidir le dearadh na suirbhéanna agus na dturgnamh sin d’fhonn na gníomhaíochtaí sin a thuar agus a phleanáil.",
+        "mimetype": "plain/text"
+      },
+      "sv": {
+        "literal": "Studiet av statistiska teorier, metoder och praxis såsom insamling, organisering, analys, tolkning och presentation av data. Statistiken behandlar alla aspekter av data, inbegripet planering av datainsamling i fråga om projektering och experiment för att förutse och planera arbetsrelaterad verksamhet.",
+        "mimetype": "plain/text"
+      },
+      "mt": {
+        "literal": "L-istudju tat-teorija tal-istatistika, il-metodi u l-prattiki bħal ġbir, organizzazzjoni, analiżi, interpretazzjoni u preżentazzjoni tad-dejta. Din tittratta l-aspetti kollha tad-dejta, inkluż l-ippjanar tal-ġbir tad-dejta f’termini tat-tfassil ta’ stħarriġiet u esperimenti sabiex jitbassru u jiġu ppjanati attivitajiet relatati max-xogħol.",
+        "mimetype": "plain/text"
+      },
+      "el": {
+        "literal": "Η μελέτη της στατιστικής θεωρίας, των μεθόδων και των πρακτικών όπως η συλλογή, η οργάνωση, η ανάλυση, η ερμηνεία και η παρουσίαση των δεδομένων. Ασχολείται με όλες τις πτυχές των δεδομένων, συμπεριλαμβανομένου του σχεδιασμού της συλλογής δεδομένων όσον αφορά τον σχεδιασμό ερευνών και πειραμάτων με σκοπό την πρόβλεψη και τον προγραμματισμό δραστηριοτήτων που σχετίζονται με την εργασία.",
+        "mimetype": "plain/text"
+      },
+      "en": {
+        "literal": "The study of statistical theory, methods and practices such as collection, organisation, analysis, interpretation and presentation of data. It deals with all aspects of data including the planning of data collection in terms of the design of surveys and experiments in order to forecast and plan work-related activities.",
+        "mimetype": "plain/text"
+      },
+      "is": {
+        "literal": "Rannsókn á tölfræðilegum kenningum, aðferðum og starfsháttum svo sem söfnun, skipulagi, greiningu, túlkun og framsetningu gagna. Þetta fjallar um alla þætti gagna, þ.m.t. skipulagningu gagnaöflunar hvað varðar hönnun kannana og tilrauna til að spá í og skipuleggja vinnutengda starfsemi.",
+        "mimetype": "plain/text"
+      },
+      "it": {
+        "literal": "Lo studio della teoria, dei metodi e delle pratiche della statistica, quali la raccolta, l’organizzazione, l’analisi, l’interpretazione e la presentazione dei dati. Si occupa di tutti gli aspetti relativi ai dati, tra cui la pianificazione della loro raccolta in termini di progettazione di indagini ed esperimenti al fine di prevedere e programmare le attività.",
+        "mimetype": "plain/text"
+      },
+      "es": {
+        "literal": "El estudio de la teoría, los métodos y las prácticas estadísticos como recopilación, organización, análisis, interpretación y presentación de datos. Se ocupa de todos los aspectos de los datos, incluida la planificación de la recogida de datos desde el punto de vista de la creación de encuestas y experimentos para pronosticar y planificar actividades de índole laboral.",
+        "mimetype": "plain/text"
+      },
+      "et": {
+        "literal": "Teadusharu, mis uurib statistika teooriat, meetodeid ja tavasid, näiteks andmete kogumist, korrastamist, analüüsi, tõlgendamist ja esitamist. See käsitleb kõiki andmeaspekte, sealhulgas andmekogumise kavandamist uuringute ja katsete kavandamisel, et prognoosida ja planeerida tööga seotud tegevusi.",
+        "mimetype": "plain/text"
+      },
+      "cs": {
+        "literal": "Nauka o statistické teorii, metodách a postupech, jako je shromažďování, organizace, analýza, interpretace a předkládání údajů. Zabývá se všemi aspekty údajů, včetně plánování sběru údajů, pokud jde o navrhování průzkumů a pokusů za účelem předpovídání a plánování činností souvisejících s prací.",
+        "mimetype": "plain/text"
+      },
+      "ar": {
+        "literal": "دراسة النظرية والأساليب والممارسات الإحصائية مثل جمع البيانات وتنظيمها وتحليلها وتفسيرها وعرضها. وهو يتناول جميع جوانب البيانات بما في ذلك التخطيط لجمع البيانات من حيث تصميم الدراسات الاستقصائية والتجارب من أجل التنبؤ والتخطيط للأنشطة المتعلقة بالعمل.",
+        "mimetype": "plain/text"
+      },
+      "pl": {
+        "literal": "Badanie teorii statystycznej, metod i praktyk takich jak gromadzenie, organizacja, analiza, interpretacja i prezentacja danych. Obejmuje ona wszystkie aspekty danych, w tym planowanie gromadzenia danych w zakresie badań i eksperymentów w celu prognozowania i planowania działań związanych z pracą.",
+        "mimetype": "plain/text"
+      },
+      "da": {
+        "literal": "Studiet af statistisk teori, metoder og praksis såsom indsamling, tilrettelæggelse, analyse, fortolkning og præsentation af data. Det vedrører alle datamæssige aspekter, herunder planlægning af dataindsamling i form af udarbejdelse af spørgeundersøgelser og eksperimenter med henblik på at forudsige og planlægge arbejdsrelaterede aktiviteter.",
+        "mimetype": "plain/text"
+      },
+      "ro": {
+        "literal": "Studiul teoriei, metodelor și practicilor statistice, cum ar fi culegerea, organizarea, analiza, interpretarea și prezentarea de date. Se ocupă cu toate aspectele legate de date, inclusiv planificarea culegerii de date în ceea ce privește conceperea de studii și experimente pentru a prevedea și a planifica activități legate de muncă.",
+        "mimetype": "plain/text"
+      },
+      "nl": {
+        "literal": "De studie van statistische theorie, methoden en praktijken zoals verzameling, organisatie, analyse, interpretatie en presentatie van gegevens. Het heeft betrekking op alle aspecten van gegevens, met inbegrip van de planning van de gegevensverzameling wat betreft het ontwerp van enquêtes en experimenten om werkgerelateerde activiteiten te voorspellen en te plannen.",
+        "mimetype": "plain/text"
+      }
+    },
+    "status": "released",
+    "_links": {
+      "self": {
+        "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/7ee4c2ea-b349-4bd2-81a3-ec31475d4833&language=en",
+        "uri": "http://data.europa.eu/esco/skill/7ee4c2ea-b349-4bd2-81a3-ec31475d4833",
+        "title": "statistics"
+      },
+      "isTopConceptInScheme": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/taxonomy?uri=http://data.europa.eu/esco/concept-scheme/member-skills&language=en",
+          "uri": "http://data.europa.eu/esco/concept-scheme/member-skills",
+          "title": "ESCO member skills"
+        }
+      ],
+      "isInScheme": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/taxonomy?uri=http://data.europa.eu/esco/concept-scheme/member-skills&language=en",
+          "uri": "http://data.europa.eu/esco/concept-scheme/member-skills",
+          "title": "ESCO member skills"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/taxonomy?uri=http://data.europa.eu/esco/concept-scheme/skills&language=en",
+          "uri": "http://data.europa.eu/esco/concept-scheme/skills",
+          "title": "ESCO skills"
+        }
+      ],
+      "hasSkillType": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/concept?uri=http://data.europa.eu/esco/skill-type/knowledge&language=en",
+          "uri": "http://data.europa.eu/esco/skill-type/knowledge",
+          "title": "knowledge"
+        }
+      ],
+      "hasReuseLevel": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/concept?uri=http://data.europa.eu/esco/skill-reuse-level/cross-sector&language=en",
+          "uri": "http://data.europa.eu/esco/skill-reuse-level/cross-sector",
+          "title": "cross-sector skills and competences",
+          "code": "Level 2"
+        }
+      ],
+      "broaderHierarchyConcept": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/concept?uri=http://data.europa.eu/esco/isced-f/0542&language=en",
+          "uri": "http://data.europa.eu/esco/isced-f/0542",
+          "title": "statistics"
+        }
+      ],
+      "narrowerSkill": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/a261c61a-29b8-4b6a-a283-e5a7d5077352&language=en",
+          "uri": "http://data.europa.eu/esco/skill/a261c61a-29b8-4b6a-a283-e5a7d5077352",
+          "title": "biostatistics",
+          "skillType": "http://data.europa.eu/esco/skill-type/knowledge"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/0c77bcd5-b94a-475d-98e9-5a4327e4d726&language=en",
+          "uri": "http://data.europa.eu/esco/skill/0c77bcd5-b94a-475d-98e9-5a4327e4d726",
+          "title": "statistical process control",
+          "skillType": "http://data.europa.eu/esco/skill-type/knowledge"
+        }
+      ],
+      "isEssentialForOccupation": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/eda0d957-3c3c-4139-b89a-a18bc9e18897&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/eda0d957-3c3c-4139-b89a-a18bc9e18897",
+          "title": "accountant"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/55167849-82cf-484e-b818-fa702a4e69e9&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/55167849-82cf-484e-b818-fa702a4e69e9",
+          "title": "hydrologist"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/11df8941-508c-4103-ad40-52cdf9430a59&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/11df8941-508c-4103-ad40-52cdf9430a59",
+          "title": "sociologist"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/bc659adc-f42c-4ef6-89fe-fd030033f446&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/bc659adc-f42c-4ef6-89fe-fd030033f446",
+          "title": "cosmologist"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/66fb9704-0d56-4673-8e69-7823816b73e1&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/66fb9704-0d56-4673-8e69-7823816b73e1",
+          "title": "market research analyst"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/56afc09a-75a0-49c7-a5cb-256df45d8f2d&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/56afc09a-75a0-49c7-a5cb-256df45d8f2d",
+          "title": "economic adviser"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/99492920-e5a5-4dba-9e5a-93193147198c&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/99492920-e5a5-4dba-9e5a-93193147198c",
+          "title": "economist"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/68d973df-bf10-4bf7-9a1b-fbd9f604b9db&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/68d973df-bf10-4bf7-9a1b-fbd9f604b9db",
+          "title": "bioinformatics scientist"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/8d586ee9-0ab1-4155-a3b0-2ca786c8e48c&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/8d586ee9-0ab1-4155-a3b0-2ca786c8e48c",
+          "title": "financial analyst"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/bac64fa2-dcd6-47bb-8e5c-04e04a86a199&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/bac64fa2-dcd6-47bb-8e5c-04e04a86a199",
+          "title": "geographer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/258e46f9-0075-4a2e-adae-1ff0477e0f30&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/258e46f9-0075-4a2e-adae-1ff0477e0f30",
+          "title": "data scientist"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/b0f3f595-4965-4f13-ba5c-f6049b62469f&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/b0f3f595-4965-4f13-ba5c-f6049b62469f",
+          "title": "biometrician"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/ac8b3cd1-a127-4e6a-8208-5cfcf7111955&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/ac8b3cd1-a127-4e6a-8208-5cfcf7111955",
+          "title": "statistician"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/93e4e70b-aae4-4fdc-8037-e48e7077564e&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/93e4e70b-aae4-4fdc-8037-e48e7077564e",
+          "title": "transport planner"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/623958d6-775c-4586-b928-86582d9d1b69&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/623958d6-775c-4586-b928-86582d9d1b69",
+          "title": "food production planner"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/3f3748a7-4bb3-40b4-9ae3-1c5040c70f52&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/3f3748a7-4bb3-40b4-9ae3-1c5040c70f52",
+          "title": "rail project engineer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/9af8907f-56a7-4170-83b1-3c6ba0997cfa&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/9af8907f-56a7-4170-83b1-3c6ba0997cfa",
+          "title": "geographic information systems specialist"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/0611f232-b30e-46c7-9c26-2d59b1448e79&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/0611f232-b30e-46c7-9c26-2d59b1448e79",
+          "title": "criminologist"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/4b759f0e-8fec-4cf5-80d4-d112a9fd4e51&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/4b759f0e-8fec-4cf5-80d4-d112a9fd4e51",
+          "title": "oceanographer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/4f89b0d2-b666-4890-af01-25d1d60da1f3&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/4f89b0d2-b666-4890-af01-25d1d60da1f3",
+          "title": "political scientist"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/808b5940-8092-4f08-bc37-9b60ee5761d8&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/808b5940-8092-4f08-bc37-9b60ee5761d8",
+          "title": "assayer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/b79cfd33-6e46-4b71-b180-c9a84422f047&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/b79cfd33-6e46-4b71-b180-c9a84422f047",
+          "title": "seismologist"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/72628f3a-fd49-499a-9741-870b0a1fcef2&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/72628f3a-fd49-499a-9741-870b0a1fcef2",
+          "title": "mathematician"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/8606c0fd-c7cb-404d-887f-3a30ef7a81b4&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/8606c0fd-c7cb-404d-887f-3a30ef7a81b4",
+          "title": "sensory scientist"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/7f2761eb-4edc-48ad-9fbf-eed0a0db9a21&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/7f2761eb-4edc-48ad-9fbf-eed0a0db9a21",
+          "title": "physicist"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/d2e63d7e-2605-4af1-bb7d-b1ed9ad08825&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/d2e63d7e-2605-4af1-bb7d-b1ed9ad08825",
+          "title": "statistical assistant"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/441a5b76-2f51-4704-9df7-3b8e715dd3ad&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/441a5b76-2f51-4704-9df7-3b8e715dd3ad",
+          "title": "behavioural scientist"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/574f3232-1d07-4034-8cac-c57ddbfff192&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/574f3232-1d07-4034-8cac-c57ddbfff192",
+          "title": "analytical chemist"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/57a12047-4f1e-40ed-add5-9736923f231b&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/57a12047-4f1e-40ed-add5-9736923f231b",
+          "title": "astronomer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/c6196b21-20f9-4608-83fb-6f143afc740d&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/c6196b21-20f9-4608-83fb-6f143afc740d",
+          "title": "geologist"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/3dbd758c-6dc0-41fe-8248-2250c9bfa4ab&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/3dbd758c-6dc0-41fe-8248-2250c9bfa4ab",
+          "title": "climatologist"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/160c1469-bbb6-48d3-b2a7-db8b30d724b5&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/160c1469-bbb6-48d3-b2a7-db8b30d724b5",
+          "title": "actuarial assistant"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/d3edb8f8-3a06-47a0-8fb9-9b212c006aa2&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/d3edb8f8-3a06-47a0-8fb9-9b212c006aa2",
+          "title": "data analyst"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/068c2787-58ff-468e-bbb6-c4e5dd6ee482&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/068c2787-58ff-468e-bbb6-c4e5dd6ee482",
+          "title": "actuarial consultant"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/fb3f5f35-e6f7-4168-aef2-e4dfb7f2a3ee&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/fb3f5f35-e6f7-4168-aef2-e4dfb7f2a3ee",
+          "title": "geology technician"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/ff656b3a-65a8-4b4f-b04e-9db12936519b&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/ff656b3a-65a8-4b4f-b04e-9db12936519b",
+          "title": "demographer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/207d7b18-6540-432e-8aa6-785ed434572f&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/207d7b18-6540-432e-8aa6-785ed434572f",
+          "title": "business intelligence manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/b73c752b-9858-4f53-82de-f3a340cbcae9&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/b73c752b-9858-4f53-82de-f3a340cbcae9",
+          "title": "epidemiologist"
+        }
+      ],
+      "isOptionalForOccupation": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/04f39bfa-bc03-4480-98bc-b18ce4fe4b4b&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/04f39bfa-bc03-4480-98bc-b18ce4fe4b4b",
+          "title": "accounting manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/64e38ce7-3901-4261-bfee-77c7a77397f2&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/64e38ce7-3901-4261-bfee-77c7a77397f2",
+          "title": "policy manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/5efb2c08-ba3a-4659-a2e4-1883f54e77b6&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/5efb2c08-ba3a-4659-a2e4-1883f54e77b6",
+          "title": "secondary school teacher"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/c3aae59e-1441-4b3e-bdd1-6da50dc7cf42&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/c3aae59e-1441-4b3e-bdd1-6da50dc7cf42",
+          "title": "bookkeeper"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/1c862e14-80f8-4aa8-8f1c-fd2ca95b63ad&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/1c862e14-80f8-4aa8-8f1c-fd2ca95b63ad",
+          "title": "meteorologist"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/a7594892-ff23-4e2a-aedf-2f967ebca15c&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/a7594892-ff23-4e2a-aedf-2f967ebca15c",
+          "title": "sales manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/0d7ae791-653e-4297-9f61-8bad87f61d57&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/0d7ae791-653e-4297-9f61-8bad87f61d57",
+          "title": "meteorology technician"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/998a0bf4-b1be-42ab-aee5-0096c9be3319&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/998a0bf4-b1be-42ab-aee5-0096c9be3319",
+          "title": "quality engineering technician"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/33fe4c90-c4fd-4860-bdc5-24fcab16f45a&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/33fe4c90-c4fd-4860-bdc5-24fcab16f45a",
+          "title": "food analyst"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/05a06850-d465-481e-9d68-792d4ad1da3e&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/05a06850-d465-481e-9d68-792d4ad1da3e",
+          "title": "foreign exchange trader"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/0959cd1d-f6c8-4362-939a-ad7d5f75d659&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/0959cd1d-f6c8-4362-939a-ad7d5f75d659",
+          "title": "economics lecturer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/e4cdfa86-c3b1-41f1-a4e2-384c73d03bd3&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/e4cdfa86-c3b1-41f1-a4e2-384c73d03bd3",
+          "title": "commodity trader"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/b680251e-b3c7-4029-9849-66a95081801c&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/b680251e-b3c7-4029-9849-66a95081801c",
+          "title": "bank treasurer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/6fcf4638-e7c7-4978-9302-9a7b63a3d57c&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/6fcf4638-e7c7-4978-9302-9a7b63a3d57c",
+          "title": "marketing manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/68ffc53b-6067-4fe7-bd85-c96f4a6c1e45&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/68ffc53b-6067-4fe7-bd85-c96f4a6c1e45",
+          "title": "food biotechnologist"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/9e4269d5-e10e-4f49-ac99-65c833f933a2&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/9e4269d5-e10e-4f49-ac99-65c833f933a2",
+          "title": "central bank governor"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/4bc4170d-f4df-44e4-a3be-394242ae3017&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/4bc4170d-f4df-44e4-a3be-394242ae3017",
+          "title": "securities trader"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/c0463fbe-7914-48ac-84ec-abaee1a7f292&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/c0463fbe-7914-48ac-84ec-abaee1a7f292",
+          "title": "securities broker"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/12ff7f9c-c5b5-4d4a-b585-c350dd1400eb&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/12ff7f9c-c5b5-4d4a-b585-c350dd1400eb",
+          "title": "business economics researcher"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/279c0ab1-212b-4e89-a41f-048f5de9dadf&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/279c0ab1-212b-4e89-a41f-048f5de9dadf",
+          "title": "rail logistics coordinator"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/e9cf8b24-6b8b-47cc-9dd3-b601aa135960&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/e9cf8b24-6b8b-47cc-9dd3-b601aa135960",
+          "title": "special-interest groups' official"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/a1cf1406-3632-494c-bff3-0bd5d5327d8f&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/a1cf1406-3632-494c-bff3-0bd5d5327d8f",
+          "title": "survey enumerator"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/b55718eb-e8ff-4485-8ad0-bbac32cbd77b&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/b55718eb-e8ff-4485-8ad0-bbac32cbd77b",
+          "title": "advertising media planner"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/0ddbf393-38f1-4c22-b14c-fe775008f321&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/0ddbf393-38f1-4c22-b14c-fe775008f321",
+          "title": "chief marketing officer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/b2e81332-0972-4e0f-9a4d-1d15c9c9513b&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/b2e81332-0972-4e0f-9a4d-1d15c9c9513b",
+          "title": "back office specialist"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/3b6d4443-4518-4fb3-ae44-188a958e328d&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/3b6d4443-4518-4fb3-ae44-188a958e328d",
+          "title": "stock trader"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/9e1e8379-6377-4969-b141-0d2337218fc9&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/9e1e8379-6377-4969-b141-0d2337218fc9",
+          "title": "economic development coordinator"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/7843a4c6-a9f6-4095-94b9-45b384d4bd57&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/7843a4c6-a9f6-4095-94b9-45b384d4bd57",
+          "title": "market research interviewer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/7bcafcd7-3f35-4a72-849c-c92b334927fd&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/7bcafcd7-3f35-4a72-849c-c92b334927fd",
+          "title": "insurance risk consultant"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/49023c69-302f-4671-b26f-7229d1a53915&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/49023c69-302f-4671-b26f-7229d1a53915",
+          "title": "communications lecturer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/c530b0ee-46f8-40fb-818c-d9b44b891cb9&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/c530b0ee-46f8-40fb-818c-d9b44b891cb9",
+          "title": "banking products manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/35fbb8cd-c044-49a1-850c-010481c99b4a&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/35fbb8cd-c044-49a1-850c-010481c99b4a",
+          "title": "financial markets back office administrator"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/0085f271-5999-4d42-b879-75c3b4269883&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/0085f271-5999-4d42-b879-75c3b4269883",
+          "title": "hydrogenation machine operator"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/1e331638-3f66-4641-9c49-56a94235f94c&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/1e331638-3f66-4641-9c49-56a94235f94c",
+          "title": "insurance rating analyst"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/59a02420-91df-4e46-b37b-22e3fd8c11f0&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/59a02420-91df-4e46-b37b-22e3fd8c11f0",
+          "title": "physics lecturer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/116b4c55-5bd0-41e9-9227-98d7ecffeaf6&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/116b4c55-5bd0-41e9-9227-98d7ecffeaf6",
+          "title": "sociology lecturer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/bfe142b9-a049-4d41-89c4-fd2f34ac56b6&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/bfe142b9-a049-4d41-89c4-fd2f34ac56b6",
+          "title": "accounting assistant"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/276a4ff1-a67c-4677-9f20-dc85f1060e1b&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/276a4ff1-a67c-4677-9f20-dc85f1060e1b",
+          "title": "middle office analyst"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/a9bcc9e0-5be7-47a0-818b-acad10fe90d9&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/a9bcc9e0-5be7-47a0-818b-acad10fe90d9",
+          "title": "physics technician"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/aacc3918-b5d3-484b-9480-5d29aa550d74&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/aacc3918-b5d3-484b-9480-5d29aa550d74",
+          "title": "supply chain manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/4e4a1aa1-ca53-406e-9ca6-889d4621a0ed&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/4e4a1aa1-ca53-406e-9ca6-889d4621a0ed",
+          "title": "big data archive librarian"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/456ed487-02f2-45c9-9213-d0fd8e9a069d&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/456ed487-02f2-45c9-9213-d0fd8e9a069d",
+          "title": "ICT application configurator"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/44e0c015-309d-4f67-98a3-1e036966ed7f&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/44e0c015-309d-4f67-98a3-1e036966ed7f",
+          "title": "budget manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/80c72c55-556a-41b1-87ef-a29c3d2afa6e&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/80c72c55-556a-41b1-87ef-a29c3d2afa6e",
+          "title": "business studies and economics teacher secondary school"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/0d442b70-5413-4820-bebf-36dd5ce437ac&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/0d442b70-5413-4820-bebf-36dd5ce437ac",
+          "title": "air traffic manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/8ec6b513-3d44-4e94-b187-d55734a587a4&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/8ec6b513-3d44-4e94-b187-d55734a587a4",
+          "title": "stock broker"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/f84dbfe2-fa6b-43ef-97f5-54c3ad9c631f&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/f84dbfe2-fa6b-43ef-97f5-54c3ad9c631f",
+          "title": "raw material reception operator"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/5e5b1b61-1351-4d3b-a293-deb3661715dd&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/5e5b1b61-1351-4d3b-a293-deb3661715dd",
+          "title": "financial controller"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/c593ded7-2e97-44a5-a5f3-f6115ff98233&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/c593ded7-2e97-44a5-a5f3-f6115ff98233",
+          "title": "politics lecturer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/c872187a-079b-413b-8503-7b5dd92abb88&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/c872187a-079b-413b-8503-7b5dd92abb88",
+          "title": "food regulatory advisor"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/fadb09c5-db84-4240-9fd6-68b4c0abeed5&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/fadb09c5-db84-4240-9fd6-68b4c0abeed5",
+          "title": "foreign exchange broker"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/2f5de1ab-eddf-4715-8193-e994912c22ea&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/2f5de1ab-eddf-4715-8193-e994912c22ea",
+          "title": "warehouse manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/fc81b573-e0ea-4466-8560-c2bb278c314a&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/fc81b573-e0ea-4466-8560-c2bb278c314a",
+          "title": "futures trader"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/b7fc1cd1-0d6d-4e9e-8a9f-c3270201be81&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/b7fc1cd1-0d6d-4e9e-8a9f-c3270201be81",
+          "title": "foreign exchange cashier"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/076d23f3-a689-4f1a-8b55-ae870c9aaa85&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/076d23f3-a689-4f1a-8b55-ae870c9aaa85",
+          "title": "securities analyst"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/73856e9e-eca2-44c2-bb3c-aaedf4b25979&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/73856e9e-eca2-44c2-bb3c-aaedf4b25979",
+          "title": "insurance product manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/30f3ea93-882a-4525-841c-1d5b4b64076f&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/30f3ea93-882a-4525-841c-1d5b4b64076f",
+          "title": "financial manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/01a83071-6533-4675-b2da-f0c6d02669f5&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/01a83071-6533-4675-b2da-f0c6d02669f5",
+          "title": "insurance claims handler"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/47e81c7f-2d04-4a60-a8ff-9913c36d8344&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/47e81c7f-2d04-4a60-a8ff-9913c36d8344",
+          "title": "marketing assistant"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/49e28648-4fa8-4b36-ac4d-781c108547bf&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/49e28648-4fa8-4b36-ac4d-781c108547bf",
+          "title": "freight transport dispatcher"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/2af80b12-a73a-4cc2-8af1-d26a1e60738d&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/2af80b12-a73a-4cc2-8af1-d26a1e60738d",
+          "title": "commodity broker"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/8a3498c7-470a-4067-b48e-f330d9b702e8&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/8a3498c7-470a-4067-b48e-f330d9b702e8",
+          "title": "securities underwriter"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/aeb7c6bd-22c9-43c2-8551-a1cc2560584f&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/aeb7c6bd-22c9-43c2-8551-a1cc2560584f",
+          "title": "forecast manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/c262bb96-03bb-4c97-a45b-0cf36db5b048&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/c262bb96-03bb-4c97-a45b-0cf36db5b048",
+          "title": "assistant lecturer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/580c98d4-fb97-4597-864c-54140f058f1b&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/580c98d4-fb97-4597-864c-54140f058f1b",
+          "title": "call centre quality auditor"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/5ac65daa-0896-4193-9f0e-8b00746b78a1&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/5ac65daa-0896-4193-9f0e-8b00746b78a1",
+          "title": "university research assistant"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/7086d0ca-1e77-4690-89c9-7ed1a0478fa3&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/7086d0ca-1e77-4690-89c9-7ed1a0478fa3",
+          "title": "data quality specialist"
+        }
+      ],
+      "isOptionalForSkill": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/bb165899-d95f-4433-95f2-173fefd716d2&language=en",
+          "uri": "http://data.europa.eu/esco/skill/bb165899-d95f-4433-95f2-173fefd716d2",
+          "title": "develop statistical software",
+          "skillType": "http://data.europa.eu/esco/skill-type/skill"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/06670261-ea6b-4b52-a915-c7d4ff837f74&language=en",
+          "uri": "http://data.europa.eu/esco/skill/06670261-ea6b-4b52-a915-c7d4ff837f74",
+          "title": "identify statistical patterns",
+          "skillType": "http://data.europa.eu/esco/skill-type/skill"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/08ee68b2-0a6d-4bdf-a870-a36c0dc8064e&language=en",
+          "uri": "http://data.europa.eu/esco/skill/08ee68b2-0a6d-4bdf-a870-a36c0dc8064e",
+          "title": "produce statistical financial records",
+          "skillType": "http://data.europa.eu/esco/skill-type/skill"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/be727774-46d7-43d7-aee9-1a51b5cd8c71&language=en",
+          "uri": "http://data.europa.eu/esco/skill/be727774-46d7-43d7-aee9-1a51b5cd8c71",
+          "title": "carry out statistical forecasts",
+          "skillType": "http://data.europa.eu/esco/skill-type/skill"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/4f060129-8b75-4d58-a8dd-515bd8fef349&language=en",
+          "uri": "http://data.europa.eu/esco/skill/4f060129-8b75-4d58-a8dd-515bd8fef349",
+          "title": "develop financial statistics reports",
+          "skillType": "http://data.europa.eu/esco/skill-type/skill"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/b22828a8-18e7-4639-8fbd-f2b33594382d&language=en",
+          "uri": "http://data.europa.eu/esco/skill/b22828a8-18e7-4639-8fbd-f2b33594382d",
+          "title": "collect statistics on medical records",
+          "skillType": "http://data.europa.eu/esco/skill-type/skill"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/382c11ed-20d5-4ae7-b60e-15fec527fa6c&language=en",
+          "uri": "http://data.europa.eu/esco/skill/382c11ed-20d5-4ae7-b60e-15fec527fa6c",
+          "title": "apply statistical analysis techniques",
+          "skillType": "http://data.europa.eu/esco/skill-type/skill"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/d9cc828c-61fc-422d-91e7-b2e8e4aa48a5&language=en",
+          "uri": "http://data.europa.eu/esco/skill/d9cc828c-61fc-422d-91e7-b2e8e4aa48a5",
+          "title": "compile statistical data for insurance purposes",
+          "skillType": "http://data.europa.eu/esco/skill-type/skill"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/ee8fee1a-75c1-43fb-b08d-779929f99249&language=en",
+          "uri": "http://data.europa.eu/esco/skill/ee8fee1a-75c1-43fb-b08d-779929f99249",
+          "title": "apply control process statistical methods",
+          "skillType": "http://data.europa.eu/esco/skill-type/skill"
+        }
+      ]
+    },
+    "_embedded": {
+      "ancestors": [
+        {
+          "title": "statistics",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/7ee4c2ea-b349-4bd2-81a3-ec31475d4833&language=en",
+              "uri": "http://data.europa.eu/esco/skill/7ee4c2ea-b349-4bd2-81a3-ec31475d4833"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/isced-f/0542"
+          ]
+        },
+        {
+          "title": "statistics",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/isced-f/0542&language=en",
+              "uri": "http://data.europa.eu/esco/isced-f/0542"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/isced-f/054"
+          ]
+        },
+        {
+          "title": "mathematics and statistics",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/isced-f/054&language=en",
+              "uri": "http://data.europa.eu/esco/isced-f/054"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/isced-f/05"
+          ]
+        },
+        {
+          "title": "natural sciences, mathematics and statistics",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/isced-f/05&language=en",
+              "uri": "http://data.europa.eu/esco/isced-f/05"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/K"
+          ]
+        },
+        {
+          "title": "knowledge",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/K&language=en",
+              "uri": "http://data.europa.eu/esco/skill/K"
+            }
+          },
+          "parents": []
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,555 @@
+{
+  "url": "https://ec.europa.eu/esco/api/resource/skill?language=en&uri=http%3A%2F%2Fdata.europa.eu%2Fesco%2Fskill%2F9d0d89be-bffa-4393-b6f6-8d05bea49051",
+  "at": "2026-11-14T23:00:08.085Z",
+  "response": {
+    "className": "Skill",
+    "classId": "http://data.europa.eu/esco/model#Skill",
+    "uri": "http://data.europa.eu/esco/skill/9d0d89be-bffa-4393-b6f6-8d05bea49051",
+    "title": "data extraction, transformation and loading tools",
+    "referenceLanguage": [
+      "en"
+    ],
+    "preferredLabel": {
+      "no": "verktøy for datautvinning, -transformering og -lasting",
+      "de": "Werkzeuge für Extraktion Transformation und Laden von Daten",
+      "en-us": "data extraction, transformation and loading tools",
+      "fi": "tietojen keräämisen, muuntamisen ja lataamisen työkalut",
+      "pt": "ferramentas de extração transformação e carregamento de dados",
+      "bg": "инструменти за извличане преобразуване и зареждане на данни",
+      "lt": "duomenų išgavimo transformavimo ir įkėlimo įrankiai",
+      "hr": "alati za izvlačenje transformaciju i učitavanje podataka",
+      "lv": "datu ieguves, transformācijas un ielādes rīki",
+      "fr": "outils d’extraction de transformation et de chargement",
+      "hu": "ETL eszközök",
+      "sk": "nástroje na extrakciu transformáciu a načítanie",
+      "sl": "orodja za luščenje, pretvorbo in nalaganje podatkov",
+      "ga": "uirlisí asbhainte, trasfhoirmithe agus lódála sonraí",
+      "sv": "verktyg för datautvinning -omvandling och -inläsning",
+      "el": "εργαλεία φόρτωσης μετατροπής και εξαγωγής δεδομένων",
+      "mt": "estrazzjoni tad-data għodda ta' trasformazzjoni u ta' loading",
+      "en": "data extraction, transformation and loading tools",
+      "is": "verkfæri fyrir útdrátt gagna ummyndun og hleðslu",
+      "it": "strumenti di estrazione trasformazione e caricamento dei dati",
+      "es": "herramientas de extracción transformación y carga de datos",
+      "et": "andmete eraldamise teisendamise ja laadimise tööriistad",
+      "cs": "nástroje pro extrakci  transformaci a načítání dat",
+      "ar": "أدوات استخراج البيانات ونقلها وتحميلها",
+      "pl": "narzędzia do pozyskiwania, przekształcania i ładowania danych",
+      "da": "værktøjer til ekstraktion, transformation og indlæsning af data",
+      "ro": "instrumente de extragere transformare și încărcare a datelor",
+      "nl": "hulpmiddelen voor het extraheren, omzetten en laden van gegevens"
+    },
+    "alternativeLabel": {
+      "de": [
+        "Extract  Transform  Load",
+        "ETL-Werkzeuge",
+        "Extraktion  Transformation  Laden",
+        "ETL-Tools",
+        "Extract-Transform-Load-Werkzeuge",
+        "Werkzeug für Extraktion  Transformation und Laden von Daten",
+        "Werkzeuge für die Extraktion  Transformation und das Laden von Daten",
+        "ETL"
+      ],
+      "sv": [
+        "instrument för datautvinning  -omvandling och -inläsning",
+        "verktyg för datainläsning",
+        "verktyg för datautvinning",
+        "metoder för datautvinning  -omvandling och -inläsning",
+        "verktyg för dataomvandling"
+      ],
+      "fi": [
+        "tietojen keräys-  muuntamis- ja lataustyökalut",
+        "datan kerääminen  muuntaminen ja lataaminen",
+        "ETL",
+        "tietojen keräys  muuntaminen ja lataaminen",
+        "tiedonkeräys-  -muuntamis- ja -lataustyökalut"
+      ],
+      "pt": [
+        "instrumentos de extração  transformação e carregamento de dados",
+        "ferramentas para extração  carregamento e transformação de dados",
+        "ferramentas de ETL",
+        "programas de extração  transformação e carregamento de dados",
+        "ferramentas para extração  transformação e carregamento de dados"
+      ],
+      "bg": [
+        "инструмент за извличане  преобразуване и зареждане на данни",
+        "средства за извличане  преобразуване и зареждане на данни",
+        "инструментите за извличане  преобразуване и зареждане на данни",
+        "инструменти за интегриране на информация",
+        "ETL"
+      ],
+      "mt": [
+        "estrazzjoni ta' informazzjoni  għodod ta' trasformazzjoni u ta' loading",
+        "għodda għat-trasformazzjoni u l-loading",
+        "estrazzjoni ta' dejta",
+        "estrazzjoni ta' informazzjoni  għodda ta' trasformazzjoni u ta' loading",
+        "estrazzjoni ta' data  għodda ta' trasformazzjoni u tal-loading"
+      ],
+      "el": [
+        "μέσα φόρτωσης  μετατροπής και εξαγωγής δεδομένων",
+        "εργαλεία φόρτωσης  μετατροπής και εξαγωγής στοιχείων",
+        "διαδικασίες φόρτωσης  μετατροπής και εξαγωγής δεδομένων",
+        "εργαλεία φόρτωσης  μετατροπής και εξαγωγής πληροφοριακών στοιχείων",
+        "μέθοδοι φόρτωσης  μετατροπής και εξαγωγής δεδομένων"
+      ],
+      "lt": [
+        "duomenų išgavimo įrankiai",
+        "duomenų transformavimo įrankiai",
+        "duomenų įkėlimo įrankiai",
+        "duomenų išgavimas  transformavimas ir įkėlimas",
+        "duomenų išgavimo  transformavimo ir įkėlimo įrankis",
+        "skirtingų taikomųjų programų informacijos integravimo įrankiai"
+      ],
+      "en": [
+        "ETL",
+        "extract, transform, load"
+      ],
+      "is": [
+        "tól fyrir útdrátt gagna  ummyndun og hleðslu",
+        "verkfæra fyrir útdrátt gagna  ummyndun og hleðslu",
+        "verkfæri til að draga út gögn  breyta þeim og hlaða",
+        "verkfærum fyrir útdrátt gagna  ummyndun og hleðslu"
+      ],
+      "lv": [
+        "informācijas integrācijas rīki",
+        "datu integrācijas rīki",
+        "datu ieguvei,  transformācijai un ielādei paredzēti rīki",
+        "ieguves  transformācijas un ielādes rīki",
+        "rīki datu ieguvei,  transformācijai un ielādei"
+      ],
+      "hr": [
+        "alati izvlačenja  transformacije i učitavanja podataka",
+        "metode izvlačenja  transformacije i učitavanja podataka",
+        "metode za izvlačenje  transformaciju i učitavanje podataka"
+      ],
+      "it": [
+        "programmi per l'estrazione  la trasformazione e il caricamento dei dati",
+        "strumento di estrazione  trasformazione e caricamento dei dati",
+        "strumenti per l'estrazione  la trasformazione e il caricamento dei dati",
+        "applicazioni di estrazione  trasformazione e caricamento dei dati",
+        "software di estrazione  trasformazione e caricamento dei dati"
+      ],
+      "fr": [
+        "outils d’extraction  de transformation et de chargement de données",
+        "datapumping",
+        "processus d’extraction  de transformation et de chargement",
+        "extracto-chargeur",
+        "ETL",
+        "extract  transform  load",
+        "outils d’ETL"
+      ],
+      "hu": [
+        "ETL eszköz",
+        "ETL-eszközök",
+        "adatok kinyerésére  átalakítására és betöltésére szolgáló eszközök",
+        "adatkinyerés  -átalakítás  -betöltés",
+        "kinyerés  átalakítás  betöltés",
+        "ETL"
+      ],
+      "es": [
+        "utilidades para extraer  transformar y cargar datos",
+        "utilidades para la extracción  transformación y carga de datos",
+        "utilidades de extracción  transformación y carga de datos",
+        "herramientas para la extracción  transformación y carga de datos",
+        "herramientas para extraer  transformar y cargar datos"
+      ],
+      "et": [
+        "andmete ekstraktimise tööriistad",
+        "andmete eraldus-  teisendus- ja laadimistööriistad",
+        "ETL-tööriistad",
+        "andmete eraldamise  teisendamise ja laadimise tarkvara",
+        "andmete eralduse  teisenduse ja laadimise tööriistad",
+        "andmete ekstraktimise  transformeerimise ja laadimise tööriistad",
+        "andmete laadimise tööriistad",
+        "andmete teisendamise tööriistad"
+      ],
+      "cs": [
+        "nástroj pro extrakci  transformaci a načítání dat",
+        "nástroje pro získávání  přeměnu a načítání dat"
+      ],
+      "sk": [
+        "nástroje extrakcie  transformácie a načítania",
+        "nástroje na získavanie  premenu a načítanie údajov",
+        "extrakčné  transformačné a načítavacie nástroje",
+        "ETL",
+        "nástroje na vytiahnutie  prevod a načítanie dát"
+      ],
+      "sl": [
+        "orodje ETL",
+        "orodja za ekstrahiranje  transformacijo in nalaganje podatkov",
+        "orodje za luščenje  pretvorbo in nalaganje podatkov",
+        "orodja za luščenje  pretvarjanje in nalaganje podatkov",
+        "orodja za združevanje podatkov",
+        "orodja za oblikovanje podatkovnih struktur"
+      ],
+      "pl": [
+        "narzędzia do ekstrakcji  transformacji i ładowania danych",
+        "narzędzia wspomagające proces pozyskiwania  przekształcania i ładowania danych",
+        "pozyskiwać  przekształcać  ładować",
+        "narzędzia ELT"
+      ],
+      "ro": [
+        "instrumente de extragere și prelucrare a datelor din mai multe surse",
+        "instrumente de extragere  transformare și încărcare date",
+        "instrumente de încărcare date",
+        "instrumente pentru integrarea informațiilor din aplicații multiple",
+        "instrumente de extragere date",
+        "instrumente de culegere a datelor din surse diferite",
+        "instrumente de transformare date"
+      ],
+      "da": [
+        "redskaber til ekstraktion  transformation og indlæsning af data",
+        "værktøjer til ekstraktion  transformation og indlæsning af oplysninger",
+        "værktøjer til ekstraktion  transformation og loading af data",
+        "ETL"
+      ],
+      "nl": [
+        "data omzetten en laden",
+        "gegevens extraheren en omzetten",
+        "extraheren  omzetten en laden",
+        "hulpmiddelen voor gegevensextractie  -omzetting en lading",
+        "tools voor het extraheren  omzetten en laden van gegevens",
+        "ETL"
+      ]
+    },
+    "description": {
+      "no": {
+        "literal": "Verktøy for integrasjon av informasjon fra flere programmer, opprettet og vedlikeholdt av organisasjoner, inn i en ensartet og åpen datastruktur.",
+        "mimetype": "plain/text"
+      },
+      "de": {
+        "literal": "Die Werkzeuge zur Integration von Informationen aus mehreren Anwendungen, die von Organisationen erstellt und gepflegt werden, in eine konsistente und transparente Datenstruktur.",
+        "mimetype": "plain/text"
+      },
+      "en-us": {
+        "literal": "The tools for integration of information from multiple applications, created and maintained by organizations, into one consistent and transparent data structure.",
+        "mimetype": "plain/text"
+      },
+      "fi": {
+        "literal": "Välineet, joilla organisaatioiden luomat ja ylläpitämät tiedot voidaan yhdistää useista sovelluksista yhteen yhdenmukaiseen ja avoimeen datarakenteeseen.",
+        "mimetype": "plain/text"
+      },
+      "pt": {
+        "literal": "As ferramentas para a integração de informações provenientes de múltiplas aplicações, criadas e mantidas por organizações, numa estrutura de dados coerente e transparente.",
+        "mimetype": "plain/text"
+      },
+      "bg": {
+        "literal": "Инструментите за интегриране на информацията от множество приложения, създадени и поддържани от организации, в една съгласувана и прозрачна структура на данните.",
+        "mimetype": "plain/text"
+      },
+      "lt": {
+        "literal": "Priemonės, skirtos informacijai iš kelių taikomųjų programų, kurias sukūrė ir tvarko organizacijos, integruoti į vieną nuoseklią ir skaidrią duomenų struktūrą.",
+        "mimetype": "plain/text"
+      },
+      "hr": {
+        "literal": "Alati za integraciju informacija iz višestrukih aplikacija, koje su izradile i održavaju organizacije, u jednu usklađenu i transparentnu strukturu podataka.",
+        "mimetype": "plain/text"
+      },
+      "lv": {
+        "literal": "Rīki, ar kuriem vienā konsekventā un pārredzamā datu struktūrā integrē informāciju no vairākām lietotnēm, ko radījušas un uztur vairākas organizācijas.",
+        "mimetype": "plain/text"
+      },
+      "fr": {
+        "literal": "Les outils destinés à l’intégration d’informations provenant de multiples applications, créées et entretenues par des organisations, en une structure de données cohérente et transparente.",
+        "mimetype": "plain/text"
+      },
+      "hu": {
+        "literal": "A szervezetek által létrehozott és fenntartott, több alkalmazásból származó információk egységes és átlátható adatstruktúrába történő integrálására szolgáló eszközök.",
+        "mimetype": "plain/text"
+      },
+      "sk": {
+        "literal": "Nástroje na integráciu informácií z viacerých aplikácií vytvorených a zachovávaných organizáciami do jednej celistvej a transparentnej štruktúry údajov.",
+        "mimetype": "plain/text"
+      },
+      "sl": {
+        "literal": "Orodja za združevanje informacij iz več aplikacij, ki jih ustvarijo in vzdržujejo organizacije, v eno dosledno in pregledno strukturo podatkov.",
+        "mimetype": "plain/text"
+      },
+      "ga": {
+        "literal": "Na huirlisí chun faisnéis a chomhtháthú ó iliarratais, arna gcruthú agus arna gcothabháil ag eagraíochtaí, i struchtúr sonraí comhsheasmhach agus trédhearcach.",
+        "mimetype": "plain/text"
+      },
+      "sv": {
+        "literal": "Verktyg för att integrera information från olika tillämpningar – som skapats och underhålls av organisationerna – till en enhetlig och transparent datastruktur.",
+        "mimetype": "plain/text"
+      },
+      "el": {
+        "literal": "Τα εργαλεία για την ενσωμάτωση πληροφοριών από πολλαπλές εφαρμογές, που δημιουργήθηκαν και διατηρήθηκαν από οργανισμούς, σε μια συνεκτική και διαφανή δομή δεδομένων.",
+        "mimetype": "plain/text"
+      },
+      "mt": {
+        "literal": "L-għodod għall-integrazzjoni tal-informazzjoni minn diversi applikazzjonijiet, maħluqa u miżmuma minn organizzazzjonijiet, fi struttura tad-dejta waħda li hija konsistenti u trasparenti.",
+        "mimetype": "plain/text"
+      },
+      "en": {
+        "literal": "The tools for integration of information from multiple applications, created and maintained by organisations, into one consistent and transparent data structure.",
+        "mimetype": "plain/text"
+      },
+      "is": {
+        "literal": "Tól til að samþætta upplýsingar frá mörgum forritum, stofnuð og viðhaldið af samtökum, í eina stöðuga og gagnsæja gagnagerð.",
+        "mimetype": "plain/text"
+      },
+      "it": {
+        "literal": "Gli strumenti per l’integrazione di informazioni provenienti da molteplici applicazioni, create e mantenute da organizzazioni, in un’unica struttura di dati coerente e trasparente.",
+        "mimetype": "plain/text"
+      },
+      "es": {
+        "literal": "Las herramientas para la integración en una estructura de datos coherente y transparente de la información procedente de varias aplicaciones creadas y mantenidas por organizaciones.",
+        "mimetype": "plain/text"
+      },
+      "et": {
+        "literal": "Vahendid, mis võimaldavad integreerida organisatsioonide loodava ja säilitatava eri rakendustest pärit teabe ühte sidusasse ja läbipaistvasse andmestruktuuri.",
+        "mimetype": "plain/text"
+      },
+      "cs": {
+        "literal": "Nástroje pro integraci informací z více aplikací vytvořených a udržovaných organizacemi do jedné souhrnné a transparentní datové struktury.",
+        "mimetype": "plain/text"
+      },
+      "ar": {
+        "literal": "أدوات تكامل المعلومات المستمدة من تطبيقات متعددة، التي يتم إنشاؤها وصيانتها بواسطة المؤسسات، في هيكل بيانات متسق وشفاف.",
+        "mimetype": "plain/text"
+      },
+      "pl": {
+        "literal": "Narzędzia służące integracji informacji z wielu aplikacji, utworzonych i utrzymywanych przez organizacje, w jedną spójną i przejrzystą strukturę danych.",
+        "mimetype": "plain/text"
+      },
+      "da": {
+        "literal": "Værktøjer til integration af oplysninger fra flere applikationer, der oprettes og vedligeholdes af virksomheder, til én ensartet og gennemsigtig datastruktur.",
+        "mimetype": "plain/text"
+      },
+      "ro": {
+        "literal": "Instrumentele de integrare a informațiilor din mai multe aplicații, create și întreținute de organizații, într-o singură structură de date coerentă și transparentă.",
+        "mimetype": "plain/text"
+      },
+      "nl": {
+        "literal": "De instrumenten voor de integratie van informatie uit meerdere toepassingen, die door organisaties zijn gecreëerd en in stand worden gehouden, in één coherente en transparante gegevensstructuur.",
+        "mimetype": "plain/text"
+      }
+    },
+    "status": "released",
+    "_links": {
+      "self": {
+        "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/9d0d89be-bffa-4393-b6f6-8d05bea49051&language=en",
+        "uri": "http://data.europa.eu/esco/skill/9d0d89be-bffa-4393-b6f6-8d05bea49051",
+        "title": "data extraction, transformation and loading tools"
+      },
+      "isTopConceptInScheme": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/taxonomy?uri=http://data.europa.eu/esco/concept-scheme/member-skills&language=en",
+          "uri": "http://data.europa.eu/esco/concept-scheme/member-skills",
+          "title": "ESCO member skills"
+        }
+      ],
+      "isInScheme": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/taxonomy?uri=http://data.europa.eu/esco/concept-scheme/member-skills&language=en",
+          "uri": "http://data.europa.eu/esco/concept-scheme/member-skills",
+          "title": "ESCO member skills"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/taxonomy?uri=http://data.europa.eu/esco/concept-scheme/skills&language=en",
+          "uri": "http://data.europa.eu/esco/concept-scheme/skills",
+          "title": "ESCO skills"
+        }
+      ],
+      "hasSkillType": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/concept?uri=http://data.europa.eu/esco/skill-type/knowledge&language=en",
+          "uri": "http://data.europa.eu/esco/skill-type/knowledge",
+          "title": "knowledge"
+        }
+      ],
+      "hasReuseLevel": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/concept?uri=http://data.europa.eu/esco/skill-reuse-level/cross-sector&language=en",
+          "uri": "http://data.europa.eu/esco/skill-reuse-level/cross-sector",
+          "title": "cross-sector skills and competences",
+          "code": "Level 2"
+        }
+      ],
+      "broaderHierarchyConcept": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/concept?uri=http://data.europa.eu/esco/isced-f/0612&language=en",
+          "uri": "http://data.europa.eu/esco/isced-f/0612",
+          "title": "database and network design and administration"
+        }
+      ],
+      "narrowerSkill": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/42c3287f-5e50-4559-a2d1-2000c70e0aab&language=en",
+          "uri": "http://data.europa.eu/esco/skill/42c3287f-5e50-4559-a2d1-2000c70e0aab",
+          "title": "Pentaho Data Integration",
+          "skillType": "http://data.europa.eu/esco/skill-type/knowledge"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/81b082fb-9a00-4660-976a-10c985979100&language=en",
+          "uri": "http://data.europa.eu/esco/skill/81b082fb-9a00-4660-976a-10c985979100",
+          "title": "IBM InfoSphere Information Server",
+          "skillType": "http://data.europa.eu/esco/skill-type/knowledge"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/23900e3d-06fa-424c-a5dc-c0ea42edde1e&language=en",
+          "uri": "http://data.europa.eu/esco/skill/23900e3d-06fa-424c-a5dc-c0ea42edde1e",
+          "title": "Oracle Warehouse Builder",
+          "skillType": "http://data.europa.eu/esco/skill-type/knowledge"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/6f7512ab-d46d-402a-8c30-a8878d7c1f88&language=en",
+          "uri": "http://data.europa.eu/esco/skill/6f7512ab-d46d-402a-8c30-a8878d7c1f88",
+          "title": "SQL Server Integration Services",
+          "skillType": "http://data.europa.eu/esco/skill-type/knowledge"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/696e3b5b-8b61-45af-ae4c-3ab700f197ec&language=en",
+          "uri": "http://data.europa.eu/esco/skill/696e3b5b-8b61-45af-ae4c-3ab700f197ec",
+          "title": "information extraction",
+          "skillType": "http://data.europa.eu/esco/skill-type/knowledge"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/3af687cb-8c7a-46ea-a730-32dbaed040c6&language=en",
+          "uri": "http://data.europa.eu/esco/skill/3af687cb-8c7a-46ea-a730-32dbaed040c6",
+          "title": "Oracle Data Integrator",
+          "skillType": "http://data.europa.eu/esco/skill-type/knowledge"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/f8e3425c-fe44-4ffb-bafe-0e20d91dadf4&language=en",
+          "uri": "http://data.europa.eu/esco/skill/f8e3425c-fe44-4ffb-bafe-0e20d91dadf4",
+          "title": "SAP Data Services",
+          "skillType": "http://data.europa.eu/esco/skill-type/knowledge"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/e5a6e1e0-1b07-4432-83ba-77d593b2cb47&language=en",
+          "uri": "http://data.europa.eu/esco/skill/e5a6e1e0-1b07-4432-83ba-77d593b2cb47",
+          "title": "SAS Data Management",
+          "skillType": "http://data.europa.eu/esco/skill-type/knowledge"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/14fdac88-6d4a-4e47-9df5-02c6d1e86fdd&language=en",
+          "uri": "http://data.europa.eu/esco/skill/14fdac88-6d4a-4e47-9df5-02c6d1e86fdd",
+          "title": "IBM InfoSphere DataStage",
+          "skillType": "http://data.europa.eu/esco/skill-type/knowledge"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/97bdd757-29d4-4126-92a6-07608825aa3b&language=en",
+          "uri": "http://data.europa.eu/esco/skill/97bdd757-29d4-4126-92a6-07608825aa3b",
+          "title": "QlikView Expressor",
+          "skillType": "http://data.europa.eu/esco/skill-type/knowledge"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/0f00f63f-3ab4-4057-b92f-500584b51757&language=en",
+          "uri": "http://data.europa.eu/esco/skill/0f00f63f-3ab4-4057-b92f-500584b51757",
+          "title": "Informatica PowerCenter",
+          "skillType": "http://data.europa.eu/esco/skill-type/knowledge"
+        }
+      ],
+      "hasOptionalSkill": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/696e3b5b-8b61-45af-ae4c-3ab700f197ec&language=en",
+          "uri": "http://data.europa.eu/esco/skill/696e3b5b-8b61-45af-ae4c-3ab700f197ec",
+          "title": "information extraction",
+          "skillType": "http://data.europa.eu/esco/skill-type/knowledge"
+        }
+      ],
+      "isEssentialForOccupation": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/3d190639-90f8-4402-b1b3-a104a17e0d67&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/3d190639-90f8-4402-b1b3-a104a17e0d67",
+          "title": "database integrator"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/4e4a1aa1-ca53-406e-9ca6-889d4621a0ed&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/4e4a1aa1-ca53-406e-9ca6-889d4621a0ed",
+          "title": "big data archive librarian"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/b11e1742-5e28-4270-b081-b0193d85ee7d&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/b11e1742-5e28-4270-b081-b0193d85ee7d",
+          "title": "database developer"
+        }
+      ],
+      "isOptionalForOccupation": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/ef909843-97c6-4c48-8038-2e7aefdfcad5&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/ef909843-97c6-4c48-8038-2e7aefdfcad5",
+          "title": "clinical informatics manager"
+        }
+      ],
+      "isOptionalForSkill": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/f632251a-4078-4546-b19f-7ef528d08325&language=en",
+          "uri": "http://data.europa.eu/esco/skill/f632251a-4078-4546-b19f-7ef528d08325",
+          "title": "use IT tools",
+          "skillType": "http://data.europa.eu/esco/skill-type/skill"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/3606bf22-1987-4356-b8c4-13e89d8f6c69&language=en",
+          "uri": "http://data.europa.eu/esco/skill/3606bf22-1987-4356-b8c4-13e89d8f6c69",
+          "title": "interpret extraction data",
+          "skillType": "http://data.europa.eu/esco/skill-type/skill"
+        }
+      ]
+    },
+    "_embedded": {
+      "ancestors": [
+        {
+          "title": "data extraction, transformation and loading tools",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/9d0d89be-bffa-4393-b6f6-8d05bea49051&language=en",
+              "uri": "http://data.europa.eu/esco/skill/9d0d89be-bffa-4393-b6f6-8d05bea49051"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/isced-f/0612"
+          ]
+        },
+        {
+          "title": "database and network design and administration",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/isced-f/0612&language=en",
+              "uri": "http://data.europa.eu/esco/isced-f/0612"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/isced-f/061"
+          ]
+        },
+        {
+          "title": "information and communication technologies (icts)",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/isced-f/061&language=en",
+              "uri": "http://data.europa.eu/esco/isced-f/061"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/isced-f/06"
+          ]
+        },
+        {
+          "title": "information and communication technologies (icts)",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/isced-f/06&language=en",
+              "uri": "http://data.europa.eu/esco/isced-f/06"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/K"
+          ]
+        },
+        {
+          "title": "knowledge",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/K&language=en",
+              "uri": "http://data.europa.eu/esco/skill/K"
+            }
+          },
+          "parents": []
+        }
+      ]
+    }
+  }
+}

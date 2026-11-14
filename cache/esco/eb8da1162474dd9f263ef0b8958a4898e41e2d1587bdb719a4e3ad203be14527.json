@@ -1,0 +1,524 @@
+{
+  "url": "https://ec.europa.eu/esco/api/resource/skill?language=en&uri=http%3A%2F%2Fdata.europa.eu%2Fesco%2Fskill%2F797a4416-0b8d-44f3-8fcd-eb10bd0be6b4",
+  "at": "2026-11-14T22:51:14.760Z",
+  "response": {
+    "className": "Skill",
+    "classId": "http://data.europa.eu/esco/model#Skill",
+    "uri": "http://data.europa.eu/esco/skill/797a4416-0b8d-44f3-8fcd-eb10bd0be6b4",
+    "title": "develop software prototype",
+    "referenceLanguage": [
+      "en"
+    ],
+    "preferredLabel": {
+      "no": "utvikle programvareprototype",
+      "de": "Softwareprototyp entwickeln",
+      "en-us": "develop software prototype",
+      "fi": "kehittää ohjelmiston prototyyppi",
+      "pt": "desenvolver protótipos de «software»",
+      "bg": "разработване на прототип на софтуер",
+      "lt": "sukurti programinės įrangos prototipą",
+      "hr": "razviti prototip softvera",
+      "lv": "programmatūras prototipa izstrāde",
+      "fr": "développer un prototype de logiciel",
+      "hu": "szoftverprototípust készít",
+      "sk": "vyvinúť softvérový prototyp",
+      "sl": "razviti prototip programske opreme",
+      "ga": "fréamhshamhail bogearraí a fhorbairt",
+      "sv": "utveckla programprototyp",
+      "el": "ανάπτυξη πρωτότυπου λογισμικού",
+      "mt": "żvilupp ta’ prototip tas-softwer",
+      "en": "develop software prototype",
+      "is": "þróar frumgerð hugbúnaðar",
+      "it": "sviluppare prototipi software",
+      "es": "desarrollar un prototipo de software",
+      "et": "tarkvara prototüüpi arendama",
+      "cs": "vyvíjet softwarové prototypy",
+      "ar": "وضع نموذج البرمجيات الأولى",
+      "pl": "opracowywać prototyp oprogramowania",
+      "da": "udvikle softwareprototype",
+      "ro": "dezvoltă prototipul pentru software",
+      "nl": "softwareprototype ontwikkelen"
+    },
+    "alternativeLabel": {
+      "de": [
+        "Software-Prototyp entwickeln",
+        "Software-Mockup entwickeln",
+        "Mockup-Software entwickeln",
+        "Softwareprototypen entwickeln"
+      ],
+      "fi": [
+        "kehittää ohjelmiston ensimmäinen alustava versio",
+        "kehittää sovelluksen prototyyppi",
+        "kehittää ohjelmiston koeversio",
+        "kehittää koeversio ohjelmistosta",
+        "kehittää prototyyppi ohjelmistosta",
+        "kehittää ohjelmistoprototyyppi"
+      ],
+      "sv": [
+        "skapa programprototyp",
+        "ta fram programprototyp",
+        "utvecklar programprototyp",
+        "utvecklade programprototyp"
+      ],
+      "pt": [
+        "desenvolver protótipos de programas informáticos",
+        "desenvolver protótipos de aplicações",
+        "desenvolver protótipo de software",
+        "criar simulações de software"
+      ],
+      "bg": [
+        "разработване на модел на софтуер",
+        "разработване на симулация на софтуер",
+        "разработване на пробен софтуер",
+        "разработването на прототип на софтуер",
+        "разработване на прототипа на софтуер"
+      ],
+      "el": [
+        "ανάπτυξη πιλοτικού μοντέλου λογισμικού",
+        "κατάρτιση πρωτότυπης έκδοσης λογισμικού",
+        "δημιουργία προσχεδίου λογισμικού",
+        "δημιουργία προσωρινής προσομοίωσης λογισμικού"
+      ],
+      "mt": [
+        "tiżviluppa prototip tas-software",
+        "tiżviluppa l-prototip tas-softwer",
+        "toħloq prototip ta' programm tas-softwer",
+        "tiżviluppa prototip ta' programm tas-software"
+      ],
+      "lt": [
+        "kurti parengti programinės įrangos maketus",
+        "kurti programinės įrangos prototipus",
+        "parengti programinės įrangos maketą"
+      ],
+      "en": [
+        "develop software throw-away simulation",
+        "develop software mockup"
+      ],
+      "is": [
+        "vinna frumgerð hugbúnaðar",
+        "þróum frumgerð hugbúnaðar",
+        "þróar frumgerð hugbúnaðar",
+        "þróa hugbúnaðarfrumgerð"
+      ],
+      "hr": [
+        "razraditi prototip softwarea",
+        "razviti prototip softwarea",
+        "razraditi prototip softvera"
+      ],
+      "lv": [
+        "izstrādāt programmatūras eksperimentālo modeli",
+        "izstrādāt programmatūras prototipu",
+        "sagatavot programmatūras prototipu",
+        "programmatūras eksperimentālā modeļa izstrāde",
+        "eksperimentālās programmatūras izstrāde",
+        "programmatūras prototipa sagatavošana"
+      ],
+      "it": [
+        "realizzare prototipi software",
+        "elaborare prototipi software",
+        "creare prototipi software",
+        "sviluppare un prototipo di software",
+        "sviluppare prototipi di software"
+      ],
+      "fr": [
+        "développer un logiciel de mockup",
+        "développer des prototypes de logiciels",
+        "développer un logiciel prototype",
+        "concevoir un prototype de logiciel",
+        "créer un prototype de logiciel",
+        "construire un prototype de logiciel"
+      ],
+      "hu": [
+        "szoftverprototípust fejleszt",
+        "szoftver korai prototípusát készíti",
+        "eldobható prototípust készít",
+        "eldobható szoftver prototípust készít",
+        "szoftverprototípust készíti"
+      ],
+      "es": [
+        "construir un prototipo de software",
+        "producir un prototipo de software",
+        "elaborar un prototipo de software",
+        "generar un prototipo de software",
+        "crear un prototipo de software"
+      ],
+      "et": [
+        "tarkvara mudelit looma",
+        "kasutajaliidese prototüüpi looma",
+        "tarkvara prototüüpi looma",
+        "tarkvara prototüüpima",
+        "tarkvara prototüüpe arendama"
+      ],
+      "cs": [
+        "vyvíjet softwarové modely",
+        "vyvíjet softwarové vzory",
+        "vyvíjet softwarový prototyp",
+        "vyvinout softwarový prototyp"
+      ],
+      "sk": [
+        "vyvinúť prieskumný prototyp softvéru",
+        "vyvinúť softwarový prototyp",
+        "vyvinúť softvérové prototypy",
+        "vytvoriť prototyp programu",
+        "vytvoriť model programu",
+        "vyvíjať prototypy softvéru",
+        "vytvoriť prototyp na zahodenie",
+        "vytvoriť predbežnú simuláciu softvéru",
+        "zostaviť prototyp aplikácie"
+      ],
+      "sl": [
+        "razvijati prototipe programske opreme",
+        "razviti prototip programja",
+        "razviti vzorec programske opreme",
+        "razviti prototip računalniškega programa",
+        "razviti prototip za programsko opremo"
+      ],
+      "pl": [
+        "opracowywać symulacje odrzucania dla oprogramowania",
+        "tworzyć prototyp oprogramowania",
+        "opracowywać atrapę oprogramowania",
+        "opracowywać pierwszą niepełną wersją oprogramowania",
+        "opracowywać wstępną wersję oprogramowania",
+        "przygotowywać prototyp oprogramowania"
+      ],
+      "ro": [
+        "realizează prototipuri de software",
+        "creează prototipuri de programe informatice",
+        "dezvoltă prototip de software",
+        "elaborează prototipuri de software"
+      ],
+      "da": [
+        "udarbejde softwareprototype",
+        "lave softwareprototype",
+        "udvikle softwaremodel",
+        "udvikle prototype af software",
+        "lave prototype af program",
+        "udvikle simulering af software til afprøvning",
+        "lave prototype af software"
+      ],
+      "nl": [
+        "software-mockup ontwikkelen",
+        "prototype maken van software",
+        "softwareprototype maken",
+        "wegwerpsimulatie ontwikkelen",
+        "softwaresimulatie ontwikkelen",
+        "softwarewegwerpsimulatie ontwikkelen"
+      ]
+    },
+    "description": {
+      "de": {
+        "literal": "Erstellen einer ersten unvollständigen oder vorläufigen Version einer Softwareanwendung, um bestimmte Aspekte des Endprodukts zu simulieren.",
+        "mimetype": "plain/text"
+      },
+      "no": {
+        "literal": "Utvikle første delvis ufullstendige eller innledende versjon av en programvareapplikasjon for å simulere enkelte særlige aspekter ved sluttproduktet.",
+        "mimetype": "plain/text"
+      },
+      "fi": {
+        "literal": "Luoda ohjelmistosovelluksen ensimmäinen epätäydellinen tai alustava versio, jolla simuloidaan lopputuotteen tiettyjä ominaisuuksia.",
+        "mimetype": "plain/text"
+      },
+      "en-us": {
+        "literal": "Create a first incomplete or preliminary version of a piece of software application to simulate some specific aspects of the final product.",
+        "mimetype": "plain/text"
+      },
+      "pt": {
+        "literal": "Criar uma primeira versão incompleta ou preliminar de uma unidade de «software» para simular alguns aspetos específicos do produto final.",
+        "mimetype": "plain/text"
+      },
+      "bg": {
+        "literal": "Създава първа непълна или предварителна версия на приложен софтуер за симулиране на някои специфични аспекти на крайния продукт.",
+        "mimetype": "plain/text"
+      },
+      "lt": {
+        "literal": "Sukurti pirmą nepilną arba preliminarią programinės įrangos dalies versiją imituojant kai kuriuos konkrečius galutinio produkto aspektus.",
+        "mimetype": "plain/text"
+      },
+      "hr": {
+        "literal": "Izrađivati prvu nepotpunu ili preliminarnu verziju softverske aplikacije za simuliranje određenih specifičnih aspekata konačnog proizvoda.",
+        "mimetype": "plain/text"
+      },
+      "lv": {
+        "literal": "Izveidot pirmo nepilnīgo vai sākotnējo programmatūras lietotnes versiju, lai simulētu dažus konkrētus galaprodukta aspektus.",
+        "mimetype": "plain/text"
+      },
+      "fr": {
+        "literal": "Créer une première version incomplète ou préliminaire d’un logiciel pour simuler certains aspects spécifiques du produit final.",
+        "mimetype": "plain/text"
+      },
+      "hu": {
+        "literal": "Létrehozza egy szoftveralkalmazás első nem teljes vagy előzetes változatát, amely a végtermék bizonyos sajátos jellemzőit modellezi.",
+        "mimetype": "plain/text"
+      },
+      "sk": {
+        "literal": "Vytvoriť prvú neúplnú alebo predbežnú verziu softvérovej aplikácie na simuláciu niektorých špecifických aspektov konečného produktu.",
+        "mimetype": "plain/text"
+      },
+      "sl": {
+        "literal": "Ustvariti prvo nepopolno ali predhodno različico dela aplikacije programske opreme za simulacijo nekaterih posebnih lastnosti končnega proizvoda.",
+        "mimetype": "plain/text"
+      },
+      "ga": {
+        "literal": "An chéad leagan neamhiomlán nó an réamhleagan de ríomhchlár bogearraí a chruthú chun roinnt gnéithe sonracha den táirge deiridh a ionsamhlú.",
+        "mimetype": "plain/text"
+      },
+      "sv": {
+        "literal": "Skapa en första ofullständig eller preliminär version av en del av en programvara för att simulera vissa specifika aspekter av slutprodukten.",
+        "mimetype": "plain/text"
+      },
+      "mt": {
+        "literal": "Oħloq l-ewwel verżjoni mhux kompluta jew preliminari ta’ biċċa ta’ applikazzjoni ta’ softwer biex tistimula xi aspetti speċifiċi tal-prodott finali.",
+        "mimetype": "plain/text"
+      },
+      "el": {
+        "literal": "Δημιουργία μιας πρώτης ημιτελούς ή αρχικής έκδοσης εφαρμογής λογισμικού για την προσομοίωση ορισμένων συγκεκριμένων πτυχών του τελικού προϊόντος.",
+        "mimetype": "plain/text"
+      },
+      "en": {
+        "literal": "Create a first incomplete or preliminary version of a piece of software application to simulate some specific aspects of the final product.",
+        "mimetype": "plain/text"
+      },
+      "is": {
+        "literal": "Býr til fyrstu útgáfu hugbúnaðarforrits til að líkja eftir tilteknum þáttum lokaútgáfu þess.",
+        "mimetype": "plain/text"
+      },
+      "it": {
+        "literal": "Creare una prima versione incompleta o preliminare di un software applicativo per simulare alcuni aspetti specifici del prodotto finale.",
+        "mimetype": "plain/text"
+      },
+      "es": {
+        "literal": "Crear una primera versión incompleta o preliminar de una aplicación informática para simular algunos aspectos específicos del producto final.",
+        "mimetype": "plain/text"
+      },
+      "et": {
+        "literal": "Tarkvararakenduse osa esimese mittetäieliku või esialgse versiooni loomine lõpptoote mõne konkreetse aspekti imiteerimiseks.",
+        "mimetype": "plain/text"
+      },
+      "cs": {
+        "literal": "Vytvořit první neúplnou nebo předběžnou verzi části softwarové aplikace, která simuluje některé specifické aspekty konečného produktu.",
+        "mimetype": "plain/text"
+      },
+      "ar": {
+        "literal": "إنشاء أول إصدار غير مكتمل أو أولي لجزء من تطبيق برمجي لمحاكاة بعض الجوانب المحددة للمنتج النهائي.",
+        "mimetype": "plain/text"
+      },
+      "pl": {
+        "literal": "Opracowywać pierwszą niekompletną lub wstępną wersję oprogramowania komputerowego w celu symulacji pewnych określonych aspektów produktu końcowego.",
+        "mimetype": "plain/text"
+      },
+      "da": {
+        "literal": "Skabe en første ufuldstændig eller foreløbig version af en softwareapplikation til simulering af visse specifikke aspekter af det færdige produkt.",
+        "mimetype": "plain/text"
+      },
+      "ro": {
+        "literal": "Creează o primă versiune incompletă sau preliminară a unei aplicații software pentru a simula unele aspecte specifice ale produsului final.",
+        "mimetype": "plain/text"
+      },
+      "nl": {
+        "literal": "Een eerste onvolledige of voorlopige versie van een softwareapplicatie aanmaken om een aantal specifieke aspecten van het eindproduct te simuleren.",
+        "mimetype": "plain/text"
+      }
+    },
+    "status": "released",
+    "_links": {
+      "self": {
+        "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/797a4416-0b8d-44f3-8fcd-eb10bd0be6b4&language=en",
+        "uri": "http://data.europa.eu/esco/skill/797a4416-0b8d-44f3-8fcd-eb10bd0be6b4",
+        "title": "develop software prototype"
+      },
+      "isTopConceptInScheme": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/taxonomy?uri=http://data.europa.eu/esco/concept-scheme/member-skills&language=en",
+          "uri": "http://data.europa.eu/esco/concept-scheme/member-skills",
+          "title": "ESCO member skills"
+        }
+      ],
+      "isInScheme": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/taxonomy?uri=http://data.europa.eu/esco/concept-scheme/member-skills&language=en",
+          "uri": "http://data.europa.eu/esco/concept-scheme/member-skills",
+          "title": "ESCO member skills"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/taxonomy?uri=http://data.europa.eu/esco/concept-scheme/skills&language=en",
+          "uri": "http://data.europa.eu/esco/concept-scheme/skills",
+          "title": "ESCO skills"
+        }
+      ],
+      "hasSkillType": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/concept?uri=http://data.europa.eu/esco/skill-type/skill&language=en",
+          "uri": "http://data.europa.eu/esco/skill-type/skill",
+          "title": "skill"
+        }
+      ],
+      "hasReuseLevel": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/concept?uri=http://data.europa.eu/esco/skill-reuse-level/sector-specific&language=en",
+          "uri": "http://data.europa.eu/esco/skill-reuse-level/sector-specific",
+          "title": "sector specific skills and competences",
+          "code": "Level 3"
+        }
+      ],
+      "broaderHierarchyConcept": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/concept?uri=http://data.europa.eu/esco/skill/S5.1.0&language=en",
+          "uri": "http://data.europa.eu/esco/skill/S5.1.0",
+          "title": "programming computer systems",
+          "code": "S5.1.0"
+        }
+      ],
+      "isEssentialForOccupation": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/c40a2919-48a9-40ea-b506-1f34f693496d&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/c40a2919-48a9-40ea-b506-1f34f693496d",
+          "title": "web developer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/a7c1d23d-aeca-4bee-9a08-5993ed98b135&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/a7c1d23d-aeca-4bee-9a08-5993ed98b135",
+          "title": "ICT system developer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/456ed487-02f2-45c9-9213-d0fd8e9a069d&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/456ed487-02f2-45c9-9213-d0fd8e9a069d",
+          "title": "ICT application configurator"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/9ebaf3f0-0be0-47b7-b2b1-b3b04130fa81&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/9ebaf3f0-0be0-47b7-b2b1-b3b04130fa81",
+          "title": "digital games developer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/2ed56c3f-61d6-4f7e-9ef8-8849eb102e4c&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/2ed56c3f-61d6-4f7e-9ef8-8849eb102e4c",
+          "title": "mobile application developer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/bb6198c4-1d3e-40b9-9cc4-ad2dd9d7c74b&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/bb6198c4-1d3e-40b9-9cc4-ad2dd9d7c74b",
+          "title": "industrial mobile devices software developer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/bd272aee-adc9-4a06-a15c-a73b4b4a46a7&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/bd272aee-adc9-4a06-a15c-a73b4b4a46a7",
+          "title": "ICT application developer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/04ba4d6c-957d-417f-bf63-5b9e015a9f86&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/04ba4d6c-957d-417f-bf63-5b9e015a9f86",
+          "title": "software analyst"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/f2b15a0e-e65a-438a-affb-29b9d50b77d1&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/f2b15a0e-e65a-438a-affb-29b9d50b77d1",
+          "title": "software developer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/57af9090-55b4-4911-b2d0-86db01c00b02&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/57af9090-55b4-4911-b2d0-86db01c00b02",
+          "title": "embedded systems software developer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/866c7813-2c03-47d7-9bdc-192cfbace57c&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/866c7813-2c03-47d7-9bdc-192cfbace57c",
+          "title": "user interface developer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/6e92d4b5-3167-4166-802f-da7753951a31&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/6e92d4b5-3167-4166-802f-da7753951a31",
+          "title": "ICT research consultant"
+        }
+      ],
+      "isOptionalForOccupation": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/cf2b03cd-feb7-4f47-90f6-ff1ed6016d3d&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/cf2b03cd-feb7-4f47-90f6-ff1ed6016d3d",
+          "title": "ICT network engineer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/fde4372d-8293-42de-afbb-8b5a9b274fe7&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/fde4372d-8293-42de-afbb-8b5a9b274fe7",
+          "title": "application engineer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/afbe50b0-6634-4677-a3e7-0aada10cb9a7&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/afbe50b0-6634-4677-a3e7-0aada10cb9a7",
+          "title": "thermal engineer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/579254cf-6d69-4889-9000-9c79dc568644&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/579254cf-6d69-4889-9000-9c79dc568644",
+          "title": "mechanical engineer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/d0aa0792-4345-474b-9365-686cf4869d2e&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/d0aa0792-4345-474b-9365-686cf4869d2e",
+          "title": "software architect"
+        }
+      ]
+    },
+    "_embedded": {
+      "ancestors": [
+        {
+          "title": "develop software prototype",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/797a4416-0b8d-44f3-8fcd-eb10bd0be6b4&language=en",
+              "uri": "http://data.europa.eu/esco/skill/797a4416-0b8d-44f3-8fcd-eb10bd0be6b4"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S5.1.0"
+          ]
+        },
+        {
+          "title": "programming computer systems",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S5.1.0&language=en",
+              "uri": "http://data.europa.eu/esco/skill/S5.1.0"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S5.1"
+          ]
+        },
+        {
+          "title": "programming computer systems",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S5.1&language=en",
+              "uri": "http://data.europa.eu/esco/skill/S5.1"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S5"
+          ]
+        },
+        {
+          "title": "working with computers",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S5&language=en",
+              "uri": "http://data.europa.eu/esco/skill/S5"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S"
+          ]
+        },
+        {
+          "title": "skills",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S&language=en",
+              "uri": "http://data.europa.eu/esco/skill/S"
+            }
+          },
+          "parents": []
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "url": "https://ec.europa.eu/esco/api/search?type=skill&language=en&limit=3&text=cloud%20technologies",
+  "at": "2026-11-14T22:51:29.091Z",
+  "response": {
+    "total": 256,
+    "offset": 0,
+    "limit": 3,
+    "text": "cloud technologies",
+    "language": "en",
+    "type": [
+      "skill"
+    ],
+    "isInScheme": null,
+    "facet": null,
+    "_links": {
+      "self": {
+        "href": "https://ec.europa.eu/esco/api/search?text=cloud%20technologies&type=skill&limit=3&offset=0&full=false&viewObsolete=false&language=en"
+      },
+      "next": {
+        "href": "https://ec.europa.eu/esco/api/search?text=cloud%20technologies&type=skill&limit=3&offset=1&full=false&viewObsolete=false&language=en"
+      }
+    },
+    "_embedded": {
+      "results": [
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/bd14968e-e409-45af-b362-3495ed7b10e0",
+          "searchHit": "cloud technologies",
+          "title": "cloud technologies",
+          "preferredLabel": {
+            "de": "Cloud-Technologien",
+            "no": "nettskyteknologier",
+            "fi": "pilviteknologiat",
+            "en-us": "cloud technologies",
+            "pt": "tecnologias em nuvem",
+            "bg": "облачни технологии",
+            "lt": "debesijos technologijos",
+            "hr": "tehnologije oblaka",
+            "lv": "mākoņtehnoloģijas",
+            "fr": "technologies de dématérialisation",
+            "hu": "felhőalapú technológiák",
+            "sk": "cloudové technológie",
+            "sl": "tehnologije v oblaku",
+            "ga": "néalteicneolaíochtaí",
+            "sv": "molnteknik",
+            "el": "τεχνολογίες νέφους",
+            "mt": "cloud technologies",
+            "en": "cloud technologies",
+            "is": "skýstækni",
+            "it": "tecnologie cloud",
+            "es": "tecnologías en la nube",
+            "et": "pilvetehnoloogiad",
+            "cs": "cloudové technologie",
+            "ar": "التقنيات السحابية",
+            "pl": "technologie chmurowe",
+            "da": "sky-teknologier",
+            "ro": "tehnologii cloud",
+            "nl": "cloudtechnologieën"
+          },
+          "isTopConceptInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/knowledge"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/sector-specific"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/isced-f/0612"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/bd14968e-e409-45af-b362-3495ed7b10e0&language=en",
+              "uri": "http://data.europa.eu/esco/skill/bd14968e-e409-45af-b362-3495ed7b10e0",
+              "title": "cloud technologies"
+            }
+          }
+        },
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/2f04bb71-d476-43b3-a60b-5df1d05f5681",
+          "searchHit": "The tool Octopus Deploy is a software program used to automate ASP.NET applications deployment to local or on the cloud servers.",
+          "title": "Octopus Deploy",
+          "preferredLabel": {
+            "de": "Octopus Deploy",
+            "no": "Octopus Deploy",
+            "fi": "Octopus Deploy",
+            "en-us": "Octopus Deploy",
+            "pt": "Octopus Deploy",
+            "bg": "Octopus Deploy",
+            "lt": "Octopus Deploy",
+            "hr": "Octopus Deploy",
+            "lv": "Octopus Deploy",
+            "fr": "Octopus Deploy",
+            "hu": "Octopus Deploy",
+            "sk": "Octopus Deploy",
+            "sl": "Octopus Deploy",
+            "ga": "Octopus Deploy",
+            "sv": "Octopus Deploy",
+            "el": "Octopus Deploy",
+            "mt": "Octopus Deploy",
+            "en": "Octopus Deploy",
+            "is": "Octopus Deploy",
+            "it": "Octopus Deploy",
+            "es": "Octopus Deploy",
+            "et": "Octopus Deploy",
+            "cs": "Octopus Deploy",
+            "ar": "برنامج Octopus Deploy",
+            "pl": "Octopus Deploy",
+            "da": "Octopus Deploy",
+            "ro": "Octopus Deploy",
+            "nl": "Octopus Deploy"
+          },
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/knowledge"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/sector-specific"
+          ],
+          "broaderSkill": [
+            "http://data.europa.eu/esco/skill/9d2e926f-53d9-41f5-98f3-19dfaa687f3f"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/isced-f/0613"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/2f04bb71-d476-43b3-a60b-5df1d05f5681&language=en",
+              "uri": "http://data.europa.eu/esco/skill/2f04bb71-d476-43b3-a60b-5df1d05f5681",
+              "title": "Octopus Deploy"
+            }
+          }
+        },
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/76ef6ed3-1658-4a1a-9593-204d799c6d0c",
+          "searchHit": "The Not Only SQL non-relational database used for creating, updating and managing large amounts of unstructured data stored in the cloud.",
+          "title": "NoSQL",
+          "preferredLabel": {
+            "de": "NoSQL",
+            "no": "NoSQL",
+            "fi": "NoSQL",
+            "en-us": "NoSQL",
+            "pt": "NoSQL",
+            "bg": "NoSQL",
+            "lt": "„NoSQL“",
+            "hr": "NoSQL",
+            "lv": "NoSQL",
+            "fr": "NoSQL",
+            "hu": "NoSQL",
+            "sk": "NoSQL",
+            "sl": "NoSQL",
+            "ga": "NoSQL",
+            "sv": "NoSQL",
+            "el": "NoSQL",
+            "mt": "NoSQL",
+            "en": "NoSQL",
+            "is": "NoSQL",
+            "it": "NoSQL",
+            "es": "NoSQL",
+            "et": "NoSQL",
+            "cs": "NoSQL",
+            "ar": "قاعدة بيانات NoSQL",
+            "pl": "NoSQL",
+            "da": "NoSQL",
+            "ro": "NoSQL",
+            "nl": "NoSQL"
+          },
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/knowledge"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/sector-specific"
+          ],
+          "broaderSkill": [
+            "http://data.europa.eu/esco/skill/ab1e97ed-2319-4293-a8b7-072d2648822f"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/isced-f/0612"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/76ef6ed3-1658-4a1a-9593-204d799c6d0c&language=en",
+              "uri": "http://data.europa.eu/esco/skill/76ef6ed3-1658-4a1a-9593-204d799c6d0c",
+              "title": "NoSQL"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

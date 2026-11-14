@@ -1,0 +1,605 @@
+{
+  "url": "https://ec.europa.eu/esco/api/resource/skill?language=en&uri=http%3A%2F%2Fdata.europa.eu%2Fesco%2Fskill%2F29fb0fb5-dfc4-4098-ac9b-3a712000f48f",
+  "at": "2026-11-14T22:51:14.319Z",
+  "response": {
+    "className": "Skill",
+    "classId": "http://data.europa.eu/esco/model#Skill",
+    "uri": "http://data.europa.eu/esco/skill/29fb0fb5-dfc4-4098-ac9b-3a712000f48f",
+    "title": "manage database",
+    "referenceLanguage": [
+      "en"
+    ],
+    "preferredLabel": {
+      "de": "Datenbank verwalten",
+      "no": "administrere database",
+      "en-us": "manage database",
+      "fi": "hallita tietokantaa",
+      "pt": "gerir bases de dados",
+      "bg": "управление на база данни",
+      "lt": "valdyti duomenų bazę",
+      "hr": "upravljati bazama podataka",
+      "lv": "datubāzu pārvaldīšana",
+      "fr": "gérer une base de données",
+      "hu": "adatbázist kezel",
+      "sk": "riadiť databázu",
+      "sl": "upravljati podatkovno bazo",
+      "ga": "bunachar sonraí a bhainistiú",
+      "sv": "hantera databas",
+      "el": "διαχείριση της βάσης δεδομένων",
+      "mt": "immaniġġjar ta’ database",
+      "en": "manage database",
+      "is": "annast gagnagrunn",
+      "it": "gestire database",
+      "es": "gestionar bases de datos",
+      "et": "andmebaasi haldama",
+      "cs": "spravovat databáze",
+      "ar": "ادارة قاعدة البيانات",
+      "pl": "zarządzać bazą danych",
+      "da": "administrere database",
+      "ro": "gestionează baza de date",
+      "nl": "databases beheren"
+    },
+    "alternativeLabel": {
+      "de": [
+        "Daten verwalten",
+        "Datenbank pflegen",
+        "Datenbankverwaltung durchführen",
+        "Datenbanken verwalten",
+        "Datenbank aufbauen"
+      ],
+      "fi": [
+        "soveltaa tietokantasuunnittelun malleja",
+        "soveltaa tietokantasuunnittelumalleja",
+        "soveltaa tietokantateoriaa",
+        "hyödyntää DBMS-järjestelmiä",
+        "hallita tietokantoja"
+      ],
+      "sv": [
+        "hanterar databas",
+        "sköta databas",
+        "uppdatera databas",
+        "administrera databas",
+        "hanterade databas"
+      ],
+      "pt": [
+        "gerir as bases de dados",
+        "coordenar bases de dados",
+        "gerir bases de informação",
+        "implementar teoria de bases de dados",
+        "administrar bases de dados"
+      ],
+      "bg": [
+        "прилагане на теорията за бази данни",
+        "организиране на база данни",
+        "управление на базата данни",
+        "работа с база данни",
+        "управлението на база данни"
+      ],
+      "el": [
+        "διαχειρίζομαι βάσεις δεδομένων",
+        "εφαρμόζω τη θεωρία της βάσης δεδομένων",
+        "διαχειρίζομαι το απόθεμα δεδομένων",
+        "επιλαμβάνομαι της διαχείρισης της βάσης δεδομένων",
+        "αναλαμβάνω τη διαχείριση της βάσης δεδομένων"
+      ],
+      "mt": [
+        "timmaniġġja l-bażi tad-data",
+        "timmaniġġja database",
+        "tamministra d-database",
+        "iġġestixxi d-database"
+      ],
+      "lt": [
+        "valdyti duomenų bazes",
+        "valdyti DB",
+        "įgyvendinti duomenų bazių teoriją",
+        "taikyti duomenų bazių schemas ir modelius"
+      ],
+      "en": [
+        "implement database theory"
+      ],
+      "hr": [
+        "rukovoditi bazama podataka",
+        "rukovoditi bazom podataka",
+        "upravljati bazom podataka"
+      ],
+      "lv": [
+        "pārvaldīt datu bāzes",
+        "datubāzu pārvaldība",
+        "apiešanās ar datubāzēm",
+        "pārvaldīt datubāzes",
+        "datubāzu administrēšana"
+      ],
+      "is": [
+        "annast gagnagrunninn",
+        "önnumst gagnagrunn",
+        "sjá um gagnagrunn",
+        "annast um gagnagrunn"
+      ],
+      "it": [
+        "occuparsi della gestione di database",
+        "saper gestire database",
+        "gestire i database",
+        "gestire un database",
+        "occuparsi di gestire database"
+      ],
+      "fr": [
+        "développer une base de données",
+        "gérer des bases de données",
+        "administrer une base de données",
+        "constituer une base de données",
+        "gérer la base de données",
+        "administrer le système de gestion de la base de données"
+      ],
+      "hu": [
+        "adatbázis-elméletet alkalmaz",
+        "kezeli az adatbázist",
+        "kezeli az adatbázisokat",
+        "adatbázisokat kezel",
+        "alkalmazza az adatbázis-elméletet",
+        "adatbáziskezelés-elméletet alkalmazza",
+        "adatbázis-kezelés elméletét alkalmazza"
+      ],
+      "es": [
+        "comprobar base de datos",
+        "manejar base de datos",
+        "administrar base de datos",
+        "supervisar base de datos",
+        "controlar base de datos"
+      ],
+      "et": [
+        "andmebaasi juhtima",
+        "andmebaase haldama",
+        "andmebaasiteooriat rakendama",
+        "andmebaasihaldamise süsteeme kasutama"
+      ],
+      "cs": [
+        "udržovat databáze",
+        "realizovat databázovou teorii",
+        "spravovat databázi"
+      ],
+      "sk": [
+        "spravovať banku údajov",
+        "riadiť bázu dát",
+        "riadiť databázy",
+        "manažovať databázu",
+        "uplatňovať databázovú teóriu"
+      ],
+      "sl": [
+        "urejati zbirko podatkov",
+        "upravljati s podatkovno bazo",
+        "upravljati bazo podatkov",
+        "upravljati podatkovno zbirko",
+        "upravljati podatkovne baze",
+        "razvijati podatkovne zbirke"
+      ],
+      "pl": [
+        "zarządzać i tworzyć bazy danych",
+        "zarządzać bazami danych",
+        "stosować teorię baz danych",
+        "wykorzystywać systemy zarządzania bazami danych",
+        "opracowywać bazy danych"
+      ],
+      "ro": [
+        "organizează baza de date",
+        "gestionează baze de date",
+        "administrează baza de date",
+        "asigură buna funcționare a bazei de date",
+        "asigură mentenanța bazei de date"
+      ],
+      "da": [
+        "organisere database",
+        "implementere teori om databaser",
+        "strukturere database",
+        "administrere databasemodeller",
+        "administrere databaser"
+      ],
+      "nl": [
+        "databanktheorieën implementeren",
+        "databankbeheer",
+        "databanken beheren",
+        "databasebeheer",
+        "databasetechnologieën ontwikkelen",
+        "databasetheorieën implementeren"
+      ]
+    },
+    "description": {
+      "de": {
+        "literal": "Anwendung von Datenbankdesignkonzepten und -modellen, Definition von Datenabhängigkeiten, Verwenden von Abfragesprachen und Datenbankmanagementsystemen (DBMS) für die Entwicklung und Verwaltung von Datenbanken.",
+        "mimetype": "plain/text"
+      },
+      "no": {
+        "literal": "Bruke skjemaer og modeller for databasedesign, definere dataavhengigheter, bruke spørringsspråk og databaseadministrasjonssystemer (DBMS) til å utvikle og administrere databaser.",
+        "mimetype": "plain/text"
+      },
+      "fi": {
+        "literal": "Soveltaa tietokantojen suunnittelujärjestelmiä ja malleja, määrittää datariippuvuudet, käyttää kyselykieliä ja tietokannan hallintajärjestelmiä (DBMS) tietokantojen kehittämiseen ja hallinnointiin.",
+        "mimetype": "plain/text"
+      },
+      "en-us": {
+        "literal": "Apply database design schemes and models, define data dependencies, use query languages and database management systems (DBMS) to develop and manage databases.",
+        "mimetype": "plain/text"
+      },
+      "pt": {
+        "literal": "Aplicar sistemas e modelos de conceção de bases de dados, definir dependências de dados, utilizar linguagens de pesquisa e sistemas de gestão de bases de dados para desenvolver e gerir bases de dados.",
+        "mimetype": "plain/text"
+      },
+      "bg": {
+        "literal": "Прилага схеми и модели за проектиране на бази данни, определя зависимости от данни, използва езици за запитвания и системи за управление на бази данни (DBMS) за разработването и управлението на бази данни.",
+        "mimetype": "plain/text"
+      },
+      "lt": {
+        "literal": "Taikyti duomenų bazių kūrimo schemas ir modelius, apibrėžti duomenų priklausomybę, naudoti užklausų kalbas ir duomenų bazių valdymo sistemas (angl. DBMS), kad būtų galima sukurti ir valdyti duomenų bazes.",
+        "mimetype": "plain/text"
+      },
+      "hr": {
+        "literal": "Primjenjivati sheme i modele dizajna baze podataka, utvrđivati ovisnosti o podatcima, upotrebljavati jezike za pretraživanje i sustave upravljanja bazama podataka (DBMS) s ciljem razvijanja i upravljanja bazama podataka.",
+        "mimetype": "plain/text"
+      },
+      "lv": {
+        "literal": "Izmantot datubāzu shēmas un modeļus, definēt datu atkarību, lietot vaicājumu valodas un datubāzes pārvaldības sistēmas (DBMS), lai izstrādātu un pārvaldītu datubāzes.",
+        "mimetype": "plain/text"
+      },
+      "fr": {
+        "literal": "Appliquer des plans et des modèles de conception de bases de données, définir des dépendances de données, utiliser des langues de requête et des systèmes de gestion de bases de données (SGBD) pour développer et gérer des bases de données.",
+        "mimetype": "plain/text"
+      },
+      "hu": {
+        "literal": "Alkalmazza az adatbázis-tervezési sémákat és modelleket, definiálja az adatfüggőségeket, használja a lekérdezési nyelveket és az adatbázis-kezelő rendszereket (DBMS) adatbázisok fejlesztéséhez és kezeléséhez.",
+        "mimetype": "plain/text"
+      },
+      "sk": {
+        "literal": "Používať systémy a modely navrhovania databáz, vymedziť prepojenie údajov, používať vyhľadávacie jazyky a systémy správy databáz (DBMS) na vývoj a riadenie databáz.",
+        "mimetype": "plain/text"
+      },
+      "sl": {
+        "literal": "Uporabljati načrte modelov in modele zbirk podatkov, opredeljevati odvisnosti od podatkov, uporabljati jezike za poizvedovanje in sisteme za upravljanje zbirk podatkov (DBMS) za razvoj in upravljanje zbirk podatkov.",
+        "mimetype": "plain/text"
+      },
+      "ga": {
+        "literal": "Scéimeanna agus samhlacha dearaidh bunachar sonraí a chur i bhfeidhm, spleáchais sonraí a shainiú, teangacha ceiste agus córais bhainistíochta bunachar sonraí (DBMS) a úsáid chun bunachair shonraí a fhorbairt agus a bhainistiú.",
+        "mimetype": "plain/text"
+      },
+      "sv": {
+        "literal": "Använda system och modeller för databashantering, definiera databeroenden, använda frågespråk och databashanteringssystem för att utveckla och hantera databaser.",
+        "mimetype": "plain/text"
+      },
+      "el": {
+        "literal": "Εφαρμογή σχεδίων και μοντέλων σχεδιασμού βάσεων δεδομένων, καθορισμός εξαρτήσεων δεδομένων, χρήση γλωσσών ερωτημάτων και συστημάτων διαχείρισης βάσεων δεδομένων (DBMS) για την ανάπτυξη και διαχείριση βάσεων δεδομένων.",
+        "mimetype": "plain/text"
+      },
+      "mt": {
+        "literal": "Applika skemi u mudelli ta’ tfassil tal-bażi ta’ data, iddefinixxi d-dipendenzi tad-data, uża s-sistemi ta’ tfittixja tal-lingwi u ġesjoni tal-bażi ta’ data (DBMS) biex jiġu żviluppati u ġestiti l-bażijiet ta’ data.",
+        "mimetype": "plain/text"
+      },
+      "en": {
+        "literal": "Apply database design schemes and models, define data dependencies, use query languages and database management systems (DBMS) to develop and manage databases.",
+        "mimetype": "plain/text"
+      },
+      "is": {
+        "literal": "Notar gagnagrunnshönnunarkerfi og líkön, skilgreinir stærðir þeirra , notar fyrirspurnartungumál og gagnagrunnsstjórnunarkerfi (DBMS) til að þróa og stjórna gagnagrunnum.",
+        "mimetype": "plain/text"
+      },
+      "it": {
+        "literal": "Applicare sistemi e modelli di progettazione della banca dati, definire le dipendenze dei dati, utilizzare i linguaggi di interrogazione e i sistemi di gestione delle basi di dati (DBMS) allo scopo di sviluppare e gestire banche dati.",
+        "mimetype": "plain/text"
+      },
+      "es": {
+        "literal": "Aplicar los sistemas y modelos de bases de datos, definir las dependencias de datos, utilice los lenguajes de consulta y los sistemas de gestión de bases de datos (DBMS) para desarrollar y gestionar las bases de datos.",
+        "mimetype": "plain/text"
+      },
+      "et": {
+        "literal": "Andmebaaside projekteerimiskavade ja mudelite rakendamine, andmete vastastiksõltuvuste määratlemine, päringukeelte ja andmebaasihaldussüsteemide kasutamine, et arendada ja hallata andmebaase.",
+        "mimetype": "plain/text"
+      },
+      "cs": {
+        "literal": "Uplatňovat schémata a modely databází, definovat vzájemnou propojenost mezi daty, používat vyhledávací jazyky a systémy řízení databází (DBMS) k vytváření a spravování databází.",
+        "mimetype": "plain/text"
+      },
+      "ar": {
+        "literal": "تطبيق مخططات ونماذج تصميم قواعد البيانات، وتحديد ارتباطات البيانات، واستخدام لغات الاستفسار وأنظمة إدارة قواعد البيانات لتطوير قواعد البيانات وإدارتها.",
+        "mimetype": "plain/text"
+      },
+      "pl": {
+        "literal": "Stosować schematy i modele projektowania baz danych, definiować zależności danych, używać języków zapytań i systemów zarządzania bazami danych (DBMS) do tworzenia baz danych i zarządzania nimi.",
+        "mimetype": "plain/text"
+      },
+      "da": {
+        "literal": "Anvende databasedesignordninger og -modeller, definere indbyrdes afhængigheder mellem data, anvende søgesprog og databasestyringssystemer (DBMS) med henblik på at udvikle og forvalte databaser.",
+        "mimetype": "plain/text"
+      },
+      "ro": {
+        "literal": "Aplică scheme și modele de proiectare a bazei de date, definește dependențele de date, utilizează limbaje de interogare și sisteme de gestionare a bazelor de date (DBMS) pentru a dezvolta și gestiona baza de date.",
+        "mimetype": "plain/text"
+      },
+      "nl": {
+        "literal": "Databaseontwerpschema's en -modellen toepassen, gegevensafhankelijkheden definiëren, querytalen en databasebeheersystemen (DBMS) gebruiken om databases te ontwikkelen en te beheren.",
+        "mimetype": "plain/text"
+      }
+    },
+    "status": "released",
+    "_links": {
+      "self": {
+        "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/29fb0fb5-dfc4-4098-ac9b-3a712000f48f&language=en",
+        "uri": "http://data.europa.eu/esco/skill/29fb0fb5-dfc4-4098-ac9b-3a712000f48f",
+        "title": "manage database"
+      },
+      "isTopConceptInScheme": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/taxonomy?uri=http://data.europa.eu/esco/concept-scheme/member-skills&language=en",
+          "uri": "http://data.europa.eu/esco/concept-scheme/member-skills",
+          "title": "ESCO member skills"
+        }
+      ],
+      "isInScheme": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/taxonomy?uri=http://data.europa.eu/esco/concept-scheme/member-skills&language=en",
+          "uri": "http://data.europa.eu/esco/concept-scheme/member-skills",
+          "title": "ESCO member skills"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/taxonomy?uri=http://data.europa.eu/esco/concept-scheme/skills&language=en",
+          "uri": "http://data.europa.eu/esco/concept-scheme/skills",
+          "title": "ESCO skills"
+        }
+      ],
+      "hasSkillType": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/concept?uri=http://data.europa.eu/esco/skill-type/skill&language=en",
+          "uri": "http://data.europa.eu/esco/skill-type/skill",
+          "title": "skill"
+        }
+      ],
+      "hasReuseLevel": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/concept?uri=http://data.europa.eu/esco/skill-reuse-level/cross-sector&language=en",
+          "uri": "http://data.europa.eu/esco/skill-reuse-level/cross-sector",
+          "title": "cross-sector skills and competences",
+          "code": "Level 2"
+        }
+      ],
+      "broaderHierarchyConcept": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/concept?uri=http://data.europa.eu/esco/skill/S2.3.0&language=en",
+          "uri": "http://data.europa.eu/esco/skill/S2.3.0",
+          "title": "managing information",
+          "code": "S2.3.0"
+        }
+      ],
+      "narrowerSkill": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/5b776f2d-cac1-437e-badd-9871876209a5&language=en",
+          "uri": "http://data.europa.eu/esco/skill/5b776f2d-cac1-437e-badd-9871876209a5",
+          "title": "develop geological databases",
+          "skillType": "http://data.europa.eu/esco/skill-type/skill"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/6c08403c-a5bb-4868-b8c2-b7d039c0e511&language=en",
+          "uri": "http://data.europa.eu/esco/skill/6c08403c-a5bb-4868-b8c2-b7d039c0e511",
+          "title": "design database scheme",
+          "skillType": "http://data.europa.eu/esco/skill-type/skill"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/58888680-07cd-4baa-8eb1-f846bff7e2d4&language=en",
+          "uri": "http://data.europa.eu/esco/skill/58888680-07cd-4baa-8eb1-f846bff7e2d4",
+          "title": "manage membership database",
+          "skillType": "http://data.europa.eu/esco/skill-type/skill"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/9ba8fd27-275d-4bad-8c48-f668aa99a578&language=en",
+          "uri": "http://data.europa.eu/esco/skill/9ba8fd27-275d-4bad-8c48-f668aa99a578",
+          "title": "balance database resources",
+          "skillType": "http://data.europa.eu/esco/skill-type/skill"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/84f58e3d-8669-4d83-8c1d-5dd1e73a654f&language=en",
+          "uri": "http://data.europa.eu/esco/skill/84f58e3d-8669-4d83-8c1d-5dd1e73a654f",
+          "title": "create database diagrams",
+          "skillType": "http://data.europa.eu/esco/skill-type/skill"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/d6cdef49-b669-4507-91d1-3f959cf98e47&language=en",
+          "uri": "http://data.europa.eu/esco/skill/d6cdef49-b669-4507-91d1-3f959cf98e47",
+          "title": "maintain database performance",
+          "skillType": "http://data.europa.eu/esco/skill-type/skill"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/694f1a0a-b6bd-453f-af6d-a833503da307&language=en",
+          "uri": "http://data.europa.eu/esco/skill/694f1a0a-b6bd-453f-af6d-a833503da307",
+          "title": "manage meteorological database",
+          "skillType": "http://data.europa.eu/esco/skill-type/skill"
+        }
+      ],
+      "hasOptionalSkill": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/ab1e97ed-2319-4293-a8b7-072d2648822f&language=en",
+          "uri": "http://data.europa.eu/esco/skill/ab1e97ed-2319-4293-a8b7-072d2648822f",
+          "title": "database management systems",
+          "skillType": "http://data.europa.eu/esco/skill-type/knowledge"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/43ae58b9-5e56-4524-b45a-b422777a0576&language=en",
+          "uri": "http://data.europa.eu/esco/skill/43ae58b9-5e56-4524-b45a-b422777a0576",
+          "title": "database",
+          "skillType": "http://data.europa.eu/esco/skill-type/knowledge"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/c1b4aa1e-bc42-49e4-952a-0cbd45f1d57b&language=en",
+          "uri": "http://data.europa.eu/esco/skill/c1b4aa1e-bc42-49e4-952a-0cbd45f1d57b",
+          "title": "museum databases",
+          "skillType": "http://data.europa.eu/esco/skill-type/knowledge"
+        }
+      ],
+      "isEssentialForOccupation": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/8c57af09-719c-42b3-be40-6ed4946236cc&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/8c57af09-719c-42b3-be40-6ed4946236cc",
+          "title": "database administrator"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/4e4a1aa1-ca53-406e-9ca6-889d4621a0ed&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/4e4a1aa1-ca53-406e-9ca6-889d4621a0ed",
+          "title": "big data archive librarian"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/49ca9fe4-4513-4657-b27f-eaad11e6158a&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/49ca9fe4-4513-4657-b27f-eaad11e6158a",
+          "title": "lottery manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/35553663-deab-4d9a-bf22-15c1625d28e8&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/35553663-deab-4d9a-bf22-15c1625d28e8",
+          "title": "ICT intelligent systems designer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/68d973df-bf10-4bf7-9a1b-fbd9f604b9db&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/68d973df-bf10-4bf7-9a1b-fbd9f604b9db",
+          "title": "bioinformatics scientist"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/8d9ec84d-cf2d-4179-87bc-335cda54a427&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/8d9ec84d-cf2d-4179-87bc-335cda54a427",
+          "title": "database designer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/812c217d-32b7-4f6a-9faf-993d3577ac7f&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/812c217d-32b7-4f6a-9faf-993d3577ac7f",
+          "title": "knowledge engineer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/9729c0f3-c9bc-482e-ac59-a82ec3b67ba3&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/9729c0f3-c9bc-482e-ac59-a82ec3b67ba3",
+          "title": "data centre operator"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/e1c72b5f-4c5c-487c-a6df-e84b64a51dae&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/e1c72b5f-4c5c-487c-a6df-e84b64a51dae",
+          "title": "ICT system architect"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/1562c7a3-c7d9-419d-b9b6-db26610bcf84&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/1562c7a3-c7d9-419d-b9b6-db26610bcf84",
+          "title": "data warehouse designer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/7086d0ca-1e77-4690-89c9-7ed1a0478fa3&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/7086d0ca-1e77-4690-89c9-7ed1a0478fa3",
+          "title": "data quality specialist"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/cc9fcab5-a5c6-4cc9-9606-cbcc2852537f&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/cc9fcab5-a5c6-4cc9-9606-cbcc2852537f",
+          "title": "curator of horticulture"
+        }
+      ],
+      "isOptionalForOccupation": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/0464b062-cea6-4164-b10d-956c61956ae7&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/0464b062-cea6-4164-b10d-956c61956ae7",
+          "title": "ICT security administrator"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/1f665529-96e9-46c1-99f4-9ffbf9ffa036&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/1f665529-96e9-46c1-99f4-9ffbf9ffa036",
+          "title": "auditing clerk"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/ac8b3cd1-a127-4e6a-8208-5cfcf7111955&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/ac8b3cd1-a127-4e6a-8208-5cfcf7111955",
+          "title": "statistician"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/0611f232-b30e-46c7-9c26-2d59b1448e79&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/0611f232-b30e-46c7-9c26-2d59b1448e79",
+          "title": "criminologist"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/d2e63d7e-2605-4af1-bb7d-b1ed9ad08825&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/d2e63d7e-2605-4af1-bb7d-b1ed9ad08825",
+          "title": "statistical assistant"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/ff656b3a-65a8-4b4f-b04e-9db12936519b&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/ff656b3a-65a8-4b4f-b04e-9db12936519b",
+          "title": "demographer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/b0f3f595-4965-4f13-ba5c-f6049b62469f&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/b0f3f595-4965-4f13-ba5c-f6049b62469f",
+          "title": "biometrician"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/66fb9704-0d56-4673-8e69-7823816b73e1&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/66fb9704-0d56-4673-8e69-7823816b73e1",
+          "title": "market research analyst"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/bb4ca5c1-879d-44e8-840d-24f320206bff&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/bb4ca5c1-879d-44e8-840d-24f320206bff",
+          "title": "grants administrator"
+        }
+      ]
+    },
+    "_embedded": {
+      "ancestors": [
+        {
+          "title": "manage database",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/29fb0fb5-dfc4-4098-ac9b-3a712000f48f&language=en",
+              "uri": "http://data.europa.eu/esco/skill/29fb0fb5-dfc4-4098-ac9b-3a712000f48f"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S2.3.0"
+          ]
+        },
+        {
+          "title": "managing information",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S2.3.0&language=en",
+              "uri": "http://data.europa.eu/esco/skill/S2.3.0"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S2.3"
+          ]
+        },
+        {
+          "title": "managing information",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S2.3&language=en",
+              "uri": "http://data.europa.eu/esco/skill/S2.3"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S2"
+          ]
+        },
+        {
+          "title": "information skills",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S2&language=en",
+              "uri": "http://data.europa.eu/esco/skill/S2"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S"
+          ]
+        },
+        {
+          "title": "skills",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S&language=en",
+              "uri": "http://data.europa.eu/esco/skill/S"
+            }
+          },
+          "parents": []
+        }
+      ]
+    }
+  }
+}

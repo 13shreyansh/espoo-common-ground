@@ -1,0 +1,634 @@
+{
+  "url": "https://ec.europa.eu/esco/api/resource/skill?language=en&uri=http%3A%2F%2Fdata.europa.eu%2Fesco%2Fskill%2F0d6714c6-720e-4985-9791-5ab85d28da79",
+  "at": "2026-11-14T22:51:24.454Z",
+  "response": {
+    "className": "Skill",
+    "classId": "http://data.europa.eu/esco/model#Skill",
+    "uri": "http://data.europa.eu/esco/skill/0d6714c6-720e-4985-9791-5ab85d28da79",
+    "title": "gather data",
+    "referenceLanguage": [
+      "en"
+    ],
+    "preferredLabel": {
+      "no": "samle inn data",
+      "de": "Daten sammeln",
+      "en-us": "gather data",
+      "fi": "kerätä tietoja",
+      "pt": "reunir dados",
+      "bg": "събиране на данни",
+      "lt": "rinkti duomenis",
+      "lv": "vākt datus",
+      "hr": "prikupljati podatke",
+      "fr": "collecter des données",
+      "hu": "adatokat gyűjt",
+      "sk": "zhromažďovať údaje",
+      "sl": "zbirati podatke",
+      "ga": "sonraí a bhailiú",
+      "sv": "samla in data",
+      "el": "συλλογή δεδομένων",
+      "mt": "ġbir tad-data",
+      "en": "gather data",
+      "is": "safnar saman gögnum",
+      "it": "raccogliere i dati",
+      "es": "extraer datos",
+      "et": "andmeid koguma",
+      "cs": "shromažďovat data",
+      "ar": "جمع البيانات",
+      "pl": "gromadzić dane",
+      "da": "indsamle data",
+      "ro": "adună date",
+      "nl": "gegevens verzamelen"
+    },
+    "alternativeLabel": {
+      "fi": [
+        "kerätä dataa"
+      ],
+      "en": [
+        "assemble data",
+        "gavering data",
+        "convene data",
+        "data gavering",
+        "collect data",
+        "aggregate data"
+      ],
+      "lv": [
+        "apkopot datus"
+      ],
+      "ro": [
+        "strânge date",
+        "colectează date"
+      ],
+      "nl": [
+        "data verzamelen"
+      ],
+      "es": [
+        "obtener datos",
+        "reunir datos"
+      ]
+    },
+    "description": {
+      "no": {
+        "literal": "Trekke ut eksporterbare data fra flere kilder.",
+        "mimetype": "plain/text"
+      },
+      "de": {
+        "literal": "Extrahieren exportierbarer Daten aus mehreren Quellen.",
+        "mimetype": "plain/text"
+      },
+      "fi": {
+        "literal": "Vietävien tietojen poimiminen useista lähteistä.",
+        "mimetype": "plain/text"
+      },
+      "en-us": {
+        "literal": "Extract exportable data from multiple sources.",
+        "mimetype": "plain/text"
+      },
+      "pt": {
+        "literal": "Extrair dados exportáveis de várias fontes.",
+        "mimetype": "plain/text"
+      },
+      "bg": {
+        "literal": "Извлича данни, които могат да бъдат изнасяни от множество източници.",
+        "mimetype": "plain/text"
+      },
+      "lt": {
+        "literal": "Išgauti eksportuojamus duomenis iš įvairių šaltinių.",
+        "mimetype": "plain/text"
+      },
+      "hr": {
+        "literal": "Izdvojiti podatke koji se mogu izvesti iz više izvora.",
+        "mimetype": "plain/text"
+      },
+      "lv": {
+        "literal": "Iegūt eksportējamus datus no vairākiem avotiem.",
+        "mimetype": "plain/text"
+      },
+      "fr": {
+        "literal": "Extraire des données exportables provenant de sources multiples.",
+        "mimetype": "plain/text"
+      },
+      "hu": {
+        "literal": "Többféle forrásból exportálható adatokat kivonatol.",
+        "mimetype": "plain/text"
+      },
+      "sk": {
+        "literal": "Extrahovanie exportovateľných údajov z viacerých zdrojov.",
+        "mimetype": "plain/text"
+      },
+      "sl": {
+        "literal": "Pridobivati podatke, ki jih je mogoče izvoziti, iz več virov.",
+        "mimetype": "plain/text"
+      },
+      "ga": {
+        "literal": "Sliocht a bhaint as sonraí ó ilfhoinsí.",
+        "mimetype": "plain/text"
+      },
+      "sv": {
+        "literal": "Hämta exporterbara data från flera olika källor.",
+        "mimetype": "plain/text"
+      },
+      "el": {
+        "literal": "Εξαγωγή εξαγώγιμων δεδομένων από πολλαπλές πηγές.",
+        "mimetype": "plain/text"
+      },
+      "mt": {
+        "literal": "L-estrazzjoni ta’ dejta li tista’ tiġi esportata minn sorsi multipli.",
+        "mimetype": "plain/text"
+      },
+      "en": {
+        "literal": "Extract exportable data from multiple sources.",
+        "mimetype": "plain/text"
+      },
+      "is": {
+        "literal": "Dregur útflutningshæf gögn saman úr mörgum áttum.",
+        "mimetype": "plain/text"
+      },
+      "it": {
+        "literal": "Estrarre i dati esportabili da più fonti.",
+        "mimetype": "plain/text"
+      },
+      "es": {
+        "literal": "Extraer datos exportables de múltiples fuentes.",
+        "mimetype": "plain/text"
+      },
+      "et": {
+        "literal": "Eksporditavate andmete eraldamine mitmest allikast.",
+        "mimetype": "plain/text"
+      },
+      "cs": {
+        "literal": "Extrahovat exportovatelná data z více zdrojů.",
+        "mimetype": "plain/text"
+      },
+      "ar": {
+        "literal": "استخراج البيانات القابلة للتصدير من مصادر متعددة.",
+        "mimetype": "plain/text"
+      },
+      "pl": {
+        "literal": "Wyodrębniać dane do eksportu z wielu źródeł.",
+        "mimetype": "plain/text"
+      },
+      "da": {
+        "literal": "Udtrække data, der kan eksporteres fra flere kilder.",
+        "mimetype": "plain/text"
+      },
+      "ro": {
+        "literal": "Extrage date exportabile din surse multiple.",
+        "mimetype": "plain/text"
+      },
+      "nl": {
+        "literal": "Extractie van uit verschillende bronnen exporteerbare gegevens.",
+        "mimetype": "plain/text"
+      }
+    },
+    "status": "released",
+    "_links": {
+      "self": {
+        "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/0d6714c6-720e-4985-9791-5ab85d28da79&language=en",
+        "uri": "http://data.europa.eu/esco/skill/0d6714c6-720e-4985-9791-5ab85d28da79",
+        "title": "gather data"
+      },
+      "isInScheme": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/taxonomy?uri=http://data.europa.eu/esco/concept-scheme/member-skills&language=en",
+          "uri": "http://data.europa.eu/esco/concept-scheme/member-skills",
+          "title": "ESCO member skills"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/taxonomy?uri=http://data.europa.eu/esco/concept-scheme/skills&language=en",
+          "uri": "http://data.europa.eu/esco/concept-scheme/skills",
+          "title": "ESCO skills"
+        }
+      ],
+      "hasSkillType": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/concept?uri=http://data.europa.eu/esco/skill-type/skill&language=en",
+          "uri": "http://data.europa.eu/esco/skill-type/skill",
+          "title": "skill"
+        }
+      ],
+      "hasReuseLevel": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/concept?uri=http://data.europa.eu/esco/skill-reuse-level/cross-sector&language=en",
+          "uri": "http://data.europa.eu/esco/skill-reuse-level/cross-sector",
+          "title": "cross-sector skills and competences",
+          "code": "Level 2"
+        }
+      ],
+      "broaderHierarchyConcept": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/concept?uri=http://data.europa.eu/esco/skill/S2.4.1&language=en",
+          "uri": "http://data.europa.eu/esco/skill/S2.4.1",
+          "title": "gathering information from physical or electronic sources",
+          "code": "S2.4.1"
+        }
+      ],
+      "broaderSkill": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/1b70a55d-b8a4-49fc-96c6-15ab4cff2522&language=en",
+          "uri": "http://data.europa.eu/esco/skill/1b70a55d-b8a4-49fc-96c6-15ab4cff2522",
+          "title": "use data processing techniques",
+          "skillType": "http://data.europa.eu/esco/skill-type/skill"
+        }
+      ],
+      "narrowerSkill": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/7f783956-f734-4d56-85de-10f0c1706f8a&language=en",
+          "uri": "http://data.europa.eu/esco/skill/7f783956-f734-4d56-85de-10f0c1706f8a",
+          "title": "record customers' personal data",
+          "skillType": "http://data.europa.eu/esco/skill-type/skill"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/0c766ca3-9364-4203-916b-fed16e4814c1&language=en",
+          "uri": "http://data.europa.eu/esco/skill/0c766ca3-9364-4203-916b-fed16e4814c1",
+          "title": "gather data for forensic purposes",
+          "skillType": "http://data.europa.eu/esco/skill-type/skill"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/c216b67a-7462-4f6a-ba14-db02f6e91b68&language=en",
+          "uri": "http://data.europa.eu/esco/skill/c216b67a-7462-4f6a-ba14-db02f6e91b68",
+          "title": "compile data for navigation publications",
+          "skillType": "http://data.europa.eu/esco/skill-type/skill"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/79e29b8b-47d1-470d-b7b1-32506bfe7d9a&language=en",
+          "uri": "http://data.europa.eu/esco/skill/79e29b8b-47d1-470d-b7b1-32506bfe7d9a",
+          "title": "collect ICT data",
+          "skillType": "http://data.europa.eu/esco/skill-type/skill"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/d89b9a3f-19bf-4b9b-9664-ed35924eb399&language=en",
+          "uri": "http://data.europa.eu/esco/skill/d89b9a3f-19bf-4b9b-9664-ed35924eb399",
+          "title": "collect data using GPS",
+          "skillType": "http://data.europa.eu/esco/skill-type/skill"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/89db623e-e1fc-4ec2-9a0f-7b72b4c35303&language=en",
+          "uri": "http://data.europa.eu/esco/skill/89db623e-e1fc-4ec2-9a0f-7b72b4c35303",
+          "title": "gather experimental data",
+          "skillType": "http://data.europa.eu/esco/skill-type/skill"
+        }
+      ],
+      "isEssentialForOccupation": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/68d973df-bf10-4bf7-9a1b-fbd9f604b9db&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/68d973df-bf10-4bf7-9a1b-fbd9f604b9db",
+          "title": "bioinformatics scientist"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/9851c83c-5670-4da0-964a-1ef0e682e30b&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/9851c83c-5670-4da0-964a-1ef0e682e30b",
+          "title": "thanatology researcher"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/30ca97f4-a4fd-4189-a781-ac08f6b09b78&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/30ca97f4-a4fd-4189-a781-ac08f6b09b78",
+          "title": "call centre analyst"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/11df8941-508c-4103-ad40-52cdf9430a59&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/11df8941-508c-4103-ad40-52cdf9430a59",
+          "title": "sociologist"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/d2e63d7e-2605-4af1-bb7d-b1ed9ad08825&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/d2e63d7e-2605-4af1-bb7d-b1ed9ad08825",
+          "title": "statistical assistant"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/ac8b3cd1-a127-4e6a-8208-5cfcf7111955&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/ac8b3cd1-a127-4e6a-8208-5cfcf7111955",
+          "title": "statistician"
+        }
+      ],
+      "isOptionalForOccupation": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/a51ab2e2-aaa9-4d7d-a747-bff2e276636a&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/a51ab2e2-aaa9-4d7d-a747-bff2e276636a",
+          "title": "heat treatment furnace operator"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/715b902f-b1b6-4366-afc6-ddb8ab715229&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/715b902f-b1b6-4366-afc6-ddb8ab715229",
+          "title": "agricultural inspector"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/35e67944-231e-4bc9-8c69-560f203167ff&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/35e67944-231e-4bc9-8c69-560f203167ff",
+          "title": "intelligence communications interceptor"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/66fb9704-0d56-4673-8e69-7823816b73e1&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/66fb9704-0d56-4673-8e69-7823816b73e1",
+          "title": "market research analyst"
+        }
+      ],
+      "isEssentialForSkill": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/57231a22-4da7-49c8-97b8-75672feadf1e&language=en",
+          "uri": "http://data.europa.eu/esco/skill/57231a22-4da7-49c8-97b8-75672feadf1e",
+          "title": "manage quantitative data",
+          "skillType": "http://data.europa.eu/esco/skill-type/skill"
+        }
+      ]
+    },
+    "_embedded": {
+      "ancestors": [
+        {
+          "title": "gather data",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/0d6714c6-720e-4985-9791-5ab85d28da79&language=en",
+              "uri": "http://data.europa.eu/esco/skill/0d6714c6-720e-4985-9791-5ab85d28da79"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/1b70a55d-b8a4-49fc-96c6-15ab4cff2522",
+            "http://data.europa.eu/esco/skill/S2.4.1"
+          ]
+        },
+        {
+          "title": "use data processing techniques",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/1b70a55d-b8a4-49fc-96c6-15ab4cff2522&language=en",
+              "uri": "http://data.europa.eu/esco/skill/1b70a55d-b8a4-49fc-96c6-15ab4cff2522"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/611ed16b-99bf-4840-9cab-f55d1d286e0a",
+            "http://data.europa.eu/esco/skill/4463a721-69f3-413d-8321-43e3af13a4f1",
+            "http://data.europa.eu/esco/skill/7dd94ad3-13d6-43fe-8b94-51fcbf67ced9",
+            "http://data.europa.eu/esco/skill/1d6c7de4-350e-4868-a47b-333b4b0d9650",
+            "http://data.europa.eu/esco/skill/S5.5.2"
+          ]
+        },
+        {
+          "title": "evaluate data, information and digital content",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/1d6c7de4-350e-4868-a47b-333b4b0d9650&language=en",
+              "uri": "http://data.europa.eu/esco/skill/1d6c7de4-350e-4868-a47b-333b4b0d9650"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S2.7.0",
+            "http://data.europa.eu/esco/skill/629685b8-5f9e-4522-8cff-b3e2c4ec625a"
+          ]
+        },
+        {
+          "title": "analysing and evaluating information and data",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S2.7.0&language=en",
+              "uri": "http://data.europa.eu/esco/skill/S2.7.0"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S2.7"
+          ]
+        },
+        {
+          "title": "analysing and evaluating information and data",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S2.7&language=en",
+              "uri": "http://data.europa.eu/esco/skill/S2.7"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S2"
+          ]
+        },
+        {
+          "title": "information skills",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S2&language=en",
+              "uri": "http://data.europa.eu/esco/skill/S2"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S"
+          ]
+        },
+        {
+          "title": "skills",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S&language=en",
+              "uri": "http://data.europa.eu/esco/skill/S"
+            }
+          },
+          "parents": []
+        },
+        {
+          "title": "digital data processing",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/629685b8-5f9e-4522-8cff-b3e2c4ec625a&language=en",
+              "uri": "http://data.europa.eu/esco/skill/629685b8-5f9e-4522-8cff-b3e2c4ec625a"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/aeecc330-0be9-419f-bddb-5218de926004"
+          ]
+        },
+        {
+          "title": "digital competencies",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/aeecc330-0be9-419f-bddb-5218de926004&language=en",
+              "uri": "http://data.europa.eu/esco/skill/aeecc330-0be9-419f-bddb-5218de926004"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/4f663b30-1c49-4634-82e4-7e582b1551b7"
+          ]
+        },
+        {
+          "title": "application of knowledge",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/4f663b30-1c49-4634-82e4-7e582b1551b7&language=en",
+              "uri": "http://data.europa.eu/esco/skill/4f663b30-1c49-4634-82e4-7e582b1551b7"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/7ee746cb-fded-47f5-9652-19ebebbce51b"
+          ]
+        },
+        {
+          "title": "Transversal skills/competences",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/7ee746cb-fded-47f5-9652-19ebebbce51b&language=en",
+              "uri": "http://data.europa.eu/esco/skill/7ee746cb-fded-47f5-9652-19ebebbce51b"
+            }
+          },
+          "parents": []
+        },
+        {
+          "title": "use databases",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/4463a721-69f3-413d-8321-43e3af13a4f1&language=en",
+              "uri": "http://data.europa.eu/esco/skill/4463a721-69f3-413d-8321-43e3af13a4f1"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/4d97e3c3-f335-47cc-a4ee-0d779fd42222",
+            "http://data.europa.eu/esco/skill/S5.5.2"
+          ]
+        },
+        {
+          "title": "manage data, information and digital content",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/4d97e3c3-f335-47cc-a4ee-0d779fd42222&language=en",
+              "uri": "http://data.europa.eu/esco/skill/4d97e3c3-f335-47cc-a4ee-0d779fd42222"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S2.3.0",
+            "http://data.europa.eu/esco/skill/629685b8-5f9e-4522-8cff-b3e2c4ec625a"
+          ]
+        },
+        {
+          "title": "managing information",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S2.3.0&language=en",
+              "uri": "http://data.europa.eu/esco/skill/S2.3.0"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S2.3"
+          ]
+        },
+        {
+          "title": "managing information",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S2.3&language=en",
+              "uri": "http://data.europa.eu/esco/skill/S2.3"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S2"
+          ]
+        },
+        {
+          "title": "managing and analysing digital data",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S5.5.2&language=en",
+              "uri": "http://data.europa.eu/esco/skill/S5.5.2"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S5.5"
+          ]
+        },
+        {
+          "title": "accessing and analysing digital data",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S5.5&language=en",
+              "uri": "http://data.europa.eu/esco/skill/S5.5"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S5"
+          ]
+        },
+        {
+          "title": "working with computers",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S5&language=en",
+              "uri": "http://data.europa.eu/esco/skill/S5"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S"
+          ]
+        },
+        {
+          "title": "evaluate information",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/7dd94ad3-13d6-43fe-8b94-51fcbf67ced9&language=en",
+              "uri": "http://data.europa.eu/esco/skill/7dd94ad3-13d6-43fe-8b94-51fcbf67ced9"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S2.7.0",
+            "http://data.europa.eu/esco/skill/a06a5a3f-07a9-40b3-bb7b-d93a960b1be5"
+          ]
+        },
+        {
+          "title": "thinking",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/a06a5a3f-07a9-40b3-bb7b-d93a960b1be5&language=en",
+              "uri": "http://data.europa.eu/esco/skill/a06a5a3f-07a9-40b3-bb7b-d93a960b1be5"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/7ee746cb-fded-47f5-9652-19ebebbce51b"
+          ]
+        },
+        {
+          "title": "store digital data and systems",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/611ed16b-99bf-4840-9cab-f55d1d286e0a&language=en",
+              "uri": "http://data.europa.eu/esco/skill/611ed16b-99bf-4840-9cab-f55d1d286e0a"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/4d97e3c3-f335-47cc-a4ee-0d779fd42222",
+            "http://data.europa.eu/esco/skill/629685b8-5f9e-4522-8cff-b3e2c4ec625a",
+            "http://data.europa.eu/esco/skill/S5.5.2"
+          ]
+        },
+        {
+          "title": "managing and analysing digital data",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S5.5.2&language=en",
+              "uri": "http://data.europa.eu/esco/skill/S5.5.2"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S5.5"
+          ]
+        },
+        {
+          "title": "gathering information from physical or electronic sources",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S2.4.1&language=en",
+              "uri": "http://data.europa.eu/esco/skill/S2.4.1"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S2.4"
+          ]
+        },
+        {
+          "title": "processing information",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S2.4&language=en",
+              "uri": "http://data.europa.eu/esco/skill/S2.4"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S2"
+          ]
+        }
+      ]
+    }
+  }
+}

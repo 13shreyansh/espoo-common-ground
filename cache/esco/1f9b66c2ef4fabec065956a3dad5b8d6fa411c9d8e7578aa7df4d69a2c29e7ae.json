@@ -1,0 +1,209 @@
+{
+  "url": "https://ec.europa.eu/esco/api/search?type=skill&language=en&limit=3&text=collect%20data",
+  "at": "2026-11-14T22:51:23.869Z",
+  "response": {
+    "total": 692,
+    "offset": 0,
+    "limit": 3,
+    "text": "collect data",
+    "language": "en",
+    "type": [
+      "skill"
+    ],
+    "isInScheme": null,
+    "facet": null,
+    "_links": {
+      "self": {
+        "href": "https://ec.europa.eu/esco/api/search?text=collect%20data&type=skill&limit=3&offset=0&full=false&viewObsolete=false&language=en"
+      },
+      "next": {
+        "href": "https://ec.europa.eu/esco/api/search?text=collect%20data&type=skill&limit=3&offset=1&full=false&viewObsolete=false&language=en"
+      }
+    },
+    "_embedded": {
+      "results": [
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/0d6714c6-720e-4985-9791-5ab85d28da79",
+          "searchHit": "collect data",
+          "title": "gather data",
+          "preferredLabel": {
+            "de": "Daten sammeln",
+            "no": "samle inn data",
+            "fi": "kerätä tietoja",
+            "en-us": "gather data",
+            "pt": "reunir dados",
+            "bg": "събиране на данни",
+            "lt": "rinkti duomenis",
+            "hr": "prikupljati podatke",
+            "lv": "vākt datus",
+            "fr": "collecter des données",
+            "hu": "adatokat gyűjt",
+            "sk": "zhromažďovať údaje",
+            "sl": "zbirati podatke",
+            "ga": "sonraí a bhailiú",
+            "sv": "samla in data",
+            "el": "συλλογή δεδομένων",
+            "mt": "ġbir tad-data",
+            "en": "gather data",
+            "is": "safnar saman gögnum",
+            "it": "raccogliere i dati",
+            "es": "extraer datos",
+            "et": "andmeid koguma",
+            "cs": "shromažďovat data",
+            "ar": "جمع البيانات",
+            "pl": "gromadzić dane",
+            "da": "indsamle data",
+            "ro": "adună date",
+            "nl": "gegevens verzamelen"
+          },
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/skill"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/cross-sector"
+          ],
+          "broaderSkill": [
+            "http://data.europa.eu/esco/skill/1b70a55d-b8a4-49fc-96c6-15ab4cff2522"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/skill/S2.4.1"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/0d6714c6-720e-4985-9791-5ab85d28da79&language=en",
+              "uri": "http://data.europa.eu/esco/skill/0d6714c6-720e-4985-9791-5ab85d28da79",
+              "title": "gather data"
+            }
+          }
+        },
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/d89b9a3f-19bf-4b9b-9664-ed35924eb399",
+          "searchHit": "collect data using GPS",
+          "title": "collect data using GPS",
+          "preferredLabel": {
+            "de": "GPS-Daten zusammentragen",
+            "no": "samle inn data ved hjelp av GPS",
+            "fi": "kerätä tietoja GPS-laitteilla",
+            "en-us": "collect data using GPS",
+            "pt": "recolher dados utilizando GPS",
+            "bg": "събиране на данни с използване на GPS",
+            "lt": "rinkti duomenis naudojantis GPS",
+            "hr": "prikupljati podatke uporabom GPS-a",
+            "lv": "iegūt datus, izmantojot GPS",
+            "fr": "collecter des données au moyen d’un GPS",
+            "hu": "GPS használatával adatot gyűjt",
+            "sk": "zbierať údaje pomocou GPS",
+            "sl": "zbirati podatke z napravami GPS",
+            "ga": "sonraí a bhailiú le GPS",
+            "sv": "samla in data med GPS-utrustning",
+            "el": "συλλογή δεδομένων με GPS",
+            "mt": "ġbir tad-data permezz tal-GPS",
+            "en": "collect data using GPS",
+            "is": "safnar gögnum með GPS",
+            "it": "raccogliere dati con sistemi GPS",
+            "es": "reunir datos mediante el sistema de posicionamiento global",
+            "et": "GPSi abil andmeid koguma",
+            "cs": "shromažďovat údaje pomocí GPS",
+            "ar": "جمع البيانات باستخدام نظام تحديد المواقع",
+            "pl": "gromadzić dane przy wykorzystaniu technologii GPS",
+            "da": "indsamle data ved hjælp af GPS",
+            "ro": "colectează date utilizând GPS",
+            "nl": "gegevens verzamelen met GPS"
+          },
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/skill"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/cross-sector"
+          ],
+          "broaderSkill": [
+            "http://data.europa.eu/esco/skill/97fb21db-a4e5-4b03-af21-03b9d510d872",
+            "http://data.europa.eu/esco/skill/0d6714c6-720e-4985-9791-5ab85d28da79"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/skill/S2.4.1"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/d89b9a3f-19bf-4b9b-9664-ed35924eb399&language=en",
+              "uri": "http://data.europa.eu/esco/skill/d89b9a3f-19bf-4b9b-9664-ed35924eb399",
+              "title": "collect data using GPS"
+            }
+          }
+        },
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/a3e7ebba-5183-4df8-9203-35b9b9b8f4fa",
+          "searchHit": "collect customer data",
+          "title": "collect customer data",
+          "preferredLabel": {
+            "de": "Kundendaten sammeln",
+            "no": "innhente kundedata",
+            "fi": "kerätä asiakastietoja",
+            "en-us": "collect customer data",
+            "pt": "reunir dados de clientes",
+            "bg": "събиране на данни за потребителите",
+            "lt": "rinkti klientų duomenis",
+            "hr": "prikupljati podatke o kupcima",
+            "lv": "vākt klientu datus",
+            "fr": "collecter des données sur des clients",
+            "hu": "ügyféladatokat gyűjt",
+            "sk": "zozbierať údaje o zákazníkoch",
+            "sl": "zbirati podatke strank",
+            "ga": "sonraí custaiméirí a bhailiú",
+            "sv": "samla in kunduppgifter",
+            "el": "συλλογή δεδομένων πελατών",
+            "mt": "ġbir ta' data tal-klijenti",
+            "en": "collect customer data",
+            "is": "safnar saman gögnum um viðskiptavini",
+            "it": "raccogliere i dati dei clienti",
+            "es": "recopilar información sobre los pasajeros",
+            "et": "kliendiandmeid koguma",
+            "cs": "shromažďovat údaje o zákaznících",
+            "ar": "جمع بيانات العملاء",
+            "pl": "gromadzić dane na temat klientów",
+            "da": "indsamle kundedata",
+            "ro": "colectează date referitoare la clienți",
+            "nl": "klantgegevens verzamelen"
+          },
+          "isTopConceptInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/skill"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/sector-specific"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/skill/S2.4.1"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/a3e7ebba-5183-4df8-9203-35b9b9b8f4fa&language=en",
+              "uri": "http://data.europa.eu/esco/skill/a3e7ebba-5183-4df8-9203-35b9b9b8f4fa",
+              "title": "collect customer data"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

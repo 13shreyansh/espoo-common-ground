@@ -1,0 +1,391 @@
+{
+  "url": "https://ec.europa.eu/esco/api/search?type=skill&language=en&limit=6&text=design%20dashboard",
+  "at": "2026-11-14T23:00:08.404Z",
+  "response": {
+    "total": 727,
+    "offset": 0,
+    "limit": 6,
+    "text": "design dashboard",
+    "language": "en",
+    "type": [
+      "skill"
+    ],
+    "isInScheme": null,
+    "facet": null,
+    "_links": {
+      "self": {
+        "href": "https://ec.europa.eu/esco/api/search?text=design%20dashboard&type=skill&limit=6&offset=0&full=false&viewObsolete=false&language=en"
+      },
+      "next": {
+        "href": "https://ec.europa.eu/esco/api/search?text=design%20dashboard&type=skill&limit=6&offset=1&full=false&viewObsolete=false&language=en"
+      }
+    },
+    "_embedded": {
+      "results": [
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/d4a4ec38-63e1-4fcf-8768-debc0dc382e8",
+          "searchHit": "Remove dirt, rubbish or impurities of the interior of vehicles, including consoles and dashboards; vacuum car seats and carpets; clean hinges and door trims.",
+          "title": "clean vehicle interiors",
+          "preferredLabel": {
+            "de": "Fahrzeuginnenraum reinigen",
+            "no": "rengjøre kjøretøyets interiør",
+            "fi": "puhdistaa ajoneuvon sisäpuoli",
+            "en-us": "clean vehicle interiors",
+            "pt": "limpar o interior de veículos",
+            "bg": "почистване на превозни средства отвътре",
+            "lt": "valyti transporto priemonių vidų",
+            "hr": "čistiti unutrašnjost vozila",
+            "lv": "tīrīt transportlīdzekļu salonu",
+            "fr": "nettoyer l’intérieur d’un véhicule",
+            "hu": "kitakarítja a jármű belső részét",
+            "sk": "vyčistiť interiér vozidla",
+            "sl": "očistiti notranjost vozila",
+            "ga": "an taobh istigh d’fheithiclí a ghlanadh",
+            "sv": "rengöra fordons insida",
+            "el": "καθαρισμός εσωτερικών μερών οχήματος",
+            "mt": "tindif tal-interjuri tal-vetturi",
+            "en": "clean vehicle interiors",
+            "is": "þrífur bifreið að innan",
+            "it": "pulire gli interni del veicolo",
+            "es": "limpiar el interior del vehículo",
+            "et": "sõiduki salongi puhastama",
+            "cs": "vyčistit vnitřní části vozidla",
+            "ar": "تنظيف المركبات من الداخل",
+            "pl": "czyścić wnętrze pojazdu",
+            "da": "rengøre køretøjer indvendigt",
+            "ro": "curăță interioarele vehiculului",
+            "nl": "binnenkant van voertuigen schoonmaken"
+          },
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/skill"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/sector-specific"
+          ],
+          "broaderSkill": [
+            "http://data.europa.eu/esco/skill/8c68fa38-32ce-4d48-b24f-73c10bd7cea9",
+            "http://data.europa.eu/esco/skill/6816e28f-a48d-41c7-8492-309f50c049fc",
+            "http://data.europa.eu/esco/skill/0ea0b260-617b-4d04-bf00-988dd0b122e5",
+            "http://data.europa.eu/esco/skill/710c37e5-a6df-4755-9482-2e87db91f593"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/skill/S6.11.1"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/d4a4ec38-63e1-4fcf-8768-debc0dc382e8&language=en",
+              "uri": "http://data.europa.eu/esco/skill/d4a4ec38-63e1-4fcf-8768-debc0dc382e8",
+              "title": "clean vehicle interiors"
+            }
+          }
+        },
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/b7c00b85-e5b5-4c97-8bef-f0d7bd9db8d7",
+          "searchHit": "transfer designs",
+          "title": "transfer designs",
+          "preferredLabel": {
+            "de": "Entwürfe übertragen",
+            "no": "overføre design",
+            "fi": "sovittaa suunnitelmat materiaaleille",
+            "en-us": "transfer designs",
+            "pt": "reproduzir designs",
+            "bg": "прехвърляне на дизайни",
+            "lt": "perkelti kompozicijas",
+            "hr": "prenositi dizajn",
+            "lv": "veidot šablonu nospiedumus",
+            "fr": "transférer des dessins",
+            "hu": "dizájnt alkalmaz",
+            "sk": "preniesť vzory",
+            "sl": "prenašati vzorce",
+            "ga": "dearaí a aistriú ina n-ábhair shonracha",
+            "sv": "överföra design",
+            "el": "μετατροπή σχεδίων σε υλική μορφή",
+            "mt": "trasferiment tad-disinni",
+            "en": "transfer designs",
+            "is": "þrykkir mynstur",
+            "it": "trasferire i disegni e i modelli",
+            "es": "transferir imágenes",
+            "et": "kujundusi üle kandma",
+            "cs": "přenášet vzorek",
+            "ar": "نقل التصاميم",
+            "pl": "nanosić wzory",
+            "da": "overføre designs",
+            "ro": "reproduce concepte de design",
+            "nl": "ontwerpen overzetten"
+          },
+          "isTopConceptInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/skill"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/sector-specific"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/skill/S1.11.5"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/b7c00b85-e5b5-4c97-8bef-f0d7bd9db8d7&language=en",
+              "uri": "http://data.europa.eu/esco/skill/b7c00b85-e5b5-4c97-8bef-f0d7bd9db8d7",
+              "title": "transfer designs"
+            }
+          }
+        },
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/d52382fe-f236-421f-95fe-34fe69d48dbd",
+          "searchHit": "collaborate with designers",
+          "title": "collaborate with designers",
+          "preferredLabel": {
+            "de": "mit Designern zusammenarbeiten",
+            "no": "samarbeide med designere",
+            "fi": "tehdä yhteistyötä suunnittelijoiden kanssa",
+            "en-us": "collaborate with designers",
+            "pt": "colaborar com os designers",
+            "bg": "работа в сътрудничество с дизайнери",
+            "lt": "bendradarbiauti su dizaineriais",
+            "hr": "surađivati s dizajnerima",
+            "lv": "sadarboties ar dizaineriem",
+            "fr": "collaborer avec les concepteurs",
+            "hu": "együttműködik a tervezőkkel",
+            "sk": "spolupracovať s dizajnérmi",
+            "sl": "sodelovati z oblikovalci",
+            "ga": "comhoibriú le dearthóirí",
+            "sv": "samarbeta med designers",
+            "el": "συνεργασία με σχεδιαστές",
+            "mt": "kollaborazzjoni mad-disinjaturi",
+            "en": "collaborate with designers",
+            "is": "er í samstarfi við hönnuði",
+            "it": "collaborare con progettisti",
+            "es": "colaborar con diseñadores",
+            "et": "kujundajatega koostööd tegema",
+            "cs": "spolupracovat s designéry",
+            "ar": "التعاون مع المصممين",
+            "pl": "współpracować z projektantami",
+            "da": "samarbejde med designere",
+            "ro": "colaborează cu designeri",
+            "nl": "samenwerken met ontwerpers"
+          },
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/skill"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/sector-specific"
+          ],
+          "broaderSkill": [
+            "http://data.europa.eu/esco/skill/09e28145-e205-4b7a-8b3b-5c4876396069"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/skill/S1.8.1"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/d52382fe-f236-421f-95fe-34fe69d48dbd&language=en",
+              "uri": "http://data.europa.eu/esco/skill/d52382fe-f236-421f-95fe-34fe69d48dbd",
+              "title": "collaborate with designers"
+            }
+          }
+        },
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/ffea25cf-8eab-44ad-b78c-89b2a813d536",
+          "searchHit": "design clocks",
+          "title": "design clocks",
+          "preferredLabel": {
+            "de": "Uhren entwerfen",
+            "no": "designe klokker",
+            "fi": "suunnitella kelloja",
+            "en-us": "design clocks",
+            "pt": "desenhar relógios",
+            "bg": "проектиране на часовници",
+            "lt": "projektuoti laikrodžius",
+            "hr": "projektirati satove",
+            "lv": "izstrādāt pulksteņus",
+            "fr": "concevoir des montres et des horloges",
+            "hu": "órákat tervez",
+            "sk": "navrhovať hodiny",
+            "sl": "oblikovati ure",
+            "ga": "cloig a dhearadh",
+            "sv": "designa klockor",
+            "el": "σχεδιασμός ρολογιών",
+            "mt": "disinjar tal-arloġġi",
+            "en": "design clocks",
+            "is": "hannar klukkur",
+            "it": "progettare orologi",
+            "es": "diseñar relojes",
+            "et": "kelli disainima",
+            "cs": "navrhovat hodiny",
+            "ar": "تصميم الساعات",
+            "pl": "projektować zegary",
+            "da": "designe ure",
+            "ro": "concepe modele de ceasuri și orologii",
+            "nl": "uurwerken ontwerpen"
+          },
+          "isTopConceptInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/skill"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/occupation-specific"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/skill/S1.11.0"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/ffea25cf-8eab-44ad-b78c-89b2a813d536&language=en",
+              "uri": "http://data.europa.eu/esco/skill/ffea25cf-8eab-44ad-b78c-89b2a813d536",
+              "title": "design clocks"
+            }
+          }
+        },
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/7fb699d9-182a-430e-b7a0-6d8ed05c284b",
+          "searchHit": "graphic design",
+          "title": "graphic design",
+          "preferredLabel": {
+            "de": "Grafikdesign",
+            "no": "grafisk design",
+            "fi": "graafinen suunnittelu",
+            "en-us": "graphic design",
+            "pt": "design gráfico",
+            "bg": "графично оформление",
+            "lt": "grafinis dizainas",
+            "hr": "grafički dizajn",
+            "lv": "grafiskais dizains",
+            "fr": "conception graphique",
+            "hu": "grafikai tervezés",
+            "sk": "grafický dizajn",
+            "sl": "grafično oblikovanje",
+            "ga": "dearadh grafach",
+            "sv": "grafisk design",
+            "el": "σχεδίαση γραφημάτων",
+            "mt": "disinn tal-grafika",
+            "en": "graphic design",
+            "is": "grafísk hönnun",
+            "it": "progettazione grafica",
+            "es": "diseño gráfico",
+            "et": "graafiline disain",
+            "cs": "grafický design",
+            "ar": "التصميم البياني",
+            "pl": "projektowanie graficzne",
+            "da": "grafisk design",
+            "ro": "design grafic",
+            "nl": "grafisch ontwerp"
+          },
+          "isTopConceptInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/knowledge"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/cross-sector"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/isced-f/0211"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/7fb699d9-182a-430e-b7a0-6d8ed05c284b&language=en",
+              "uri": "http://data.europa.eu/esco/skill/7fb699d9-182a-430e-b7a0-6d8ed05c284b",
+              "title": "graphic design"
+            }
+          }
+        },
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/50be6d0d-2eee-403f-ac4a-a550681684ae",
+          "searchHit": "develop store design",
+          "title": "develop store design",
+          "preferredLabel": {
+            "de": "Ladengestaltung ausarbeiten",
+            "no": "utvikle butikkdesign",
+            "fi": "kehittää myymäläsuunnittelua",
+            "en-us": "develop store design",
+            "pt": "desenvolver o design de lojas",
+            "bg": "разработване на дизайна на магазин",
+            "lt": "kurti parduotuvės dizainą",
+            "hr": "projektirati izgled trgovine",
+            "lv": "izstrādāt veikala dizainu",
+            "fr": "élaborer la conception d’un magasin",
+            "hu": "bolti arculatot dolgoz ki",
+            "sk": "vypracovať návrh predajne",
+            "sl": "razviti zasnovo trgovine",
+            "ga": "dearadh siopa a fhorbairt",
+            "sv": "ta fram butiksdesign",
+            "el": "ανάπτυξη σχεδιασμού καταστήματος",
+            "mt": "żvilupp tad-disinn tal-ħwienet",
+            "en": "develop store design",
+            "is": "þróar verslunarhönnun",
+            "it": "sviluppare il progetto del negozio",
+            "es": "realizar el diseño de una tienda",
+            "et": "kaupluste kujundust välja töötama",
+            "cs": "pracovat na designu obchodu",
+            "ar": "وضع تصميم المخزن",
+            "pl": "opracowywać projekty sklepów",
+            "da": "udvikle forretningsdesign",
+            "ro": "concepe designul magazinului",
+            "nl": "winkelontwerpen ontwikkelen"
+          },
+          "isTopConceptInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/skill"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/occupation-specific"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/skill/S1.12.1"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/50be6d0d-2eee-403f-ac4a-a550681684ae&language=en",
+              "uri": "http://data.europa.eu/esco/skill/50be6d0d-2eee-403f-ac4a-a550681684ae",
+              "title": "develop store design"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

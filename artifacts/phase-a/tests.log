@@ -1,0 +1,27 @@
+✔ all six demo table slots are used with independent validity check (2.632167ms)
+✔ candidate absence preserves a mutually agreed meeting and needs no double booking (0.253583ms)
+✔ cancelled pair cannot return and a waiting talent can take the slot (0.186333ms)
+✔ a time or task edit invalidates exact-meeting agreement key (0.377084ms)
+✔ vague needs and one-sided opt-in abstain (0.088917ms)
+✔ infeasible confirmed meeting is refused rather than silently moved (0.264209ms)
+✔ different companies cannot use the same physical table at the same time (0.96175ms)
+✔ an invented quote, mismatched story and unknown ESCO URI are dropped (0.508917ms)
+✔ every extracted proof is an exact span and every skill has a cached ESCO preferred label (1.280583ms)
+✔ task counts are independently recomputed from approved exact evidence (6.29275ms)
+✔ shuffling names and all audit labels cannot alter the engine input or schedule (48.759458ms)
+✔ audit groups are separate, rates are independently countable and groups under ten are hidden (0.636292ms)
+✔ blind scoring rejects identity, story and protected fields, with a closed TypeScript input type (135.705584ms)
+✔ 200 random many-to-many fixtures: independent final stability, capacities, no clashes and determinism (54.934834ms)
+✔ agreed pairs stay fixed after a fill (0.520833ms)
+✔ a pair with no common free slot is ineligible (0.1905ms)
+✔ single-meeting strategy property: no proposer improves through any reported permutation or truncation, 150 small random instances (154.14725ms)
+✔ oracle catches a deliberately unstable placed schedule independently (0.147666ms)
+✔ common-slot eligibility alone does not guarantee global placement: unplaced count is reported (0.189084ms)
+ℹ tests 19
+ℹ suites 0
+ℹ pass 19
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 379.082292

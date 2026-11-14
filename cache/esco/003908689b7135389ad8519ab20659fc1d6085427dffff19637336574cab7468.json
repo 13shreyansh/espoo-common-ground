@@ -1,0 +1,210 @@
+{
+  "url": "https://ec.europa.eu/esco/api/search?type=skill&language=en&limit=3&text=create%20data%20models",
+  "at": "2026-11-14T22:51:15.891Z",
+  "response": {
+    "total": 1336,
+    "offset": 0,
+    "limit": 3,
+    "text": "create data models",
+    "language": "en",
+    "type": [
+      "skill"
+    ],
+    "isInScheme": null,
+    "facet": null,
+    "_links": {
+      "self": {
+        "href": "https://ec.europa.eu/esco/api/search?text=create%20data%20models&type=skill&limit=3&offset=0&full=false&viewObsolete=false&language=en"
+      },
+      "next": {
+        "href": "https://ec.europa.eu/esco/api/search?text=create%20data%20models&type=skill&limit=3&offset=1&full=false&viewObsolete=false&language=en"
+      }
+    },
+    "_embedded": {
+      "results": [
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/fbafa41f-cd05-4109-a649-8b44d306d779",
+          "searchHit": "create data models",
+          "title": "create data models",
+          "preferredLabel": {
+            "de": "Datenmodelle erstellen",
+            "no": "lage datamodeller",
+            "fi": "luoda tietomalleja",
+            "en-us": "create data models",
+            "pt": "criar modelos de dados",
+            "bg": "създаване на модели за данни",
+            "lt": "kurti duomenų modelius",
+            "hr": "kreirati modele podataka",
+            "lv": "datu modeļu radīšana",
+            "fr": "créer des modèles de données",
+            "hu": "adatmodelleket készít",
+            "sk": "vytvoriť dátové modely",
+            "sl": "ustvariti podatkovne modele",
+            "ga": "samhlacha sonraí a chruthú",
+            "sv": "skapa datamodeller",
+            "el": "δημιουργία μοντέλων δεδομένων",
+            "mt": "toħloq mudelli tad-data",
+            "en": "create data models",
+            "is": "búa til gagnalíkön",
+            "it": "creare modelli di dati",
+            "es": "crear modelos de datos",
+            "et": "andmemudeleid looma",
+            "cs": "vytvářet datové modely",
+            "ar": "إنشاء نماذج البيانات",
+            "pl": "tworzyć modele danych",
+            "da": "oprette datamodeller",
+            "ro": "creează modele de date",
+            "nl": "gegevensmodellen creëren"
+          },
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/skill"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/sector-specific"
+          ],
+          "broaderSkill": [
+            "http://data.europa.eu/esco/skill/9ff9db9d-d14b-426e-83f3-e7449af6c79f"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/skill/S2.3.0"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/fbafa41f-cd05-4109-a649-8b44d306d779&language=en",
+              "uri": "http://data.europa.eu/esco/skill/fbafa41f-cd05-4109-a649-8b44d306d779",
+              "title": "create data models"
+            }
+          }
+        },
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/84f58e3d-8669-4d83-8c1d-5dd1e73a654f",
+          "searchHit": "create database models",
+          "title": "create database diagrams",
+          "preferredLabel": {
+            "de": "Datenbankdiagramme erstellen",
+            "no": "lage databasediagrammer",
+            "fi": "luoda tietokantakaavioita",
+            "en-us": "create database diagrams",
+            "pt": "criar modelos de bases de dados",
+            "bg": "създаване на диаграми за бази данни",
+            "lt": "kurti duomenų bazių diagramas",
+            "hr": "kreirati dijagrame baza podataka",
+            "lv": "veidot datubāzu diagrammas",
+            "fr": "créer des schémas de base de données",
+            "hu": "adatbázis diagramot készít",
+            "sk": "vytvoriť databázové schémy",
+            "sl": "ustvariti diagrame podatkovnih baz",
+            "ga": "léaráidí bunachar sonraí a chruthú",
+            "sv": "skapa databasdiagram",
+            "el": "δημιουργία διαγραμμάτων βάσης δεδομένων",
+            "mt": "ħolqien ta’ stampa ta' database",
+            "en": "create database diagrams",
+            "is": "gerir teikningar fyrir gagnagrunna",
+            "it": "creare diagrammi di database",
+            "es": "crear diagramas de bases de datos",
+            "et": "andmebaasiskeeme looma",
+            "cs": "vytvářet databázové diagramy",
+            "ar": "تصميم رسومًا توضيحية لقواعد البيانات",
+            "pl": "tworzyć schematy baz danych",
+            "da": "oprette databasediagrammer",
+            "ro": "creează diagrame ale bazelor de date",
+            "nl": "databasediagrammen creëren"
+          },
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/skill"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/sector-specific"
+          ],
+          "broaderSkill": [
+            "http://data.europa.eu/esco/skill/4463a721-69f3-413d-8321-43e3af13a4f1",
+            "http://data.europa.eu/esco/skill/29fb0fb5-dfc4-4098-ac9b-3a712000f48f"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/skill/S1.11.1"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/84f58e3d-8669-4d83-8c1d-5dd1e73a654f&language=en",
+              "uri": "http://data.europa.eu/esco/skill/84f58e3d-8669-4d83-8c1d-5dd1e73a654f",
+              "title": "create database diagrams"
+            }
+          }
+        },
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/fd6d2981-3d4a-4ce2-9741-cfc98c5b74bd",
+          "searchHit": "Apply models and tools such as online analytical processing (OLAP) and Online transaction processing (OLTP), to integrate structured or unstructured data from sources, in order to create a central depository of historical and current data.",
+          "title": "implement data warehousing techniques",
+          "preferredLabel": {
+            "de": "Data-Warehouse-Methoden umsetzen",
+            "no": "implementere datavarehusteknikker",
+            "fi": "ottaa käyttöön tietovarastointitekniikoita",
+            "en-us": "implement data warehousing techniques",
+            "pt": "executar técnicas de armazenamento de dados",
+            "bg": "работа с техники за съхранение на данни",
+            "lt": "įgyvendinti duomenų saugojimo metodus",
+            "hr": "implementirati tehnike skladištenja podataka",
+            "lv": "datu noliktavas metožu īstenošana",
+            "fr": "mettre en œuvre les techniques de stockage des données",
+            "hu": "adattárház-eszközzel történő adatkezelési technikákat alkalmaz",
+            "sk": "realizovať techniky skladovania údajov",
+            "sl": "izvajati tehnike podatkovnega skladiščenja",
+            "ga": "teicnící ollstórála sonraí a chur chun feidhme",
+            "sv": "implementera metoder för datalagerhantering",
+            "el": "εφαρμογή τεχνικών αποθήκευσης δεδομένων",
+            "mt": "implimentazzjoni ta' metodi ta' ħażna tad-data",
+            "en": "implement data warehousing techniques",
+            "is": "innleiða gagnageymslutækni",
+            "it": "implementare tecniche di data warehouse",
+            "es": "aplicar técnicas de almacenamiento de datos",
+            "et": "andmeaidanduse tehnikaid rakendama",
+            "cs": "zavádět techniky skladování dat",
+            "ar": "تطبيق أساليب تخزين البيانات",
+            "pl": "wdrażać koncepcję hurtowni danych",
+            "da": "anvende datalagringsteknikker",
+            "ro": "implementează tehnici de stocare a datelor",
+            "nl": "datawarehousingtechnieken implementeren"
+          },
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/skill"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/sector-specific"
+          ],
+          "broaderSkill": [
+            "http://data.europa.eu/esco/skill/611ed16b-99bf-4840-9cab-f55d1d286e0a",
+            "http://data.europa.eu/esco/skill/382c11ed-20d5-4ae7-b60e-15fec527fa6c"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/skill/S5.5.2"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/fd6d2981-3d4a-4ce2-9741-cfc98c5b74bd&language=en",
+              "uri": "http://data.europa.eu/esco/skill/fd6d2981-3d4a-4ce2-9741-cfc98c5b74bd",
+              "title": "implement data warehousing techniques"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

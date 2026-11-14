@@ -1,0 +1,609 @@
+{
+  "url": "https://ec.europa.eu/esco/api/resource/skill?language=en&uri=http%3A%2F%2Fdata.europa.eu%2Fesco%2Fskill%2F2b92a5b2-6758-4ee3-9fb4-b6387a55cc8f",
+  "at": "2026-11-14T22:51:13.340Z",
+  "response": {
+    "className": "Skill",
+    "classId": "http://data.europa.eu/esco/model#Skill",
+    "uri": "http://data.europa.eu/esco/skill/2b92a5b2-6758-4ee3-9fb4-b6387a55cc8f",
+    "title": "perform data analysis",
+    "referenceLanguage": [
+      "en"
+    ],
+    "preferredLabel": {
+      "no": "utføre dataanalyse",
+      "de": "Datenanalyse durchführen",
+      "en-us": "perform data analysis",
+      "fi": "analysoida tietoja",
+      "pt": "efetuar análise de dados",
+      "bg": "извършване на анализ на данни",
+      "lt": "analizuoti duomenis",
+      "lv": "analizēt datus",
+      "hr": "provoditi analizu podataka",
+      "fr": "effectuer une analyse de données",
+      "hu": "adatelemzést végez",
+      "sk": "vykonať analýzu údajov",
+      "sl": "analizirati podatke",
+      "ga": "anailís sonraí a dhéanamh",
+      "sv": "utföra dataanalys",
+      "el": "διενέργεια ανάλυσης δεδομένων",
+      "mt": "twettiq tal-analiżi tad-data",
+      "en": "perform data analysis",
+      "is": "framkvæmir gagnagreiningu",
+      "it": "eseguire l’analisi dei dati",
+      "es": "realizar un análisis de datos",
+      "et": "andmeid analüüsima",
+      "cs": "provádět analýzu dat",
+      "ar": "اجراء تحليلًا على البيانات",
+      "pl": "przeprowadzać analizę danych",
+      "da": "udføre dataanalyser",
+      "ro": "realizează analize de date",
+      "nl": "gegevensanalyses uitvoeren"
+    },
+    "alternativeLabel": {
+      "cs": [
+        "analyzovat data"
+      ],
+      "fi": [
+        "tehdä tietoanalyysi"
+      ],
+      "en": [
+        "performing data analysis",
+        "analyse data performance",
+        "perform analysis of data",
+        "undertake data analysis",
+        "complete data analysis",
+        "implement data analysis"
+      ],
+      "ro": [
+        "se ocupă cu analiza datelor",
+        "face analiza datelor"
+      ],
+      "nl": [
+        "data-analyses uitvoeren"
+      ]
+    },
+    "description": {
+      "de": {
+        "literal": "Erhebung von Daten und Statistiken zum Testen und Bewerten, um Aussagen und Musterprognosen zu erstellen, mit dem Ziel, nützliche Informationen in einem Entscheidungsprozess zu finden.",
+        "mimetype": "plain/text"
+      },
+      "no": {
+        "literal": "Samle inn data og statistikk som skal testes og vurderes, for å generere påstander og mønsterprognoser med henblikk på å oppdage nyttig informasjon i en beslutningsprosess.",
+        "mimetype": "plain/text"
+      },
+      "en-us": {
+        "literal": "Collect data and statistics to test and evaluate in order to generate assertions and pattern predictions, with the aim of discovering useful information in a decision-making process.",
+        "mimetype": "plain/text"
+      },
+      "fi": {
+        "literal": "Kerätä tietoja ja tilastoja, jotta voidaan testata ja arvioida väitteitä ja ennustettuja malleja ja tuottaa hyödyllistä tietoa päätöksentekoa varten.",
+        "mimetype": "plain/text"
+      },
+      "pt": {
+        "literal": "Recolher dados e estatísticas para testar e avaliar, a fim de gerar afirmações e previsões de padrões, com o objetivo de descobrir informações úteis num processo de tomada de decisão.",
+        "mimetype": "plain/text"
+      },
+      "bg": {
+        "literal": "Събира данни и статистическа информация с цел изследване и оценка, за да се генерират твърдения и прогнози за моделите с цел откриване на полезна информация в процеса на вземане на решения.",
+        "mimetype": "plain/text"
+      },
+      "lt": {
+        "literal": "Rinkti duomenis ir statistinius duomenis, kuriais remiantis būtų galima patikrinti ir įvertinti, siekiant pateikti pareiškimus ir modelių prognozes, kad būtų rasta sprendimų priėmimo procesui naudingos informacijos.",
+        "mimetype": "plain/text"
+      },
+      "lv": {
+        "literal": "Vākt datus un statistiku pārbaužu un novērtēšanas veikšanai, lai sagatavotu vispārīgus apgalvojumus un tendenču prognozes, tiecoties iegūt noderīgu informāciju lēmumu pieņemšanas vajadzībām.",
+        "mimetype": "plain/text"
+      },
+      "hr": {
+        "literal": "Prikupljati podatke i statističke podatke za testiranje i ocjenjivanje radi stvaranja tvrdnji i predviđanja u obliku uzorka s ciljem otkrivanja korisnih informacija u postupku donošenja odluka.",
+        "mimetype": "plain/text"
+      },
+      "fr": {
+        "literal": "Collecter des données et des statistiques à tester et évaluer afin de produire des affirmations et des prédictions de modèles, dans le but de découvrir des informations utiles dans un processus décisionnel.",
+        "mimetype": "plain/text"
+      },
+      "hu": {
+        "literal": "Vizsgálati és értékelési adatokat és statisztikákat gyűjt azzal a céllal, hogy a döntéshozatali folyamatban hasznos információk felfedezéséhez megerősítéseket és mintára vonatkozó előrejelzéseket tegyen.",
+        "mimetype": "plain/text"
+      },
+      "sk": {
+        "literal": "Zhromažďovať údaje a štatistiky na testovanie a hodnotenie za účelom nájdenia opakujúcich sa tvrdení a zákonitosti s cieľom odhaliť užitočné informácie v rozhodovacom procese.",
+        "mimetype": "plain/text"
+      },
+      "sl": {
+        "literal": "Zbirati statistične in druge podatke za preskušanje in ocenjevanje, da se pripravijo trditve in napovedi glede vzorcev, z namenom iskanja koristnih informacij v postopku odločanja.",
+        "mimetype": "plain/text"
+      },
+      "ga": {
+        "literal": "Sonraí agus staidreamh a bhailiú chun tástáil agus meastóireacht a dhéanamh chun dearbhuithe agus réamhaisnéisí patrúin a ghiniúint agus é mar aidhm faisnéis úsáideach a aimsiú i bpróiseas cinnteoireachta.",
+        "mimetype": "plain/text"
+      },
+      "sv": {
+        "literal": "Samla in data och statistik att testa och utvärdera i syfte att generera anspråk och mönsterprognoser med målet att upptäcka användbar information i en beslutsprocess.",
+        "mimetype": "plain/text"
+      },
+      "el": {
+        "literal": "Συλλογή δεδομένων και στατιστικών στοιχείων για δοκιμή και αξιολόγηση, με σκοπό την παραγωγή ισχυρισμών και προβλέψεων μοτίβων, με σκοπό την ανακάλυψη χρήσιμων πληροφοριών κατά τη διαδικασία λήψης αποφάσεων.",
+        "mimetype": "plain/text"
+      },
+      "mt": {
+        "literal": "Iġbor data u statistika biex tittestja u tevalwa sabiex tiġġenera dikjarazzjonijiet u tbassir tad-disinn, bil-għan li tiskopri informazzjoni utli fi proċess ta’ teħid ta’ deċiżjonijiet.",
+        "mimetype": "plain/text"
+      },
+      "en": {
+        "literal": "Collect data and statistics to test and evaluate in order to generate assertions and pattern predictions, with the aim of discovering useful information in a decision-making process.",
+        "mimetype": "plain/text"
+      },
+      "is": {
+        "literal": "Safnar saman gögnum og tölfræðilegum upplýsingum um prófun og mat, með það að markmiði að finna gagnlegar upplýsingar í ákvarðanatökuferli.",
+        "mimetype": "plain/text"
+      },
+      "it": {
+        "literal": "Raccogliere dati e statistiche per testare e valutare al fine di generare dichiarazioni e previsioni modello per individuare informazioni utili nell’ambito di un processo decisionale.",
+        "mimetype": "plain/text"
+      },
+      "es": {
+        "literal": "Recopilar datos y estadísticas para ensayar y evaluar con el fin de generar afirmaciones y predicciones de pautas, con el fin de descubrir la información útil en un proceso de toma de decisiones.",
+        "mimetype": "plain/text"
+      },
+      "et": {
+        "literal": "Andmete ja statistika kogumine, et testida ja hinnata neid väidete ja mudelite loomiseks, mille eesmärk on leida kasulikku teavet otsustamisel.",
+        "mimetype": "plain/text"
+      },
+      "cs": {
+        "literal": "Shromažďovat údaje a statistiky k testování a hodnocení za účelem nalezení opakujících se tvrzení a zákonitostí, aby bylo možné odhalit informace užitečné pro rozhodovací proces.",
+        "mimetype": "plain/text"
+      },
+      "ar": {
+        "literal": "جمع البيانات والإحصائيات للاختبار والتقييم لتوليد التأكيدات والتنبؤات بالأنماط بهدف اكتشاف المعلومات المفيدة في عملية اتخاذ القرار.",
+        "mimetype": "plain/text"
+      },
+      "pl": {
+        "literal": "Zbierać dane i statystyki do testowania i oceny w celu generowania twierdzeń i prognoz wzorców, z zamiarem odkrycia przydatnych informacji w procesie decyzyjnym.",
+        "mimetype": "plain/text"
+      },
+      "da": {
+        "literal": "Indsamle data og statistiske data til test og evaluering for at skabe sikre antagelser og mønstre til forudsigelse, med det formål at finde nyttige oplysninger i en beslutningsproces.",
+        "mimetype": "plain/text"
+      },
+      "ro": {
+        "literal": "Culege date și statistici în vederea testării și evaluării pentru a genera afirmații și previziuni de tipare, cu scopul de a descoperi informații utile în procesul de decizie.",
+        "mimetype": "plain/text"
+      },
+      "nl": {
+        "literal": "Gegevens en statistieken verzamelen voor test- en evaluatiedoeleinden om beweringen en patroonvoorspellingen te genereren, met als doel nuttige informatie te ontdekken in een besluitvormingsproces.",
+        "mimetype": "plain/text"
+      }
+    },
+    "status": "released",
+    "_links": {
+      "self": {
+        "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/2b92a5b2-6758-4ee3-9fb4-b6387a55cc8f&language=en",
+        "uri": "http://data.europa.eu/esco/skill/2b92a5b2-6758-4ee3-9fb4-b6387a55cc8f",
+        "title": "perform data analysis"
+      },
+      "isTopConceptInScheme": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/taxonomy?uri=http://data.europa.eu/esco/concept-scheme/member-skills&language=en",
+          "uri": "http://data.europa.eu/esco/concept-scheme/member-skills",
+          "title": "ESCO member skills"
+        }
+      ],
+      "isInScheme": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/taxonomy?uri=http://data.europa.eu/esco/concept-scheme/member-skills&language=en",
+          "uri": "http://data.europa.eu/esco/concept-scheme/member-skills",
+          "title": "ESCO member skills"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/taxonomy?uri=http://data.europa.eu/esco/concept-scheme/skills&language=en",
+          "uri": "http://data.europa.eu/esco/concept-scheme/skills",
+          "title": "ESCO skills"
+        }
+      ],
+      "hasSkillType": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/concept?uri=http://data.europa.eu/esco/skill-type/skill&language=en",
+          "uri": "http://data.europa.eu/esco/skill-type/skill",
+          "title": "skill"
+        }
+      ],
+      "hasReuseLevel": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/concept?uri=http://data.europa.eu/esco/skill-reuse-level/cross-sector&language=en",
+          "uri": "http://data.europa.eu/esco/skill-reuse-level/cross-sector",
+          "title": "cross-sector skills and competences",
+          "code": "Level 2"
+        }
+      ],
+      "broaderHierarchyConcept": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/concept?uri=http://data.europa.eu/esco/skill/S5.5.2&language=en",
+          "uri": "http://data.europa.eu/esco/skill/S5.5.2",
+          "title": "managing and analysing digital data",
+          "code": "S5.5.2"
+        }
+      ],
+      "narrowerSkill": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/c544a9f3-5945-4b54-afed-de0697852817&language=en",
+          "uri": "http://data.europa.eu/esco/skill/c544a9f3-5945-4b54-afed-de0697852817",
+          "title": "report analysis results",
+          "skillType": "http://data.europa.eu/esco/skill-type/skill"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/062320e5-79d1-45e8-8b7e-5deeb53279a2&language=en",
+          "uri": "http://data.europa.eu/esco/skill/062320e5-79d1-45e8-8b7e-5deeb53279a2",
+          "title": "perform online data analysis",
+          "skillType": "http://data.europa.eu/esco/skill-type/skill"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/c95c29fe-3971-46b7-80e9-1f7e75ba99b3&language=en",
+          "uri": "http://data.europa.eu/esco/skill/c95c29fe-3971-46b7-80e9-1f7e75ba99b3",
+          "title": "use specific data analysis software",
+          "skillType": "http://data.europa.eu/esco/skill-type/skill"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/47a49cd6-097d-457a-9f7b-c290c14930d5&language=en",
+          "uri": "http://data.europa.eu/esco/skill/47a49cd6-097d-457a-9f7b-c290c14930d5",
+          "title": "analyse big data",
+          "skillType": "http://data.europa.eu/esco/skill-type/skill"
+        }
+      ],
+      "hasOptionalSkill": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/ad59afe4-6f8a-4bc4-acfd-0f228277508a&language=en",
+          "uri": "http://data.europa.eu/esco/skill/ad59afe4-6f8a-4bc4-acfd-0f228277508a",
+          "title": "statistical analysis system software",
+          "skillType": "http://data.europa.eu/esco/skill-type/knowledge"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/ed39edd3-44d0-4a16-9796-bfb99f92baf3&language=en",
+          "uri": "http://data.europa.eu/esco/skill/ed39edd3-44d0-4a16-9796-bfb99f92baf3",
+          "title": "ICT performance analysis methods",
+          "skillType": "http://data.europa.eu/esco/skill-type/knowledge"
+        }
+      ],
+      "isEssentialForOccupation": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/d2e63d7e-2605-4af1-bb7d-b1ed9ad08825&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/d2e63d7e-2605-4af1-bb7d-b1ed9ad08825",
+          "title": "statistical assistant"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/ac8b3cd1-a127-4e6a-8208-5cfcf7111955&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/ac8b3cd1-a127-4e6a-8208-5cfcf7111955",
+          "title": "statistician"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/2026adb2-62d7-4b92-9ccb-105abdebe37d&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/2026adb2-62d7-4b92-9ccb-105abdebe37d",
+          "title": "electromagnetic engineer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/ab360abd-32e2-4e03-967d-a10758efffa7&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/ab360abd-32e2-4e03-967d-a10758efffa7",
+          "title": "mechatronics engineer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/207d7b18-6540-432e-8aa6-785ed434572f&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/207d7b18-6540-432e-8aa6-785ed434572f",
+          "title": "business intelligence manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/77abfaec-a250-4765-95fa-6091e8da1bba&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/77abfaec-a250-4765-95fa-6091e8da1bba",
+          "title": "electromechanical engineer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/8d9ec84d-cf2d-4179-87bc-335cda54a427&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/8d9ec84d-cf2d-4179-87bc-335cda54a427",
+          "title": "database designer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/8c0f59c9-9a47-42e7-8287-aab19df4e6ab&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/8c0f59c9-9a47-42e7-8287-aab19df4e6ab",
+          "title": "microelectronics engineer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/a9b20949-897b-481f-8642-d1f69263baff&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/a9b20949-897b-481f-8642-d1f69263baff",
+          "title": "industrial maintenance supervisor"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/4f4d33a1-0b41-4dd9-8a42-aeba5a3974ab&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/4f4d33a1-0b41-4dd9-8a42-aeba5a3974ab",
+          "title": "sensor engineer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/2960c96e-7228-4327-b0a1-85fc13691844&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/2960c96e-7228-4327-b0a1-85fc13691844",
+          "title": "aviation meteorologist"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/e5a63940-57d3-4065-8713-74b4e2c93063&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/e5a63940-57d3-4065-8713-74b4e2c93063",
+          "title": "product and services manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/89b85c45-ddc7-4fe1-be5a-d3db2be11f3b&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/89b85c45-ddc7-4fe1-be5a-d3db2be11f3b",
+          "title": "ICT account manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/35d41f4f-334b-452e-9e31-99f376302493&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/35d41f4f-334b-452e-9e31-99f376302493",
+          "title": "optoelectronic engineer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/92bb3d8c-8a9f-4cd7-80ec-247bbf173004&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/92bb3d8c-8a9f-4cd7-80ec-247bbf173004",
+          "title": "computer hardware engineer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/2eac08c2-a81a-46fc-8d75-eb0e0f3e0f6d&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/2eac08c2-a81a-46fc-8d75-eb0e0f3e0f6d",
+          "title": "sales account manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/68d973df-bf10-4bf7-9a1b-fbd9f604b9db&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/68d973df-bf10-4bf7-9a1b-fbd9f604b9db",
+          "title": "bioinformatics scientist"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/3a4c4e33-ee34-4abe-ba5c-26f9037d292f&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/3a4c4e33-ee34-4abe-ba5c-26f9037d292f",
+          "title": "trade regional manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/d8ff83c0-be8b-47f9-93e3-b13e261e7da5&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/d8ff83c0-be8b-47f9-93e3-b13e261e7da5",
+          "title": "mud logger"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/30ca97f4-a4fd-4189-a781-ac08f6b09b78&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/30ca97f4-a4fd-4189-a781-ac08f6b09b78",
+          "title": "call centre analyst"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/81cc1583-3614-4207-8e54-00b8cd4ddf09&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/81cc1583-3614-4207-8e54-00b8cd4ddf09",
+          "title": "chemical plant manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/e16c2422-1323-4d8a-bd0f-c7584de70be1&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/e16c2422-1323-4d8a-bd0f-c7584de70be1",
+          "title": "pricing specialist"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/6aa78e46-ce22-421f-8a75-e915ac63c9d0&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/6aa78e46-ce22-421f-8a75-e915ac63c9d0",
+          "title": "call centre supervisor"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/0d442b70-5413-4820-bebf-36dd5ce437ac&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/0d442b70-5413-4820-bebf-36dd5ce437ac",
+          "title": "air traffic manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/ae8b19cc-8c6e-4a16-ada2-c15f97ded133&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/ae8b19cc-8c6e-4a16-ada2-c15f97ded133",
+          "title": "optomechanical engineer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/778c1d37-69f2-4184-ac98-03b7dbfba332&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/778c1d37-69f2-4184-ac98-03b7dbfba332",
+          "title": "photonics engineer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/9d2aae3e-cbfe-409f-86cc-7cef9cd0435a&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/9d2aae3e-cbfe-409f-86cc-7cef9cd0435a",
+          "title": "contact centre supervisor"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/7f0fe7d3-54c6-41e9-88ba-9d4f0f1a46b4&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/7f0fe7d3-54c6-41e9-88ba-9d4f0f1a46b4",
+          "title": "microsystem engineer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/0c7c9606-fde3-4658-8136-8fe0c9b8bd09&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/0c7c9606-fde3-4658-8136-8fe0c9b8bd09",
+          "title": "medical device engineer"
+        }
+      ],
+      "isOptionalForOccupation": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/6e5ceba0-df96-465f-adb4-2e06ae715d43&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/6e5ceba0-df96-465f-adb4-2e06ae715d43",
+          "title": "numerical tool and process control programmer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/631e504f-0db4-4e03-bf90-3f00d550170f&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/631e504f-0db4-4e03-bf90-3f00d550170f",
+          "title": "sensor engineering technician"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/7843a4c6-a9f6-4095-94b9-45b384d4bd57&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/7843a4c6-a9f6-4095-94b9-45b384d4bd57",
+          "title": "market research interviewer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/fde97584-d8e3-413e-a662-511c9055357e&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/fde97584-d8e3-413e-a662-511c9055357e",
+          "title": "live chat operator"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/ab3c4d3e-3189-47ad-82af-57cdae3cb589&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/ab3c4d3e-3189-47ad-82af-57cdae3cb589",
+          "title": "optical engineer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/0ededdc2-050a-4ec3-8e70-6295105fcd19&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/0ededdc2-050a-4ec3-8e70-6295105fcd19",
+          "title": "call centre agent"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/b12b14fd-5b74-40c6-afd9-dd35b34e27ed&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/b12b14fd-5b74-40c6-afd9-dd35b34e27ed",
+          "title": "industrial assembly supervisor"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/86ca306c-ab99-420a-9e2a-aa73c5c4de22&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/86ca306c-ab99-420a-9e2a-aa73c5c4de22",
+          "title": "electrical engineer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/260b01cc-7dd6-4584-8863-cae5426819c6&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/260b01cc-7dd6-4584-8863-cae5426819c6",
+          "title": "ship planner"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/0deaceea-69d8-4304-bc80-0b3d0491a241&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/0deaceea-69d8-4304-bc80-0b3d0491a241",
+          "title": "field survey manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/6426ada1-4d8c-4612-99e3-91bc569805ee&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/6426ada1-4d8c-4612-99e3-91bc569805ee",
+          "title": "manufacturing manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/aaeec9a7-dc57-4485-890c-86b3eef735f9&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/aaeec9a7-dc57-4485-890c-86b3eef735f9",
+          "title": "ICT help desk agent"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/13d1b2b4-99dd-44da-9734-c9f74bae18f7&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/13d1b2b4-99dd-44da-9734-c9f74bae18f7",
+          "title": "customer service representative"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/7086d0ca-1e77-4690-89c9-7ed1a0478fa3&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/7086d0ca-1e77-4690-89c9-7ed1a0478fa3",
+          "title": "data quality specialist"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/b3ce981c-5b32-4de2-8e53-502a6357b2bc&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/b3ce981c-5b32-4de2-8e53-502a6357b2bc",
+          "title": "credit risk analyst"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/51cd3a7a-eae6-4dc6-9f24-179d7ec6d230&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/51cd3a7a-eae6-4dc6-9f24-179d7ec6d230",
+          "title": "logistics analyst"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/66fb9704-0d56-4673-8e69-7823816b73e1&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/66fb9704-0d56-4673-8e69-7823816b73e1",
+          "title": "market research analyst"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/a1cf1406-3632-494c-bff3-0bd5d5327d8f&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/a1cf1406-3632-494c-bff3-0bd5d5327d8f",
+          "title": "survey enumerator"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/7a6ca615-a2bc-499d-8288-d186ce2594ea&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/7a6ca615-a2bc-499d-8288-d186ce2594ea",
+          "title": "financial risk analyst"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/1562c7a3-c7d9-419d-b9b6-db26610bcf84&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/1562c7a3-c7d9-419d-b9b6-db26610bcf84",
+          "title": "data warehouse designer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/579254cf-6d69-4889-9000-9c79dc568644&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/579254cf-6d69-4889-9000-9c79dc568644",
+          "title": "mechanical engineer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/64e38ce7-3901-4261-bfee-77c7a77397f2&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/64e38ce7-3901-4261-bfee-77c7a77397f2",
+          "title": "policy manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/9581c837-fee7-4068-9618-1116fd93d723&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/9581c837-fee7-4068-9618-1116fd93d723",
+          "title": "engineering assistant"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/35e67944-231e-4bc9-8c69-560f203167ff&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/35e67944-231e-4bc9-8c69-560f203167ff",
+          "title": "intelligence communications interceptor"
+        }
+      ],
+      "isEssentialForSkill": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/57231a22-4da7-49c8-97b8-75672feadf1e&language=en",
+          "uri": "http://data.europa.eu/esco/skill/57231a22-4da7-49c8-97b8-75672feadf1e",
+          "title": "manage quantitative data",
+          "skillType": "http://data.europa.eu/esco/skill-type/skill"
+        }
+      ]
+    },
+    "_embedded": {
+      "ancestors": [
+        {
+          "title": "perform data analysis",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/2b92a5b2-6758-4ee3-9fb4-b6387a55cc8f&language=en",
+              "uri": "http://data.europa.eu/esco/skill/2b92a5b2-6758-4ee3-9fb4-b6387a55cc8f"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S5.5.2"
+          ]
+        },
+        {
+          "title": "managing and analysing digital data",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S5.5.2&language=en",
+              "uri": "http://data.europa.eu/esco/skill/S5.5.2"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S5.5"
+          ]
+        },
+        {
+          "title": "accessing and analysing digital data",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S5.5&language=en",
+              "uri": "http://data.europa.eu/esco/skill/S5.5"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S5"
+          ]
+        },
+        {
+          "title": "working with computers",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S5&language=en",
+              "uri": "http://data.europa.eu/esco/skill/S5"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S"
+          ]
+        },
+        {
+          "title": "skills",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S&language=en",
+              "uri": "http://data.europa.eu/esco/skill/S"
+            }
+          },
+          "parents": []
+        }
+      ]
+    }
+  }
+}

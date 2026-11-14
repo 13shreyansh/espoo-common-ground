@@ -1,0 +1,392 @@
+{
+  "url": "https://ec.europa.eu/esco/api/search?type=skill&language=en&limit=6&text=develop%20automated%20reports",
+  "at": "2026-11-14T23:00:08.268Z",
+  "response": {
+    "total": 1568,
+    "offset": 0,
+    "limit": 6,
+    "text": "develop automated reports",
+    "language": "en",
+    "type": [
+      "skill"
+    ],
+    "isInScheme": null,
+    "facet": null,
+    "_links": {
+      "self": {
+        "href": "https://ec.europa.eu/esco/api/search?text=develop%20automated%20reports&type=skill&limit=6&offset=0&full=false&viewObsolete=false&language=en"
+      },
+      "next": {
+        "href": "https://ec.europa.eu/esco/api/search?text=develop%20automated%20reports&type=skill&limit=6&offset=1&full=false&viewObsolete=false&language=en"
+      }
+    },
+    "_embedded": {
+      "results": [
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/6a322874-e32f-4cd8-9683-badce67a7f73",
+          "searchHit": "develop automated software tests",
+          "title": "develop automated software tests",
+          "preferredLabel": {
+            "de": "automatisierte Softwaretests entwickeln",
+            "no": "utvikle automatiserte programvaretester",
+            "fi": "kehittää automaattisia ohjelmistotestejä",
+            "en-us": "develop automated software tests",
+            "pt": "desenvolver testes de software automatizados",
+            "bg": "разработване на автоматизирани софтуерни тестове",
+            "lt": "kurti automatizuotus programinės įrangos testus",
+            "hr": "razviti automatizirane testove softvera",
+            "lv": "automatizētās testu programmatūras izstrāde",
+            "fr": "développer des tests logiciels automatisés",
+            "hu": "automatizált szoftverteszteket fejleszt",
+            "sk": "vyvinúť automatizované softvérové skúšky",
+            "sl": "razvijati avtomatizirane preizkuse programske opreme",
+            "ga": "tástálacha uathoibrithe bogearraí a fhorbairt",
+            "sv": "utveckla automatiska programvarutester",
+            "el": "ανάπτυξη αυτοματοποιημένων δοκιμών λογισμικού",
+            "mt": "tiżviluppa testijiet tas-softwer awtomatizzati",
+            "en": "develop automated software tests",
+            "is": "þróa sjálfvirkar hugbúnaðarprófanir",
+            "it": "sviluppare test software automatici",
+            "es": "desarrollar pruebas de software automatizadas",
+            "et": "automatiseeritud tarkvarateste arendama",
+            "cs": "vyvíjet automatické softwarové testy",
+            "ar": "تطوير اختبارات البرمجيات الآلية",
+            "pl": "opracowywać automatyczne testy oprogramowania",
+            "da": "udvikle automatiserede softwaretests",
+            "ro": "dezvoltă teste de software automate",
+            "nl": "geautomatiseerde softwaretests ontwikkelen"
+          },
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/skill"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/sector-specific"
+          ],
+          "broaderSkill": [
+            "http://data.europa.eu/esco/skill/5d74614d-32c8-4ca4-9818-6980e52424b1"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/skill/S1.11.1"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/6a322874-e32f-4cd8-9683-badce67a7f73&language=en",
+              "uri": "http://data.europa.eu/esco/skill/6a322874-e32f-4cd8-9683-badce67a7f73",
+              "title": "develop automated software tests"
+            }
+          }
+        },
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/0b0335f3-0aa1-491e-895e-81fc8774a300",
+          "searchHit": "develop automated migration methods",
+          "title": "develop automated migration methods",
+          "preferredLabel": {
+            "de": "Verfahren zur automatisierten Migration entwickeln",
+            "no": "utvikle automatiserte overføringsmetoder",
+            "fi": "kehittää automaattisia siirtomenetelmiä",
+            "en-us": "develop automated migration methods",
+            "pt": "desenvolver métodos de migração automática",
+            "bg": "разработване на автоматизирани методи за мигриране",
+            "lt": "kurti automatinio perkėlimo metodus",
+            "hr": "razviti automatske metode migracije",
+            "lv": "izstrādāt automatizētas migrācijas metodes",
+            "fr": "développer des méthodes de migration automatisées",
+            "hu": "automatikus migrációs módszereket fejleszt",
+            "sk": "vyvinúť automatizované metódy migrácie",
+            "sl": "razvijati metode samodejne migracije",
+            "ga": "modhanna ascnaimh uathoibrithe a fhorbairt",
+            "sv": "utveckla automatiska migreringsmetoder",
+            "el": "ανάπτυξη μεθόδων αυτοματοποιημένης μετάπτωσης",
+            "mt": "tiżviluppa metodi ta' migrazzjoni awtomatizzati",
+            "en": "develop automated migration methods",
+            "is": "þróa sjálfvirkar aðferðir til kerfaskipta",
+            "it": "sviluppare metodi di migrazione automatica dei dati",
+            "es": "desarrollar métodos de migración automatizada",
+            "et": "automaatmigratsiooni meetodeid arendama",
+            "cs": "vyvíjet automatické migrační metody",
+            "ar": "وضع أساليب الترحيل المؤتمت",
+            "pl": "opracować metody automatycznego przenoszenia informacji",
+            "da": "udvikle automatiserede overførselsmetoder",
+            "ro": "dezvoltă metode de migrare automatizate",
+            "nl": "geautomatiseerde migratiemethoden ontwikkelen"
+          },
+          "isTopConceptInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/skill"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/sector-specific"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/skill/S4.1.3"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/0b0335f3-0aa1-491e-895e-81fc8774a300&language=en",
+              "uri": "http://data.europa.eu/esco/skill/0b0335f3-0aa1-491e-895e-81fc8774a300",
+              "title": "develop automated migration methods"
+            }
+          }
+        },
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/1a90e24e-c548-4104-8554-011870b0a891",
+          "searchHit": "develop reports on sanitation",
+          "title": "prepare reports on sanitation",
+          "preferredLabel": {
+            "de": "Hygieneberichte erstellen",
+            "no": "forberede rapporter om sanitærforhold",
+            "fi": "laatia hygieniaraportteja",
+            "en-us": "prepare reports on sanitation",
+            "pt": "preparar relatórios de higiene",
+            "bg": "изготвяне на доклади относно хигиената",
+            "lt": "parengti ataskaitas dėl sanitarinės būklės",
+            "hr": "pripremati izvješća o sanitarnom nadzoru",
+            "lv": "sagatavot atskaites par sanitāri higiēniskajiem apstākļiem",
+            "fr": "préparer des rapports sanitaires",
+            "hu": "higiéniai jelentést készít",
+            "sk": "vypracúvať správy o sanitácii",
+            "sl": "pripravljati poročila o sanitarnih razmerah",
+            "ga": "tuairiscí a ullmhú ar shláintíocht",
+            "sv": "ta fram rapporter för hygieninspektioner",
+            "el": "κατάρτιση εκθέσεων σχετικά με την υγιεινή",
+            "mt": "tħejjija tar-rapporti dwar is-sanitazzjoni",
+            "en": "prepare reports on sanitation",
+            "is": "undirbýr skýrslur um hreinlæti",
+            "it": "preparare le relazioni d’ispezione relative ai servizi igienico-sanitari",
+            "es": "preparar informes sobre saneamiento",
+            "et": "sanitaararuandeid koostama",
+            "cs": "připravovat hygienické zprávy",
+            "ar": "اعداد تقارير عن الإصحاح",
+            "pl": "sporządzać sprawozdania dotyczące warunków sanitarnych",
+            "da": "udarbejde hygiejnerapporter",
+            "ro": "pregătește rapoarte privind igiena și sănătatea publică",
+            "nl": "rapporten over sanering opstellen"
+          },
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/skill"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/occupation-specific"
+          ],
+          "broaderSkill": [
+            "http://data.europa.eu/esco/skill/0c944316-12f6-4949-a156-a03dbaae790f",
+            "http://data.europa.eu/esco/skill/be6ab363-3de1-427f-a8ef-85d5b0250822"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/skill/S2.2.5"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/1a90e24e-c548-4104-8554-011870b0a891&language=en",
+              "uri": "http://data.europa.eu/esco/skill/1a90e24e-c548-4104-8554-011870b0a891",
+              "title": "prepare reports on sanitation"
+            }
+          }
+        },
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/4f060129-8b75-4d58-a8dd-515bd8fef349",
+          "searchHit": "develop financial statistics reports",
+          "title": "develop financial statistics reports",
+          "preferredLabel": {
+            "de": "Finanz- und Statistikberichte ausarbeiten",
+            "no": "utvikle økonomiske statistikkrapporter",
+            "fi": "laatia taloudellisia tilastoraportteja",
+            "en-us": "develop financial statistics reports",
+            "pt": "elaborar relatórios de estatísticas financeiras",
+            "bg": "изготвяне на финансови статистически доклади",
+            "lt": "parengti finansų statistikos ataskaitas",
+            "hr": "sastavljati financijska statistička izvješća",
+            "lv": "izstrādāt finanšu statistikas ziņojumus",
+            "fr": "élaborer des rapports de statistiques financières",
+            "hu": "pénzügyi statisztikai jelentéseket dolgoz ki",
+            "sk": "vypracovať finančné štatistické správy",
+            "sl": "pripravljati poročila o finančni statistiki",
+            "ga": "tuairiscí staidrimh airgeadais a chruthú",
+            "sv": "ta fram rapporter över finansstatistik",
+            "el": "εκπόνηση εκθέσεων οικονομικών στατιστικών",
+            "mt": "żvilupp ta’ rapporti tal-istatistika finanzjarja",
+            "en": "develop financial statistics reports",
+            "is": "þróar fjárhagslegar tölfræðiskýrslur",
+            "it": "sviluppare le relazioni di statistica finanziaria",
+            "es": "realizar informes estadísticos y financieros",
+            "et": "finantsstatistika aruandeid koostama",
+            "cs": "připravovat finanční statistické zprávy",
+            "ar": "إعداد تقارير الإحصاءات المالية",
+            "pl": "opracowywać sprawozdania w zakresie statystyki finansowej",
+            "da": "udvikle rapporter med finansielle statistikker",
+            "ro": "elaborează rapoarte de statistică financiară",
+            "nl": "financiële statistische verslagen ontwikkelen"
+          },
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/skill"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/cross-sector"
+          ],
+          "broaderSkill": [
+            "http://data.europa.eu/esco/skill/7dd94ad3-13d6-43fe-8b94-51fcbf67ced9",
+            "http://data.europa.eu/esco/skill/be6ab363-3de1-427f-a8ef-85d5b0250822",
+            "http://data.europa.eu/esco/skill/19ba11f3-9c99-41fd-a7c9-f77e6a026186"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/skill/S2.2.1"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/4f060129-8b75-4d58-a8dd-515bd8fef349&language=en",
+              "uri": "http://data.europa.eu/esco/skill/4f060129-8b75-4d58-a8dd-515bd8fef349",
+              "title": "develop financial statistics reports"
+            }
+          }
+        },
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/96d6a0a7-5923-44c1-adec-c76ab617c6d9",
+          "searchHit": "Prepare a comprehensive and unbiased report on wood technology production and progressive development of wood based materials.",
+          "title": "prepare production reports",
+          "preferredLabel": {
+            "de": "Fertigungsberichte erstellen",
+            "no": "forberede produksjonsrapporter",
+            "fi": "valmistella tuotantoraportteja",
+            "en-us": "prepare production reports",
+            "pt": "elaborar relatórios de produção",
+            "bg": "изготвяне на доклади за производството",
+            "lt": "parengti gamybos ataskaitas",
+            "hr": "sastavljati izvješća o proizvodnji",
+            "lv": "sagatavot ražošanas pārskatus",
+            "fr": "préparer des rapports de production",
+            "hu": "gyártási jelentéseket készít elő",
+            "sk": "pripraviť správy o výrobe",
+            "sl": "pripravljati poročila o proizvodnji",
+            "ga": "tuarascálacha táirgeachta a ullmhú",
+            "sv": "utarbeta produktionsrapporter",
+            "el": "εκπόνηση εκθέσεων παραγωγής",
+            "mt": "tħejjija tar-rapporti tal-produzzjoni",
+            "en": "prepare production reports",
+            "is": "undirbýr framleiðsluskýrslur",
+            "it": "preparare relazioni di produzione",
+            "es": "preparar informes sobre la producción de madera",
+            "et": "tootmisaruandeid koostama",
+            "cs": "vypracovávat výrobní zprávy",
+            "ar": "اعداد تقارير الإنتاج",
+            "pl": "sporządzać sprawozdania z produkcji",
+            "da": "udarbejde produktionsrapporter",
+            "ro": "pregătește rapoarte de producție",
+            "nl": "productierapporten opstellen"
+          },
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/skill"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/sector-specific"
+          ],
+          "broaderSkill": [
+            "http://data.europa.eu/esco/skill/be6ab363-3de1-427f-a8ef-85d5b0250822"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/skill/S2.2.5"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/96d6a0a7-5923-44c1-adec-c76ab617c6d9&language=en",
+              "uri": "http://data.europa.eu/esco/skill/96d6a0a7-5923-44c1-adec-c76ab617c6d9",
+              "title": "prepare production reports"
+            }
+          }
+        },
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/1e3a71a2-ed64-4b24-bb9b-649abd7cf375",
+          "searchHit": "write signalling reports",
+          "title": "write signalling reports",
+          "preferredLabel": {
+            "de": "Berichte über die Signaltechnik schreiben",
+            "no": "skrive varslingsrapporter",
+            "fi": "laatia merkinantoraportteja",
+            "en-us": "write signaling  reports",
+            "pt": "redigir relatórios de sinalização",
+            "bg": "писане на доклади за железопътната сигнализация",
+            "lt": "rengti signalizavimo ataskaitas",
+            "hr": "pisati izvješća o signalizaciji",
+            "lv": "rakstīt signalizēšanas atskaites",
+            "fr": "rédiger des rapports sur la signalisation",
+            "hu": "a jelzőrendszer működésével kapcsolatos jelentéseket ír",
+            "sk": "vypracovať správy o signalizácii",
+            "sl": "pisati poročila o signalizaciji",
+            "ga": "tuarascálacha a scríobh ar oibríochtaí comharthaíochta",
+            "sv": "skriva rapporter om signaleringsverksamhet",
+            "el": "σύνταξη εκθέσεων σηματοδότησης",
+            "mt": "kitba tar-rapporti tas-sinjalar",
+            "en": "write signalling reports",
+            "is": "skrifar merkjaskýrslur",
+            "it": "scrivere relazioni relative alla segnaletica",
+            "es": "redactar informes de señalización",
+            "et": "signaalimisaruandeid koostama",
+            "cs": "psát signalizační zprávy",
+            "ar": "كتابة تقارير بشأن إرسال إشارات",
+            "pl": "sporządzać sprawozdania na temat sygnalizacji",
+            "da": "skrive signalrapporter",
+            "ro": "întocmește rapoartele de semnalizare",
+            "nl": "signalisatieverslagen schrijven"
+          },
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/skill"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/sector-specific"
+          ],
+          "broaderSkill": [
+            "http://data.europa.eu/esco/skill/918f5211-b99f-4b29-9a34-6e475583ef55",
+            "http://data.europa.eu/esco/skill/be6ab363-3de1-427f-a8ef-85d5b0250822"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/skill/S2.2.5"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/1e3a71a2-ed64-4b24-bb9b-649abd7cf375&language=en",
+              "uri": "http://data.europa.eu/esco/skill/1e3a71a2-ed64-4b24-bb9b-649abd7cf375",
+              "title": "write signalling reports"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

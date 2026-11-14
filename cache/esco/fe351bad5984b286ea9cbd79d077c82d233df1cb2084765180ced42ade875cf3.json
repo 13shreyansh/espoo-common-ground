@@ -1,0 +1,365 @@
+{
+  "url": "https://ec.europa.eu/esco/api/resource/skill?language=en&uri=http%3A%2F%2Fdata.europa.eu%2Fesco%2Fskill%2F1019423b-3368-4f83-b24f-19e5fa23e816",
+  "at": "2026-11-14T23:00:05.918Z",
+  "response": {
+    "className": "Skill",
+    "classId": "http://data.europa.eu/esco/model#Skill",
+    "uri": "http://data.europa.eu/esco/skill/1019423b-3368-4f83-b24f-19e5fa23e816",
+    "title": "software UI design patterns",
+    "referenceLanguage": [
+      "en"
+    ],
+    "preferredLabel": {
+      "no": "designmønstre for brukergrensesnitt for programvare",
+      "de": "UI-Software-Entwurfsmuster",
+      "fi": "ohjelmiston käyttöliittymän suunnittelumallit",
+      "en-us": "software UI design patterns",
+      "pt": "padrões de design de IU de software",
+      "bg": "модели за дизайн на софтуерен потребителски интерфейс",
+      "lt": "programinės įrangos naudotojo sąsajos dizaino modeliai",
+      "lv": "programmatūras UI dizaina modeļi",
+      "hr": "softver za obrasce dizajna korisničkog sučelja",
+      "fr": "schéma de conception d’interface utilisateur",
+      "hu": "szoftver felhasználói felület tervezési minták",
+      "sk": "šablóny dizajnu používateľského rozhrania softvéru",
+      "sl": "vzorci za načrtovanje programskih uporabniških vmesnikov",
+      "ga": "bogearraí patrún deartha le haghaidh comhéadain úsáideora",
+      "sv": "designmönster för programgränssnitt",
+      "mt": "mudelli tad-disinn tal-interfaċċa tal-utenti tas-softwer",
+      "el": "σχεδιαστικά πρότυπα λογισμικού διεπαφής χρήστη",
+      "en": "software UI design patterns",
+      "is": "hönnunarmynstur notendaviðmóts",
+      "it": "schema di progettazione dell’UI del software",
+      "es": "patrones de diseño de la interfaz de usuario del software",
+      "et": "tarkvara kasutajaliidese disaini mustrid",
+      "cs": "schémy designu softwarového uživatelského rozhraní",
+      "ar": "نماذج تصميمات واجهة المستخدم في البرامج",
+      "pl": "wzorce projektowe interfejsu użytkownika",
+      "ro": "modele de proiectare a interfeței cu utilizatorul pentru software",
+      "da": "designmønstre til softwarebrugergrænseflader",
+      "nl": "ontwerppatronen voor softwaregebruikersinterfaces"
+    },
+    "alternativeLabel": {
+      "cs": [
+        "vzorce návrhů softwaru uživatelského rozhraní",
+        "schéma designu softwarového uživatelského rozhraní",
+        "schémy designu softwarových uživatelských rozhraní",
+        "modely uživatelského rozhraní",
+        "schémy designu softwarového uživatelského rozhraní",
+        "modely softwarového uživatelského rozhraní"
+      ],
+      "mt": [
+        "mudelli għad-disinn tal-interfaċċa għall-utenti tas-softwer",
+        "mudelli għad-disinn tal-interfaċċa tal-utent tas-softwer",
+        "mudelli tad-disinn tal-UI tas-softwer"
+      ],
+      "el": [
+        "σχεδιαστικά πρότυπα λογισμικού αλληλεπίδρασης χρήστη· σχεδιαστικά πρότυπα ενδιάμεσου χρήστη",
+        "πρότυπα σχεδίασης λογισμικού αλληλεπίδρασης χρήστη· μοντέλα σχεδίασης λογισμικού ενδιάμεσου χρήστη· σχεδιαστικά μοντέλα λογισμικού διεπαφής χρήστη"
+      ],
+      "nl": [
+        "gebruikersinterfaces opzetten",
+        "ontwerppatronen voor software-UI's",
+        "ontwerppatronen voor software",
+        "gebruikersinterface testen",
+        "patronen voor het ontwerp van softwaregebruikersinterfaces"
+      ]
+    },
+    "description": {
+      "de": {
+        "literal": "Wiederverwendbare Lösungen und formalisierte Best Practices zur Lösung gemeinsamer Aufgaben in Bezug auf eine Benutzerschnittstelle bei der Softwareentwicklung und -gestaltung.",
+        "mimetype": "plain/text"
+      },
+      "no": {
+        "literal": "Gjenbrukbare løsninger og formalisert beste praksis for å løse vanlige brukergrensesnittoppgaver innen programvareutvikling og design.",
+        "mimetype": "plain/text"
+      },
+      "fi": {
+        "literal": "Uudelleenkäytettävät ratkaisut ja viralliset parhaat käytännöt, joilla voidaan ratkaista yleiset käyttöliittymään liittyvät tehtävät ohjelmistojen kehittämisessä ja suunnittelussa.",
+        "mimetype": "plain/text"
+      },
+      "en-us": {
+        "literal": "The reusable solutions and formalized best practices to solve common user interface tasks in software development and design.",
+        "mimetype": "plain/text"
+      },
+      "pt": {
+        "literal": "As soluções reutilizáveis e as melhores práticas formalizadas para resolver as tarefas comuns das interfaces dos utilizadores no desenvolvimento e conceção de software.",
+        "mimetype": "plain/text"
+      },
+      "bg": {
+        "literal": "Повторно използваеми решения и формализирани най-добри практики за решаване на общи задачи на потребителския интерфейс в разработването и проектирането на софтуер.",
+        "mimetype": "plain/text"
+      },
+      "lt": {
+        "literal": "Daugkartinio taikymo sprendimai ir formalizuota geriausia praktika bendroms naudotojų sąsajos užduotims, susijusioms su programinės įrangos kūrimu ir projektavimu, spręsti.",
+        "mimetype": "plain/text"
+      },
+      "lv": {
+        "literal": "Atkārtoti izmantojamie risinājumi un formalizēta labākā prakse kopīgu lietotājsaskarnes uzdevumu risināšanai laikā, kad notiek programmatūras izstrāde un projektēšana.",
+        "mimetype": "plain/text"
+      },
+      "hr": {
+        "literal": "Rješenja koja se mogu ponovno upotrijebiti i formalizirane najbolje prakse za rješavanje zadaća zajedničkog korisničkog sučelja u razvoju i projektiranju softvera.",
+        "mimetype": "plain/text"
+      },
+      "fr": {
+        "literal": "Solutions réutilisables et meilleures pratiques formalisées pour l’exécution des tâches d’interface utilisateur courantes lors du développement et de la conception de logiciels.",
+        "mimetype": "plain/text"
+      },
+      "hu": {
+        "literal": "Újból felhasználható megoldások és a bevált gyakorlatok kialakítása a szoftverfejlesztéssel és -tervezéssel kapcsolatban, a felhasználói felület hétköznapi feladatainak megoldása érdekében.",
+        "mimetype": "plain/text"
+      },
+      "sk": {
+        "literal": "Opätovne použiteľné riešenia a formálne osvedčené postupy na riešenie bežných úloh používateľského rozhrania pri vývoji a navrhovaní softvéru.",
+        "mimetype": "plain/text"
+      },
+      "sl": {
+        "literal": "Rešitve, ki jih je mogoče ponovno uporabiti, in formalizirane najboljše prakse za reševanje splošnih nalog uporabniškega vmesnika pri razvoju in oblikovanju programske opreme.",
+        "mimetype": "plain/text"
+      },
+      "ga": {
+        "literal": "Na réitigh in-athúsáidte agus na dea-chleachtais foirmiúlaithe chun tascanna an chomhéadain choitinn úsáideora a réiteach i bhforbairt agus dearadh bogearraí.",
+        "mimetype": "plain/text"
+      },
+      "sv": {
+        "literal": "Återanvändbara lösningar och formaliserade bästa praxis för lösning av vanliga användargränssnittsrelaterade uppgifter inom programvaruutveckling och -design.",
+        "mimetype": "plain/text"
+      },
+      "el": {
+        "literal": "Οι επαναχρησιμοποιήσιμες λύσεις και τυποποιημένες βέλτιστες πρακτικές για την εκτέλεση εργασιών κοινής διεπαφής χρήστη στην ανάπτυξη και τον σχεδιασμό λογισμικού.",
+        "mimetype": "plain/text"
+      },
+      "mt": {
+        "literal": "Is-soluzzjonijiet li jistgħu jerġgħu jintużaw u l-aħjar prattiki formalizzati biex isolvu l-kompiti komuni ta’ interfaċċa tal-utent fl-iżvilupp u d-disinn tas-softwer.",
+        "mimetype": "plain/text"
+      },
+      "en": {
+        "literal": "The reusable solutions and formalised best practices to solve common user interface tasks in software development and design.",
+        "mimetype": "plain/text"
+      },
+      "is": {
+        "literal": "Endurnýtanlegar lausnirnar og formleg vinnubrögð til að leysa sameiginleg verkefni notendaviðmóta við þróun hugbúnaðar og hönnunar.",
+        "mimetype": "plain/text"
+      },
+      "it": {
+        "literal": "Le soluzioni riutilizzabili e le migliori pratiche formalizzate per risolvere task comuni dell’interfaccia utente nello sviluppo e nella progettazione del software.",
+        "mimetype": "plain/text"
+      },
+      "es": {
+        "literal": "Las soluciones reutilizables y las mejores prácticas formalizadas para resolver tareas comunes de interfaz de usuario en el desarrollo y diseño de software.",
+        "mimetype": "plain/text"
+      },
+      "et": {
+        "literal": "Taaskasutatavad lahendused ja formaliseeritud parimad tavad, et lahendada tavapäraseid kasutajaliidese ülesandeid tarkvaraarenduse ja disaini valdkonnas.",
+        "mimetype": "plain/text"
+      },
+      "cs": {
+        "literal": "Opětovně použitelná řešení a formalizované osvědčené postupy k řešení běžných úkolů uživatelského rozhraní v rámci vývoje softwaru a jeho návrhu.",
+        "mimetype": "plain/text"
+      },
+      "ar": {
+        "literal": "الحلول القابلة لإعادة الاستخدام وأفضل الممارسات الرسمية لحل مهام واجهة المستخدم الشائعة في تطوير البرمجيات وتصميمها.",
+        "mimetype": "plain/text"
+      },
+      "pl": {
+        "literal": "Rozwiązania wielokrotnego użytku i sformalizowane najlepsze praktyki w celu rozwiązania wspólnych zadań interfejsu użytkownika w opracowywaniu i projektowaniu oprogramowania.",
+        "mimetype": "plain/text"
+      },
+      "da": {
+        "literal": "Genanvendelige løsninger og formaliseret bedste praksis med henblik på at løse fælles brugergrænsefladeopgaver inden for softwareudvikling og -design.",
+        "mimetype": "plain/text"
+      },
+      "ro": {
+        "literal": "Soluțiile reutilizabile și cele mai bune practici formalizate pentru soluționarea sarcinilor comune privind interfața cu utilizatorul în dezvoltarea și proiectarea de software.",
+        "mimetype": "plain/text"
+      },
+      "nl": {
+        "literal": "De herbruikbare oplossingen en geformaliseerde beste praktijken voor de vormgeving van algemene gebruikersinterfacetaken op het gebied van softwareontwikkeling en -ontwerp.",
+        "mimetype": "plain/text"
+      }
+    },
+    "status": "released",
+    "_links": {
+      "self": {
+        "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/1019423b-3368-4f83-b24f-19e5fa23e816&language=en",
+        "uri": "http://data.europa.eu/esco/skill/1019423b-3368-4f83-b24f-19e5fa23e816",
+        "title": "software UI design patterns"
+      },
+      "isInScheme": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/taxonomy?uri=http://data.europa.eu/esco/concept-scheme/skills&language=en",
+          "uri": "http://data.europa.eu/esco/concept-scheme/skills",
+          "title": "ESCO skills"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/taxonomy?uri=http://data.europa.eu/esco/concept-scheme/member-skills&language=en",
+          "uri": "http://data.europa.eu/esco/concept-scheme/member-skills",
+          "title": "ESCO member skills"
+        }
+      ],
+      "hasSkillType": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/concept?uri=http://data.europa.eu/esco/skill-type/knowledge&language=en",
+          "uri": "http://data.europa.eu/esco/skill-type/knowledge",
+          "title": "knowledge"
+        }
+      ],
+      "hasReuseLevel": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/concept?uri=http://data.europa.eu/esco/skill-reuse-level/sector-specific&language=en",
+          "uri": "http://data.europa.eu/esco/skill-reuse-level/sector-specific",
+          "title": "sector specific skills and competences",
+          "code": "Level 3"
+        }
+      ],
+      "broaderHierarchyConcept": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/concept?uri=http://data.europa.eu/esco/isced-f/0613&language=en",
+          "uri": "http://data.europa.eu/esco/isced-f/0613",
+          "title": "software and applications development and analysis"
+        }
+      ],
+      "broaderSkill": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/8ff015a0-98ea-4d80-a23e-1f68110a919e&language=en",
+          "uri": "http://data.europa.eu/esco/skill/8ff015a0-98ea-4d80-a23e-1f68110a919e",
+          "title": "software design methodologies",
+          "skillType": "http://data.europa.eu/esco/skill-type/knowledge"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/de0be6e8-644c-4cc9-9c8d-925dd98dda56&language=en",
+          "uri": "http://data.europa.eu/esco/skill/de0be6e8-644c-4cc9-9c8d-925dd98dda56",
+          "title": "software interaction design",
+          "skillType": "http://data.europa.eu/esco/skill-type/knowledge"
+        }
+      ],
+      "isEssentialForOccupation": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/96e20037-0a25-4bf6-a25e-808d1605d890&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/96e20037-0a25-4bf6-a25e-808d1605d890",
+          "title": "user interface designer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/866c7813-2c03-47d7-9bdc-192cfbace57c&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/866c7813-2c03-47d7-9bdc-192cfbace57c",
+          "title": "user interface developer"
+        }
+      ],
+      "isOptionalForSkill": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/2b7a79e5-84d8-4880-be66-3d9bb05bea17&language=en",
+          "uri": "http://data.europa.eu/esco/skill/2b7a79e5-84d8-4880-be66-3d9bb05bea17",
+          "title": "use software design patterns",
+          "skillType": "http://data.europa.eu/esco/skill-type/skill"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/3bddfd7c-ab6d-40c2-883d-5e97fb7640ba&language=en",
+          "uri": "http://data.europa.eu/esco/skill/3bddfd7c-ab6d-40c2-883d-5e97fb7640ba",
+          "title": "create software design",
+          "skillType": "http://data.europa.eu/esco/skill-type/skill"
+        }
+      ]
+    },
+    "_embedded": {
+      "ancestors": [
+        {
+          "title": "software UI design patterns",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/1019423b-3368-4f83-b24f-19e5fa23e816&language=en",
+              "uri": "http://data.europa.eu/esco/skill/1019423b-3368-4f83-b24f-19e5fa23e816"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/de0be6e8-644c-4cc9-9c8d-925dd98dda56",
+            "http://data.europa.eu/esco/isced-f/0613",
+            "http://data.europa.eu/esco/skill/8ff015a0-98ea-4d80-a23e-1f68110a919e"
+          ]
+        },
+        {
+          "title": "software interaction design",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/de0be6e8-644c-4cc9-9c8d-925dd98dda56&language=en",
+              "uri": "http://data.europa.eu/esco/skill/de0be6e8-644c-4cc9-9c8d-925dd98dda56"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/isced-f/0611"
+          ]
+        },
+        {
+          "title": "computer use",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/isced-f/0611&language=en",
+              "uri": "http://data.europa.eu/esco/isced-f/0611"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/isced-f/061"
+          ]
+        },
+        {
+          "title": "information and communication technologies (icts)",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/isced-f/061&language=en",
+              "uri": "http://data.europa.eu/esco/isced-f/061"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/isced-f/06"
+          ]
+        },
+        {
+          "title": "information and communication technologies (icts)",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/isced-f/06&language=en",
+              "uri": "http://data.europa.eu/esco/isced-f/06"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/K"
+          ]
+        },
+        {
+          "title": "knowledge",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/K&language=en",
+              "uri": "http://data.europa.eu/esco/skill/K"
+            }
+          },
+          "parents": []
+        },
+        {
+          "title": "software and applications development and analysis",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/isced-f/0613&language=en",
+              "uri": "http://data.europa.eu/esco/isced-f/0613"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/isced-f/061"
+          ]
+        },
+        {
+          "title": "software design methodologies",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/8ff015a0-98ea-4d80-a23e-1f68110a919e&language=en",
+              "uri": "http://data.europa.eu/esco/skill/8ff015a0-98ea-4d80-a23e-1f68110a919e"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/isced-f/0613"
+          ]
+        }
+      ]
+    }
+  }
+}

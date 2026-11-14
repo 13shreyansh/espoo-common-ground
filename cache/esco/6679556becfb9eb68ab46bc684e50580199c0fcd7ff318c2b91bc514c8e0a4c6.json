@@ -1,0 +1,388 @@
+{
+  "url": "https://ec.europa.eu/esco/api/search?type=skill&language=en&limit=6&text=data%20extraction",
+  "at": "2026-11-14T23:00:07.827Z",
+  "response": {
+    "total": 545,
+    "offset": 0,
+    "limit": 6,
+    "text": "data extraction",
+    "language": "en",
+    "type": [
+      "skill"
+    ],
+    "isInScheme": null,
+    "facet": null,
+    "_links": {
+      "self": {
+        "href": "https://ec.europa.eu/esco/api/search?text=data%20extraction&type=skill&limit=6&offset=0&full=false&viewObsolete=false&language=en"
+      },
+      "next": {
+        "href": "https://ec.europa.eu/esco/api/search?text=data%20extraction&type=skill&limit=6&offset=1&full=false&viewObsolete=false&language=en"
+      }
+    },
+    "_embedded": {
+      "results": [
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/9d0d89be-bffa-4393-b6f6-8d05bea49051",
+          "searchHit": "data extraction, transformation and loading tools",
+          "title": "data extraction, transformation and loading tools",
+          "preferredLabel": {
+            "de": "Werkzeuge für Extraktion Transformation und Laden von Daten",
+            "no": "verktøy for datautvinning, -transformering og -lasting",
+            "fi": "tietojen keräämisen, muuntamisen ja lataamisen työkalut",
+            "en-us": "data extraction, transformation and loading tools",
+            "pt": "ferramentas de extração transformação e carregamento de dados",
+            "bg": "инструменти за извличане преобразуване и зареждане на данни",
+            "lt": "duomenų išgavimo transformavimo ir įkėlimo įrankiai",
+            "hr": "alati za izvlačenje transformaciju i učitavanje podataka",
+            "lv": "datu ieguves, transformācijas un ielādes rīki",
+            "fr": "outils d’extraction de transformation et de chargement",
+            "hu": "ETL eszközök",
+            "sk": "nástroje na extrakciu transformáciu a načítanie",
+            "sl": "orodja za luščenje, pretvorbo in nalaganje podatkov",
+            "ga": "uirlisí asbhainte, trasfhoirmithe agus lódála sonraí",
+            "sv": "verktyg för datautvinning -omvandling och -inläsning",
+            "el": "εργαλεία φόρτωσης μετατροπής και εξαγωγής δεδομένων",
+            "mt": "estrazzjoni tad-data għodda ta' trasformazzjoni u ta' loading",
+            "en": "data extraction, transformation and loading tools",
+            "is": "verkfæri fyrir útdrátt gagna ummyndun og hleðslu",
+            "it": "strumenti di estrazione trasformazione e caricamento dei dati",
+            "es": "herramientas de extracción transformación y carga de datos",
+            "et": "andmete eraldamise teisendamise ja laadimise tööriistad",
+            "cs": "nástroje pro extrakci  transformaci a načítání dat",
+            "ar": "أدوات استخراج البيانات ونقلها وتحميلها",
+            "pl": "narzędzia do pozyskiwania, przekształcania i ładowania danych",
+            "da": "værktøjer til ekstraktion, transformation og indlæsning af data",
+            "ro": "instrumente de extragere transformare și încărcare a datelor",
+            "nl": "hulpmiddelen voor het extraheren, omzetten en laden van gegevens"
+          },
+          "isTopConceptInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/knowledge"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/cross-sector"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/isced-f/0612"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/9d0d89be-bffa-4393-b6f6-8d05bea49051&language=en",
+              "uri": "http://data.europa.eu/esco/skill/9d0d89be-bffa-4393-b6f6-8d05bea49051",
+              "title": "data extraction, transformation and loading tools"
+            }
+          }
+        },
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/3606bf22-1987-4356-b8c4-13e89d8f6c69",
+          "searchHit": "interpret extraction data",
+          "title": "interpret extraction data",
+          "preferredLabel": {
+            "de": "Förderdaten interpretieren",
+            "no": "tolke utvinningsdata",
+            "fi": "tulkita louhintadataa",
+            "en-us": "interpret extraction data",
+            "pt": "interpretar dados da extração",
+            "bg": "тълкуване на данни за извличане",
+            "lt": "suprasti gavybos duomenis",
+            "hr": "tumačiti podatke o vađenju",
+            "lv": "interpretēt ieguves datus",
+            "fr": "interpréter des données d’extraction",
+            "hu": "kitermelési adatokat értelmez",
+            "sk": "orientovať sa v údajoch o ťažbe",
+            "sl": "razlagati podatke o ekstrakciji",
+            "ga": "sonraí eastósctha a léirmhíniú",
+            "sv": "tolka utvinningsdata",
+            "el": "ερμηνεία δεδομένων εξόρυξης",
+            "mt": "interpretazzjoni tad-data tal-estrazzjoni",
+            "en": "interpret extraction data",
+            "is": "túlkar útdráttargögn",
+            "it": "interpretare i dati relativi alle estrazioni",
+            "es": "interpretar datos de extracciones",
+            "et": "ekstraktitud andmeid tõlgendama",
+            "cs": "interpretovat těžební údaje",
+            "ar": "تفسير بيانات الاستخراج",
+            "pl": "interpretować dane dotyczące eksploatacji",
+            "da": "fortolke udvindingsdata",
+            "ro": "interpretează date privind extracția",
+            "nl": "extractiegegevens interpreteren"
+          },
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/skill"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/sector-specific"
+          ],
+          "broaderSkill": [
+            "http://data.europa.eu/esco/skill/1e77e42a-181f-4b48-8e74-201ce50ffc29"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/skill/S2.7.0"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/3606bf22-1987-4356-b8c4-13e89d8f6c69&language=en",
+              "uri": "http://data.europa.eu/esco/skill/3606bf22-1987-4356-b8c4-13e89d8f6c69",
+              "title": "interpret extraction data"
+            }
+          }
+        },
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/0d6714c6-720e-4985-9791-5ab85d28da79",
+          "searchHit": "Extract exportable data from multiple sources.",
+          "title": "gather data",
+          "preferredLabel": {
+            "de": "Daten sammeln",
+            "no": "samle inn data",
+            "fi": "kerätä tietoja",
+            "en-us": "gather data",
+            "pt": "reunir dados",
+            "bg": "събиране на данни",
+            "lt": "rinkti duomenis",
+            "hr": "prikupljati podatke",
+            "lv": "vākt datus",
+            "fr": "collecter des données",
+            "hu": "adatokat gyűjt",
+            "sk": "zhromažďovať údaje",
+            "sl": "zbirati podatke",
+            "ga": "sonraí a bhailiú",
+            "sv": "samla in data",
+            "el": "συλλογή δεδομένων",
+            "mt": "ġbir tad-data",
+            "en": "gather data",
+            "is": "safnar saman gögnum",
+            "it": "raccogliere i dati",
+            "es": "extraer datos",
+            "et": "andmeid koguma",
+            "cs": "shromažďovat data",
+            "ar": "جمع البيانات",
+            "pl": "gromadzić dane",
+            "da": "indsamle data",
+            "ro": "adună date",
+            "nl": "gegevens verzamelen"
+          },
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/skill"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/cross-sector"
+          ],
+          "broaderSkill": [
+            "http://data.europa.eu/esco/skill/1b70a55d-b8a4-49fc-96c6-15ab4cff2522"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/skill/S2.4.1"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/0d6714c6-720e-4985-9791-5ab85d28da79&language=en",
+              "uri": "http://data.europa.eu/esco/skill/0d6714c6-720e-4985-9791-5ab85d28da79",
+              "title": "gather data"
+            }
+          }
+        },
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/4da883cc-056d-4661-8970-da4bbcc1f9e0",
+          "searchHit": "prepare extraction proposals",
+          "title": "prepare extraction proposals",
+          "preferredLabel": {
+            "de": "Abbauvorschläge vorbereiten",
+            "no": "forberede utvinningsforslag",
+            "fi": "valmistella louhintaa koskevia ehdotuksia",
+            "en-us": "prepare extraction proposals",
+            "pt": "preparar propostas de extração",
+            "bg": "подготвяне на предложения за извличане",
+            "lt": "parengti gavybos pasiūlymus",
+            "hr": "pripremati prijedloge za izvlačenje",
+            "lv": "sagatavot ieguves piedāvājumus",
+            "fr": "rédiger des propositions d’extraction",
+            "hu": "kitermelési javaslatokat dolgoz ki",
+            "sk": "vypracovať návrhy na ťažbu",
+            "sl": "pripravljati predloge za pridobivanje surovin",
+            "ga": "moltaí faoin eastóscadh a ullmhú",
+            "sv": "ta fram utvinningsförslag",
+            "el": "εκπόνηση προτάσεων εξόρυξης",
+            "mt": "tħejjija tal-proposti ta’ estrazzjoni",
+            "en": "prepare extraction proposals",
+            "is": "undirbýr útdráttartilboð",
+            "it": "preparare proposte di estrazione",
+            "es": "preparar propuestas de extracción minera",
+            "et": "kaevandamisettepanekut ette valmistama",
+            "cs": "vypracovávat návrhy na těžbu",
+            "ar": "إعداد مقترحات الاستخراج",
+            "pl": "przygotowywać propozycje eksploatacyjne",
+            "da": "udarbejde udvindingsforslag",
+            "ro": "pregătește propuneri de extracție",
+            "nl": "extractievoorstellen voorbereiden"
+          },
+          "isTopConceptInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/skill"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/sector-specific"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/skill/S2.2.3"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/4da883cc-056d-4661-8970-da4bbcc1f9e0&language=en",
+              "uri": "http://data.europa.eu/esco/skill/4da883cc-056d-4661-8970-da4bbcc1f9e0",
+              "title": "prepare extraction proposals"
+            }
+          }
+        },
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/25f0ea33-b4a2-4f31-b7b4-7d20e827b180",
+          "searchHit": "The methods of artificial intelligence, machine learning, statistics and databases used to extract content from a dataset.",
+          "title": "data mining",
+          "preferredLabel": {
+            "de": "Data-Mining",
+            "no": "datautvinning",
+            "fi": "tietojenlouhinta",
+            "en-us": "data mining",
+            "pt": "análise de dados",
+            "bg": "проучване на данни",
+            "lt": "duomenų gavyba",
+            "hr": "rudarenje podataka",
+            "lv": "datizrace",
+            "fr": "exploration de données",
+            "hu": "adatbányászat",
+            "sk": "hĺbková analýza údajov",
+            "sl": "podatkovno rudarjenje",
+            "ga": "mianadóireacht sonraí",
+            "sv": "datautvinning",
+            "el": "εξόρυξη δεδομένων",
+            "mt": "estrazzjoni ta' data",
+            "en": "data mining",
+            "is": "gagnanám",
+            "it": "estrazione di dati",
+            "es": "extracción de datos",
+            "et": "andmekaevandamine",
+            "cs": "vytěžování dat",
+            "ar": "استخراج البيانات",
+            "pl": "eksploracja danych",
+            "da": "datamining",
+            "ro": "extragerea de date",
+            "nl": "datamining"
+          },
+          "isTopConceptInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/knowledge"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/sector-specific"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/isced-f/0612"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/25f0ea33-b4a2-4f31-b7b4-7d20e827b180&language=en",
+              "uri": "http://data.europa.eu/esco/skill/25f0ea33-b4a2-4f31-b7b4-7d20e827b180",
+              "title": "data mining"
+            }
+          }
+        },
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/a887fa02-7921-430d-a12c-80ae8618f609",
+          "searchHit": "perform preliminary operations for oil extraction",
+          "title": "perform preliminary operations for oil extraction",
+          "preferredLabel": {
+            "de": "einleitende Verfahren für die Ölgewinnung durchführen",
+            "no": "utføre innledende operasjoner for oljeutvinning",
+            "fi": "suorittaa öljyn uuttamisen valmistelutoimintoja",
+            "en-us": "perform preliminary operations for oil extraction",
+            "pt": "realizar operações preliminares para a extração de óleo",
+            "bg": "извършване на предварителни операции по извличане на хранителни масла",
+            "lt": "atlikti parengtines aliejaus spaudimo operacijas",
+            "hr": "obavljati pripremne radnje za ekstrakciju ulja",
+            "lv": "veikt sagatavošanas darbības pirms eļļas ekstrakcijas",
+            "fr": "exécuter des tâches préliminaires pour l’extraction d’huile",
+            "hu": "olajkivonást megelőző műveleteket végez",
+            "sk": "vykonávať predbežné činnosti na extrakciu oleja",
+            "sl": "izvajati pripravljalne postopke za stiskanje olja",
+            "ga": "réamhoibríochtaí a dhéanamh chun críocha úscadh ola",
+            "sv": "förbearbeta frön för pressning",
+            "el": "εκτέλεση προκαταρκτικών ενεργειών για την εξαγωγή του ελαίου",
+            "mt": "twettiq tal-operazzjonijiet preliminari għall-estrazzjoni taż-żejt",
+            "en": "perform preliminary operations for oil extraction",
+            "is": "framkvæmir undirbúningsaðgerðir fyrir olíuútdrátt",
+            "it": "svolgere operazioni preliminari di estrazione di olio",
+            "es": "realizar operaciones preliminares en la extracción de aceite",
+            "et": "õlipressimise eeltoiminguid teostama",
+            "cs": "provádět přípravné operace pro extrakci oleje",
+            "ar": "اجراء العمليات الأولية لاستخراج النفط",
+            "pl": "przeprowadzać wstępne działania przygotowujące do ekstrakcji oleju",
+            "da": "forberede olieekstraktion",
+            "ro": "efectuează operații preliminare în vederea extracției uleiului",
+            "nl": "voorbereidende handelingen voor olie-extractie uitvoeren"
+          },
+          "isTopConceptInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/skill"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/sector-specific"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/skill/S8.5.4"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/a887fa02-7921-430d-a12c-80ae8618f609&language=en",
+              "uri": "http://data.europa.eu/esco/skill/a887fa02-7921-430d-a12c-80ae8618f609",
+              "title": "perform preliminary operations for oil extraction"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

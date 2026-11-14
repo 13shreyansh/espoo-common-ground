@@ -1,0 +1,341 @@
+{
+  "url": "https://ec.europa.eu/esco/api/resource/skill?language=en&uri=http%3A%2F%2Fdata.europa.eu%2Fesco%2Fskill%2F4e8a2547-c91e-41ff-ad92-170e02e95a8d",
+  "at": "2026-11-14T22:51:18.188Z",
+  "response": {
+    "className": "Skill",
+    "classId": "http://data.europa.eu/esco/model#Skill",
+    "uri": "http://data.europa.eu/esco/skill/4e8a2547-c91e-41ff-ad92-170e02e95a8d",
+    "title": "assess risk in the outdoors",
+    "referenceLanguage": [
+      "en"
+    ],
+    "preferredLabel": {
+      "de": "Risiko bei Outdoor-Aktivitäten bewerten",
+      "no": "vurdere risiko i friluft",
+      "en-us": "assess risk in the outdoors",
+      "fi": "tehdä ulkoilmatoimintojen riskiarviointeja",
+      "pt": "avaliar os riscos em espaços abertos",
+      "bg": "оценяване на риска при дейности на открито",
+      "lt": "vertinti riziką lauke",
+      "lv": "novērtēt riskus brīvā dabā",
+      "hr": "procjenjivati rizik na otvorenome",
+      "fr": "évaluer les risques en plein air",
+      "hu": "felméri a kültéri kockázatokat",
+      "sk": "posúdiť riziko pri outdoorových aktivitách",
+      "sl": "oceniti tveganje na prostem",
+      "ga": "riosca a mheasúnú amuigh faoin spéir",
+      "sv": "bedöma risker utomhus",
+      "el": "αξιολόγηση κινδύνου στις υπαίθριες δραστηριότητες",
+      "mt": "valutazzjoni tar-riskji fil-beraħ",
+      "en": "assess risk in the outdoors",
+      "is": "metur áhættu utandyra",
+      "it": "valutare il rischio all’aperto",
+      "es": "evaluar los riesgos en actividades al aire libre",
+      "et": "välikeskkonnas riski hindama",
+      "cs": "posuzovat rizika při aktivitách venku",
+      "ar": "تقييم المخاطر في الخارج",
+      "pl": "przeprowadzać ocenę ryzyka związanego z działaniami plenerowymi",
+      "da": "vurdere risici udendørs",
+      "ro": "analizează riscurile desfășurării în aer liber a activității",
+      "nl": "risico's buitenshuis beoordelen"
+    },
+    "alternativeLabel": {
+      "en": [
+        "assess outdoor risks",
+        "assess risks outdoors",
+        "assess risks outside",
+        "monitor risks outdoors"
+      ],
+      "nl": [
+        "risico's buitenshuis evalueren"
+      ]
+    },
+    "description": {
+      "de": {
+        "literal": "Erstellung und Durchführung von Risikoanalysen.",
+        "mimetype": "plain/text"
+      },
+      "no": {
+        "literal": "Utarbeide og gjennomføre risikoanalyse.",
+        "mimetype": "plain/text"
+      },
+      "en-us": {
+        "literal": "Elaborate and accomplish risk analysis.",
+        "mimetype": "plain/text"
+      },
+      "fi": {
+        "literal": "Täsmentää riskianalyysiä ja tehdä riskianalyysi.",
+        "mimetype": "plain/text"
+      },
+      "pt": {
+        "literal": "Elaborar e realizar análises de risco.",
+        "mimetype": "plain/text"
+      },
+      "bg": {
+        "literal": "Разработва и извършва анализ на риска.",
+        "mimetype": "plain/text"
+      },
+      "lt": {
+        "literal": "Vykdyti ir atlikti rizikos analizę.",
+        "mimetype": "plain/text"
+      },
+      "lv": {
+        "literal": "Izstrādāt un veikt detalizētu riska analīzi.",
+        "mimetype": "plain/text"
+      },
+      "hr": {
+        "literal": "Razrađivati i provoditi analizu rizika.",
+        "mimetype": "plain/text"
+      },
+      "fr": {
+        "literal": "Élaborer et réaliser une analyse des risques.",
+        "mimetype": "plain/text"
+      },
+      "hu": {
+        "literal": "Kidolgozza és elvégzi a kockázatelemzést.",
+        "mimetype": "plain/text"
+      },
+      "sk": {
+        "literal": "Vypracovanie a vykonanie analýzy rizík.",
+        "mimetype": "plain/text"
+      },
+      "sl": {
+        "literal": "Pripraviti in izvesti analizo tveganja.",
+        "mimetype": "plain/text"
+      },
+      "ga": {
+        "literal": "Anailís riosca a dhéanamh agus a chur i gcrích.",
+        "mimetype": "plain/text"
+      },
+      "sv": {
+        "literal": "Förtydliga och slutföra riskanalysen.",
+        "mimetype": "plain/text"
+      },
+      "el": {
+        "literal": "Ανάπτυξη και διενέργεια ανάλυσης κινδύνου.",
+        "mimetype": "plain/text"
+      },
+      "mt": {
+        "literal": "Elaborazzjoni u twettiq ta’ analiżi tar-riskju.",
+        "mimetype": "plain/text"
+      },
+      "en": {
+        "literal": "Elaborate and accomplish risk analysis.",
+        "mimetype": "plain/text"
+      },
+      "is": {
+        "literal": "Útfæra og ljúka áhættugreiningu.",
+        "mimetype": "plain/text"
+      },
+      "it": {
+        "literal": "Elaborare e realizzare un’analisi dei rischi.",
+        "mimetype": "plain/text"
+      },
+      "es": {
+        "literal": "Elaborar y llevar a cabo análisis de riesgos.",
+        "mimetype": "plain/text"
+      },
+      "et": {
+        "literal": "Riskianalüüsi väljatöötamine ja elluviimine.",
+        "mimetype": "plain/text"
+      },
+      "cs": {
+        "literal": "Vypracovat a provést analýzu rizik.",
+        "mimetype": "plain/text"
+      },
+      "ar": {
+        "literal": "إجراء تحليل المخاطر وتفسيره.",
+        "mimetype": "plain/text"
+      },
+      "pl": {
+        "literal": "Opracowywać i przeprowadzać analizę ryzyka.",
+        "mimetype": "plain/text"
+      },
+      "ro": {
+        "literal": "Elaborează și realizează o analiză a riscurilor.",
+        "mimetype": "plain/text"
+      },
+      "da": {
+        "literal": "Udarbejde og gennemføre risikoanalyser.",
+        "mimetype": "plain/text"
+      },
+      "nl": {
+        "literal": "Een risicoanalyse opstellen en uitvoeren.",
+        "mimetype": "plain/text"
+      }
+    },
+    "status": "released",
+    "_links": {
+      "self": {
+        "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/4e8a2547-c91e-41ff-ad92-170e02e95a8d&language=en",
+        "uri": "http://data.europa.eu/esco/skill/4e8a2547-c91e-41ff-ad92-170e02e95a8d",
+        "title": "assess risk in the outdoors"
+      },
+      "isInScheme": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/taxonomy?uri=http://data.europa.eu/esco/concept-scheme/skills&language=en",
+          "uri": "http://data.europa.eu/esco/concept-scheme/skills",
+          "title": "ESCO skills"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/taxonomy?uri=http://data.europa.eu/esco/concept-scheme/member-skills&language=en",
+          "uri": "http://data.europa.eu/esco/concept-scheme/member-skills",
+          "title": "ESCO member skills"
+        }
+      ],
+      "hasSkillType": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/concept?uri=http://data.europa.eu/esco/skill-type/skill&language=en",
+          "uri": "http://data.europa.eu/esco/skill-type/skill",
+          "title": "skill"
+        }
+      ],
+      "hasReuseLevel": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/concept?uri=http://data.europa.eu/esco/skill-reuse-level/sector-specific&language=en",
+          "uri": "http://data.europa.eu/esco/skill-reuse-level/sector-specific",
+          "title": "sector specific skills and competences",
+          "code": "Level 3"
+        }
+      ],
+      "broaderHierarchyConcept": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/concept?uri=http://data.europa.eu/esco/skill/S2.7.5&language=en",
+          "uri": "http://data.europa.eu/esco/skill/S2.7.5",
+          "title": "performing risk analysis and management",
+          "code": "S2.7.5"
+        }
+      ],
+      "broaderSkill": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/d7b66759-c40c-44de-9f31-9418f84e10c5&language=en",
+          "uri": "http://data.europa.eu/esco/skill/d7b66759-c40c-44de-9f31-9418f84e10c5",
+          "title": "assess risk factors",
+          "skillType": "http://data.europa.eu/esco/skill-type/skill"
+        }
+      ],
+      "hasOptionalSkill": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/6eff134b-e34f-4d6e-a6e8-5e47cf2228d0&language=en",
+          "uri": "http://data.europa.eu/esco/skill/6eff134b-e34f-4d6e-a6e8-5e47cf2228d0",
+          "title": "risk management",
+          "skillType": "http://data.europa.eu/esco/skill-type/knowledge"
+        }
+      ],
+      "isEssentialForOccupation": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/4dceca8d-9faf-487b-b342-c9d7dc209533&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/4dceca8d-9faf-487b-b342-c9d7dc209533",
+          "title": "assistant outdoor animator"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/6e298596-882b-4687-a0cf-3eb37f8fd328&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/6e298596-882b-4687-a0cf-3eb37f8fd328",
+          "title": "outdoor activities coordinator"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/234be692-befb-41df-bdf0-e1b2f4eaf5e7&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/234be692-befb-41df-bdf0-e1b2f4eaf5e7",
+          "title": "activity leader"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/67d8c64f-e0d9-4e0b-be8b-510f9e20e698&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/67d8c64f-e0d9-4e0b-be8b-510f9e20e698",
+          "title": "outdoor animator"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/a1b32703-a2e5-4e0a-910f-7cdd0293b52d&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/a1b32703-a2e5-4e0a-910f-7cdd0293b52d",
+          "title": "specialised outdoor animator"
+        }
+      ]
+    },
+    "_embedded": {
+      "ancestors": [
+        {
+          "title": "assess risk in the outdoors",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/4e8a2547-c91e-41ff-ad92-170e02e95a8d&language=en",
+              "uri": "http://data.europa.eu/esco/skill/4e8a2547-c91e-41ff-ad92-170e02e95a8d"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/d7b66759-c40c-44de-9f31-9418f84e10c5",
+            "http://data.europa.eu/esco/skill/S2.7.5"
+          ]
+        },
+        {
+          "title": "assess risk factors",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/d7b66759-c40c-44de-9f31-9418f84e10c5&language=en",
+              "uri": "http://data.europa.eu/esco/skill/d7b66759-c40c-44de-9f31-9418f84e10c5"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S2.7.5"
+          ]
+        },
+        {
+          "title": "performing risk analysis and management",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S2.7.5&language=en",
+              "uri": "http://data.europa.eu/esco/skill/S2.7.5"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S2.7"
+          ]
+        },
+        {
+          "title": "analysing and evaluating information and data",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S2.7&language=en",
+              "uri": "http://data.europa.eu/esco/skill/S2.7"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S2"
+          ]
+        },
+        {
+          "title": "information skills",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S2&language=en",
+              "uri": "http://data.europa.eu/esco/skill/S2"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S"
+          ]
+        },
+        {
+          "title": "skills",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S&language=en",
+              "uri": "http://data.europa.eu/esco/skill/S"
+            }
+          },
+          "parents": []
+        },
+        {
+          "title": "performing risk analysis and management",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S2.7.5&language=en",
+              "uri": "http://data.europa.eu/esco/skill/S2.7.5"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S2.7"
+          ]
+        }
+      ]
+    }
+  }
+}

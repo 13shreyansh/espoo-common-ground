@@ -1,0 +1,208 @@
+{
+  "url": "https://ec.europa.eu/esco/api/search?type=skill&language=en&limit=3&text=analyse%20business%20processes",
+  "at": "2026-11-14T22:51:16.311Z",
+  "response": {
+    "total": 2114,
+    "offset": 0,
+    "limit": 3,
+    "text": "analyse business processes",
+    "language": "en",
+    "type": [
+      "skill"
+    ],
+    "isInScheme": null,
+    "facet": null,
+    "_links": {
+      "self": {
+        "href": "https://ec.europa.eu/esco/api/search?text=analyse%20business%20processes&type=skill&limit=3&offset=0&full=false&viewObsolete=false&language=en"
+      },
+      "next": {
+        "href": "https://ec.europa.eu/esco/api/search?text=analyse%20business%20processes&type=skill&limit=3&offset=1&full=false&viewObsolete=false&language=en"
+      }
+    },
+    "_embedded": {
+      "results": [
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/56042303-972b-41be-9310-58467599ff7e",
+          "searchHit": "analyse business processes",
+          "title": "analyse business processes",
+          "preferredLabel": {
+            "de": "Geschäftsprozesse analysieren",
+            "no": "analysere forretningsprosesser",
+            "fi": "analysoida liiketoimintaprosesseja",
+            "en-us": "analyze  business processes",
+            "pt": "analisar os processos empresariais",
+            "bg": "анализиране на бизнес процеси",
+            "lt": "analizuoti veiklos procesus",
+            "hr": "analizirati poslovne procese",
+            "lv": "biznesa procesu analīze",
+            "fr": "analyser des procédures d’entreprise",
+            "hu": "elemzi az üzleti folyamatokat",
+            "sk": "analyzovať podnikateľské postupy",
+            "sl": "analizirati poslovne procese",
+            "ga": "próisis ghnó a anailísiú",
+            "sv": "analysera affärsprocesser",
+            "el": "ανάλυση εταιρικών διαδικασιών",
+            "mt": "tanalizza l-proċessi tan-negozju",
+            "en": "analyse business processes",
+            "is": "greina viðskiptaferla",
+            "it": "analizzare i processi aziendali",
+            "es": "analizar procesos empresariales",
+            "et": "äriprotsesse analüüsima",
+            "cs": "analyzovat obchodní procesy",
+            "ar": "تحليل العمليات التجارية",
+            "pl": "analizować procesy biznesowe",
+            "da": "analysere forretningsgange",
+            "ro": "analizează procese de afaceri",
+            "nl": "bedrijfsprocessen analyseren"
+          },
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/skill"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/cross-sector"
+          ],
+          "broaderSkill": [
+            "http://data.europa.eu/esco/skill/27ed854c-15b8-4ba2-90e9-ae888a219703"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/skill/S2.7.4"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/56042303-972b-41be-9310-58467599ff7e&language=en",
+              "uri": "http://data.europa.eu/esco/skill/56042303-972b-41be-9310-58467599ff7e",
+              "title": "analyse business processes"
+            }
+          }
+        },
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/75b30aeb-34c0-40f4-b77d-271d75a98b14",
+          "searchHit": "improve business processes",
+          "title": "improve business processes",
+          "preferredLabel": {
+            "de": "Geschäftsprozesse verbessern",
+            "no": "forbedre forretningsprosesser",
+            "fi": "parantaa liiketoimintaprosesseja",
+            "en-us": "improve business processes",
+            "pt": "melhorar os processos empresariais",
+            "bg": "усъвършенстване на бизнес процеси",
+            "lt": "pagerinti veiklos procesus",
+            "hr": "unaprijediti poslovne procese",
+            "lv": "biznesa procesu uzlabošana",
+            "fr": "améliorer les processus d’entreprise",
+            "hu": "üzleti folyamatokat javítja",
+            "sk": "zlepšiť podnikové postupy",
+            "sl": "izboljševati poslovne procese",
+            "ga": "próisis ghnó a fheabhsú",
+            "sv": "förbättra affärsprocesser",
+            "el": "βελτίωση των επιχειρησιακών διαδικασιών",
+            "mt": "titjib tal-proċessi tan-negozju",
+            "en": "improve business processes",
+            "is": "bætir viðskiptaferla",
+            "it": "migliorare i processi aziendali",
+            "es": "mejorar procesos empresariales",
+            "et": "äriprotsesse parandama",
+            "cs": "zlepšovat obchodní procesy",
+            "ar": "تطوير العمليات التجارية",
+            "pl": "usprawniać procesy biznesowe",
+            "da": "forbedre forretningsgange",
+            "ro": "îmbunătățește procesele de afaceri",
+            "nl": "bedrijfsprocessen verbeteren"
+          },
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/skill"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/cross-sector"
+          ],
+          "broaderSkill": [
+            "http://data.europa.eu/esco/skill/940a70fa-7c58-423b-8d03-34920b59f0f7"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/skill/S4.1.3"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/75b30aeb-34c0-40f4-b77d-271d75a98b14&language=en",
+              "uri": "http://data.europa.eu/esco/skill/75b30aeb-34c0-40f4-b77d-271d75a98b14",
+              "title": "improve business processes"
+            }
+          }
+        },
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/ee3c1d54-f46a-43c7-a0f9-0ba3648164d0",
+          "searchHit": "Analyse the business structure and provide a logical organisation of business processes and information infrastructure. Apply principles and practices which help organisations to realise their strategies, respond to disruptions and achieve their goals.",
+          "title": "design enterprise architecture",
+          "preferredLabel": {
+            "de": "Unternehmensarchitektur konzipieren",
+            "no": "utforme virksomhetsarkitektur",
+            "fi": "suunnitella yrityksen arkkitehtuuri",
+            "en-us": "design enterprise architecture",
+            "pt": "conceber arquitetura de empresas",
+            "bg": "проектиране на бизнес архитектура",
+            "lt": "kurti įmonės veiklos architektūrą",
+            "hr": "osmisliti arhitekturu poduzeća",
+            "lv": "uzņēmuma arhitektūras izveide",
+            "fr": "créer une architecture d’entreprise",
+            "hu": "vállalati architektúrát megtervezi",
+            "sk": "navrhnúť podnikovú architektúru",
+            "sl": "oblikovati arhitekturo podjetij",
+            "ga": "ailtireacht fiontair a dhearadh",
+            "sv": "utforma företagsarkitektur",
+            "el": "σχεδιασμός επιχειρησιακής αρχιτεκτονικής",
+            "mt": "tiddisinja l-arkitettura tal-intrapriża",
+            "en": "design enterprise architecture",
+            "is": "hanna skipulag fyrir fyrirtæki",
+            "it": "progettare l’architettura aziendale",
+            "es": "diseñar arquitectura de empresa",
+            "et": "ettevõttearhitektuuri kujundama",
+            "cs": "navrhovat podnikovou architekturu",
+            "ar": "تصميم بنية الشركات",
+            "pl": "projektować architekturę korporacyjną",
+            "da": "designe virksomhedsarkitektur",
+            "ro": "proiectează arhitectura de întreprindere",
+            "nl": "enterprisearchitectuur ontwerpen"
+          },
+          "isTopConceptInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/skill"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/sector-specific"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/skill/S1.11.1"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/ee3c1d54-f46a-43c7-a0f9-0ba3648164d0&language=en",
+              "uri": "http://data.europa.eu/esco/skill/ee3c1d54-f46a-43c7-a0f9-0ba3648164d0",
+              "title": "design enterprise architecture"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

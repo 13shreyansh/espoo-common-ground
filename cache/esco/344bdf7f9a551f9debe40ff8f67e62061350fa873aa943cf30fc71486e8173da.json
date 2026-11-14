@@ -1,0 +1,208 @@
+{
+  "url": "https://ec.europa.eu/esco/api/search?type=skill&language=en&limit=3&text=computer%20programming",
+  "at": "2026-11-14T22:51:21.984Z",
+  "response": {
+    "total": 508,
+    "offset": 0,
+    "limit": 3,
+    "text": "computer programming",
+    "language": "en",
+    "type": [
+      "skill"
+    ],
+    "isInScheme": null,
+    "facet": null,
+    "_links": {
+      "self": {
+        "href": "https://ec.europa.eu/esco/api/search?text=computer%20programming&type=skill&limit=3&offset=0&full=false&viewObsolete=false&language=en"
+      },
+      "next": {
+        "href": "https://ec.europa.eu/esco/api/search?text=computer%20programming&type=skill&limit=3&offset=1&full=false&viewObsolete=false&language=en"
+      }
+    },
+    "_embedded": {
+      "results": [
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/42ed3bfb-1a01-4c8b-9758-fc6438865734",
+          "searchHit": "Smalltalk (computer programming)",
+          "title": "Smalltalk (computer programming)",
+          "preferredLabel": {
+            "de": "Smalltalk (Computerprogrammierung)",
+            "no": "Smalltalk (dataprogrammering)",
+            "fi": "Smalltalk (tietokoneohjelmointi)",
+            "en-us": "Smalltalk",
+            "pt": "Smalltalk (programação informática)",
+            "bg": "Smalltalk (компютърно програмиране)",
+            "lt": "Smalltalk (kompiuterinis programavimas)",
+            "hr": "Smalltalk (računalno programiranje)",
+            "lv": "Smalltalk (datorprogrammēšana)",
+            "fr": "Smalltalk (programmation informatique)",
+            "hu": "Smalltalk (számítógépes programozás)",
+            "sk": "Smalltalk (počítačové programovanie)",
+            "sl": "Smalltalk (računalniško programiranje)",
+            "ga": "Smalltalk (ríomhchlárú)",
+            "sv": "Smalltalk (datorprogrammering)",
+            "el": "Smalltalk (προγραμματισμός ηλεκτρονικών υπολογιστών)",
+            "mt": "Smalltalk (programmar tal-kompjuter)",
+            "en": "Smalltalk (computer programming)",
+            "is": "Smalltalk (tölvuforritun)",
+            "it": "Smalltalk (programmazione informatica)",
+            "es": "Smalltalk (programación informática)",
+            "et": "Smalltalk (arvutiprogrammeerimine)",
+            "cs": "Smalltalk (počítačové programování)",
+            "ar": "برنامج Smalltalk",
+            "pl": "Smalltalk (programowanie komputerowe)",
+            "da": "Smalltalk (computerprogrammering)",
+            "ro": "Smalltalk (programare pe calculator)",
+            "nl": "Smalltalk (computerprogrammering)"
+          },
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/knowledge"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/sector-specific"
+          ],
+          "broaderSkill": [
+            "http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/isced-f/0613"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/42ed3bfb-1a01-4c8b-9758-fc6438865734&language=en",
+              "uri": "http://data.europa.eu/esco/skill/42ed3bfb-1a01-4c8b-9758-fc6438865734",
+              "title": "Smalltalk (computer programming)"
+            }
+          }
+        },
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/be80acfc-b6f2-4411-9b8d-b19d9cd2556a",
+          "searchHit": "Swift (computer programming)",
+          "title": "Swift (computer programming)",
+          "preferredLabel": {
+            "de": "Swift (Computerprogrammierung)",
+            "no": "Swift (dataprogrammering)",
+            "fi": "Swift (tietokoneohjelmointi)",
+            "en-us": "Swift",
+            "pt": "Swift (programação informática)",
+            "bg": "Swift (компютърно програмиране)",
+            "lt": "„Swift“ (kompiuterinis programavimas)",
+            "hr": "Swift (računalno programiranje)",
+            "lv": "Swift (datorprogrammēšana)",
+            "fr": "Swift (programmation informatique)",
+            "hu": "Swift (számítógépes programozás)",
+            "sk": "Swift (počítačové programovanie)",
+            "sl": "Swift (računalniško programiranje)",
+            "ga": "Swift (ríomhchlárú)",
+            "sv": "Swift (datorprogrammering)",
+            "el": "Swift (προγραμματισμός ηλεκτρονικών υπολογιστών)",
+            "mt": "Swift (programmar tal-kompjuter)",
+            "en": "Swift (computer programming)",
+            "is": "Swift (tölvuforritun)",
+            "it": "Swift (programmazione informatica)",
+            "es": "Swift (programación informática)",
+            "et": "Swift (arvutiprogrammeerimine)",
+            "cs": "Swift (počítačové programování)",
+            "ar": "سويفت",
+            "pl": "Swift (programowanie komputerowe)",
+            "da": "Swift (computerprogrammering)",
+            "ro": "Swift (programare pe calculator)",
+            "nl": "Swift (computerprogrammering)"
+          },
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/knowledge"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/sector-specific"
+          ],
+          "broaderSkill": [
+            "http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/isced-f/0613"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/be80acfc-b6f2-4411-9b8d-b19d9cd2556a&language=en",
+              "uri": "http://data.europa.eu/esco/skill/be80acfc-b6f2-4411-9b8d-b19d9cd2556a",
+              "title": "Swift (computer programming)"
+            }
+          }
+        },
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/2bde42ae-e776-41c1-9ded-b07b30bfe985",
+          "searchHit": "Prolog (computer programming)",
+          "title": "Prolog (computer programming)",
+          "preferredLabel": {
+            "de": "Prolog (Computerprogrammierung)",
+            "no": "Prolog (dataprogrammering)",
+            "fi": "Prolog (tietokoneohjelmointi)",
+            "en-us": "Prolog",
+            "pt": "Prolog (programação informática)",
+            "bg": "Prolog (компютърно програмиране)",
+            "lt": "Prolog (kompiuterinis programavimas)",
+            "hr": "Prolog (računalno programiranje)",
+            "lv": "Prolog (datorprogrammēšana)",
+            "fr": "Prolog (programmation informatique)",
+            "hu": "Prolog (számítógépes programozás)",
+            "sk": "Prolog (počítačové programovanie)",
+            "sl": "Prolog (računalniško programiranje)",
+            "ga": "Prolog (ríomhchlárú)",
+            "sv": "Prolog (datorprogrammering)",
+            "el": "Prolog (προγραμματισμός ηλεκτρονικών υπολογιστών)",
+            "mt": "Prolog (programmar tal-kompjuter)",
+            "en": "Prolog (computer programming)",
+            "is": "Prolog (tölvuforritun)",
+            "it": "Prolog (programmazione informatica)",
+            "es": "Prolog (programación informática)",
+            "et": "Prolog (arvutiprogrammeerimine)",
+            "cs": "Prolog (počítačové programování)",
+            "ar": "لغة برولوج البرمجية",
+            "pl": "Prolog (programowanie komputerowe)",
+            "da": "Prolog (computerprogrammering)",
+            "ro": "Prolog (programare pe calculator)",
+            "nl": "Prolog (computerprogrammering)"
+          },
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/knowledge"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/sector-specific"
+          ],
+          "broaderSkill": [
+            "http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/isced-f/0613"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/2bde42ae-e776-41c1-9ded-b07b30bfe985&language=en",
+              "uri": "http://data.europa.eu/esco/skill/2bde42ae-e776-41c1-9ded-b07b30bfe985",
+              "title": "Prolog (computer programming)"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,211 @@
+{
+  "url": "https://ec.europa.eu/esco/api/search?type=skill&language=en&limit=3&text=coordinate%20engineering%20teams",
+  "at": "2026-11-14T22:51:30.244Z",
+  "response": {
+    "total": 665,
+    "offset": 0,
+    "limit": 3,
+    "text": "coordinate engineering teams",
+    "language": "en",
+    "type": [
+      "skill"
+    ],
+    "isInScheme": null,
+    "facet": null,
+    "_links": {
+      "self": {
+        "href": "https://ec.europa.eu/esco/api/search?text=coordinate%20engineering%20teams&type=skill&limit=3&offset=0&full=false&viewObsolete=false&language=en"
+      },
+      "next": {
+        "href": "https://ec.europa.eu/esco/api/search?text=coordinate%20engineering%20teams&type=skill&limit=3&offset=1&full=false&viewObsolete=false&language=en"
+      }
+    },
+    "_embedded": {
+      "results": [
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/7af6e9e8-1e11-4c0b-b7c6-ac96bbbbc674",
+          "searchHit": "coordinate engineering teams",
+          "title": "coordinate engineering teams",
+          "preferredLabel": {
+            "de": "Technikerteams koordinieren",
+            "no": "koordinere teknisk team",
+            "fi": "koordinoida teknisiä tiimejä",
+            "en-us": "coordinate engineering teams",
+            "pt": "coordenar equipas de engenharia",
+            "bg": "координиране на инженерни екипи",
+            "lt": "koordinuoti inžinierių grupių darbą",
+            "hr": "koordinirati inženjerske timove",
+            "lv": "koordinēt inženieru kolektīva darbu",
+            "fr": "coordonner des équipes d’ingénieurs",
+            "hu": "mérnökcsapatokat irányít",
+            "sk": "koordinovať inžinierske tímy",
+            "sl": "voditi inženirske skupine",
+            "ga": "foirne innealtóireachta a chomhordú",
+            "sv": "samordna ingenjörsgrupper",
+            "el": "συντονισμός ομάδων μηχανικών",
+            "mt": "koordinazzjoni tat-timijiet tal-inġinerija",
+            "en": "coordinate engineering teams",
+            "is": "samræmir verkfræðiteymi",
+            "it": "coordinare gruppi tecnici",
+            "es": "coordinar equipos de ingeniería",
+            "et": "insenerirühmi koordineerima",
+            "cs": "koordinovat inženýrské týmy",
+            "ar": "تنسيق الفرق الهندسية",
+            "pl": "koordynować prace zespołów inżynierskich",
+            "da": "koordinere teknikerteam",
+            "ro": "coordonează echipele tehnice",
+            "nl": "technische teams coördineren"
+          },
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/skill"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/cross-sector"
+          ],
+          "broaderSkill": [
+            "http://data.europa.eu/esco/skill/60c78287-22eb-4103-9c8c-28deaa460da0",
+            "http://data.europa.eu/esco/skill/cb668e89-6ef5-4ff3-ab4a-506010e7e70b",
+            "http://data.europa.eu/esco/skill/1f1d2ff8-c4c1-45cc-9812-6a7ee84a73cb",
+            "http://data.europa.eu/esco/skill/75d8e5d9-bef3-418b-9011-01bff9f27207"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/skill/S4.2.1"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/7af6e9e8-1e11-4c0b-b7c6-ac96bbbbc674&language=en",
+              "uri": "http://data.europa.eu/esco/skill/7af6e9e8-1e11-4c0b-b7c6-ac96bbbbc674",
+              "title": "coordinate engineering teams"
+            }
+          }
+        },
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/f64fe2c2-d090-4e91-ba74-1355d96b9bca",
+          "searchHit": "coordinate technical teams in artistic productions",
+          "title": "coordinate technical teams in artistic productions",
+          "preferredLabel": {
+            "de": "technische Teams für künstlerische Produktionen koordinieren",
+            "no": "koordinere tekniske team i kunstneriske produksjoner",
+            "fi": "koordinoida teknisiä työryhmiä taiteellisissa projekteissa",
+            "en-us": "coordinate technical teams in artistic productions",
+            "pt": "coordenar as equipas técnicas das produções artísticas",
+            "bg": "координиране на технически екипи в артистични продукции",
+            "lt": "koordinuoti meninės produkcijos techninių specialistų grupių darbą",
+            "hr": "koordinirati tehničke timove u umjetničkim produkcijama",
+            "lv": "koordinēt tehniskos kolektīvus mākslas projektos",
+            "fr": "coordonner les équipes techniques dans des productions artistiques",
+            "hu": "koordinálja a műszaki csapatot a művészeti produkciók során",
+            "sk": "koordinovať technické tímy pri umeleckých produkciách",
+            "sl": "koordinirati tehnične ekipe v umetniških produkcijah",
+            "ga": "Foirne teicniúla i léiriúcháin ealaíne a chomhordú",
+            "sv": "samordna tekniska arbetsgrupper i konstnärliga produktioner",
+            "el": "συντονισμός των τεχνικών ομάδων των καλλιτεχνικών παραγωγών",
+            "mt": "koordinazzjoni tat-timijiet tekniċi fil-produzzjonijiet artistiċi",
+            "en": "coordinate technical teams in artistic productions",
+            "is": "samstillir tækniteymi í listrænum framleiðslum",
+            "it": "coordinare i gruppi tecnici nelle produzioni artistiche",
+            "es": "coordinar equipos técnicos en producciones artísticas",
+            "et": "lavastamisel tehnilisi rühmi koordineerima",
+            "cs": "koordinovat technické týmy v oblasti uměleckých produkcí",
+            "ar": "تنسيق الفرق الفنية في الإنتاج الفني",
+            "pl": "koordynować działania zespołów technicznych w ramach produkcji artystycznych",
+            "da": "koordinere tekniske team i kunstneriske produktioner",
+            "ro": "coordonează echipele tehnice în cadrul producțiilor artistice",
+            "nl": "technische teams in artistieke producties coördineren"
+          },
+          "isTopConceptInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/skill"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/sector-specific"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/skill/S4.8.1"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/f64fe2c2-d090-4e91-ba74-1355d96b9bca&language=en",
+              "uri": "http://data.europa.eu/esco/skill/f64fe2c2-d090-4e91-ba74-1355d96b9bca",
+              "title": "coordinate technical teams in artistic productions"
+            }
+          }
+        },
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/6a899482-8bcf-40ca-ae67-579a1cc467ab",
+          "searchHit": "coordinate engineering project",
+          "title": "manage engineering project",
+          "preferredLabel": {
+            "de": "Bauprojekte leiten",
+            "no": "administrere teknisk prosjekt",
+            "fi": "huolehtia teknisestä projektikokonaisuudesta",
+            "en-us": "manage engineering project",
+            "pt": "gerir projetos de engenharia",
+            "bg": "ръководене на инженерен проект",
+            "lt": "valdyti inžinerijos projektus",
+            "hr": "voditi inženjerski projekt",
+            "lv": "vadīt inženiertehnisku projektu",
+            "fr": "gérer un projet d'ingénierie",
+            "hu": "műszaki projektet irányít",
+            "sk": "riadiť inžiniersky projekt",
+            "sl": "voditi inženirski projekt",
+            "ga": "tionscadal innealtóireachta a bhainistiú",
+            "sv": "leda ingenjörsprojekt",
+            "el": "διαχείριση τεχνικού έργου",
+            "mt": "immaniġġjar tal-proġetti tal-inġinerija",
+            "en": "manage engineering project",
+            "is": "skipuleggur verkfræðilegt verkefni",
+            "it": "gestire un progetto di ingegneria",
+            "es": "gestionar proyectos de ingeniería",
+            "et": "inseneriprojekti juhtima",
+            "cs": "řídit inženýrský projekt",
+            "ar": "إدارة المشاريع الهندسية",
+            "pl": "zarządzać projektem inżynieryjnym",
+            "da": "administrere anlægsprojekter",
+            "ro": "gestionează proiecte de inginerie",
+            "nl": "technische projecten beheren"
+          },
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/skill"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/cross-sector"
+          ],
+          "broaderSkill": [
+            "http://data.europa.eu/esco/skill/cd5efa8c-e44d-4cbc-91c6-796018dbed68"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/skill/S4.2.1"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/6a899482-8bcf-40ca-ae67-579a1cc467ab&language=en",
+              "uri": "http://data.europa.eu/esco/skill/6a899482-8bcf-40ca-ae67-579a1cc467ab",
+              "title": "manage engineering project"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

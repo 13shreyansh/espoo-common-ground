@@ -1,0 +1,382 @@
+{
+  "url": "https://ec.europa.eu/esco/api/resource/skill?language=en&uri=http%3A%2F%2Fdata.europa.eu%2Fesco%2Fskill%2F1973c966-f236-40c9-b2d4-5d71a89019be",
+  "at": "2026-11-14T22:51:13.880Z",
+  "response": {
+    "className": "Skill",
+    "classId": "http://data.europa.eu/esco/model#Skill",
+    "uri": "http://data.europa.eu/esco/skill/1973c966-f236-40c9-b2d4-5d71a89019be",
+    "title": "use spreadsheets software",
+    "referenceLanguage": [
+      "en"
+    ],
+    "preferredLabel": {
+      "de": "Tabellenkalkulationsprogramme verwenden",
+      "no": "bruke regnearkprogramvare",
+      "en-us": "use spreadsheets software",
+      "fi": "käyttää taulukkolaskentaohjelmistoja",
+      "pt": "utilizar software de folha de cálculo",
+      "bg": "използване на софтуер за електронни таблици",
+      "lt": "naudotis skaičiuoklių programine įranga",
+      "hr": "upotrebljavati softver za tablice",
+      "lv": "lietot izklājlapu programmatūru",
+      "fr": "utiliser un logiciel de tableur",
+      "hu": "táblázatkezelő programot használ",
+      "sk": "používať tabuľkové procesory",
+      "sl": "uporabljati programsko opremo za preglednice",
+      "ga": "bogearraí scarbhileog a úsáid",
+      "sv": "använda kalkylark",
+      "el": "χρήση λογισμικού λογιστικών φύλλων",
+      "mt": "użu tas-softwer tal-ispreadsheets",
+      "en": "use spreadsheets software",
+      "is": "notar töflureiknisforrit",
+      "it": "utilizzare software per fogli elettronici",
+      "es": "utilizar software de hojas de cálculo",
+      "et": "arvutustabelitarkvara kasutama",
+      "cs": "používat tabulkový procesor",
+      "ar": "استخدام برمجيات الجداول الحسابية",
+      "pl": "posługiwać się oprogramowaniem do korzystania z arkuszy kalkulacyjnych",
+      "ro": "utilizează programe software pentru foi de calcul",
+      "da": "bruge regnearkssoftware",
+      "nl": "software voor spreadsheets gebruiken"
+    },
+    "alternativeLabel": {
+      "de": [
+        "Tabellenkalkulationssoftware verwenden"
+      ],
+      "en": [
+        "design spreadsheets",
+        "use spreadsheets program"
+      ],
+      "hr": [
+        "upotrebljavati računalni program za tablice"
+      ],
+      "ro": [
+        "creează foi de calcul"
+      ]
+    },
+    "description": {
+      "de": {
+        "literal": "Softwarewerkzeuge zur Erstellung und Bearbeitung von Daten in Tabellenform verwenden, um mathematische Berechnungen durchzuführen, Daten und Informationen zu organisieren, Diagramme anhand von Daten zu erstellen und Daten abzurufen.",
+        "mimetype": "plain/text"
+      },
+      "no": {
+        "literal": "Bruke programvareverktøy til å opprette og redigere tabelldata for å gjennomføre matematiske beregninger, organisere data og informasjon, opprette diagrammer basert på data og hente dem ut.",
+        "mimetype": "plain/text"
+      },
+      "fi": {
+        "literal": "Taulukkotietojen luominen ja muokkaaminen ohjelmistojen avulla matemaattisten laskelmien tekemistä varten, tietojen järjestelemiseksi sekä tietoihin perustuvien kuvaajien luomiseksi ja hakemiseksi.",
+        "mimetype": "plain/text"
+      },
+      "en-us": {
+        "literal": "Use software tools to create and edit tabular data to carry out mathematical calculations, organize data and information, create diagrams based on data and to retrieve them.",
+        "mimetype": "plain/text"
+      },
+      "pt": {
+        "literal": "Utilizar ferramentas de software para criar e editar dados tabulares para efetuar cálculos matemáticos, organizar dados e informações, criar diagramas baseados em dados e obter esses mesmos dados.",
+        "mimetype": "plain/text"
+      },
+      "bg": {
+        "literal": "Използва софтуерни инструменти за създаване и редактиране на таблични данни с цел извършване на математически изчисления, организиране на данни и информация, създаване на диаграми въз основа на данни и извличане на информация.",
+        "mimetype": "plain/text"
+      },
+      "lt": {
+        "literal": "Naudoti programinę įrangą lentelių duomenims kurti ir redaguoti, kad būtų galima atlikti matematinius skaičiavimus, tvarkyti duomenis ir informaciją, kurti duomenimis grindžiamas diagramas ir parsisiųsti duomenis.",
+        "mimetype": "plain/text"
+      },
+      "lv": {
+        "literal": "Izmantot programmatūras rīkus, lai izveidotu un rediģētu tabuldatus, veiktu matemātiskus aprēķinus, organizētu datus un informāciju, veidotu diagrammas, pamatojoties uz datiem, un izgūtu tos.",
+        "mimetype": "plain/text"
+      },
+      "hr": {
+        "literal": "Upotrebljavati softverske alate za stvaranje i uređivanje tabličnih podataka za provedbu matematičkih izračuna, organizaciju podataka i informacija, izradu dijagrama na temelju podataka i njihovo dohvaćanje.",
+        "mimetype": "plain/text"
+      },
+      "fr": {
+        "literal": "Utiliser des outils logiciels pour créer et modifier des données tabulaires pour effectuer des calculs mathématiques, organiser des données et des informations, créer des diagrammes basés sur les données et les récupérer.",
+        "mimetype": "plain/text"
+      },
+      "hu": {
+        "literal": "Szoftvereszközök használata matematikai számítások elvégzése, adatok rendezése, diagramok létrehozása, és azok visszakeresése céljából szükséges táblázatos adatok létrehozására és szerkesztésére.",
+        "mimetype": "plain/text"
+      },
+      "sk": {
+        "literal": "Používať softvérové nástroje na tvorbu a úpravu tabuľkových údajov s cieľom vykonávať matematické výpočty, usporadúvať údaje a informácie, vytvárať diagramy na základe údajov a vyhľadávať ich.",
+        "mimetype": "plain/text"
+      },
+      "sl": {
+        "literal": "Uporabljati programska orodja za ustvarjanje in urejanje tabel s podatki za izvedbo matematičnih izračunov, organizacijo podatkov in informacij, oblikovanje diagramov na podlagi podatkov in njihovo pridobitev.",
+        "mimetype": "plain/text"
+      },
+      "ga": {
+        "literal": "Uirlisí bogearraí a úsáid chun sonraí i bhfoirm tábla a chruthú agus a chur in eagar chun ríomhanna matamaiticiúla a dhéanamh, chun sonraí agus faisnéis a eagrú, chun léaráidí a chruthú bunaithe ar shonraí agus chun iad a aisghabháil.",
+        "mimetype": "plain/text"
+      },
+      "sv": {
+        "literal": "Använda programvaruverktyg för att skapa och redigera tabelldata för matematiska beräkningar, organisera data och information, skapa diagram baserade på data och samla in data.",
+        "mimetype": "plain/text"
+      },
+      "el": {
+        "literal": "Χρήση εργαλείων λογισμικού για τη δημιουργία και την επεξεργασία δεδομένων με μορφή πίνακα για τη διενέργεια μαθηματικών υπολογισμών, την οργάνωση δεδομένων και πληροφοριών, τη δημιουργία διαγραμμάτων βάσει δεδομένων και την ανάκτησή τους.",
+        "mimetype": "plain/text"
+      },
+      "mt": {
+        "literal": "L-użu ta’ għodod ta’ softwer biex tinħoloq u tiġi editjata data tabulari biex jitwettqu kalkoli matematiċi, jiġu organizzati data u informazzjoni, jinħolqu dijagrammi bbażati fuq data u biex jiġu rkuprati.",
+        "mimetype": "plain/text"
+      },
+      "en": {
+        "literal": "Use software tools to create and edit tabular data to carry out mathematical calculations, organise data and information, create diagrams based on data and to retrieve them.",
+        "mimetype": "plain/text"
+      },
+      "is": {
+        "literal": "Notar hugbúnaðarverkfæri til að búa til og breyta töflugögnum til að framkvæma stærðfræðilega útreikninga, skipuleggja gögn og upplýsingar, búa til skýringarmynd sem byggist á gögnum og sækja þau.",
+        "mimetype": "plain/text"
+      },
+      "it": {
+        "literal": "Utilizzare strumenti software per creare e modificare dati tabellari al fine di effettuare calcoli matematici, organizzare dati e informazioni, creare diagrammi basati sui dati e recuperarli.",
+        "mimetype": "plain/text"
+      },
+      "es": {
+        "literal": "Utilizar herramientas de software para crear y editar datos tabulares para realizar cálculos matemáticos, organizar datos e información, crear diagramas basados en datos y recuperarlos.",
+        "mimetype": "plain/text"
+      },
+      "et": {
+        "literal": "Tarkvaravahendite kasutamine matemaatiliste arvutuste tegemiseks vajalike tabelandmete loomiseks ja muutmiseks, andmete ja teabe korraldamiseks, andmete põhjal graafikute koostamiseks ja nende väljaotsimiseks.",
+        "mimetype": "plain/text"
+      },
+      "cs": {
+        "literal": "Používat softwarové nástroje k vytváření a úpravě tabulek, které umožní provádět matematické výpočty, organizovat údaje a informace, vytvářet diagramy založené na datech a jejich opětovné vyhledávání.",
+        "mimetype": "plain/text"
+      },
+      "ar": {
+        "literal": "استخدام أدوات البرمجيات لإعداد البيانات على شكل جدول وتحريرها من أجل إجراء العمليات الحسابية وتنظيم البيانات والمعلومات وإعداد المخططات المستندة إلى البيانات ومن أجل استعادتها.",
+        "mimetype": "plain/text"
+      },
+      "pl": {
+        "literal": "Wykorzystać narzędzia informatyczne do tworzenia i edytowania danych tabelarycznych w celu dokonywania obliczeń matematycznych, organizowania danych i informacji, tworzenia wykresów w oparciu o dane i ich wyszukiwania.",
+        "mimetype": "plain/text"
+      },
+      "ro": {
+        "literal": "Utilizează instrumente software pentru crearea și editarea datelor tabelare pentru a efectua calcule matematice, pentru a organiza date și informații, pentru a crea diagrame bazate pe date și pentru a le prelua.",
+        "mimetype": "plain/text"
+      },
+      "da": {
+        "literal": "Anvende softwareværktøjer til at generere og redigere data i tabelform med henblik på at foretage matematiske beregninger, tilrettelægge data og oplysninger, udarbejde diagrammer baseret på data og hente data.",
+        "mimetype": "plain/text"
+      },
+      "nl": {
+        "literal": "Softwaretools gebruiken om tabelgegevens te maken en te bewerken om wiskundige berekeningen uit te voeren, gegevens en informatie te organiseren, diagrammen op basis van gegevens te maken en op te halen.",
+        "mimetype": "plain/text"
+      }
+    },
+    "status": "released",
+    "_links": {
+      "self": {
+        "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/1973c966-f236-40c9-b2d4-5d71a89019be&language=en",
+        "uri": "http://data.europa.eu/esco/skill/1973c966-f236-40c9-b2d4-5d71a89019be",
+        "title": "use spreadsheets software"
+      },
+      "isInScheme": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/taxonomy?uri=http://data.europa.eu/esco/concept-scheme/member-skills&language=en",
+          "uri": "http://data.europa.eu/esco/concept-scheme/member-skills",
+          "title": "ESCO member skills"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/taxonomy?uri=http://data.europa.eu/esco/concept-scheme/skills&language=en",
+          "uri": "http://data.europa.eu/esco/concept-scheme/skills",
+          "title": "ESCO skills"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/taxonomy?uri=http://data.europa.eu/esco/concept-scheme/skill-transversal-groups&language=en",
+          "uri": "http://data.europa.eu/esco/concept-scheme/skill-transversal-groups",
+          "title": "ESCO transversal skill groups"
+        }
+      ],
+      "hasSkillType": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/concept?uri=http://data.europa.eu/esco/skill-type/skill&language=en",
+          "uri": "http://data.europa.eu/esco/skill-type/skill",
+          "title": "skill"
+        }
+      ],
+      "hasReuseLevel": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/concept?uri=http://data.europa.eu/esco/skill-reuse-level/transversal&language=en",
+          "uri": "http://data.europa.eu/esco/skill-reuse-level/transversal",
+          "title": "transversal skills and competences",
+          "code": "Level 1"
+        }
+      ],
+      "broaderHierarchyConcept": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/concept?uri=http://data.europa.eu/esco/skill/S5.5.2&language=en",
+          "uri": "http://data.europa.eu/esco/skill/S5.5.2",
+          "title": "managing and analysing digital data",
+          "code": "S5.5.2"
+        }
+      ],
+      "broaderSkill": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/5fd5c985-eaaa-47aa-8314-62359c54505a&language=en",
+          "uri": "http://data.europa.eu/esco/skill/5fd5c985-eaaa-47aa-8314-62359c54505a",
+          "title": "develop digital content",
+          "skillType": "http://data.europa.eu/esco/skill-type/skill"
+        }
+      ],
+      "narrowerSkill": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/1225b032-7ead-464c-9072-64097d9a4b62&language=en",
+          "uri": "http://data.europa.eu/esco/skill/1225b032-7ead-464c-9072-64097d9a4b62",
+          "title": "use spreadsheets",
+          "skillType": "http://data.europa.eu/esco/skill-type/skill"
+        }
+      ]
+    },
+    "_embedded": {
+      "ancestors": [
+        {
+          "title": "use spreadsheets software",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/1973c966-f236-40c9-b2d4-5d71a89019be&language=en",
+              "uri": "http://data.europa.eu/esco/skill/1973c966-f236-40c9-b2d4-5d71a89019be"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/5fd5c985-eaaa-47aa-8314-62359c54505a",
+            "http://data.europa.eu/esco/skill/S5.5.2"
+          ]
+        },
+        {
+          "title": "develop digital content",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/5fd5c985-eaaa-47aa-8314-62359c54505a&language=en",
+              "uri": "http://data.europa.eu/esco/skill/5fd5c985-eaaa-47aa-8314-62359c54505a"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/f5369f2f-e52b-43d8-8d31-79a6c11188d8",
+            "http://data.europa.eu/esco/skill/S5.6.1"
+          ]
+        },
+        {
+          "title": "digital content creation",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/f5369f2f-e52b-43d8-8d31-79a6c11188d8&language=en",
+              "uri": "http://data.europa.eu/esco/skill/f5369f2f-e52b-43d8-8d31-79a6c11188d8"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/aeecc330-0be9-419f-bddb-5218de926004"
+          ]
+        },
+        {
+          "title": "digital competencies",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/aeecc330-0be9-419f-bddb-5218de926004&language=en",
+              "uri": "http://data.europa.eu/esco/skill/aeecc330-0be9-419f-bddb-5218de926004"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/4f663b30-1c49-4634-82e4-7e582b1551b7"
+          ]
+        },
+        {
+          "title": "application of knowledge",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/4f663b30-1c49-4634-82e4-7e582b1551b7&language=en",
+              "uri": "http://data.europa.eu/esco/skill/4f663b30-1c49-4634-82e4-7e582b1551b7"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/7ee746cb-fded-47f5-9652-19ebebbce51b"
+          ]
+        },
+        {
+          "title": "Transversal skills/competences",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/7ee746cb-fded-47f5-9652-19ebebbce51b&language=en",
+              "uri": "http://data.europa.eu/esco/skill/7ee746cb-fded-47f5-9652-19ebebbce51b"
+            }
+          },
+          "parents": []
+        },
+        {
+          "title": "using digital tools for collaboration and productivity",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S5.6.1&language=en",
+              "uri": "http://data.europa.eu/esco/skill/S5.6.1"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S5.6"
+          ]
+        },
+        {
+          "title": "using digital tools for collaboration, content creation and problem solving",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S5.6&language=en",
+              "uri": "http://data.europa.eu/esco/skill/S5.6"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S5"
+          ]
+        },
+        {
+          "title": "working with computers",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S5&language=en",
+              "uri": "http://data.europa.eu/esco/skill/S5"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S"
+          ]
+        },
+        {
+          "title": "skills",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S&language=en",
+              "uri": "http://data.europa.eu/esco/skill/S"
+            }
+          },
+          "parents": []
+        },
+        {
+          "title": "managing and analysing digital data",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S5.5.2&language=en",
+              "uri": "http://data.europa.eu/esco/skill/S5.5.2"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S5.5"
+          ]
+        },
+        {
+          "title": "accessing and analysing digital data",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S5.5&language=en",
+              "uri": "http://data.europa.eu/esco/skill/S5.5"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S5"
+          ]
+        }
+      ]
+    }
+  }
+}

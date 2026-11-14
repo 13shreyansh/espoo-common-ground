@@ -1,0 +1,214 @@
+{
+  "url": "https://ec.europa.eu/esco/api/search?type=skill&language=en&limit=3&text=manage%20data",
+  "at": "2026-11-14T22:51:23.016Z",
+  "response": {
+    "total": 1813,
+    "offset": 0,
+    "limit": 3,
+    "text": "manage data",
+    "language": "en",
+    "type": [
+      "skill"
+    ],
+    "isInScheme": null,
+    "facet": null,
+    "_links": {
+      "self": {
+        "href": "https://ec.europa.eu/esco/api/search?text=manage%20data&type=skill&limit=3&offset=0&full=false&viewObsolete=false&language=en"
+      },
+      "next": {
+        "href": "https://ec.europa.eu/esco/api/search?text=manage%20data&type=skill&limit=3&offset=1&full=false&viewObsolete=false&language=en"
+      }
+    },
+    "_embedded": {
+      "results": [
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/9ff9db9d-d14b-426e-83f3-e7449af6c79f",
+          "searchHit": "manage data",
+          "title": "manage data",
+          "preferredLabel": {
+            "de": "Daten verwalten",
+            "no": "administrere data",
+            "fi": "hallita tietoja",
+            "en-us": "manage data",
+            "pt": "gerir dados",
+            "bg": "управление на данни",
+            "lt": "valdyti duomenis",
+            "hr": "upravljati podatcima",
+            "lv": "pārvaldīt datus",
+            "fr": "gérer les données",
+            "hu": "adatokat kezel",
+            "sk": "riadiť údaje",
+            "sl": "upravljati podatke",
+            "ga": "sonraí a bhainistiú",
+            "sv": "hantera data",
+            "el": "διαχείριση δεδομένων",
+            "mt": "tiġġestixxi d-data",
+            "en": "manage data",
+            "is": "annast gögn",
+            "it": "gestire dati",
+            "es": "gestionar datos",
+            "et": "andmeid haldama",
+            "cs": "spravovat data",
+            "ar": "ادارة البيانات",
+            "pl": "zarządzać danymi",
+            "da": "administrere data",
+            "ro": "administrează datele",
+            "nl": "gegevens beheren"
+          },
+          "isTopConceptInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/skill"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/sector-specific"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/skill/S2.3.0"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/9ff9db9d-d14b-426e-83f3-e7449af6c79f&language=en",
+              "uri": "http://data.europa.eu/esco/skill/9ff9db9d-d14b-426e-83f3-e7449af6c79f",
+              "title": "manage data"
+            }
+          }
+        },
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/4d97e3c3-f335-47cc-a4ee-0d779fd42222",
+          "searchHit": "manage data, information and digital content",
+          "title": "manage data, information and digital content",
+          "preferredLabel": {
+            "de": "Daten, Informationen und digitale Inhalte verwalten",
+            "no": "administrere data, informasjon og digitalt innhold",
+            "fi": "hallinnoida dataa, tietoja ja digitaalista sisältöä",
+            "en-us": "manage data, information and digital content",
+            "pt": "gerir dados, informações e conteúdos digitais",
+            "bg": "управляване на данни, информация и цифрово съдържание",
+            "lt": "valdyti duomenis, informaciją ir skaitmeninį turinį",
+            "hr": "upravljati podacima, informacijama i digitalnim sadržajem",
+            "lv": "pārvaldīt datus, informāciju un digitālo saturu",
+            "fr": "gérer des données, des informations et des contenus numériques",
+            "hu": "adatokat, információkat és digitális tartalmakat kezel",
+            "sk": "spravovať údaje, informácie a digitálny obsah",
+            "sl": "upravljati podatke, informacije in digitalne vsebine",
+            "ga": "sonraí, faisnéis agus inneachar digiteach a bhainistiú",
+            "sv": "hantera data, information och digitalt innehåll",
+            "el": "διαχείριση δεδομένων, πληροφοριών και ψηφιακού περιεχομένου",
+            "mt": "ġestjoni tad-data, informazzjoni u kontenut diġitali",
+            "en": "manage data, information and digital content",
+            "is": "skipuleggur gögn, upplýsingar og stafrænt inntak",
+            "it": "gestire dati, informazioni e contenuti digitali",
+            "es": "gestionar datos, información y contenido digitales",
+            "et": "andmeid, teavet ja digitaalset sisu haldama",
+            "cs": "spravovat údaje, informace a digitální obsah",
+            "ar": "الإشراف على البيانات والمعلومات والمحتوى الرقمي",
+            "pl": "organizacja danych, informacji i treści cyfrowych",
+            "da": "forvalte data, oplysninger og digitalt indhold",
+            "ro": "gestionează date, informații și conținut digital",
+            "nl": "gegevens, informatie en digitale inhoud beheren"
+          },
+          "isTopConceptInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skill-ict-groups",
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills",
+            "http://data.europa.eu/esco/concept-scheme/skill-transversal-groups"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/skill"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/transversal"
+          ],
+          "broaderSkillGroup": [
+            "http://data.europa.eu/esco/skill/629685b8-5f9e-4522-8cff-b3e2c4ec625a"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/skill/S2.3.0"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/4d97e3c3-f335-47cc-a4ee-0d779fd42222&language=en",
+              "uri": "http://data.europa.eu/esco/skill/4d97e3c3-f335-47cc-a4ee-0d779fd42222",
+              "title": "manage data, information and digital content"
+            }
+          }
+        },
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/a89a94fb-c417-49b4-a9a9-9a22e0f12697",
+          "searchHit": "manage data for legal matters",
+          "title": "manage data for legal matters",
+          "preferredLabel": {
+            "de": "Daten für rechtliche Angelegenheiten verwalten",
+            "no": "administrere data for juridiske anliggender",
+            "fi": "hallita lakiasioihin liittyvää tietoa",
+            "en-us": "manage data for legal matters",
+            "pt": "gerir dados para efeitos jurídicos",
+            "bg": "управление на данни за правни въпроси",
+            "lt": "valdyti teisinių procesų duomenis",
+            "hr": "upravljati podatcima za pravne potrebe",
+            "lv": "pārvaldīt datus juridiskos nolūkos",
+            "fr": "gérer des données juridiques",
+            "hu": "jogi ügyekhez szükséges adatokat kezeli",
+            "sk": "spravovať údaje na právne účely",
+            "sl": "upravljati podatke v pravnih zadevah",
+            "ga": "sonraí a bhainistiú le haghaidh ábhair dhlíthiúla",
+            "sv": "hantera data för rättsliga frågor",
+            "el": "διαχείριση δεδομένων για νομικά θέματα",
+            "mt": "tiġġestixxi d-data għal kwistjonijiet legali",
+            "en": "manage data for legal matters",
+            "is": "annast gögn um lögfræðilega þætti",
+            "it": "gestire dati per questioni legali",
+            "es": "gestionar datos para asuntos jurídicos",
+            "et": "juriidilistes küsimustega seoses andmeid haldama",
+            "cs": "spravovat data pro právní záležitosti",
+            "ar": "ادارة البيانات المتعلقة بالشؤون القانونية",
+            "pl": "zarządzać danymi w kontekście procedur prawnych",
+            "da": "administrere data relateret til juridiske forhold",
+            "ro": "gestionează date pentru probleme legale",
+            "nl": "gegevens voor juridische zaken beheren"
+          },
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/skill"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/sector-specific"
+          ],
+          "broaderSkill": [
+            "http://data.europa.eu/esco/skill/4463a721-69f3-413d-8321-43e3af13a4f1",
+            "http://data.europa.eu/esco/skill/9ff9db9d-d14b-426e-83f3-e7449af6c79f"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/skill/S2.3.0"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/a89a94fb-c417-49b4-a9a9-9a22e0f12697&language=en",
+              "uri": "http://data.europa.eu/esco/skill/a89a94fb-c417-49b4-a9a9-9a22e0f12697",
+              "title": "manage data for legal matters"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

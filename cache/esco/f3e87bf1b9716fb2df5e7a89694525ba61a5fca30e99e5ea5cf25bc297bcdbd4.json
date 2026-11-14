@@ -1,0 +1,209 @@
+{
+  "url": "https://ec.europa.eu/esco/api/search?type=skill&language=en&limit=3&text=monitor%20system%20performance",
+  "at": "2026-11-14T22:51:22.570Z",
+  "response": {
+    "total": 3233,
+    "offset": 0,
+    "limit": 3,
+    "text": "monitor system performance",
+    "language": "en",
+    "type": [
+      "skill"
+    ],
+    "isInScheme": null,
+    "facet": null,
+    "_links": {
+      "self": {
+        "href": "https://ec.europa.eu/esco/api/search?text=monitor%20system%20performance&type=skill&limit=3&offset=0&full=false&viewObsolete=false&language=en"
+      },
+      "next": {
+        "href": "https://ec.europa.eu/esco/api/search?text=monitor%20system%20performance&type=skill&limit=3&offset=1&full=false&viewObsolete=false&language=en"
+      }
+    },
+    "_embedded": {
+      "results": [
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/9190d87f-9792-42e0-bb7f-64294a656bcd",
+          "searchHit": "monitor system performance",
+          "title": "monitor system performance",
+          "preferredLabel": {
+            "de": "Systemleistung überwachen",
+            "no": "overvåke systemytelse",
+            "fi": "valvoa järjestelmän suorituskykyä",
+            "en-us": "monitor system performance",
+            "pt": "monitorizar o desempenho dos sistemas",
+            "bg": "мониторинг на ефективността на системата",
+            "lt": "stebėti sistemų darbą",
+            "hr": "nadzirati djelotvornost sustava",
+            "lv": "kontrolēt sistēmas veiktspēju",
+            "fr": "contrôler la performance du système",
+            "hu": "rendszerteljesítményt ellenőrzi",
+            "sk": "sledovať výkonnosť systému",
+            "sl": "spremljati učinkovitost sistema",
+            "ga": "faireachán a dhéanamh ar fheidhmíocht córas",
+            "sv": "övervaka systemprestanda",
+            "el": "παρακολούθηση των επιδόσεων του συστήματος",
+            "mt": "twettaq monitoraġġ tal-prestazzjoni tas-sistema",
+            "en": "monitor system performance",
+            "is": "hafa eftirlit með kerfisafköstum",
+            "it": "monitorare le prestazioni di sistema",
+            "es": "controlar el rendimiento de un sistema",
+            "et": "süsteemi toimivust jälgima",
+            "cs": "monitorovat činnost systému",
+            "ar": "مراقبة أداء النظام ودقته",
+            "pl": "monitorować wydajność systemu",
+            "da": "overvåge systemets præstationer",
+            "ro": "monitorizează performanțele sistemului",
+            "nl": "systeemprestaties bewaken"
+          },
+          "isTopConceptInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/skill"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/sector-specific"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/skill/S2.8.1"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/9190d87f-9792-42e0-bb7f-64294a656bcd&language=en",
+              "uri": "http://data.europa.eu/esco/skill/9190d87f-9792-42e0-bb7f-64294a656bcd",
+              "title": "monitor system performance"
+            }
+          }
+        },
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/e08821b5-d6dd-4db9-a0f1-43185653c244",
+          "searchHit": "monitor communication channels' performance",
+          "title": "monitor communication channels' performance",
+          "preferredLabel": {
+            "de": "Leistungsfähigkeit von Kommunikationswegen überwachen",
+            "no": "overvåke ytelsen til kommunikasjonskanaler",
+            "fi": "valvoa viestintäkanavien suorituskykyä",
+            "en-us": "monitor communication channels' performance",
+            "pt": "monitorizar o desempenho dos canais de comunicação",
+            "bg": "наблюдение на ефективността на комуникационни канали",
+            "lt": "stebėti ryšių kanalų veiklą",
+            "hr": "nadzirati učinak komunikacijskih kanala",
+            "lv": "uzraudzīt komunikācijas kanālu veiktspēju",
+            "fr": "suivre la performance des canaux de communication",
+            "hu": "kommunikációs csatornák teljesítményét ellenőrzi",
+            "sk": "sledovať výkonnosť komunikačných kanálov",
+            "sl": "spremljati učinkovitost komunikacijskih kanalov",
+            "ga": "faireachán a dhéanamh ar fheidhmíocht cainéal cumarsáide",
+            "sv": "övervaka prestanda för kommunikationskanaler",
+            "el": "παρακολούθηση των επιδόσεων των διαύλων επικοινωνίας",
+            "mt": "twettaq monitoraġġ tal-prestazzjoni tal-kanali ta' komunikazzjoni",
+            "en": "monitor communication channels' performance",
+            "is": "fylgjast með afköstum samskiptarása",
+            "it": "monitorare le prestazioni dei canali di comunicazione",
+            "es": "controlar el rendimiento de los canales de comunicación",
+            "et": "sidekanalite kasutust jälgima",
+            "cs": "monitorovat činnost komunikačních kanálů",
+            "ar": "مراقبة أداء قنوات الاتصال",
+            "pl": "monitorować pracę kanałów komunikacyjnych",
+            "da": "overvåge kommunikationskanalers ydeevne",
+            "ro": "monitorizează performanța canalelor de comunicare",
+            "nl": "prestaties van communicatiekanalen bewaken"
+          },
+          "isTopConceptInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/skill"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/sector-specific"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/skill/S2.8.1"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/e08821b5-d6dd-4db9-a0f1-43185653c244&language=en",
+              "uri": "http://data.europa.eu/esco/skill/e08821b5-d6dd-4db9-a0f1-43185653c244",
+              "title": "monitor communication channels' performance"
+            }
+          }
+        },
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/4babe92a-68a1-4718-b1ab-640735c2cd53",
+          "searchHit": "Test electromechanical systems, machines, and components using appropriate equipment. Gather and analyse data. Monitor and evaluate system performance and take action if needed.",
+          "title": "test electromechanical systems",
+          "preferredLabel": {
+            "de": "elektromechanische Systeme testen",
+            "no": "teste elektromekaniske systemer",
+            "fi": "testata sähkömekaanisia järjestelmiä",
+            "en-us": "test electromechanical systems",
+            "pt": "testar sistemas eletromecânicos",
+            "bg": "изпитване на електромеханични системи",
+            "lt": "išbandyti elektromechanines sistemas",
+            "hr": "ispitivati elektromehaničke sustave",
+            "lv": "testēt elektromehāniskās sistēmas",
+            "fr": "tester des systèmes électromécaniques",
+            "hu": "elektromechanikai rendszereket tesztel",
+            "sk": "skúšať elektromechanické systémy",
+            "sl": "preskušati elektromehanske sisteme",
+            "ga": "córais leictrimeicniúla a thástáil",
+            "sv": "testa elektromekaniska system",
+            "el": "δοκιμή ηλεκτρομηχανικών συστημάτων",
+            "mt": "ittestjar tas-sistemi elettromekkaniċi",
+            "en": "test electromechanical systems",
+            "is": "prófar rafvélræn kerfi",
+            "it": "collaudare sistemi elettromeccanici",
+            "es": "probar sistemas electromecánicos",
+            "et": "elektromehaanilisi süsteeme katsetama",
+            "cs": "zkoušet elektromechanické systémy",
+            "ar": "إختبار الأنظمة الإلكتروميكانيكية",
+            "pl": "testować układy elektromechaniczne",
+            "da": "teste elektromekaniske systemer",
+            "ro": "testează sisteme electromecanice",
+            "nl": "elektromechanische systemen testen"
+          },
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/skill"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/sector-specific"
+          ],
+          "broaderSkill": [
+            "http://data.europa.eu/esco/skill/7dd94ad3-13d6-43fe-8b94-51fcbf67ced9",
+            "http://data.europa.eu/esco/skill/e0ded9a1-372d-46c8-80b5-ad994d606ef2"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/skill/S2.8.1"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/4babe92a-68a1-4718-b1ab-640735c2cd53&language=en",
+              "uri": "http://data.europa.eu/esco/skill/4babe92a-68a1-4718-b1ab-640735c2cd53",
+              "title": "test electromechanical systems"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

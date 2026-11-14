@@ -1,0 +1,208 @@
+{
+  "url": "https://ec.europa.eu/esco/api/search?type=skill&language=en&limit=3&text=quality%20assurance",
+  "at": "2026-11-14T22:51:24.595Z",
+  "response": {
+    "total": 556,
+    "offset": 0,
+    "limit": 3,
+    "text": "quality assurance",
+    "language": "en",
+    "type": [
+      "skill"
+    ],
+    "isInScheme": null,
+    "facet": null,
+    "_links": {
+      "self": {
+        "href": "https://ec.europa.eu/esco/api/search?text=quality%20assurance&type=skill&limit=3&offset=0&full=false&viewObsolete=false&language=en"
+      },
+      "next": {
+        "href": "https://ec.europa.eu/esco/api/search?text=quality%20assurance&type=skill&limit=3&offset=1&full=false&viewObsolete=false&language=en"
+      }
+    },
+    "_embedded": {
+      "results": [
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/b535516b-9f8a-4c29-b6aa-a0a4561e1086",
+          "searchHit": "call quality assurance management",
+          "title": "call quality assurance management",
+          "preferredLabel": {
+            "de": "Anrufqualitätssicherung",
+            "no": "administrering av samtalekvalitetssikring",
+            "fi": "puhelujen laadunvarmistuksen hallinta",
+            "en-us": "call quality assurance management",
+            "pt": "gestão da garantia de qualidade de chamadas",
+            "bg": "управление на осигуряване на качеството на повикванията",
+            "lt": "skambučių kokybės užtikrinimo valdymas",
+            "hr": "upravljanje osiguranjem kvalitete poziva",
+            "lv": "apkalpošanas pa tālruni kvalitātes nodrošināšanas pārvaldība",
+            "fr": "gestion de l'assurance de la qualité des appels",
+            "hu": "hívás‑minőségbiztosítás irányítása",
+            "sk": "manažment zabezpečenia kvality hovorov",
+            "sl": "upravljanje zagotavljanja kakovosti v zvezi s klici",
+            "ga": "bainistíocht dearbhú cáilíochta glaonna",
+            "sv": "säkrande av samtalskvalitet",
+            "el": "διαχείριση διασφάλισης ποιότητας κλήσεων",
+            "mt": "immaniġġjar tal-garanzija tal-kwalità tat-telefonati",
+            "en": "call quality assurance management",
+            "is": "gæðatryggingastjórnun símtala",
+            "it": "gestione della garanzia della qualità delle chiamate",
+            "es": "gestión de la garantía de calidad de las llamadas",
+            "et": "kõnekvaliteedi tagamise korraldus",
+            "cs": "řízení kontroly kvality hovorů",
+            "ar": "إدارة ضمان جودة المكالمات",
+            "pl": "zarządzanie służące zapewnieniu jakości rozmów telefonicznych",
+            "da": "ledelse af opkaldskvalitetssikring",
+            "ro": "management de asigurare a calității apelurilor telefonice",
+            "nl": "kwaliteitsborging van oproepen"
+          },
+          "isTopConceptInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/knowledge"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/cross-sector"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/isced-f/0417"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/b535516b-9f8a-4c29-b6aa-a0a4561e1086&language=en",
+              "uri": "http://data.europa.eu/esco/skill/b535516b-9f8a-4c29-b6aa-a0a4561e1086",
+              "title": "call quality assurance management"
+            }
+          }
+        },
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/c7cc6dc5-d56b-4323-8e5c-47c4022f615f",
+          "searchHit": "quality assurance methodologies",
+          "title": "quality assurance methodologies",
+          "preferredLabel": {
+            "de": "Verfahren der Qualitätssicherung",
+            "no": "kvalitetssikringsmetoder",
+            "fi": "laadunvarmistuksen menetelmät",
+            "en-us": "quality assurance methodologies",
+            "pt": "metodologias de garantia de qualidade",
+            "bg": "методики за осигуряване на качеството",
+            "lt": "kokybės užtikrinimo metodika",
+            "hr": "načini osiguranja kvalitete",
+            "lv": "kvalitātes nodrošināšanas metodes",
+            "fr": "méthodes d’assurance qualité",
+            "hu": "minőségbiztosítási módszerek",
+            "sk": "metodiky zabezpečenia kvality",
+            "sl": "metodologije zagotavljanja kakovosti",
+            "ga": "modheolaíochtaí dearbhaithe cáilíochta",
+            "sv": "kvalitetssäkringsmetoder",
+            "el": "μεθοδολογίες για τη διασφάλιση της ποιότητας",
+            "mt": "metodoloġiji tal-garanzija tal-kwalità",
+            "en": "quality assurance methodologies",
+            "is": "aðferðafræði við gæðatryggingu",
+            "it": "metodologie di assicurazione della qualità",
+            "es": "métodos de garantía de la calidad",
+            "et": "kvaliteeditagamismeetodid",
+            "cs": "metodiky zajištění kvality",
+            "ar": "منهجيات ضمان الجودة",
+            "pl": "metody zapewniania jakości",
+            "da": "kvalitetssikringsmetoder",
+            "ro": "metodologii de asigurare a calității",
+            "nl": "methoden voor kwaliteitsgarantie"
+          },
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/knowledge"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/cross-sector"
+          ],
+          "broaderSkill": [
+            "http://data.europa.eu/esco/skill/35ebe444-9ece-4fbc-a55d-e99ea37267ae"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/isced-f/0417"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/c7cc6dc5-d56b-4323-8e5c-47c4022f615f&language=en",
+              "uri": "http://data.europa.eu/esco/skill/c7cc6dc5-d56b-4323-8e5c-47c4022f615f",
+              "title": "quality assurance methodologies"
+            }
+          }
+        },
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/99ca6ed2-b6b8-4eb0-8180-92e750e546be",
+          "searchHit": "liaise with quality assurance",
+          "title": "liaise with quality assurance",
+          "preferredLabel": {
+            "de": "Kontakt zur Qualitätssicherung aufnehmen",
+            "no": "samarbeide med kvalitetssikringsparter",
+            "fi": "olla yhteydessä laadunvalvontavastaaviin",
+            "en-us": "liaise with quality assurance",
+            "pt": "estabelecer contactos com os responsáveis pela garantia de qualidade",
+            "bg": "поддържане на връзка с качествения контрол",
+            "lt": "bendradarbiauti su už kokybės užtikrinimą atsakingais asmenimis",
+            "hr": "surađivati s osobljem za osiguranje kvalitete",
+            "lv": "uzturēt sakarus ar kvalitātes nodrošināšanas speciālistiem",
+            "fr": "se mettre en relation avec des responsables de l’assurance qualité",
+            "hu": "minőségbiztosítási szakemberekkel egyeztet",
+            "sk": "spolupracovať so subjektmi zabezpečenia kvality",
+            "sl": "sodelovati s službami za zagotavljanje kakovosti",
+            "ga": "idirchaidreamh a dhéanamh le lucht dearbhaithe cáilíochta",
+            "sv": "samarbeta med kvalitetssäkringsansvariga",
+            "el": "συνεργασία με τον υπεύθυνο διασφάλισης της ποιότητας",
+            "mt": "komunikazzjoni dwar il-garanzija tal-kwalità",
+            "en": "liaise with quality assurance",
+            "is": "myndar samband við gæðatryggingu",
+            "it": "collaborare con gli addetti all’assicurazione qualità",
+            "es": "colaborar con responsables de garantía de calidad",
+            "et": "kvaliteedikontrolli tegijaga suhtlema",
+            "cs": "spolupracovat s osobou odpovědnou za zajištění jakosti",
+            "ar": "التواصل مع جهات ضمان الجودة",
+            "pl": "pośredniczyć w kontaktach w ramach zapewniania jakości",
+            "da": "samarbejde med kvalitetssikringsteam",
+            "ro": "stabilește legături cu profesioniști din domeniul calității",
+            "nl": "samenwerken met de verantwoordelijke voor kwaliteitscontrole"
+          },
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/skill"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/cross-sector"
+          ],
+          "broaderSkill": [
+            "http://data.europa.eu/esco/skill/09e28145-e205-4b7a-8b3b-5c4876396069"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/skill/S1.2.1"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/99ca6ed2-b6b8-4eb0-8180-92e750e546be&language=en",
+              "uri": "http://data.europa.eu/esco/skill/99ca6ed2-b6b8-4eb0-8180-92e750e546be",
+              "title": "liaise with quality assurance"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

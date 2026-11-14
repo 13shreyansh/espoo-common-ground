@@ -4,3 +4,5 @@ dist/
 .env*
 work/
 .impeccable/
+.codex*.log
+artifacts/phase-a/*error*

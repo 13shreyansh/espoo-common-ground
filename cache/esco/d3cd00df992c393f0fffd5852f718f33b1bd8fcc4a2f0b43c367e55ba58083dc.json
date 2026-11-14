@@ -1,0 +1,443 @@
+{
+  "url": "https://ec.europa.eu/esco/api/resource/skill?language=en&uri=http%3A%2F%2Fdata.europa.eu%2Fesco%2Fskill%2F56042303-972b-41be-9310-58467599ff7e",
+  "at": "2026-11-14T22:51:16.643Z",
+  "response": {
+    "className": "Skill",
+    "classId": "http://data.europa.eu/esco/model#Skill",
+    "uri": "http://data.europa.eu/esco/skill/56042303-972b-41be-9310-58467599ff7e",
+    "title": "analyse business processes",
+    "referenceLanguage": [
+      "en"
+    ],
+    "preferredLabel": {
+      "de": "Geschäftsprozesse analysieren",
+      "no": "analysere forretningsprosesser",
+      "en-us": "analyze  business processes",
+      "fi": "analysoida liiketoimintaprosesseja",
+      "pt": "analisar os processos empresariais",
+      "bg": "анализиране на бизнес процеси",
+      "lt": "analizuoti veiklos procesus",
+      "hr": "analizirati poslovne procese",
+      "lv": "biznesa procesu analīze",
+      "fr": "analyser des procédures d’entreprise",
+      "hu": "elemzi az üzleti folyamatokat",
+      "sk": "analyzovať podnikateľské postupy",
+      "sl": "analizirati poslovne procese",
+      "ga": "próisis ghnó a anailísiú",
+      "sv": "analysera affärsprocesser",
+      "mt": "tanalizza l-proċessi tan-negozju",
+      "el": "ανάλυση εταιρικών διαδικασιών",
+      "en": "analyse business processes",
+      "is": "greina viðskiptaferla",
+      "it": "analizzare i processi aziendali",
+      "es": "analizar procesos empresariales",
+      "et": "äriprotsesse analüüsima",
+      "cs": "analyzovat obchodní procesy",
+      "ar": "تحليل العمليات التجارية",
+      "pl": "analizować procesy biznesowe",
+      "da": "analysere forretningsgange",
+      "ro": "analizează procese de afaceri",
+      "nl": "bedrijfsprocessen analyseren"
+    },
+    "alternativeLabel": {
+      "cs": [
+        "zanalyzovat obchodní proces",
+        "analyzovat přínos pracovních procesů",
+        "analyzovat obchodní proces",
+        "zanalyzovat obchodní procesy",
+        "provést analýzu obchodních procesů",
+        "analyzovat pracovní procesy"
+      ],
+      "el": [
+        "λεπτομερής εξέταση επιχειρηματικών διαδικασιών",
+        "ανάλυση επιχειρησιακών διαδικασιών",
+        "ανάλυση επιχειρησιακών διεργασιών"
+      ],
+      "mt": [
+        "tanalizza proċessi tan-negozju",
+        "twettaq analiżi tal-proċessi tan-negozju",
+        "tanalizza proċeduri tan-negozju"
+      ],
+      "nl": [
+        "analyse van bedrijfsprocessen maken",
+        "bedrijfsprocessen onderzoeken",
+        "bedrijfsprocessen plannen",
+        "bedrijfsprocessen opstellen"
+      ]
+    },
+    "description": {
+      "no": {
+        "literal": "Analysere hvordan arbeidsprosessene bidrar til virksomhetens mål, og overvåke effektiviteten og produktiviteten.",
+        "mimetype": "plain/text"
+      },
+      "de": {
+        "literal": "Untersuchung des Beitrags der Arbeitsprozesse zu den Geschäftszielen und Überwachung ihrer Effizienz und Produktivität.",
+        "mimetype": "plain/text"
+      },
+      "fi": {
+        "literal": "Tutkia työprosessien vaikutusta liiketoiminnan tavoitteisiin sekä seurata niiden tehokkuutta ja tuottavuutta.",
+        "mimetype": "plain/text"
+      },
+      "en-us": {
+        "literal": "Study the contribution of the work processes to the business goals and monitor their efficiency and productivity.",
+        "mimetype": "plain/text"
+      },
+      "pt": {
+        "literal": "Analisar a contribuição dos processos de trabalho para os objetivos da empresa e monitorizar a sua eficiência e produtividade.",
+        "mimetype": "plain/text"
+      },
+      "bg": {
+        "literal": "Проучва приноса на работните процеси за бизнес целите и следят тяхната ефективност и продуктивност.",
+        "mimetype": "plain/text"
+      },
+      "lt": {
+        "literal": "Ištirti darbo procesų indėlį siekiant verslo tikslų ir stebėti jų veiksmingumą bei našumą.",
+        "mimetype": "plain/text"
+      },
+      "hr": {
+        "literal": "Proučavati doprinos radnih procesa ciljevima poslovanja te pratiti njihovu djelotvornost i produktivnost.",
+        "mimetype": "plain/text"
+      },
+      "lv": {
+        "literal": "Izpētīt darba procesu ieguldījumu uzņēmējdarbības mērķu sasniegšanā un uzraudzīt to efektivitāti un produktivitāti.",
+        "mimetype": "plain/text"
+      },
+      "fr": {
+        "literal": "Étudier la contribution des procédures de travail aux objectifs de l’entreprise et surveiller leur efficacité et leur productivité.",
+        "mimetype": "plain/text"
+      },
+      "hu": {
+        "literal": "Megvizsgálja a munkafolyamatok hozzájárulását az üzleti célokhoz, és figyelemmel kíséri azok hatékonyságát és a termelékenységet.",
+        "mimetype": "plain/text"
+      },
+      "sk": {
+        "literal": "Preskúmanie prínosu pracovných procesov k dosahovaniu cieľov v oblasti podnikania a sledovanie ich účinnosti a produktivity.",
+        "mimetype": "plain/text"
+      },
+      "sl": {
+        "literal": "Preučevati prispevek delovnih procesov k poslovnim ciljem ter spremljati njihovo učinkovitost in produktivnost.",
+        "mimetype": "plain/text"
+      },
+      "ga": {
+        "literal": "Staidéar a dhéanamh ar rannchuidiú na bpróiseas oibre leis na spriocanna gnó agus faireachán a dhéanamh ar a n-éifeachtúlacht agus ar a dtáirgiúlacht.",
+        "mimetype": "plain/text"
+      },
+      "sv": {
+        "literal": "Undersöka hur arbetsprocesserna bidrar till att uppnå affärsmålen samt övervaka deras effektivitet och produktivitet.",
+        "mimetype": "plain/text"
+      },
+      "el": {
+        "literal": "Μελέτη της συμβολής των διαδικασιών εργασίας στους επιχειρηματικούς στόχους και παρακολούθηση της αποδοτικότητας και της παραγωγικότητάς τους.",
+        "mimetype": "plain/text"
+      },
+      "mt": {
+        "literal": "Studju tal-kontribuzzjoni tal-proċessi ta’ ħidma għall-għanijiet kummerċjali u monitoraġġ tal-effiċjenza u tal-produttività tagħhom.",
+        "mimetype": "plain/text"
+      },
+      "en": {
+        "literal": "Study the contribution of the work processes to the business goals and monitor their efficiency and productivity.",
+        "mimetype": "plain/text"
+      },
+      "is": {
+        "literal": "Rannsaka framlag vinnuferla til viðskiptamarkmiða og fylgjast með skilvirkni þeirra og framleiðni.",
+        "mimetype": "plain/text"
+      },
+      "it": {
+        "literal": "Studiare il contributo dei processi di lavoro agli obiettivi aziendali e monitorarne l’efficienza e la produttività.",
+        "mimetype": "plain/text"
+      },
+      "es": {
+        "literal": "Estudiar la contribución de los procesos de trabajo a los objetivos comerciales y controlar su eficiencia y productividad.",
+        "mimetype": "plain/text"
+      },
+      "et": {
+        "literal": "Tööprotsesside tegevuseesmärkidesse antava panuse uurimine ning nende tõhususe ja tootlikkuse jälgimine.",
+        "mimetype": "plain/text"
+      },
+      "cs": {
+        "literal": "Prozkoumat přínos pracovních procesů k dosažení obchodních cílů a sledovat jejich účinnost a produktivitu.",
+        "mimetype": "plain/text"
+      },
+      "ar": {
+        "literal": "دراسة إسهام إجراءات العمل في تحقيق الأهداف ومراقبة كفاءتها وإنتاجيتها.",
+        "mimetype": "plain/text"
+      },
+      "pl": {
+        "literal": "Badać wkład procesów pracy w osiąganie celów biznesowych i monitorować ich skuteczność i wydajność.",
+        "mimetype": "plain/text"
+      },
+      "ro": {
+        "literal": "Studiază contribuția proceselor de lucru la obiectivele comerciale și monitorizează eficiența și productivitatea acestora.",
+        "mimetype": "plain/text"
+      },
+      "da": {
+        "literal": "Undersøge arbejdsprocessernes bidrag til forretningsmålene og overvåge deres effektivitet og produktivitet.",
+        "mimetype": "plain/text"
+      },
+      "nl": {
+        "literal": "De bijdrage van de werkprocessen aan de bedrijfsdoelstellingen bestuderen en toezicht houden op hun efficiëntie en productiviteit.",
+        "mimetype": "plain/text"
+      }
+    },
+    "status": "released",
+    "_links": {
+      "self": {
+        "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/56042303-972b-41be-9310-58467599ff7e&language=en",
+        "uri": "http://data.europa.eu/esco/skill/56042303-972b-41be-9310-58467599ff7e",
+        "title": "analyse business processes"
+      },
+      "isInScheme": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/taxonomy?uri=http://data.europa.eu/esco/concept-scheme/skills&language=en",
+          "uri": "http://data.europa.eu/esco/concept-scheme/skills",
+          "title": "ESCO skills"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/taxonomy?uri=http://data.europa.eu/esco/concept-scheme/member-skills&language=en",
+          "uri": "http://data.europa.eu/esco/concept-scheme/member-skills",
+          "title": "ESCO member skills"
+        }
+      ],
+      "hasSkillType": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/concept?uri=http://data.europa.eu/esco/skill-type/skill&language=en",
+          "uri": "http://data.europa.eu/esco/skill-type/skill",
+          "title": "skill"
+        }
+      ],
+      "hasReuseLevel": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/concept?uri=http://data.europa.eu/esco/skill-reuse-level/cross-sector&language=en",
+          "uri": "http://data.europa.eu/esco/skill-reuse-level/cross-sector",
+          "title": "cross-sector skills and competences",
+          "code": "Level 2"
+        }
+      ],
+      "broaderHierarchyConcept": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/concept?uri=http://data.europa.eu/esco/skill/S2.7.4&language=en",
+          "uri": "http://data.europa.eu/esco/skill/S2.7.4",
+          "title": "analysing business operations",
+          "code": "S2.7.4"
+        }
+      ],
+      "broaderSkill": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/27ed854c-15b8-4ba2-90e9-ae888a219703&language=en",
+          "uri": "http://data.europa.eu/esco/skill/27ed854c-15b8-4ba2-90e9-ae888a219703",
+          "title": "perform business analysis",
+          "skillType": "http://data.europa.eu/esco/skill-type/skill"
+        }
+      ],
+      "narrowerSkill": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/b8316819-feca-403d-902f-a86562fd91e9&language=en",
+          "uri": "http://data.europa.eu/esco/skill/b8316819-feca-403d-902f-a86562fd91e9",
+          "title": "analyse transport business networks",
+          "skillType": "http://data.europa.eu/esco/skill-type/skill"
+        }
+      ],
+      "hasEssentialSkill": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/633a3637-2c6b-40ae-ac38-289eb2a62aa6&language=en",
+          "uri": "http://data.europa.eu/esco/skill/633a3637-2c6b-40ae-ac38-289eb2a62aa6",
+          "title": "business analysis",
+          "skillType": "http://data.europa.eu/esco/skill-type/knowledge"
+        }
+      ],
+      "hasOptionalSkill": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/98301d4a-2cc3-439d-8d7f-0b6ac76302bb&language=en",
+          "uri": "http://data.europa.eu/esco/skill/98301d4a-2cc3-439d-8d7f-0b6ac76302bb",
+          "title": "business process modelling",
+          "skillType": "http://data.europa.eu/esco/skill-type/knowledge"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/9e84a506-df06-4be3-874a-fa01293e3dd5&language=en",
+          "uri": "http://data.europa.eu/esco/skill/9e84a506-df06-4be3-874a-fa01293e3dd5",
+          "title": "business processes",
+          "skillType": "http://data.europa.eu/esco/skill-type/knowledge"
+        }
+      ],
+      "isEssentialForOccupation": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/c5d36eef-df20-47a8-a332-5b4358fa83e3&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/c5d36eef-df20-47a8-a332-5b4358fa83e3",
+          "title": "telecommunications analyst"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/6a29d804-f775-446c-bec7-35fc4e28ac97&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/6a29d804-f775-446c-bec7-35fc4e28ac97",
+          "title": "business consultant"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/754ce08f-b4d9-4b9c-b9d2-06f15258a3ce&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/754ce08f-b4d9-4b9c-b9d2-06f15258a3ce",
+          "title": "bank manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/caafca69-9faa-4850-8930-a3fa07fea4e6&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/caafca69-9faa-4850-8930-a3fa07fea4e6",
+          "title": "accounting analyst"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/0917ab6b-18a8-4cfd-8e7a-843b88cf9457&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/0917ab6b-18a8-4cfd-8e7a-843b88cf9457",
+          "title": "branch manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/fe0fa514-b48d-4a53-9757-a283c0baacf0&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/fe0fa514-b48d-4a53-9757-a283c0baacf0",
+          "title": "ICT business analyst"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/04ba4d6c-957d-417f-bf63-5b9e015a9f86&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/04ba4d6c-957d-417f-bf63-5b9e015a9f86",
+          "title": "software analyst"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/6c7d333a-b2a9-4325-b25b-566d1ecc956d&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/6c7d333a-b2a9-4325-b25b-566d1ecc956d",
+          "title": "forestry inspector"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/f5166c6b-3467-4fc4-9343-d12e870d9def&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/f5166c6b-3467-4fc4-9343-d12e870d9def",
+          "title": "contact centre manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/a6a0b60f-08da-4faa-bf54-942987efb471&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/a6a0b60f-08da-4faa-bf54-942987efb471",
+          "title": "ICT system analyst"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/a99b38bc-6e71-4bef-b127-0f2b5e357815&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/a99b38bc-6e71-4bef-b127-0f2b5e357815",
+          "title": "ICT resilience manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/544cd9cf-e2ee-4ac0-8a02-7147af6b97d7&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/544cd9cf-e2ee-4ac0-8a02-7147af6b97d7",
+          "title": "business manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/903dc1bf-2da8-477d-83b2-687d360cf1da&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/903dc1bf-2da8-477d-83b2-687d360cf1da",
+          "title": "intercultural communication consultant"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/715b902f-b1b6-4366-afc6-ddb8ab715229&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/715b902f-b1b6-4366-afc6-ddb8ab715229",
+          "title": "agricultural inspector"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/8c8b5cba-14b2-4728-b22c-eb90f1786e00&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/8c8b5cba-14b2-4728-b22c-eb90f1786e00",
+          "title": "medical practice manager"
+        }
+      ],
+      "isOptionalForOccupation": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/725090a7-9943-4dae-8079-a6999d21ddba&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/725090a7-9943-4dae-8079-a6999d21ddba",
+          "title": "client relations manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/30f3ea93-882a-4525-841c-1d5b4b64076f&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/30f3ea93-882a-4525-841c-1d5b4b64076f",
+          "title": "financial manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/94e0bedd-e56e-42be-a5a4-b74a260f437c&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/94e0bedd-e56e-42be-a5a4-b74a260f437c",
+          "title": "department manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/bcc2c1db-f969-4355-bebf-4878ff6c2a94&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/bcc2c1db-f969-4355-bebf-4878ff6c2a94",
+          "title": "service manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/109e0a5d-203d-4af6-8f70-692111335ec3&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/109e0a5d-203d-4af6-8f70-692111335ec3",
+          "title": "quality services manager"
+        }
+      ]
+    },
+    "_embedded": {
+      "ancestors": [
+        {
+          "title": "analyse business processes",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/56042303-972b-41be-9310-58467599ff7e&language=en",
+              "uri": "http://data.europa.eu/esco/skill/56042303-972b-41be-9310-58467599ff7e"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S2.7.4",
+            "http://data.europa.eu/esco/skill/27ed854c-15b8-4ba2-90e9-ae888a219703"
+          ]
+        },
+        {
+          "title": "analysing business operations",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S2.7.4&language=en",
+              "uri": "http://data.europa.eu/esco/skill/S2.7.4"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S2.7"
+          ]
+        },
+        {
+          "title": "analysing and evaluating information and data",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S2.7&language=en",
+              "uri": "http://data.europa.eu/esco/skill/S2.7"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S2"
+          ]
+        },
+        {
+          "title": "information skills",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S2&language=en",
+              "uri": "http://data.europa.eu/esco/skill/S2"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S"
+          ]
+        },
+        {
+          "title": "skills",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S&language=en",
+              "uri": "http://data.europa.eu/esco/skill/S"
+            }
+          },
+          "parents": []
+        },
+        {
+          "title": "perform business analysis",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/27ed854c-15b8-4ba2-90e9-ae888a219703&language=en",
+              "uri": "http://data.europa.eu/esco/skill/27ed854c-15b8-4ba2-90e9-ae888a219703"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S2.7.4"
+          ]
+        }
+      ]
+    }
+  }
+}

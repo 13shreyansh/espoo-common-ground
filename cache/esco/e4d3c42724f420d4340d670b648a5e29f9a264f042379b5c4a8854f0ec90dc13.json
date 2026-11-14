@@ -1,0 +1,210 @@
+{
+  "url": "https://ec.europa.eu/esco/api/search?type=skill&language=en&limit=3&text=JavaScript",
+  "at": "2026-11-14T22:51:28.152Z",
+  "response": {
+    "total": 6,
+    "offset": 0,
+    "limit": 3,
+    "text": "JavaScript",
+    "language": "en",
+    "type": [
+      "skill"
+    ],
+    "isInScheme": null,
+    "facet": null,
+    "_links": {
+      "self": {
+        "href": "https://ec.europa.eu/esco/api/search?text=JavaScript&type=skill&limit=3&offset=0&full=false&viewObsolete=false&language=en"
+      },
+      "next": {
+        "href": "https://ec.europa.eu/esco/api/search?text=JavaScript&type=skill&limit=3&offset=1&full=false&viewObsolete=false&language=en"
+      }
+    },
+    "_embedded": {
+      "results": [
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/3cd569a2-4f88-4c1e-9995-8dce8c5e51a7",
+          "searchHit": "JavaScript",
+          "title": "JavaScript",
+          "preferredLabel": {
+            "de": "JavaScript",
+            "no": "JavaScript",
+            "fi": "JavaScript",
+            "en-us": "JavaScript",
+            "pt": "JavaScript",
+            "bg": "JavaScript",
+            "lt": "JavaScript",
+            "hr": "JavaScript",
+            "lv": "JavaScript",
+            "fr": "JavaScript",
+            "hu": "JavaScript",
+            "sk": "JavaScript",
+            "sl": "JavaScript",
+            "ga": "JavaScript",
+            "sv": "JavaScript",
+            "el": "JavaScript",
+            "mt": "JavaScript",
+            "en": "JavaScript",
+            "is": "JavaScript",
+            "it": "JavaScript",
+            "es": "JavaScript",
+            "et": "JavaScript",
+            "cs": "JavaScript",
+            "ar": "لغة برمجة جافا سكريبت",
+            "pl": "JavaScript",
+            "da": "JavaScript",
+            "ro": "JavaScript",
+            "nl": "JavaScript"
+          },
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/knowledge"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/sector-specific"
+          ],
+          "broaderSkill": [
+            "http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97",
+            "http://data.europa.eu/esco/skill/69bbd53f-fbb0-4476-b4b2-ef7844464e28"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/isced-f/0613"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/3cd569a2-4f88-4c1e-9995-8dce8c5e51a7&language=en",
+              "uri": "http://data.europa.eu/esco/skill/3cd569a2-4f88-4c1e-9995-8dce8c5e51a7",
+              "title": "JavaScript"
+            }
+          }
+        },
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/9b9de2a4-d8af-4a7b-933a-a8334ae60067",
+          "searchHit": "JavaScript Framework",
+          "title": "JavaScript Framework",
+          "preferredLabel": {
+            "de": "JavaScript Framework",
+            "no": "JavaScript Framework",
+            "fi": "JavaScript Framework",
+            "en-us": "JavaScript Framework",
+            "pt": "JavaScript Framework",
+            "bg": "JavaScript Framework",
+            "lt": "„JavaScript Framework“",
+            "hr": "JavaScript Framework",
+            "lv": "JavaScript Framework",
+            "fr": "JavaScript Framework",
+            "hu": "JavaScript Framework",
+            "sk": "JavaScript Framework",
+            "sl": "JavaScript Framework",
+            "ga": "JavaScript Framework",
+            "sv": "JavaScript Framework",
+            "el": "JavaScript Framework",
+            "mt": "JavaScript Framework",
+            "en": "JavaScript Framework",
+            "is": "JavaScript Framework",
+            "it": "JavaScript Framework",
+            "es": "JavaScript Framework",
+            "et": "JavaScript Framework",
+            "cs": "JavaScript Framework",
+            "ar": "إطار JavaScript",
+            "pl": "JavaScript Framework",
+            "da": "JavaScript Framework",
+            "ro": "JavaScript Framework",
+            "nl": "JavaScript Framework"
+          },
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/knowledge"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/sector-specific"
+          ],
+          "broaderSkill": [
+            "http://data.europa.eu/esco/skill/24c200e5-be20-4370-a137-ab53797f3a17"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/isced-f/0612"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/9b9de2a4-d8af-4a7b-933a-a8334ae60067&language=en",
+              "uri": "http://data.europa.eu/esco/skill/9b9de2a4-d8af-4a7b-933a-a8334ae60067",
+              "title": "JavaScript Framework"
+            }
+          }
+        },
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/b4dc6e4f-dc7d-445f-8ce2-d7b9d225e282",
+          "searchHit": "Asynchronous Javascript and XML",
+          "title": "AJAX",
+          "preferredLabel": {
+            "de": "AJAX",
+            "no": "AJAX",
+            "fi": "AJAX",
+            "en-us": "AJAX",
+            "pt": "AJAX",
+            "bg": "AJAX",
+            "lt": "„AJAX“",
+            "hr": "AJAX",
+            "lv": "AJAX",
+            "fr": "AJAX",
+            "hu": "AJAX",
+            "sk": "AJAX",
+            "sl": "AJAX",
+            "ga": "AJAX",
+            "sv": "AJAX",
+            "el": "AJAX",
+            "mt": "AJAX",
+            "en": "AJAX",
+            "is": "AJAX",
+            "it": "AJAX",
+            "es": "AJAX",
+            "et": "AJAX",
+            "cs": "AJAX",
+            "ar": "AJAX",
+            "pl": "AJAX",
+            "da": "AJAX",
+            "ro": "AJAX",
+            "nl": "AJAX"
+          },
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/knowledge"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/sector-specific"
+          ],
+          "broaderSkill": [
+            "http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97",
+            "http://data.europa.eu/esco/skill/69bbd53f-fbb0-4476-b4b2-ef7844464e28"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/isced-f/0613"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/b4dc6e4f-dc7d-445f-8ce2-d7b9d225e282&language=en",
+              "uri": "http://data.europa.eu/esco/skill/b4dc6e4f-dc7d-445f-8ce2-d7b9d225e282",
+              "title": "AJAX"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

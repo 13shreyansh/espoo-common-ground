@@ -1,0 +1,411 @@
+{
+  "url": "https://ec.europa.eu/esco/api/resource/skill?language=en&uri=http%3A%2F%2Fdata.europa.eu%2Fesco%2Fskill%2F1225b032-7ead-464c-9072-64097d9a4b62",
+  "at": "2026-11-14T23:00:07.671Z",
+  "response": {
+    "className": "Skill",
+    "classId": "http://data.europa.eu/esco/model#Skill",
+    "uri": "http://data.europa.eu/esco/skill/1225b032-7ead-464c-9072-64097d9a4b62",
+    "title": "use spreadsheets",
+    "referenceLanguage": [
+      "en"
+    ],
+    "preferredLabel": {
+      "no": "bruke regneark",
+      "de": "Kalkulationstabellen nutzen",
+      "en-us": "use spreadsheets",
+      "fi": "käyttää laskentataulukoita",
+      "pt": "utilizar folhas de cálculo",
+      "bg": "използване на електронни таблици",
+      "lt": "naudotis skaičiuoklėmis",
+      "lv": "lietot izklājlapas",
+      "hr": "upotrebljavati tablice",
+      "fr": "utiliser des feuilles de calcul",
+      "hu": "táblázatszerkesztőket használ",
+      "sk": "používať tabuľky",
+      "sl": "uporabljati preglednice",
+      "ga": "scarbhileoga a úsáid",
+      "sv": "använda kalkylprogram",
+      "mt": "użu tal-ispreadsheets",
+      "el": "χρήση λογιστικών φύλλων",
+      "en": "use spreadsheets",
+      "is": "notar töflureikniforrit",
+      "it": "utilizzare i fogli elettronici",
+      "es": "utilizar hojas de cálculo",
+      "et": "arvutustabeleid kasutama",
+      "cs": "používat tabulky",
+      "ar": "استخدام جداول البيانات",
+      "pl": "korzystać z arkuszy kalkulacyjnych",
+      "da": "bruge regneark",
+      "ro": "folosește foi de calcul",
+      "nl": "spreadsheets gebruiken"
+    },
+    "alternativeLabel": {
+      "en": [
+        "utilise spreadsheet documents",
+        "perform work activities utilising spreadsheets",
+        "carry out work activities using spreadsheets",
+        "employ spreadsheets",
+        "utilise spreadsheets",
+        "store information and data in spreadsheets",
+        "work with spreadsheets",
+        "use spreadsheet documents",
+        "record information in spreadsheets",
+        "conduct work activities using spreadsheets"
+      ],
+      "es": [
+        "usar hojas de cálculo",
+        "emplear hojas de cálculo"
+      ]
+    },
+    "description": {
+      "no": {
+        "literal": "Bruke regneark til organisering, analyse og datalagring i tabellform.",
+        "mimetype": "plain/text"
+      },
+      "de": {
+        "literal": "Kalkulationstabellendokumente für die Organisation, Analyse und Datenspeicherung in Tabellenform nutzen.",
+        "mimetype": "plain/text"
+      },
+      "en-us": {
+        "literal": "Use spreadsheet documents for organization, analysis and data storage in tabular form.",
+        "mimetype": "plain/text"
+      },
+      "fi": {
+        "literal": "Laskentataulukoiden käyttö tietojen järjestämiseksi, analysoimiseksi ja tallentamiseksi taulukkomuodossa.",
+        "mimetype": "plain/text"
+      },
+      "pt": {
+        "literal": "Utilizar folhas de cálculo para efeitos de organização, análise e armazenamento de dados, sob a forma de tabela.",
+        "mimetype": "plain/text"
+      },
+      "bg": {
+        "literal": "Използва документи под формата на електронни таблици за организиране, анализ и съхранение на данни в таблична форма.",
+        "mimetype": "plain/text"
+      },
+      "lt": {
+        "literal": "Naudoti skaičiuoklės dokumentus duomenims sisteminti, analizuoti ir saugoti lentelės formatu.",
+        "mimetype": "plain/text"
+      },
+      "lv": {
+        "literal": "Lietot izklājlapu dokumentus datu organizēšanai, analizēšanai un glabāšanai tabulu veidā.",
+        "mimetype": "plain/text"
+      },
+      "hr": {
+        "literal": "Upotrebljavati dokumente s tablicama za organizaciju, analizu i pohranu podataka u tabličnom obliku.",
+        "mimetype": "plain/text"
+      },
+      "fr": {
+        "literal": "Utiliser un tableur pour l’organisation, l’analyse et le stockage de données sous forme de tableau.",
+        "mimetype": "plain/text"
+      },
+      "hu": {
+        "literal": "Táblázatos dokumentumok használata szervezés, elemzés és adattárolás céljából.",
+        "mimetype": "plain/text"
+      },
+      "sk": {
+        "literal": "Použiť tabuľkové dokumenty na organizáciu, analýzu a uchovávanie údajov v tabuľkovej forme.",
+        "mimetype": "plain/text"
+      },
+      "sl": {
+        "literal": "Uporabljati dokumente s preglednicami za organizacijo, analizo in shranjevanje podatkov v obliki tabel.",
+        "mimetype": "plain/text"
+      },
+      "ga": {
+        "literal": "Doiciméid scarbhileoige a úsáid i gcomhair eagrú, anailís agus stóráil sonraí i bhfoirm tábla.",
+        "mimetype": "plain/text"
+      },
+      "sv": {
+        "literal": "Använda kalkylblad för att organisera, analysera och lagra data i tabellform.",
+        "mimetype": "plain/text"
+      },
+      "mt": {
+        "literal": "Uża dokumenti ta’ spreadsheet għall-organizzazzjoni, l-analiżi u l-ħżin tad-data f’forma ta’ tabella.",
+        "mimetype": "plain/text"
+      },
+      "el": {
+        "literal": "Χρήση εγγράφων λογιστικών φύλλων για την οργάνωση, την ανάλυση και την αποθήκευση δεδομένων σε μορφή πίνακα.",
+        "mimetype": "plain/text"
+      },
+      "en": {
+        "literal": "Use spreadsheet documents for organisation, analysis and data storage in tabular form.",
+        "mimetype": "plain/text"
+      },
+      "is": {
+        "literal": "Nota töflureiknisskjöl fyrir skipulag, greiningu og geymslu gagna á töfluformi.",
+        "mimetype": "plain/text"
+      },
+      "it": {
+        "literal": "Utilizzare documenti di fogli elettronici per l’organizzazione, l’analisi e l’archiviazione di dati sotto forma di tabella.",
+        "mimetype": "plain/text"
+      },
+      "es": {
+        "literal": "Utilizar documentos en hojas de cálculo para la organización, el análisis y el almacenamiento de datos en forma de tablas.",
+        "mimetype": "plain/text"
+      },
+      "et": {
+        "literal": "Arvutustabelidokumentide kasutamine andmete tabeli vormis korraldamiseks, analüüsimiseks ja säilitamiseks.",
+        "mimetype": "plain/text"
+      },
+      "cs": {
+        "literal": "Používat dokumenty ve formě tabulek pro organizaci, analýzu a ukládání dat.",
+        "mimetype": "plain/text"
+      },
+      "ar": {
+        "literal": "استخدام وثائق جداول البيانات من أجل التنظيم والتحليل وتخزين البيانات في شكل جداول.",
+        "mimetype": "plain/text"
+      },
+      "pl": {
+        "literal": "Korzystać z arkuszy kalkulacyjnych w celu organizacji, analizy i przechowywania danych w formie tabeli.",
+        "mimetype": "plain/text"
+      },
+      "da": {
+        "literal": "Bruge regnearkene til tilrettelæggelse, analyse og lagring af data i tabelform.",
+        "mimetype": "plain/text"
+      },
+      "ro": {
+        "literal": "Folosește foi de calcul pentru organizarea, analizarea și stocarea datelor sub formă de tabel.",
+        "mimetype": "plain/text"
+      },
+      "nl": {
+        "literal": "Spreadsheetdocumenten gebruiken met het oog op organisatie, analyse en gegevensopslag in tabelvorm.",
+        "mimetype": "plain/text"
+      }
+    },
+    "status": "released",
+    "_links": {
+      "self": {
+        "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/1225b032-7ead-464c-9072-64097d9a4b62&language=en",
+        "uri": "http://data.europa.eu/esco/skill/1225b032-7ead-464c-9072-64097d9a4b62",
+        "title": "use spreadsheets"
+      },
+      "isInScheme": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/taxonomy?uri=http://data.europa.eu/esco/concept-scheme/skills&language=en",
+          "uri": "http://data.europa.eu/esco/concept-scheme/skills",
+          "title": "ESCO skills"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/taxonomy?uri=http://data.europa.eu/esco/concept-scheme/member-skills&language=en",
+          "uri": "http://data.europa.eu/esco/concept-scheme/member-skills",
+          "title": "ESCO member skills"
+        }
+      ],
+      "hasSkillType": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/concept?uri=http://data.europa.eu/esco/skill-type/skill&language=en",
+          "uri": "http://data.europa.eu/esco/skill-type/skill",
+          "title": "skill"
+        }
+      ],
+      "hasReuseLevel": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/concept?uri=http://data.europa.eu/esco/skill-reuse-level/cross-sector&language=en",
+          "uri": "http://data.europa.eu/esco/skill-reuse-level/cross-sector",
+          "title": "cross-sector skills and competences",
+          "code": "Level 2"
+        }
+      ],
+      "broaderHierarchyConcept": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/concept?uri=http://data.europa.eu/esco/skill/S5.5.2&language=en",
+          "uri": "http://data.europa.eu/esco/skill/S5.5.2",
+          "title": "managing and analysing digital data",
+          "code": "S5.5.2"
+        }
+      ],
+      "broaderSkill": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/1973c966-f236-40c9-b2d4-5d71a89019be&language=en",
+          "uri": "http://data.europa.eu/esco/skill/1973c966-f236-40c9-b2d4-5d71a89019be",
+          "title": "use spreadsheets software",
+          "skillType": "http://data.europa.eu/esco/skill-type/skill"
+        }
+      ],
+      "isEssentialForOccupation": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/bcba793e-44fe-45eb-b0fb-56772529cbab&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/bcba793e-44fe-45eb-b0fb-56772529cbab",
+          "title": "editorial assistant"
+        }
+      ],
+      "isOptionalForOccupation": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/656674ac-9d4e-4a91-963f-c0b6edfd55a4&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/656674ac-9d4e-4a91-963f-c0b6edfd55a4",
+          "title": "bus route supervisor"
+        }
+      ]
+    },
+    "_embedded": {
+      "ancestors": [
+        {
+          "title": "use spreadsheets",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/1225b032-7ead-464c-9072-64097d9a4b62&language=en",
+              "uri": "http://data.europa.eu/esco/skill/1225b032-7ead-464c-9072-64097d9a4b62"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S5.5.2",
+            "http://data.europa.eu/esco/skill/1973c966-f236-40c9-b2d4-5d71a89019be"
+          ]
+        },
+        {
+          "title": "use spreadsheets software",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/1973c966-f236-40c9-b2d4-5d71a89019be&language=en",
+              "uri": "http://data.europa.eu/esco/skill/1973c966-f236-40c9-b2d4-5d71a89019be"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/5fd5c985-eaaa-47aa-8314-62359c54505a",
+            "http://data.europa.eu/esco/skill/S5.5.2"
+          ]
+        },
+        {
+          "title": "develop digital content",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/5fd5c985-eaaa-47aa-8314-62359c54505a&language=en",
+              "uri": "http://data.europa.eu/esco/skill/5fd5c985-eaaa-47aa-8314-62359c54505a"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/f5369f2f-e52b-43d8-8d31-79a6c11188d8",
+            "http://data.europa.eu/esco/skill/S5.6.1"
+          ]
+        },
+        {
+          "title": "digital content creation",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/f5369f2f-e52b-43d8-8d31-79a6c11188d8&language=en",
+              "uri": "http://data.europa.eu/esco/skill/f5369f2f-e52b-43d8-8d31-79a6c11188d8"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/aeecc330-0be9-419f-bddb-5218de926004"
+          ]
+        },
+        {
+          "title": "digital competencies",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/aeecc330-0be9-419f-bddb-5218de926004&language=en",
+              "uri": "http://data.europa.eu/esco/skill/aeecc330-0be9-419f-bddb-5218de926004"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/4f663b30-1c49-4634-82e4-7e582b1551b7"
+          ]
+        },
+        {
+          "title": "application of knowledge",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/4f663b30-1c49-4634-82e4-7e582b1551b7&language=en",
+              "uri": "http://data.europa.eu/esco/skill/4f663b30-1c49-4634-82e4-7e582b1551b7"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/7ee746cb-fded-47f5-9652-19ebebbce51b"
+          ]
+        },
+        {
+          "title": "Transversal skills/competences",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/7ee746cb-fded-47f5-9652-19ebebbce51b&language=en",
+              "uri": "http://data.europa.eu/esco/skill/7ee746cb-fded-47f5-9652-19ebebbce51b"
+            }
+          },
+          "parents": []
+        },
+        {
+          "title": "using digital tools for collaboration and productivity",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S5.6.1&language=en",
+              "uri": "http://data.europa.eu/esco/skill/S5.6.1"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S5.6"
+          ]
+        },
+        {
+          "title": "using digital tools for collaboration, content creation and problem solving",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S5.6&language=en",
+              "uri": "http://data.europa.eu/esco/skill/S5.6"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S5"
+          ]
+        },
+        {
+          "title": "working with computers",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S5&language=en",
+              "uri": "http://data.europa.eu/esco/skill/S5"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S"
+          ]
+        },
+        {
+          "title": "skills",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S&language=en",
+              "uri": "http://data.europa.eu/esco/skill/S"
+            }
+          },
+          "parents": []
+        },
+        {
+          "title": "managing and analysing digital data",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S5.5.2&language=en",
+              "uri": "http://data.europa.eu/esco/skill/S5.5.2"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S5.5"
+          ]
+        },
+        {
+          "title": "accessing and analysing digital data",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S5.5&language=en",
+              "uri": "http://data.europa.eu/esco/skill/S5.5"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S5"
+          ]
+        },
+        {
+          "title": "managing and analysing digital data",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S5.5.2&language=en",
+              "uri": "http://data.europa.eu/esco/skill/S5.5.2"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S5.5"
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "url": "https://ec.europa.eu/esco/api/search?type=skill&language=en&limit=3&text=customer%20service",
+  "at": "2026-11-14T22:51:23.375Z",
+  "response": {
+    "total": 1083,
+    "offset": 0,
+    "limit": 3,
+    "text": "customer service",
+    "language": "en",
+    "type": [
+      "skill"
+    ],
+    "isInScheme": null,
+    "facet": null,
+    "_links": {
+      "self": {
+        "href": "https://ec.europa.eu/esco/api/search?text=customer%20service&type=skill&limit=3&offset=0&full=false&viewObsolete=false&language=en"
+      },
+      "next": {
+        "href": "https://ec.europa.eu/esco/api/search?text=customer%20service&type=skill&limit=3&offset=1&full=false&viewObsolete=false&language=en"
+      }
+    },
+    "_embedded": {
+      "results": [
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/15a33d76-4640-438d-ae64-fdc0c1d3eebc",
+          "searchHit": "customer service",
+          "title": "customer service",
+          "preferredLabel": {
+            "de": "Kundendienst",
+            "no": "kundeservice",
+            "fi": "asiakaspalvelu",
+            "en-us": "customer service",
+            "pt": "serviço ao cliente",
+            "bg": "обслужване на клиенти",
+            "lt": "klientų aptarnavimas",
+            "hr": "služba za korisnike",
+            "lv": "klientu apkalpošana",
+            "fr": "service clients",
+            "hu": "ügyfélszolgálat",
+            "sk": "služby zákazníkom",
+            "sl": "storitve za stranke",
+            "ga": "seirbhís do chustaiméirí",
+            "sv": "kundservice",
+            "el": "εξυπηρέτηση πελατών",
+            "mt": "servizzi tal-klijenti",
+            "en": "customer service",
+            "is": "þjónusta við viðskiptavini",
+            "it": "servizio clienti",
+            "es": "servicio al cliente",
+            "et": "klienditeenindus",
+            "cs": "zákaznické služby",
+            "ar": "خدمة العملاء",
+            "pl": "obsługa klienta",
+            "da": "kundeservice",
+            "ro": "servicii pentru clienți",
+            "nl": "klantendiensten"
+          },
+          "isTopConceptInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/knowledge"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/sector-specific"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/isced-f/0417"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/15a33d76-4640-438d-ae64-fdc0c1d3eebc&language=en",
+              "uri": "http://data.europa.eu/esco/skill/15a33d76-4640-438d-ae64-fdc0c1d3eebc",
+              "title": "customer service"
+            }
+          }
+        },
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/c09c5786-a479-46de-b0aa-d5d2d8ccc123",
+          "searchHit": "manage customer service",
+          "title": "manage customer service",
+          "preferredLabel": {
+            "de": "Kundendienst koordinieren",
+            "no": "administrere kundeservice",
+            "fi": "johtaa asiakaspalvelua",
+            "en-us": "manage customer service",
+            "pt": "gerir serviço de clientes",
+            "bg": "управление на услугата за обслужане на клиенти",
+            "lt": "valdyti klientų aptarnavimą",
+            "hr": "upravljati uslugama za korisnike",
+            "lv": "vadīt klientu apkalpošanas dienestu",
+            "fr": "gérer un service clients",
+            "hu": "ügyfélszolgálatot vezet",
+            "sk": "riadiť služby pre zákazníkov",
+            "sl": "upravljati storitve za stranke",
+            "ga": "seirbhís do chustaiméirí a bhainistiú",
+            "sv": "ansvara för kundtjänst",
+            "el": "διαχείριση της εξυπηρέτησης πελατών",
+            "mt": "immaniġġjar tas-servizzi tal-klijenti",
+            "en": "manage customer service",
+            "is": "stýrir þjónustu til viðskiptavina",
+            "it": "gestire l’assistenza clienti",
+            "es": "gestionar el servicio al cliente",
+            "et": "klienditeenindust haldama",
+            "cs": "řídit služby zákazníkům",
+            "ar": "إدارة خدمة العملاء",
+            "pl": "zarządzać relacjami z klientem",
+            "da": "lede kundeservice",
+            "ro": "gestionează serviciul de relații cu clienții",
+            "nl": "klantendienst beheren"
+          },
+          "isTopConceptInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/skill"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/sector-specific"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/skill/S4.2.1"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/c09c5786-a479-46de-b0aa-d5d2d8ccc123&language=en",
+              "uri": "http://data.europa.eu/esco/skill/c09c5786-a479-46de-b0aa-d5d2d8ccc123",
+              "title": "manage customer service"
+            }
+          }
+        },
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/8d10ae08-3b0d-4bbb-86c5-25dd2c6858cd",
+          "searchHit": "teach customer service techniques",
+          "title": "teach customer service techniques",
+          "preferredLabel": {
+            "de": "Techniken der Kundenbetreuung unterrichten",
+            "no": "lære bort kundeserviceteknikker",
+            "fi": "opettaa asiakaspalvelutekniikoita",
+            "en-us": "teach customer service techniques",
+            "pt": "ensinar técnicas de atendimento ao cliente",
+            "bg": "преподаване на техники за обслужване на клиенти",
+            "lt": "mokyti klientų aptarnavimo metodų",
+            "hr": "podučavati tehnike pomaganja klijentima",
+            "lv": "mācīt klientu apkalpošanas metodes",
+            "fr": "enseigner des techniques de service à la clientèle",
+            "hu": "vevőszolgálati módszereket tanít",
+            "sk": "vyučovať metódy zákazníckych služieb",
+            "sl": "poučevati o tehnikah zagotavljanja storitev za stranke",
+            "ga": "teicnící um sheirbhís do chustaiméirí a theagasc",
+            "sv": "lära ut tekniker för kundservice",
+            "el": "παροχή εκπαίδευσης για τεχνικές εξυπηρέτησης πελατών",
+            "mt": "tagħlim tat-tekniki tas-servizzi tal-klijenti",
+            "en": "teach customer service techniques",
+            "is": "kennir viðskiptavinaþjónustutækni",
+            "it": "insegnare le tecniche del servizio assistenza clienti",
+            "es": "enseñar técnicas de servicio al cliente",
+            "et": "klienditeenindusmeetodeid õpetama",
+            "cs": "učit metody poskytování zákaznických služeb",
+            "ar": "دراسة تقنيات خدمة العملاء",
+            "pl": "uczyć technik obsługi klientów",
+            "da": "undervise i kundeserviceteknikker",
+            "ro": "predă tehnicile utilizate în cadrul serviciilor pentru clienți",
+            "nl": "klantenservicetechnieken aanleren"
+          },
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/skill"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/sector-specific"
+          ],
+          "broaderSkill": [
+            "http://data.europa.eu/esco/skill/699e7c26-6502-4e78-a823-3656ff5a5b8b"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/skill/S1.3.3"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/8d10ae08-3b0d-4bbb-86c5-25dd2c6858cd&language=en",
+              "uri": "http://data.europa.eu/esco/skill/8d10ae08-3b0d-4bbb-86c5-25dd2c6858cd",
+              "title": "teach customer service techniques"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

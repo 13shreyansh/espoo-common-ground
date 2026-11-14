@@ -1,0 +1,516 @@
+{
+  "url": "https://ec.europa.eu/esco/api/resource/skill?language=en&uri=http%3A%2F%2Fdata.europa.eu%2Fesco%2Fskill%2F9190d87f-9792-42e0-bb7f-64294a656bcd",
+  "at": "2026-11-14T22:51:22.888Z",
+  "response": {
+    "className": "Skill",
+    "classId": "http://data.europa.eu/esco/model#Skill",
+    "uri": "http://data.europa.eu/esco/skill/9190d87f-9792-42e0-bb7f-64294a656bcd",
+    "title": "monitor system performance",
+    "referenceLanguage": [
+      "en"
+    ],
+    "preferredLabel": {
+      "no": "overvåke systemytelse",
+      "de": "Systemleistung überwachen",
+      "fi": "valvoa järjestelmän suorituskykyä",
+      "en-us": "monitor system performance",
+      "pt": "monitorizar o desempenho dos sistemas",
+      "bg": "мониторинг на ефективността на системата",
+      "lt": "stebėti sistemų darbą",
+      "lv": "kontrolēt sistēmas veiktspēju",
+      "hr": "nadzirati djelotvornost sustava",
+      "fr": "contrôler la performance du système",
+      "hu": "rendszerteljesítményt ellenőrzi",
+      "sk": "sledovať výkonnosť systému",
+      "sl": "spremljati učinkovitost sistema",
+      "ga": "faireachán a dhéanamh ar fheidhmíocht córas",
+      "sv": "övervaka systemprestanda",
+      "mt": "twettaq monitoraġġ tal-prestazzjoni tas-sistema",
+      "el": "παρακολούθηση των επιδόσεων του συστήματος",
+      "en": "monitor system performance",
+      "is": "hafa eftirlit með kerfisafköstum",
+      "it": "monitorare le prestazioni di sistema",
+      "es": "controlar el rendimiento de un sistema",
+      "et": "süsteemi toimivust jälgima",
+      "cs": "monitorovat činnost systému",
+      "ar": "مراقبة أداء النظام ودقته",
+      "pl": "monitorować wydajność systemu",
+      "da": "overvåge systemets præstationer",
+      "ro": "monitorizează performanțele sistemului",
+      "nl": "systeemprestaties bewaken"
+    },
+    "alternativeLabel": {
+      "de": [
+        "System-Performance überwachen",
+        "Systemprotokollierung durchführen",
+        "Systemprotokoll anwenden",
+        "Systemleistung protokollieren",
+        "Zuverlässigkeit des Systems überwachen",
+        "Leistung des Systems überwachen",
+        "Leistung von Systemen überwachen"
+      ],
+      "sv": [
+        "kartlägga systemprestanda",
+        "övervakade systemprestanda",
+        "övervakar systemprestanda",
+        "kontrollera systemprestanda",
+        "hålla koll på systemprestanda"
+      ],
+      "fi": [
+        "valvoa järjestelmien suorituskykyä",
+        "tarkkailla järjestelmän suorituskykyä",
+        "tarkkailla järjestelmien suorituskykyä",
+        "mitata järjestelmän luotettavuutta ja toimintaa",
+        "valita valvontatyökalut ja tekniikat"
+      ],
+      "pt": [
+        "acompanhar o desempenho dos sistemas",
+        "vigiar o desempenho dos sistemas",
+        "monitorar o desempenho dos sistemas",
+        "monitorizar o desempenho de sistemas",
+        "registar o desempenho dos sistemas"
+      ],
+      "bg": [
+        "измерване на надеждността на системата",
+        "използване на техники за измерване на ефективност",
+        "мониторинг на ефективността на системи",
+        "мониторинг на регистрирането в системата",
+        "мониторинг на ефективността на системите",
+        "мониторинг на системата"
+      ],
+      "mt": [
+        "twettaq monitoraġġ tal-prestazzjoni ta' sistema",
+        "tieħu ħsieb il-prestazzjoni tas-sistema",
+        "twettaq monitoraġġ fuq il-prestazzjoni tas-sistema"
+      ],
+      "el": [
+        "ανάλυση της αποδοτικότητας του συστήματος",
+        "παρακολούθηση της απόδοσης συστήματος",
+        "έλεγχος των επιδόσεων του συστήματος",
+        "αξιολόγηση της αποτελεσματικότητας του συστήματος"
+      ],
+      "lt": [
+        "stebėti sistemos darbą",
+        "prižiūrėti sistemų darbą",
+        "stebėti sistemų patikimumą ir darbą",
+        "registruoti sistemų darbą",
+        "dirbti su sistemų stebėjimo įrankiais"
+      ],
+      "en": [
+        "system logging"
+      ],
+      "lv": [
+        "kontrolēt sistēmas veiktspēju",
+        "sistēmas veiktspējas pārbaude",
+        "sistēmas veiktspējas testēšana",
+        "mērīt sistēmas veiktspēju",
+        "sistēmas veiktspējas mērīšana"
+      ],
+      "hr": [
+        "nadzirati učinkovitost sustava",
+        "nadgledati učinkovitost sustava",
+        "nadgledati djelotvornost sustava",
+        "promatrati djelotvornost sustava",
+        "promatrati učinkovitost sustava"
+      ],
+      "is": [
+        "hefur eftirlit með kerfisafköstum",
+        "höfum eftirlit með kerfisafköstum",
+        "gæta að kerfisafköstum",
+        "eftirlit með afköstum kerfis"
+      ],
+      "it": [
+        "controllare le prestazioni di sistema",
+        "analizzare le prestazioni di sistema",
+        "monitorare le prestazioni dei sistemi",
+        "monitorare le prestazioni del sistema",
+        "verificare le prestazioni di sistema"
+      ],
+      "fr": [
+        "suivre la performance du système",
+        "surveiller l’activité du système",
+        "surveiller la performance du système",
+        "contrôler la performance du système informatique",
+        "suivre l’activité du système",
+        "contrôler l’historique du système",
+        "contrôler l’activité du système"
+      ],
+      "hu": [
+        "ellenőrzi a rendszerteljesítményt",
+        "rendszernaplózás",
+        "megfigyeli és elemzi a rendszerteljesítményt",
+        "rendszerteljesítmény ellenőrzését végzi"
+      ],
+      "es": [
+        "comprobar el rendimiento de un sistema",
+        "verificar el rendimiento de un sistema",
+        "supervisar el rendimiento de un sistema",
+        "monitorear el rendimiento de un sistema",
+        "gestionar el rendimiento de un sistema"
+      ],
+      "et": [
+        "süsteemi toimimist seirama",
+        "süsteemi jõudlust seirama",
+        "süsteemilogisid jälgima",
+        "süsteemi tööjõudlust seirama",
+        "süsteemi tööjõudlust monitoorima",
+        "süsteemi tööjõudlust jälgima",
+        "süsteemikasutust jälgima"
+      ],
+      "cs": [
+        "sledovat činnost systému",
+        "monitorovat činnost systémů",
+        "posuzovat fungování systému"
+      ],
+      "sk": [
+        "dozerať na fungovanie systému",
+        "dohliadať na chod systému",
+        "sledovať systémovú výkonnosť",
+        "monitorovať činnosť systému",
+        "sledovať výkon systému",
+        "kontrolovať prevádzku systému"
+      ],
+      "sl": [
+        "meriti zanesljivost sistema",
+        "spremljati uspešno delovanje sistema",
+        "spremljati zanesljivo delovanje sistema",
+        "spremljati učinkovito delovanje sistema",
+        "spremljati učinkovitost sistemov",
+        "nadzorovati učinkovitost sistema"
+      ],
+      "pl": [
+        "monitorować niezawodność systemu",
+        "nadzorować niezawodność systemu",
+        "nadzorować sprawność systemu",
+        "nadzorować wydajność systemu",
+        "logowanie systemu",
+        "monitorować sprawność systemu"
+      ],
+      "da": [
+        "overvåge systempræstationer",
+        "overvåge systemets ydeevne",
+        "kontrollere systemets præstationer",
+        "føre tilsyn med systemets ydeevne",
+        "systemlogføring"
+      ],
+      "ro": [
+        "monitorizează fiabilitatea sistemului",
+        "supraveghează funcționarea sistemului",
+        "monitorizează performanțele de sistem",
+        "stabilește și utilizează instrumentele de monitorizare a performanțelor sistemului",
+        "monitorizează performanțele sistemelor"
+      ],
+      "nl": [
+        "systeemoptimalisatie",
+        "systeemprestaties verbeteren",
+        "betrouwbaarheid en prestaties van systemen bewaken",
+        "systeem-logging",
+        "zorgdragen voor optimale systeemprestaties",
+        "systemen bewaken"
+      ]
+    },
+    "description": {
+      "no": {
+        "literal": "Måle systemets pålitelighet og yteevne før, under og etter integrering av komponenter og ved drift og vedlikehold av systemet. Velge og bruke verktøy og teknikker for overvåking, for eksempel spesialprogramvare.",
+        "mimetype": "plain/text"
+      },
+      "de": {
+        "literal": "Messung von Zuverlässigkeit und Leistung eines Systems vor, während und nach der Integration von Komponenten sowie bei Betrieb und Wartung des Systems. Auswahl und Nutzung von Instrumenten und Techniken zur Leistungsüberwachung, wie spezielle Software.",
+        "mimetype": "plain/text"
+      },
+      "fi": {
+        "literal": "Mitata järjestelmän luotettavuutta ja suorituskykyä ennen komponenttien lisäämistä, sen aikana ja sen jälkeen, sekä järjestelmän käytön ja huollon aikana. Valita ja käyttää suorituskyvyn seurantavälineitä ja -tekniikoita, kuten erityisohjelmistoja.",
+        "mimetype": "plain/text"
+      },
+      "en-us": {
+        "literal": "Measure system reliability and performance before, during and after component integration and during system operation and maintenance. Select and use performance monitoring tools and techniques, such as special software.",
+        "mimetype": "plain/text"
+      },
+      "pt": {
+        "literal": "Medir a fiabilidade e o desempenho de um sistema antes, durante e após a integração de componentes e durante o funcionamento e a manutenção do sistema. Selecionar e utilizar ferramentas e técnicas de monitorização do desempenho, como software especial.",
+        "mimetype": "plain/text"
+      },
+      "bg": {
+        "literal": "Измерва надеждността и функционирането на системата преди, по време и след включване на компоненти и по време на експлоатацията и поддръжката на системата. Избира и използва инструменти и техники за наблюдение на ефективността, например специален софтуер.",
+        "mimetype": "plain/text"
+      },
+      "lt": {
+        "literal": "Vertinti sistemos patikimumą ir našumą prieš komponentų įtraukimą, jo metu ir po jo bei sistemos eksploatavimo ir priežiūros metu. Pasirinkti ir naudoti našumo stebėjimo priemones ir metodus, pavyzdžiui, specialią programinę įrangą.",
+        "mimetype": "plain/text"
+      },
+      "lv": {
+        "literal": "Noteikt sistēmas uzticamību un veiktspēju pirms un pēc komponenta integrēšanas, kā arī sistēmas ekspluatācijas un apkopes laikā. Izvēlēties un izmantot darbības rādītāju uzraudzības rīkus un metodes, piemēram, īpašu programmatūru.",
+        "mimetype": "plain/text"
+      },
+      "hr": {
+        "literal": "Mjeriti pouzdanost i učinkovitost sustava mjerenja prije, tijekom i nakon integracije komponenata te tijekom rada i održavanja sustava. Birati i upotrebljavati alate i tehnike za nadzor učinkovitosti, kao što je posebni softver.",
+        "mimetype": "plain/text"
+      },
+      "fr": {
+        "literal": "Mesurer la fiabilité et la performance du système avant, pendant et après l’intégration des composants, ainsi qu’au cours de l’exploitation et de la maintenance du système. Sélectionner et utiliser des outils et des techniques de suivi des performances, tels que des logiciels spéciaux.",
+        "mimetype": "plain/text"
+      },
+      "hu": {
+        "literal": "A rendszer megbízhatóságának és teljesítményének mérése az alkatrészek integrációja, valamint a rendszer működése és karbantartása előtt, alatt és után. Teljesítményfigyelő eszközök és technikák, például speciális szoftverek kiválasztása és használata.",
+        "mimetype": "plain/text"
+      },
+      "sk": {
+        "literal": "Merať spoľahlivosť a výkonnosť systému pred integráciou, počas nej a po integrácií komponentov a počas prevádzky a údržby systému. Vybrať a použiť nástroje a techniky na monitorovanie výkonnosti, ako napríklad špeciálny softvér.",
+        "mimetype": "plain/text"
+      },
+      "sl": {
+        "literal": "Meriti zanesljivost in učinkovitost sistema merjenja pred, med in po vključitvi komponent ter med obratovanjem sistema in vzdrževanjem. Izbrati in uporabiti orodja in tehnike za spremljanje uspešnosti, kot je posebna programska oprema.",
+        "mimetype": "plain/text"
+      },
+      "ga": {
+        "literal": "Iontaofacht agus feidhmíocht chórais a thomhas roimh, le linn agus i  ndiaidh comhtháthú comhpháirteanna agus i rith oibriú agus chothabháil an chórais. Uirlisí agus teicnící faireacháin feidhmíochta a roghnú agus a úsáid, amhail bogearraí speisialta.",
+        "mimetype": "plain/text"
+      },
+      "sv": {
+        "literal": "Mäta systemets tillförlitlighet och prestanda före, under och efter komponentinstallation och under drift och underhåll av systemet. Välja och använda verktyg och teknik för övervakning av prestanda, t.ex. särskild programvara.",
+        "mimetype": "plain/text"
+      },
+      "mt": {
+        "literal": "Kejjel l-affidabbiltà u l-prestazzjoni tas-sistema qabel, matul u wara l-integrazzjoni tal-komponenti u matul it-tħaddim u l-manutenzjoni tas-sistema. Agħżel u uża għodod u tekniki ta’ monitoraġġ tal-prestazzjoni, bħal softwer speċjali.",
+        "mimetype": "plain/text"
+      },
+      "el": {
+        "literal": "Μέτρηση της αξιοπιστίας και των επιδόσεων του συστήματος πριν, κατά τη διάρκεια και μετά την ενσωμάτωση των εξαρτημάτων και κατά τη λειτουργία και τη συντήρηση του συστήματος. Επιλογή και χρήση εργαλείων και τεχνικών παρακολούθησης των επιδόσεων, όπως ειδικά λογισμικά.",
+        "mimetype": "plain/text"
+      },
+      "en": {
+        "literal": "Measure system reliability and performance before, during and after component integration and during system operation and maintenance. Select and use performance monitoring tools and techniques, such as special software.",
+        "mimetype": "plain/text"
+      },
+      "is": {
+        "literal": "Mæla áreiðanleika og frammistöðu kerfisins fyrir, meðan og eftir samþættingu íhluta og meðan á rekstri og viðhaldi kerfisins stendur. Velja og nota vöktunartæki og aðferðir á borð við sérstakan hugbúnað.",
+        "mimetype": "plain/text"
+      },
+      "it": {
+        "literal": "Misurare l’affidabilità e le prestazioni del sistema prima, durante e dopo l’integrazione dei componenti e durante il funzionamento e la manutenzione del sistema. Selezionare e utilizzare strumenti e tecniche di monitoraggio delle prestazioni, ad esempio software speciali.",
+        "mimetype": "plain/text"
+      },
+      "es": {
+        "literal": "Cuantificar la fiabilidad y el rendimiento del sistema antes, durante y después de la integración de componentes y durante el funcionamiento y mantenimiento del sistema. Seleccionar y utilizar herramientas y técnicas de seguimiento del rendimiento, como software especial.",
+        "mimetype": "plain/text"
+      },
+      "et": {
+        "literal": "Süsteemi usaldusväärsuse ja toimivuse seire enne komponentide integreerimist, selle ajal ja pärast seda ning süsteemi käitamise ja hoolduse ajal. Toimivuse seire vahendite ja tehnikate, näiteks eritarkvara valimine ja kasutamine.",
+        "mimetype": "plain/text"
+      },
+      "cs": {
+        "literal": "Monitorovat spolehlivost a výkonnost systému před integrací komponent, během ní a po ní a během provozu a údržby systému. Vybírat a používat nástroje a metody pro sledování výkonu, jako je zvláštní software.",
+        "mimetype": "plain/text"
+      },
+      "ar": {
+        "literal": "قياس موثوقية النظام وأداءه قبل دمج المكونات وأثناءه وبعده وأثناء تشغيل النظام وصيانته. اختيار أدوات وتقنيات رصد الأداء، مثل البرامج الخاصة، واستخدامها.",
+        "mimetype": "plain/text"
+      },
+      "pl": {
+        "literal": "Mierzyć niezawodność i wydajność systemu przed, podczas i po integracji komponentów oraz podczas pracy i konserwacji systemu. Wybierać i używać narzędzi i technik monitorowania wydajności, takich jak specjalne oprogramowanie.",
+        "mimetype": "plain/text"
+      },
+      "da": {
+        "literal": "Måling af systemets pålidelighed og præstationer før, under og efter komponentintegration og under systemdrift og vedligeholdelse. Udvælge og anvende værktøjer og teknikker til overvågning af ydeevne, såsom særlig software.",
+        "mimetype": "plain/text"
+      },
+      "ro": {
+        "literal": "Măsoară fiabilitatea și performanța sistemului înainte, în timpul și după integrarea componentelor și în timpul funcționării și întreținerii sistemului. Selectează și utilizează instrumente și tehnici de monitorizare a performanței, cum ar fi software special.",
+        "mimetype": "plain/text"
+      },
+      "nl": {
+        "literal": "Systeembetrouwbaarheid en -prestaties meten voor, tijdens en na de integratie van onderdelen en tijdens de werking en het onderhoud van het systeem. Instrumenten en technieken voor het toezicht op de prestaties kiezen en gebruiken, zoals speciale software.",
+        "mimetype": "plain/text"
+      }
+    },
+    "status": "released",
+    "_links": {
+      "self": {
+        "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/9190d87f-9792-42e0-bb7f-64294a656bcd&language=en",
+        "uri": "http://data.europa.eu/esco/skill/9190d87f-9792-42e0-bb7f-64294a656bcd",
+        "title": "monitor system performance"
+      },
+      "isTopConceptInScheme": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/taxonomy?uri=http://data.europa.eu/esco/concept-scheme/member-skills&language=en",
+          "uri": "http://data.europa.eu/esco/concept-scheme/member-skills",
+          "title": "ESCO member skills"
+        }
+      ],
+      "isInScheme": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/taxonomy?uri=http://data.europa.eu/esco/concept-scheme/skills&language=en",
+          "uri": "http://data.europa.eu/esco/concept-scheme/skills",
+          "title": "ESCO skills"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/taxonomy?uri=http://data.europa.eu/esco/concept-scheme/member-skills&language=en",
+          "uri": "http://data.europa.eu/esco/concept-scheme/member-skills",
+          "title": "ESCO member skills"
+        }
+      ],
+      "hasSkillType": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/concept?uri=http://data.europa.eu/esco/skill-type/skill&language=en",
+          "uri": "http://data.europa.eu/esco/skill-type/skill",
+          "title": "skill"
+        }
+      ],
+      "hasReuseLevel": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/concept?uri=http://data.europa.eu/esco/skill-reuse-level/sector-specific&language=en",
+          "uri": "http://data.europa.eu/esco/skill-reuse-level/sector-specific",
+          "title": "sector specific skills and competences",
+          "code": "Level 3"
+        }
+      ],
+      "broaderHierarchyConcept": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/concept?uri=http://data.europa.eu/esco/skill/S2.8.1&language=en",
+          "uri": "http://data.europa.eu/esco/skill/S2.8.1",
+          "title": "monitoring, inspecting and testing equipment, systems and products",
+          "code": "S2.8.1"
+        }
+      ],
+      "hasEssentialSkill": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/cdd8b6b2-2fd9-453c-8d62-8a1dc6efcd49&language=en",
+          "uri": "http://data.europa.eu/esco/skill/cdd8b6b2-2fd9-453c-8d62-8a1dc6efcd49",
+          "title": "systems theory",
+          "skillType": "http://data.europa.eu/esco/skill-type/knowledge"
+        }
+      ],
+      "isEssentialForOccupation": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/9e2e6e1e-363b-4e1b-a673-7bc0f7343300&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/9e2e6e1e-363b-4e1b-a673-7bc0f7343300",
+          "title": "ICT system administrator"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/a6a0b60f-08da-4faa-bf54-942987efb471&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/a6a0b60f-08da-4faa-bf54-942987efb471",
+          "title": "ICT system analyst"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/b1c80369-067e-4041-84c8-dbe65640a5d8&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/b1c80369-067e-4041-84c8-dbe65640a5d8",
+          "title": "ICT consultant"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/0ce5a9f4-e00a-4bbe-b255-3c63407167a4&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/0ce5a9f4-e00a-4bbe-b255-3c63407167a4",
+          "title": "ICT security consultant"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/a6517365-211c-456d-aca4-1a0115c7b1e1&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/a6517365-211c-456d-aca4-1a0115c7b1e1",
+          "title": "e-learning architect"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/9729c0f3-c9bc-482e-ac59-a82ec3b67ba3&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/9729c0f3-c9bc-482e-ac59-a82ec3b67ba3",
+          "title": "data centre operator"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/bd9d395a-d587-45c6-8d72-ceef226df9e1&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/bd9d395a-d587-45c6-8d72-ceef226df9e1",
+          "title": "ICT system integration consultant"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/76ef0a87-6afe-4560-b5d0-9a086abe45c5&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/76ef0a87-6afe-4560-b5d0-9a086abe45c5",
+          "title": "ethical hacker"
+        }
+      ],
+      "isOptionalForOccupation": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/fd1c83b3-60d5-4a5f-86c5-94dc2842c246&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/fd1c83b3-60d5-4a5f-86c5-94dc2842c246",
+          "title": "integrated circuit design engineer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/04ba4d6c-957d-417f-bf63-5b9e015a9f86&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/04ba4d6c-957d-417f-bf63-5b9e015a9f86",
+          "title": "software analyst"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/c872187a-079b-413b-8503-7b5dd92abb88&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/c872187a-079b-413b-8503-7b5dd92abb88",
+          "title": "food regulatory advisor"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/a7c1d23d-aeca-4bee-9a08-5993ed98b135&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/a7c1d23d-aeca-4bee-9a08-5993ed98b135",
+          "title": "ICT system developer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/52d5edc9-7902-4cd3-8b06-6bd77c98d440&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/52d5edc9-7902-4cd3-8b06-6bd77c98d440",
+          "title": "ICT system tester"
+        }
+      ]
+    },
+    "_embedded": {
+      "ancestors": [
+        {
+          "title": "monitor system performance",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/9190d87f-9792-42e0-bb7f-64294a656bcd&language=en",
+              "uri": "http://data.europa.eu/esco/skill/9190d87f-9792-42e0-bb7f-64294a656bcd"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S2.8.1"
+          ]
+        },
+        {
+          "title": "monitoring, inspecting and testing equipment, systems and products",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S2.8.1&language=en",
+              "uri": "http://data.europa.eu/esco/skill/S2.8.1"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S2.8"
+          ]
+        },
+        {
+          "title": "monitoring, inspecting and testing",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S2.8&language=en",
+              "uri": "http://data.europa.eu/esco/skill/S2.8"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S2"
+          ]
+        },
+        {
+          "title": "information skills",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S2&language=en",
+              "uri": "http://data.europa.eu/esco/skill/S2"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S"
+          ]
+        },
+        {
+          "title": "skills",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S&language=en",
+              "uri": "http://data.europa.eu/esco/skill/S"
+            }
+          },
+          "parents": []
+        }
+      ]
+    }
+  }
+}

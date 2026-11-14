@@ -1,0 +1,48 @@
+{
+  "model": "gemini-3.8-flash",
+  "prompt_version": "cg-2.1",
+  "at": "2026-11-14T22:58:35.751Z",
+  "kind": "tasks",
+  "input_hash": "5cd7c88c41f7be367dec2be224b147a5e7d0daa5c0768da2058d42b99825422c",
+  "answer": {
+    "tasks": [
+      {
+        "line": "Build the internal operations dashboard frontend for inventory and workflow management.",
+        "queries": [
+          "front-end development",
+          "develop web user interface",
+          "dashboard design"
+        ]
+      },
+      {
+        "line": "Develop RESTful APIs to integrate the dashboard with relational SQL databases for operational data processing.",
+        "queries": [
+          "RESTful API",
+          "SQL",
+          "relational database management systems"
+        ]
+      },
+      {
+        "line": "Execute security hardening and performance benchmarking on the application to satisfy external compliance standards.",
+        "queries": [
+          "benchmark testing",
+          "application security testing",
+          "system performance analysis"
+        ]
+      }
+    ]
+  },
+  "usage": {
+    "promptTokenCount": 214,
+    "candidatesTokenCount": 99,
+    "totalTokenCount": 1195,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 214
+      }
+    ],
+    "thoughtsTokenCount": 882,
+    "serviceTier": "standard"
+  }
+}

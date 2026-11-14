@@ -1,0 +1,65 @@
+{
+  "model": "gemini-3.8-flash",
+  "prompt_version": "cg-2.1",
+  "at": "2026-11-14T23:00:28.102Z",
+  "kind": "evidence",
+  "input_hash": "0267ced716dee1bdfdd8d59a4d83a2c68145607bbe4afe70a3cae499848d3d84",
+  "answer": {
+    "people": [
+      {
+        "id": "b793bc620197b308cd85f77f",
+        "evidence": [
+          {
+            "uri": "http://data.europa.eu/esco/skill/1225b032-7ead-464c-9072-64097d9a4b62",
+            "story_index": 1,
+            "quote": "I built a spreadsheet that logged everything we threw away, by day and by reason.",
+            "mark": "spreadsheet"
+          },
+          {
+            "uri": "http://data.europa.eu/esco/skill/2b92a5b2-6758-4ee3-9fb4-b6387a55cc8f",
+            "story_index": 1,
+            "quote": "I compared the totals each week and found that most waste came from sandwiches prepared after lunch.",
+            "mark": "compared the totals"
+          },
+          {
+            "uri": "http://data.europa.eu/esco/skill/ab6265f2-a9bf-49e8-a9a5-67cbab4de38b",
+            "story_index": 2,
+            "quote": "I organised stock checks and showed six new colleagues how to update the ordering sheet.",
+            "mark": "organised stock checks"
+          },
+          {
+            "uri": "http://data.europa.eu/esco/skill/e54ff029-1ce9-447d-a5b2-eb7283a23e6e",
+            "story_index": 2,
+            "quote": "I organised stock checks and showed six new colleagues how to update the ordering sheet.",
+            "mark": "showed six new colleagues how to update the ordering sheet"
+          },
+          {
+            "uri": "http://data.europa.eu/esco/skill/04dfd9fb-e0cf-40f6-96c6-9d2280c4347e",
+            "story_index": 2,
+            "quote": "I wrote a one-page guide with examples of the mistakes we had made.",
+            "mark": "wrote a one-page guide"
+          },
+          {
+            "uri": "http://data.europa.eu/esco/skill/1973c966-f236-40c9-b2d4-5d71a89019be",
+            "story_index": 2,
+            "quote": "When the supplier changed its pack sizes, I updated the formulas and checked the next delivery.",
+            "mark": "updated the formulas"
+          }
+        ]
+      }
+    ]
+  },
+  "usage": {
+    "promptTokenCount": 3267,
+    "candidatesTokenCount": 521,
+    "totalTokenCount": 6155,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 3267
+      }
+    ],
+    "thoughtsTokenCount": 2367,
+    "serviceTier": "standard"
+  }
+}

@@ -1,0 +1,319 @@
+{
+  "url": "https://ec.europa.eu/esco/api/resource/skill?language=en&uri=http%3A%2F%2Fdata.europa.eu%2Fesco%2Fskill%2Fc881ddd2-9c0e-4743-bd24-36be650493dd",
+  "at": "2026-11-14T22:51:17.006Z",
+  "response": {
+    "className": "Skill",
+    "classId": "http://data.europa.eu/esco/model#Skill",
+    "uri": "http://data.europa.eu/esco/skill/c881ddd2-9c0e-4743-bd24-36be650493dd",
+    "title": "manage several projects",
+    "referenceLanguage": [
+      "en"
+    ],
+    "preferredLabel": {
+      "de": "mehrere Projekte leiten",
+      "no": "administrere flere prosjekter",
+      "en-us": "manage several projects",
+      "fi": "hallinnoida useita projekteja",
+      "pt": "gerir vários projetos",
+      "bg": "управляване на няколко проекти",
+      "lt": "valdyti kelis projektus",
+      "hr": "voditi nekoliko projekata",
+      "lv": "vadīt vairākus projektus",
+      "fr": "gérer plusieurs projets à la fois",
+      "hu": "számos projektet kezel",
+      "sk": "riadiť viaceré projekty",
+      "sl": "voditi več projektov",
+      "ga": "roinnt tionscadal a bhainistiú ag an aon am amháin",
+      "sv": "leda flera projekt",
+      "mt": "immaniġġjar ta’ diversi proġetti",
+      "el": "διαχείριση πολλών έργων",
+      "en": "manage several projects",
+      "is": "stýrir nokkrum verkefnum",
+      "it": "gestire numerosi progetti",
+      "es": "gestionar varios proyectos",
+      "et": "mitut projekti juhtima",
+      "cs": "řídit více projektů",
+      "ar": "إدارة العديد من المشاريع",
+      "pl": "zarządzać szeregiem projektów",
+      "ro": "administrează mai multe proiecte în paralel",
+      "da": "lede flere projekter",
+      "nl": "verschillende projecten beheren"
+    },
+    "alternativeLabel": {
+      "en": [
+        "managing several projects",
+        "manage projects",
+        "oversee several projects",
+        "maintain several projects",
+        "handle several projects"
+      ]
+    },
+    "description": {
+      "no": {
+        "literal": "Føre tilsyn med og styre utviklingen i flere uavhengige prosjekter. Sikre sammenheng og dra nytte av de ulike prosjektenes styrker for å sikre en samlet suksess og lønnsomhet.",
+        "mimetype": "plain/text"
+      },
+      "de": {
+        "literal": "Überwachen und Leiten der Entwicklung mehrerer unabhängiger Projekte. Gewährleisten der Kohärenz und Bündelung von Kräften bei den Projekten, um Erfolg und Rentabilität insgesamt zu sichern.",
+        "mimetype": "plain/text"
+      },
+      "fi": {
+        "literal": "Valvoa ja ohjata useiden itsenäisten projektien kehitystä. Varmistaa hankkeiden keskinäinen johdonmukaisuus ja vipuvaikutus, jotta voidaan varmistaa yleinen menestys ja kannattavuus.",
+        "mimetype": "plain/text"
+      },
+      "en-us": {
+        "literal": "Oversee and direct the development of several projects running independently. Ensure coherence and leveraging forces among projects in order to secure an overall success and profitability.",
+        "mimetype": "plain/text"
+      },
+      "pt": {
+        "literal": "Supervisionar e orientar o desenvolvimento de vários projetos que funcionam de forma independente. Assegurar a coerência e a mobilização de forças entre os projetos, a fim de assegurar um êxito e uma rendibilidade globais.",
+        "mimetype": "plain/text"
+      },
+      "bg": {
+        "literal": "Наблюдава и ръководи разработването на няколко проекта, които се изпълняват независимо един от друг. Осигурява съгласуваност и свръзване на усилията между проектите, за да осигурява цялостен успех и рентабилност.",
+        "mimetype": "plain/text"
+      },
+      "lt": {
+        "literal": "Prižiūrėti ir vadovauti kelių nepriklausomai vykdomų projektų plėtrai. Užtikrinti projektų nuoseklumą ir sverto poveikį, kad būtų užtikrinta bendra sėkmė ir pelningumas.",
+        "mimetype": "plain/text"
+      },
+      "lv": {
+        "literal": "Pārraudzīt un virzīt vairāku neatkarīgu projektu izstrādi. Nodrošināt projektu saskaņotību un spēku izlīdzinājumu, lai nodrošinātu vispārējus panākumus un ienesīgumu.",
+        "mimetype": "plain/text"
+      },
+      "hr": {
+        "literal": "Nadzirati i usmjeravati napredak nekoliko projekata koji se odvijaju neovisno. Osigurati dosljednost i zajedničku primjenu snaga u različitim projektima kako bi se osigurao ukupni uspjeh i profitabilnost.",
+        "mimetype": "plain/text"
+      },
+      "fr": {
+        "literal": "Superviser et régir l’élaboration de plusieurs projets qui ne sont pas liés. Veiller à la cohérence des projets et tirer profit de leurs forces afin de garantir une rentabilité et une réussite globales.",
+        "mimetype": "plain/text"
+      },
+      "hu": {
+        "literal": "Több, egymástól függetlenül futó projektet felügyel és irányít. Biztosítja a projektek egységességét és kiegyenlítő erejét az általános siker és a nyereségesség biztosítása érdekében.",
+        "mimetype": "plain/text"
+      },
+      "sk": {
+        "literal": "Dohliadať na rozvoj niekoľkých nezávisle prebiehajúcich projektov a usmerňovať ich. Zabezpečiť súdržnosť a pákový efekt medzi projektmi s cieľom zabezpečiť celkový úspech a ziskovosť.",
+        "mimetype": "plain/text"
+      },
+      "sl": {
+        "literal": "Nadzorovati in usmerjati razvoj več projektov, ki potekajo neodvisno. Zagotoviti skladnost in učinek finančnih vzvodov med projekti za zagotovitev splošne uspešnosti in donosnosti.",
+        "mimetype": "plain/text"
+      },
+      "ga": {
+        "literal": "Maoirseacht agus stiúradh a dhéanamh ar fhorbairt roinnt tionscadal atá ar rith go neamhspleách ar a chéile. Comhleanúnachas agus fórsaí giarála i measc na dtionscadal a áirithiú chun rath agus brabúsacht ar an iomlán a bhaint amach.",
+        "mimetype": "plain/text"
+      },
+      "sv": {
+        "literal": "Övervaka och styra utvecklingen av flera projekt som drivs självständigt. Säkerställa samstämmighet och mobilisering av krafter mellan projekten för att säkerställa övergripande framgång och lönsamhet.",
+        "mimetype": "plain/text"
+      },
+      "el": {
+        "literal": "Επίβλεψη και κατεύθυνση ανάπτυξης διαφόρων έργων που βρίσκονται σε ισχύ ανεξάρτητα. Διασφάλιση της συνοχής των έργων και αξιοποίηση των δυνάμεών τους, προκειμένου να εξασφαλιστεί καθολική επιτυχία και κερδοφορία.",
+        "mimetype": "plain/text"
+      },
+      "mt": {
+        "literal": "Issorvelja u mexxi l-iżvilupp ta’ diversi proġetti li jaħdmu b’mod indipendenti. Assigura koerenza u forzi ta’ ingranaġġ fost il-proġetti sabiex tiżgura suċċess u profittabbiltà ġenerali.",
+        "mimetype": "plain/text"
+      },
+      "en": {
+        "literal": "Oversee and direct the development of several projects running independently. Ensure coherence and leveraging forces among projects in order to secure an overall success and profitability.",
+        "mimetype": "plain/text"
+      },
+      "is": {
+        "literal": "Hefur umsjón með og stýrir þróun nokkurra verkefna sem eru rekin sjálfstætt. Tryggir samfellu og vogunarkrafta meðal verkefna til að tryggja heildar árangur og arðsemi.",
+        "mimetype": "plain/text"
+      },
+      "it": {
+        "literal": "Sovrintendere e dirigere lo sviluppo di vari progetti gestiti in modo indipendente. Garantire la coerenza e l’effetto leva tra i progetti al fine di garantire un successo e una redditività globali.",
+        "mimetype": "plain/text"
+      },
+      "es": {
+        "literal": "Supervisar y dirigir el desarrollo de varios proyectos que se ejecuten de manera simultánea e independiente. Garantizar la coherencia y que se le saca el máximo partido posible al esfuerzo del personal que trabaja en los diferentes los proyectos a fin de conseguir que todos se completen de forma satisfactoria y rentable.",
+        "mimetype": "plain/text"
+      },
+      "et": {
+        "literal": "Mitme üksteisest sõltumatu projekti järelevalve ja suunamine. Projektidevahelise kooskõla ja võimenduse tagamine, et saavutada üldine edu ja kasumlikkus.",
+        "mimetype": "plain/text"
+      },
+      "cs": {
+        "literal": "Dohlížet na rozvoj několika souběžně probíhajících projektů a řídit je. Zajistit soudržnost a rozložení úsilí mezi projekty s cílem zajistit celkový úspěch a ziskovost.",
+        "mimetype": "plain/text"
+      },
+      "ar": {
+        "literal": "الإشراف على تطوير العديد من المشاريع التي تعمل مُستقلّةً وتوجيهها. ضمان الاتساق والاستفادة من القوى بين المشاريع من أجل ضمان النّجاح الشامل والرّبح.",
+        "mimetype": "plain/text"
+      },
+      "pl": {
+        "literal": "Nadzorować i kierować rozwojem kilku projektów w sposób niezależny. Zapewniać spójność i efekt dźwigni wśród projektów w celu osiągnięcia ogólnego sukcesu i rentowności.",
+        "mimetype": "plain/text"
+      },
+      "ro": {
+        "literal": "Supraveghează și direcționează dezvoltarea mai multor proiecte care se desfășoară în mod independent. Asigură coerența și efectul de levier între proiecte în vederea asigurării succesului și a rentabilității în ansamblu.",
+        "mimetype": "plain/text"
+      },
+      "da": {
+        "literal": "Føre tilsyn med og lede udviklingen af flere projekter, der kører uafhængigt af hinanden. Sikre sammenhæng og tilpasse kræfterne mellem projekter for at sikre en overordnet succes og rentabilitet.",
+        "mimetype": "plain/text"
+      },
+      "nl": {
+        "literal": "Toezicht houden op en leiding geven aan de ontwikkeling van verschillende projecten die onafhankelijk van elkaar lopen. Zorgen voor samenhang en hefboomwerking tussen de projecten om het algehele succes en de rentabiliteit van de projecten te waarborgen.",
+        "mimetype": "plain/text"
+      }
+    },
+    "status": "released",
+    "_links": {
+      "self": {
+        "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/c881ddd2-9c0e-4743-bd24-36be650493dd&language=en",
+        "uri": "http://data.europa.eu/esco/skill/c881ddd2-9c0e-4743-bd24-36be650493dd",
+        "title": "manage several projects"
+      },
+      "isTopConceptInScheme": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/taxonomy?uri=http://data.europa.eu/esco/concept-scheme/member-skills&language=en",
+          "uri": "http://data.europa.eu/esco/concept-scheme/member-skills",
+          "title": "ESCO member skills"
+        }
+      ],
+      "isInScheme": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/taxonomy?uri=http://data.europa.eu/esco/concept-scheme/member-skills&language=en",
+          "uri": "http://data.europa.eu/esco/concept-scheme/member-skills",
+          "title": "ESCO member skills"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/taxonomy?uri=http://data.europa.eu/esco/concept-scheme/skills&language=en",
+          "uri": "http://data.europa.eu/esco/concept-scheme/skills",
+          "title": "ESCO skills"
+        }
+      ],
+      "hasSkillType": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/concept?uri=http://data.europa.eu/esco/skill-type/skill&language=en",
+          "uri": "http://data.europa.eu/esco/skill-type/skill",
+          "title": "skill"
+        }
+      ],
+      "hasReuseLevel": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/concept?uri=http://data.europa.eu/esco/skill-reuse-level/cross-sector&language=en",
+          "uri": "http://data.europa.eu/esco/skill-reuse-level/cross-sector",
+          "title": "cross-sector skills and competences",
+          "code": "Level 2"
+        }
+      ],
+      "broaderHierarchyConcept": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/concept?uri=http://data.europa.eu/esco/skill/S4.2.1&language=en",
+          "uri": "http://data.europa.eu/esco/skill/S4.2.1",
+          "title": "directing operational activities",
+          "code": "S4.2.1"
+        }
+      ],
+      "narrowerSkill": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/c5a135be-218d-48e6-a422-5225a576dcd8&language=en",
+          "uri": "http://data.europa.eu/esco/skill/c5a135be-218d-48e6-a422-5225a576dcd8",
+          "title": "manage project metrics",
+          "skillType": "http://data.europa.eu/esco/skill-type/skill"
+        }
+      ],
+      "hasOptionalSkill": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/237db40b-4600-47c0-837f-4a2c4f3014ab&language=en",
+          "uri": "http://data.europa.eu/esco/skill/237db40b-4600-47c0-837f-4a2c4f3014ab",
+          "title": "project management principles",
+          "skillType": "http://data.europa.eu/esco/skill-type/knowledge"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/7111b95d-0ce3-441a-9d92-4c75d05c4388&language=en",
+          "uri": "http://data.europa.eu/esco/skill/7111b95d-0ce3-441a-9d92-4c75d05c4388",
+          "title": "project management",
+          "skillType": "http://data.europa.eu/esco/skill-type/knowledge"
+        }
+      ],
+      "isEssentialForOccupation": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/c94f3565-d987-431f-a46b-6f4e018e0bd7&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/c94f3565-d987-431f-a46b-6f4e018e0bd7",
+          "title": "programme manager"
+        }
+      ],
+      "isOptionalForOccupation": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/d6ef013f-57e9-4100-bbe5-3e4930664dee&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/d6ef013f-57e9-4100-bbe5-3e4930664dee",
+          "title": "social services policy officer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/c6bd511a-d966-4df9-a48e-4f800354f268&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/c6bd511a-d966-4df9-a48e-4f800354f268",
+          "title": "operations manager"
+        }
+      ]
+    },
+    "_embedded": {
+      "ancestors": [
+        {
+          "title": "manage several projects",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/c881ddd2-9c0e-4743-bd24-36be650493dd&language=en",
+              "uri": "http://data.europa.eu/esco/skill/c881ddd2-9c0e-4743-bd24-36be650493dd"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S4.2.1"
+          ]
+        },
+        {
+          "title": "directing operational activities",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S4.2.1&language=en",
+              "uri": "http://data.europa.eu/esco/skill/S4.2.1"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S4.2"
+          ]
+        },
+        {
+          "title": "organising, planning and scheduling work and activities",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S4.2&language=en",
+              "uri": "http://data.europa.eu/esco/skill/S4.2"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S4"
+          ]
+        },
+        {
+          "title": "management skills",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S4&language=en",
+              "uri": "http://data.europa.eu/esco/skill/S4"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S"
+          ]
+        },
+        {
+          "title": "skills",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S&language=en",
+              "uri": "http://data.europa.eu/esco/skill/S"
+            }
+          },
+          "parents": []
+        }
+      ]
+    }
+  }
+}

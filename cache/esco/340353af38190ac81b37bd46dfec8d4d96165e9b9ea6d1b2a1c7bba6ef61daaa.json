@@ -1,0 +1,407 @@
+{
+  "url": "https://ec.europa.eu/esco/api/resource/skill?language=en&uri=http%3A%2F%2Fdata.europa.eu%2Fesco%2Fskill%2F143769cb-b61e-47d8-a61e-eedfbec1016c",
+  "at": "2026-11-14T23:00:09.755Z",
+  "response": {
+    "className": "Skill",
+    "classId": "http://data.europa.eu/esco/model#Skill",
+    "uri": "http://data.europa.eu/esco/skill/143769cb-b61e-47d8-a61e-eedfbec1016c",
+    "title": "business intelligence",
+    "referenceLanguage": [
+      "en"
+    ],
+    "preferredLabel": {
+      "no": "analyse av forretningsdata",
+      "de": "Business-Intelligence",
+      "en-us": "business intelligence",
+      "fi": "liiketoimintatiedon hallinta",
+      "pt": "inteligência empresarial",
+      "bg": "търговско разузнаване",
+      "lt": "verslo analitika",
+      "hr": "poslovna inteligencija",
+      "lv": "biznesa informācija",
+      "fr": "informatique décisionnelle",
+      "hu": "üzleti intelligencia",
+      "sk": "podnikateľské analytické nástroje",
+      "sl": "poslovno obveščanje",
+      "ga": "éirim ghnó",
+      "sv": "business intelligence",
+      "el": "εργαλεία επεξεργασίας επιχειρησιακών δεδομένων",
+      "mt": "intelliġenza dwar in-negozju",
+      "en": "business intelligence",
+      "is": "viðskiptaupplýsingar",
+      "it": "business intelligence",
+      "es": "inteligencia empresarial",
+      "et": "äriintellekt",
+      "cs": "business intelligence",
+      "ar": "ذكاء الأعمال",
+      "pl": "rozwiązania business intelligence",
+      "da": "business intelligence",
+      "ro": "inteligența afacerii",
+      "nl": "business intelligence"
+    },
+    "alternativeLabel": {
+      "cs": [
+        "podnikové zpravodajství",
+        "business inteligence",
+        "obchodní zpravodajství"
+      ],
+      "mt": [
+        "informazzjoni dwar in-negozju",
+        "intelliġenza kummerċjali",
+        "intelliġenza tan-negozju",
+        "intelligence dwar in-negozju",
+        "intelliġenza b'rabta man-negozju"
+      ],
+      "nl": [
+        "bedrijfsinformatie",
+        "zakelijke informatie",
+        "bedrijfsinformatie verwerken",
+        "zakelijke kennis",
+        "bedrijfskennis",
+        "branchekennis"
+      ]
+    },
+    "description": {
+      "de": {
+        "literal": "Instrumente zur Umwandlung großer Mengen von Rohdaten in relevante und hilfreiche Geschäftsinformationen.",
+        "mimetype": "plain/text"
+      },
+      "no": {
+        "literal": "Verktøy som brukes til å omdanne store mengder rådata til relevante og nyttige forretningsdata.",
+        "mimetype": "plain/text"
+      },
+      "en-us": {
+        "literal": "The tools used to transform large amounts of raw data into relevant and helpful business information.",
+        "mimetype": "plain/text"
+      },
+      "fi": {
+        "literal": "Välineet, joilla suuri määrä raakatietoja muunnetaan olennaisiksi ja hyödyllisiksi liiketoimintatiedoiksi.",
+        "mimetype": "plain/text"
+      },
+      "pt": {
+        "literal": "As ferramentas utilizadas para transformar grandes quantidades de dados em bruto em informações comerciais pertinentes e úteis.",
+        "mimetype": "plain/text"
+      },
+      "bg": {
+        "literal": "Инструментите, използвани за преобразуване на големи количества необработени данни в приложима и полезна търговска информация.",
+        "mimetype": "plain/text"
+      },
+      "lt": {
+        "literal": "Priemonės, naudojamos siekiant didelius neapdorotų duomenų kiekius panaudoti svarbiai ir naudingai verslo informacijai.",
+        "mimetype": "plain/text"
+      },
+      "lv": {
+        "literal": "Instrumenti, ko izmanto, lai pārveidotu lielu daudzumu jēldatu par būtisku un noderīgu darījumu informāciju.",
+        "mimetype": "plain/text"
+      },
+      "hr": {
+        "literal": "Alati koji se upotrebljavaju za pretvaranje velikih količina neobrađenih podataka u relevantne i korisne poslovne informacije.",
+        "mimetype": "plain/text"
+      },
+      "fr": {
+        "literal": "Outils utilisés pour transformer de grandes quantités de données brutes en informations commerciales pertinentes et utiles.",
+        "mimetype": "plain/text"
+      },
+      "hu": {
+        "literal": "A nagy mennyiségű nyers adatok releváns és hasznos üzleti információkká átalakításának eszközei.",
+        "mimetype": "plain/text"
+      },
+      "sk": {
+        "literal": "Nástroje používané na transformáciu veľkého množstva nespracovaných údajov na relevantné a užitočné obchodné informácie.",
+        "mimetype": "plain/text"
+      },
+      "sl": {
+        "literal": "Orodja, ki se uporabljajo za preoblikovanje velikih količin neobdelanih podatkov v ustrezne in koristne poslovne informacije.",
+        "mimetype": "plain/text"
+      },
+      "ga": {
+        "literal": "Na huirlisí a úsáidtear chun méideanna móra de shonraí loma a chlaochlú ina bhfaisnéis ghnó ábhartha agus úsáideach.",
+        "mimetype": "plain/text"
+      },
+      "sv": {
+        "literal": "De verktyg som används för att omvandla stora mängder rådata till relevant och användbar affärsinformation.",
+        "mimetype": "plain/text"
+      },
+      "mt": {
+        "literal": "L-għodod użati biex jittrasformaw ammonti kbar ta’data mhux ipproċessata f’informazzjoni tan-negozju rilevanti u ta’ għajnuna.",
+        "mimetype": "plain/text"
+      },
+      "el": {
+        "literal": "Τα εργαλεία που χρησιμοποιούνται για τον μετασχηματισμό μεγάλων ποσοτήτων ανεπεξέργαστων δεδομένων σε σχετικές και χρήσιμες επιχειρηματικές πληροφορίες.",
+        "mimetype": "plain/text"
+      },
+      "en": {
+        "literal": "The tools used to transform large amounts of raw data into relevant and helpful business information.",
+        "mimetype": "plain/text"
+      },
+      "is": {
+        "literal": "Tólin sem notuð eru til að umbreyta miklu magni af hráum gögnum í viðeigandi og gagnlegar viðskiptaupplýsingar.",
+        "mimetype": "plain/text"
+      },
+      "it": {
+        "literal": "Gli strumenti utilizzati per trasformare grandi quantità di dati grezzi in informazioni commerciali pertinenti e utili.",
+        "mimetype": "plain/text"
+      },
+      "es": {
+        "literal": "Las herramientas utilizadas para transformar grandes cantidades de datos sin procesar en información pertinente y útil para las empresas.",
+        "mimetype": "plain/text"
+      },
+      "et": {
+        "literal": "Vahendid, mida kasutatakse suures koguses toorandmete teisendamiseks oluliseks ja kasulikuks äriteabeks.",
+        "mimetype": "plain/text"
+      },
+      "cs": {
+        "literal": "Nástroje používané k přeměně velkého množství nezpracovaných údajů na relevantní a užitečné obchodní informace.",
+        "mimetype": "plain/text"
+      },
+      "ar": {
+        "literal": "الأدوات المستخدمة لتحويل كميات كبيرة من البيانات الأولية إلى معلومات عمل ذات صلة ومفيدة.",
+        "mimetype": "plain/text"
+      },
+      "pl": {
+        "literal": "Narzędzia wykorzystywane do przekształcania dużych ilości surowych danych w istotne i przydatne informacje biznesowe.",
+        "mimetype": "plain/text"
+      },
+      "da": {
+        "literal": "De værktøjer, der anvendes til at omdanne store mængder rådata til relevante og nyttige forretningsoplysninger.",
+        "mimetype": "plain/text"
+      },
+      "ro": {
+        "literal": "Instrumentele utilizate pentru a transforma cantități mari de date brute în informații comerciale relevante și utile.",
+        "mimetype": "plain/text"
+      },
+      "nl": {
+        "literal": "De instrumenten die worden gebruikt om grote hoeveelheden ruwe gegevens om te zetten in relevante en nuttige bedrijfsinformatie.",
+        "mimetype": "plain/text"
+      }
+    },
+    "status": "released",
+    "_links": {
+      "self": {
+        "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/143769cb-b61e-47d8-a61e-eedfbec1016c&language=en",
+        "uri": "http://data.europa.eu/esco/skill/143769cb-b61e-47d8-a61e-eedfbec1016c",
+        "title": "business intelligence"
+      },
+      "isTopConceptInScheme": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/taxonomy?uri=http://data.europa.eu/esco/concept-scheme/member-skills&language=en",
+          "uri": "http://data.europa.eu/esco/concept-scheme/member-skills",
+          "title": "ESCO member skills"
+        }
+      ],
+      "isInScheme": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/taxonomy?uri=http://data.europa.eu/esco/concept-scheme/member-skills&language=en",
+          "uri": "http://data.europa.eu/esco/concept-scheme/member-skills",
+          "title": "ESCO member skills"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/taxonomy?uri=http://data.europa.eu/esco/concept-scheme/skills&language=en",
+          "uri": "http://data.europa.eu/esco/concept-scheme/skills",
+          "title": "ESCO skills"
+        }
+      ],
+      "hasSkillType": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/concept?uri=http://data.europa.eu/esco/skill-type/knowledge&language=en",
+          "uri": "http://data.europa.eu/esco/skill-type/knowledge",
+          "title": "knowledge"
+        }
+      ],
+      "hasReuseLevel": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/concept?uri=http://data.europa.eu/esco/skill-reuse-level/cross-sector&language=en",
+          "uri": "http://data.europa.eu/esco/skill-reuse-level/cross-sector",
+          "title": "cross-sector skills and competences",
+          "code": "Level 2"
+        }
+      ],
+      "broaderHierarchyConcept": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/concept?uri=http://data.europa.eu/esco/isced-f/0413&language=en",
+          "uri": "http://data.europa.eu/esco/isced-f/0413",
+          "title": "management and administration"
+        }
+      ],
+      "isEssentialForOccupation": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/16605833-c196-48d7-a6f5-bbdebdc353df&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/16605833-c196-48d7-a6f5-bbdebdc353df",
+          "title": "ICT presales engineer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/810e5e67-acd5-499a-b307-cf5bea330859&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/810e5e67-acd5-499a-b307-cf5bea330859",
+          "title": "ICT information and knowledge manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/4e4a1aa1-ca53-406e-9ca6-889d4621a0ed&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/4e4a1aa1-ca53-406e-9ca6-889d4621a0ed",
+          "title": "big data archive librarian"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/d3edb8f8-3a06-47a0-8fb9-9b212c006aa2&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/d3edb8f8-3a06-47a0-8fb9-9b212c006aa2",
+          "title": "data analyst"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/812c217d-32b7-4f6a-9faf-993d3577ac7f&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/812c217d-32b7-4f6a-9faf-993d3577ac7f",
+          "title": "knowledge engineer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/586fe133-1987-41f4-b89a-f39d4bc58e1e&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/586fe133-1987-41f4-b89a-f39d4bc58e1e",
+          "title": "eBusiness manager"
+        }
+      ],
+      "isOptionalForOccupation": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/6fcf4638-e7c7-4978-9302-9a7b63a3d57c&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/6fcf4638-e7c7-4978-9302-9a7b63a3d57c",
+          "title": "marketing manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/60082a99-d8ef-4e84-9290-78902681b6ed&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/60082a99-d8ef-4e84-9290-78902681b6ed",
+          "title": "business analyst"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/e3229e40-f571-4b26-baca-29edc8fe313e&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/e3229e40-f571-4b26-baca-29edc8fe313e",
+          "title": "computer scientist"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/8c57af09-719c-42b3-be40-6ed4946236cc&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/8c57af09-719c-42b3-be40-6ed4946236cc",
+          "title": "database administrator"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/3d190639-90f8-4402-b1b3-a104a17e0d67&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/3d190639-90f8-4402-b1b3-a104a17e0d67",
+          "title": "database integrator"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/fe0fa514-b48d-4a53-9757-a283c0baacf0&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/fe0fa514-b48d-4a53-9757-a283c0baacf0",
+          "title": "ICT business analyst"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/7b1b5da8-573a-49bb-a38e-68725a949f4f&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/7b1b5da8-573a-49bb-a38e-68725a949f4f",
+          "title": "chief technology officer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/64e38ce7-3901-4261-bfee-77c7a77397f2&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/64e38ce7-3901-4261-bfee-77c7a77397f2",
+          "title": "policy manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/207d7b18-6540-432e-8aa6-785ed434572f&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/207d7b18-6540-432e-8aa6-785ed434572f",
+          "title": "business intelligence manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/6a29d804-f775-446c-bec7-35fc4e28ac97&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/6a29d804-f775-446c-bec7-35fc4e28ac97",
+          "title": "business consultant"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/57b459d4-655c-4053-b189-3c249ce33faf&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/57b459d4-655c-4053-b189-3c249ce33faf",
+          "title": "ICT business development manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/35553663-deab-4d9a-bf22-15c1625d28e8&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/35553663-deab-4d9a-bf22-15c1625d28e8",
+          "title": "ICT intelligent systems designer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/137b1d11-c4bc-4016-89ba-45345d4c71f0&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/137b1d11-c4bc-4016-89ba-45345d4c71f0",
+          "title": "online community manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/e297ec12-4712-40a4-ad98-ba004cacb205&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/e297ec12-4712-40a4-ad98-ba004cacb205",
+          "title": "chief data officer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/258e46f9-0075-4a2e-adae-1ff0477e0f30&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/258e46f9-0075-4a2e-adae-1ff0477e0f30",
+          "title": "data scientist"
+        }
+      ],
+      "isOptionalForSkill": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/4ddf5204-95f5-4be2-ad35-571e2f493ae5&language=en",
+          "uri": "http://data.europa.eu/esco/skill/4ddf5204-95f5-4be2-ad35-571e2f493ae5",
+          "title": "apply business acumen",
+          "skillType": "http://data.europa.eu/esco/skill-type/skill"
+        }
+      ]
+    },
+    "_embedded": {
+      "ancestors": [
+        {
+          "title": "business intelligence",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/143769cb-b61e-47d8-a61e-eedfbec1016c&language=en",
+              "uri": "http://data.europa.eu/esco/skill/143769cb-b61e-47d8-a61e-eedfbec1016c"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/isced-f/0413"
+          ]
+        },
+        {
+          "title": "management and administration",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/isced-f/0413&language=en",
+              "uri": "http://data.europa.eu/esco/isced-f/0413"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/isced-f/041"
+          ]
+        },
+        {
+          "title": "business and administration",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/isced-f/041&language=en",
+              "uri": "http://data.europa.eu/esco/isced-f/041"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/isced-f/04"
+          ]
+        },
+        {
+          "title": "business, administration and law",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/isced-f/04&language=en",
+              "uri": "http://data.europa.eu/esco/isced-f/04"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/K"
+          ]
+        },
+        {
+          "title": "knowledge",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/K&language=en",
+              "uri": "http://data.europa.eu/esco/skill/K"
+            }
+          },
+          "parents": []
+        }
+      ]
+    }
+  }
+}

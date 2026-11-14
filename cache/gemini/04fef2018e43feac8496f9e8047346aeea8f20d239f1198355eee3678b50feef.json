@@ -1,0 +1,226 @@
+{
+  "model": "gemini-3.8-flash",
+  "prompt_version": "cg-2.1",
+  "at": "2026-11-14T22:57:14.148Z",
+  "kind": "fixture-evidence",
+  "input_hash": "04fef2018e43feac8496f9e8047346aeea8f20d239f1198355eee3678b50feef",
+  "answer": {
+    "people": [
+      {
+        "id": "2bde8f9b764938923b5fd08e",
+        "evidence": [
+          {
+            "uri": "http://data.europa.eu/esco/skill/1973c966-f236-40c9-b2d4-5d71a89019be",
+            "story_index": 1,
+            "quote": "I built a spreadsheet that logged everything we threw away, by day and by reason.",
+            "mark": "built a spreadsheet"
+          },
+          {
+            "uri": "http://data.europa.eu/esco/skill/2b92a5b2-6758-4ee3-9fb4-b6387a55cc8f",
+            "story_index": 1,
+            "quote": "I compared the totals each week and found that most waste came from sandwiches prepared after lunch.",
+            "mark": "compared the totals each week and found"
+          },
+          {
+            "uri": "http://data.europa.eu/esco/skill/ab6265f2-a9bf-49e8-a9a5-67cbab4de38b",
+            "story_index": 2,
+            "quote": "I organised stock checks and showed six new colleagues how to update the ordering sheet.",
+            "mark": "organised stock checks"
+          },
+          {
+            "uri": "http://data.europa.eu/esco/skill/e54ff029-1ce9-447d-a5b2-eb7283a23e6e",
+            "story_index": 2,
+            "quote": "I organised stock checks and showed six new colleagues how to update the ordering sheet.",
+            "mark": "showed six new colleagues how to update the ordering sheet"
+          },
+          {
+            "uri": "http://data.europa.eu/esco/skill/04dfd9fb-e0cf-40f6-96c6-9d2280c4347e",
+            "story_index": 2,
+            "quote": "I wrote a one-page guide with examples of the mistakes we had made.",
+            "mark": "wrote a one-page guide"
+          }
+        ]
+      },
+      {
+        "id": "f20798aa7d25447fbb9523d3",
+        "evidence": [
+          {
+            "uri": "http://data.europa.eu/esco/skill/0d6714c6-720e-4985-9791-5ab85d28da79",
+            "story_index": 0,
+            "quote": "I collected brake and battery measurements in a bicycle repair workshop.",
+            "mark": "collected brake and battery measurements"
+          },
+          {
+            "uri": "http://data.europa.eu/esco/skill/81a2db2c-7e55-44d0-9cd9-74c25147d7cd",
+            "story_index": 1,
+            "quote": "I compared the results from repeated battery tests and plotted the readings by temperature.",
+            "mark": "compared the results from repeated battery tests and plotted the readings"
+          },
+          {
+            "uri": "http://data.europa.eu/esco/skill/04dfd9fb-e0cf-40f6-96c6-9d2280c4347e",
+            "story_index": 2,
+            "quote": "I wrote down the measurement setup with a diagram, the tool settings and the order of the checks.",
+            "mark": "wrote down the measurement setup with a diagram"
+          }
+        ]
+      },
+      {
+        "id": "903b431dfdc3012ad46bb58f",
+        "evidence": [
+          {
+            "uri": "http://data.europa.eu/esco/skill/ab6265f2-a9bf-49e8-a9a5-67cbab4de38b",
+            "story_index": 0,
+            "quote": "I kept the stock records at an equipment rental desk.",
+            "mark": "kept the stock records"
+          },
+          {
+            "uri": "http://data.europa.eu/esco/skill/1973c966-f236-40c9-b2d4-5d71a89019be",
+            "story_index": 0,
+            "quote": "I built a spreadsheet listing each item, its return date and its condition, then checked it against the shelf every Friday.",
+            "mark": "built a spreadsheet"
+          },
+          {
+            "uri": "http://data.europa.eu/esco/skill/15a33d76-4640-438d-ae64-fdc0c1d3eebc",
+            "story_index": 1,
+            "quote": "I handled customer questions when a rented tool stopped working.",
+            "mark": "handled customer questions"
+          },
+          {
+            "uri": "http://data.europa.eu/esco/skill/e54ff029-1ce9-447d-a5b2-eb7283a23e6e",
+            "story_index": 2,
+            "quote": "I taught two new colleagues how to check returns and update the stock sheet.",
+            "mark": "taught two new colleagues how to check returns and update the stock sheet"
+          }
+        ]
+      },
+      {
+        "id": "407d8dc7008eae4ab5abb84c",
+        "evidence": [
+          {
+            "uri": "http://data.europa.eu/esco/skill/56042303-972b-41be-9310-58467599ff7e",
+            "story_index": 1,
+            "quote": "I mapped how a repair request moved between the reception desk and the volunteer fixing it.",
+            "mark": "mapped how a repair request moved"
+          },
+          {
+            "uri": "http://data.europa.eu/esco/skill/e54ff029-1ce9-447d-a5b2-eb7283a23e6e",
+            "story_index": 2,
+            "quote": "I taught new volunteers how to record a repair and find the safety instructions.",
+            "mark": "taught new volunteers"
+          }
+        ]
+      },
+      {
+        "id": "097b3d0d80767be40350fde0",
+        "evidence": [
+          {
+            "uri": "http://data.europa.eu/esco/skill/9190d87f-9792-42e0-bb7f-64294a656bcd",
+            "story_index": 0,
+            "quote": "I monitored a community media server during live broadcasts.",
+            "mark": "monitored a community media server"
+          },
+          {
+            "uri": "http://data.europa.eu/esco/skill/6833e58b-eceb-4599-9375-1b7e6ec64087",
+            "story_index": 1,
+            "quote": "Former volunteers still had access, so I checked the list with the studio manager and removed accounts after approval.",
+            "mark": "removed accounts after approval"
+          },
+          {
+            "uri": "http://data.europa.eu/esco/skill/04dfd9fb-e0cf-40f6-96c6-9d2280c4347e",
+            "story_index": 2,
+            "quote": "I wrote a runbook for the person on duty when the media server stopped responding.",
+            "mark": "wrote a runbook"
+          }
+        ]
+      },
+      {
+        "id": "950418b9ca761b058ddda4ad",
+        "evidence": [
+          {
+            "uri": "http://data.europa.eu/esco/skill/6a322874-e32f-4cd8-9683-badce67a7f73",
+            "story_index": 0,
+            "quote": "I wrote automated browser tests for a sports club membership service.",
+            "mark": "wrote automated browser tests"
+          },
+          {
+            "uri": "http://data.europa.eu/esco/skill/81a2db2c-7e55-44d0-9cd9-74c25147d7cd",
+            "story_index": 2,
+            "quote": "I collected the results from several test runs and grouped failures by screen and browser.",
+            "mark": "collected the results from several test runs and grouped failures"
+          }
+        ]
+      },
+      {
+        "id": "3ae28c172cbd3176fe3577f6",
+        "evidence": [
+          {
+            "uri": "http://data.europa.eu/esco/skill/29fb0fb5-dfc4-4098-ac9b-3a712000f48f",
+            "story_index": 0,
+            "quote": "I combined monthly order files into a PostgreSQL database for a small distributor.",
+            "mark": "combined monthly order files into a PostgreSQL database"
+          },
+          {
+            "uri": "http://data.europa.eu/esco/skill/598de5b0-5b58-4ea7-8058-a4bc4d18c742",
+            "story_index": 0,
+            "quote": "I wrote SQL queries to compare the old totals with the new database.",
+            "mark": "SQL queries"
+          },
+          {
+            "uri": "http://data.europa.eu/esco/skill/fbafa41f-cd05-4109-a649-8b44d306d779",
+            "story_index": 2,
+            "quote": "I drew a data model showing customers, orders and returns and explained it to the finance team.",
+            "mark": "drew a data model"
+          }
+        ]
+      },
+      {
+        "id": "57526483d96ea6e7e5015212",
+        "evidence": [
+          {
+            "uri": "http://data.europa.eu/esco/skill/3cd569a2-4f88-4c1e-9995-8dce8c5e51a7",
+            "story_index": 0,
+            "quote": "I built a booking form for our community workshop using JavaScript and a small web server.",
+            "mark": "JavaScript"
+          },
+          {
+            "uri": "http://data.europa.eu/esco/skill/797a4416-0b8d-44f3-8fcd-eb10bd0be6b4",
+            "story_index": 0,
+            "quote": "I first drew the screens with the volunteers, then made a working prototype they could try on their phones.",
+            "mark": "made a working prototype"
+          },
+          {
+            "uri": "http://data.europa.eu/esco/skill/95ee5e38-5c1e-4cd2-a21d-6921390025a9",
+            "story_index": 0,
+            "quote": "We changed the form after watching where people got stuck.",
+            "mark": "watching where people got stuck"
+          },
+          {
+            "uri": "http://data.europa.eu/esco/skill/2522a6ce-3202-4ac8-9f5b-b9cb5a3a83a1",
+            "story_index": 1,
+            "quote": "I fixed the check and wrote test cases for repeated requests and missing fields.",
+            "mark": "fixed the check"
+          },
+          {
+            "uri": "http://data.europa.eu/esco/skill/04dfd9fb-e0cf-40f6-96c6-9d2280c4347e",
+            "story_index": 2,
+            "quote": "I wrote a practical guide for the volunteers who maintain the booking tool.",
+            "mark": "wrote a practical guide"
+          }
+        ]
+      }
+    ]
+  },
+  "usage": {
+    "promptTokenCount": 4388,
+    "candidatesTokenCount": 2417,
+    "totalTokenCount": 10159,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 4388
+      }
+    ],
+    "thoughtsTokenCount": 3354,
+    "serviceTier": "standard"
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "model": "gemini-3.8-flash",
+  "prompt_version": "cg-2.1",
+  "at": "2026-11-14T22:58:01.549Z",
+  "kind": "polished-cvs",
+  "input_hash": "9d15bec89b0a6e0250c76ba280bfe4dd0a66ab07dff7773767dc969c6b549971",
+  "answer": {
+    "cvs": [
+      {
+        "id": "f76f694865ad56edd3c623a2",
+        "text": "Versatile full-stack software developer and data analyst experienced in database architecture, reporting workflows, and cross-functional support. Proven track record consolidating disparate order datasets into PostgreSQL databases by designing custom mapping tables and executing SQL audit queries for seamless financial traceability. Adept at discrepancy analysis, reconciling warehouse inventory records, and designing clear data models with accompanying technical documentation to support seamless team handovers."
+      },
+      {
+        "id": "632864385a70fbcc5efd97a7",
+        "text": "User-focused web developer with solid experience building practical booking and reporting applications. Demonstrated success designing and deploying mobile-responsive web tools using JavaScript and web servers, iteratively refining prototypes based on direct user testing. Skilled in server log analysis, debugging asynchronous request issues, writing regression test suites, and authoring clear operating documentation to train and onboard team members."
+      },
+      {
+        "id": "aa72aca55e70f600e1753231",
+        "text": "Results-oriented operations manager with four years of business management and process improvement experience. Skilled in utilizing spreadsheet analytics to optimize supply chains and inventory, successfully reducing operational waste by over 30%. Experienced in standardizing communication workflows, leading and training team members, and designing user-friendly operational guides that ensure consistency and accuracy across daily operations."
+      },
+      {
+        "id": "607089bf162533abddce6d58",
+        "text": "Detail-oriented technical tester experienced in precision measurement, systematic hardware testing, and quality assurance. Proven ability to record, trace, and analyze electrical and mechanical metrics, identifying hardware faults through structured diagnostic isolation and environmental data analysis. Highly skilled in writing thorough technical standard operating procedures and diagnostic guides to maintain high quality standards."
+      },
+      {
+        "id": "23b34fc2181370c5a4dbb057",
+        "text": "Proactive operations coordinator with extensive customer support and inventory control experience. Proficient in building advanced spreadsheet tracking systems with automated alerting to manage asset health and optimize turnover. Skilled in customer issue resolution, root-cause trend analysis to improve documentation, and creating structured training materials that prioritize workplace safety and process accuracy."
+      },
+      {
+        "id": "2988477a1dc1d1ab94e28b25",
+        "text": "Adaptable full-stack software developer and operations organizer with strong strengths in workflow optimization and data reporting. Proven background in managing community service launches, restructuring redundant administrative workflows into single streamlined processes, and building practical documentation. Combines technical acumen in software engineering and testing with strong collaborative leadership and training capabilities."
+      },
+      {
+        "id": "859ee5b05e8fe54b3a781400",
+        "text": "Reliable systems administrator experienced in media server management, performance monitoring, and IT support. Demonstrated expertise in monitoring live production systems, optimizing background tasks to eliminate latency, auditing user access security, and verifying backup integrity. Proficient in authoring comprehensive operational runbooks and disaster-recovery guides to ensure reliable system uptime."
+      },
+      {
+        "id": "89b839e7263197fca038a393",
+        "text": "Meticulous quality assurance tester with demonstrated expertise in automated browser testing, release pipeline verification, and defect analysis. Proven track record isolating complex concurrency and edge-case issues through log analysis and reproducible test harnesses. Experienced in analyzing cross-browser and mobile device failures, filing precise bug reports, and maintaining robust regression test suites."
+      },
+      {
+        "id": "d963aeedcfcccdd2e6244aee",
+        "text": "Quality assurance and testing specialist combining automated test engineering with a strong customer-support perspective. Experienced in authoring browser automation suites for membership and booking workflows, investigating edge-case booking conflicts via server logs, and tracking down responsive UI defects. Dedicated to improving product reliability and user satisfaction through rigorous verification and actionable test reporting."
+      },
+      {
+        "id": "f6a3d4c4291d54992022d3ae",
+        "text": "Data-focused reporting specialist experienced in relational database management, data reconciliation, and spreadsheet reporting. Skilled in building PostgreSQL schemas, developing mapping logic to consolidate disparate records, and authoring SQL verification queries for audit accuracy. Experienced in investigating inventory discrepancies and writing end-to-end data modeling documentation for cross-functional teams."
+      },
+      {
+        "id": "14b71722d8fd5e2d5707597b",
+        "text": "Full-stack software developer with comprehensive experience delivering resilient web tools and data-driven solutions. Proven ability to build full-stack JavaScript applications from initial user wireframing through to deployment, resolving complex network retry bugs and writing automated test cases. Skilled in API development, database management, and creating clear technical maintenance documentation for end users and maintainers."
+      },
+      {
+        "id": "afd3d931b3cad60d7320daa4",
+        "text": "Efficient operations manager with four years of hospitality leadership and practical workflow testing experience. Adept at identifying and fixing operational bottlenecks through structured order management systems and data-driven waste tracking that reduced food waste by a third. Experienced in staff training, procedural documentation, and supplier data auditing to maintain continuous service quality."
+      },
+      {
+        "id": "73493e0b452b33bdf6505e0e",
+        "text": "Quality-conscious technician with a background in precision hardware measurement and supportive customer service. Skilled in establishing reliable test setups, isolating equipment faults through controlled diagnostic testing, and maintaining meticulous data logs. Experienced in authoring clear testing protocols and troubleshooting manuals that bridge technical procedures and user support."
+      },
+      {
+        "id": "b9c4677d5658f1f1e44bf79c",
+        "text": "Organized inventory and rental desk coordinator skilled in spreadsheet modeling, logistics tracking, and customer support. Experienced in implementing formula-driven stock monitoring tools, performing weekly audits, and analyzing recurring equipment failure trends to update customer guidance. Strong background in onboarding colleagues through structured checklists and practical safety training."
+      },
+      {
+        "id": "2f7aa91d921aaacddc1d0e59",
+        "text": "Dynamic operations coordinator skilled in service planning, workflow re-engineering, and business tool adoption. Proven ability to organize operational launches, eliminate redundant administrative procedures through centralized intake tools, and manage project schedules amid supplier delays. Experienced in coaching teams and producing user-focused reference materials that optimize daily processes."
+      },
+      {
+        "id": "5101274e0a50cf3ea51845c1",
+        "text": "Full-stack software developer and systems engineer experienced in system performance optimization, testing, and cloud infrastructure management. Adept at live server performance monitoring, resource scheduling to prevent latency, security access management, and disaster recovery validation. Experienced in developing actionable troubleshooting runbooks and implementing structured QA procedures to safeguard system reliability."
+      },
+      {
+        "id": "56b24ed8004ad05b5ca2e9a2",
+        "text": "Support-minded systems specialist experienced in community media infrastructure, broadcast monitoring, and user administration. Proven track record optimizing server scheduling to ensure uninterrupted live broadcasts, managing role-based user access, and testing backup recovery procedures. Skilled in producing clear, step-by-step incident response runbooks to support on-duty staff and stakeholders."
+      },
+      {
+        "id": "58ff43da57110d631874e778",
+        "text": "Detail-driven QA specialist experienced in automated testing, spreadsheet-based defect analysis, and web application validation. Demonstrated skill in building browser automation checks, diagnosing race conditions using server logs, and categorizing cross-platform UI failures across mobile and desktop environments. Committed to enhancing software quality through systematic test execution and comprehensive release documentation."
+      },
+      {
+        "id": "40746dcf15da2794fed43115",
+        "text": "Analytical reporting specialist with expertise in relational data workflows, SQL querying, and business process analysis. Proven capability in unifying legacy sales data into PostgreSQL, resolving code mapping discrepancies, and auditing discrepancies between physical warehouse counts and system records. Experienced in designing conceptual data models and authoring clear data management guides for finance and operations teams."
+      },
+      {
+        "id": "3bfe1180c29069a14d59bdb0",
+        "text": "Practical software and testing practitioner experienced in developing and validating web-based tools. Proven ability to create responsive booking applications using JavaScript and web servers, reproduce and resolve edge-case request handling issues, and write automated test suites. Strong communicator dedicated to collaborative prototyping, thorough documentation, and effective user onboarding."
+      }
+    ]
+  },
+  "usage": {
+    "promptTokenCount": 5762,
+    "candidatesTokenCount": 2075,
+    "totalTokenCount": 9823,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 5762
+      }
+    ],
+    "thoughtsTokenCount": 1986,
+    "serviceTier": "standard"
+  }
+}

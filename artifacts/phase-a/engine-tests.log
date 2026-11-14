@@ -1,0 +1,16 @@
+✔ an invented quote, mismatched story and unknown ESCO URI are dropped (0.461292ms)
+✔ blind scoring rejects identity, story and protected fields, with a closed TypeScript input type (169.113708ms)
+✔ 200 random many-to-many fixtures: independent final stability, capacities, no clashes and determinism (54.88525ms)
+✔ agreed pairs stay fixed after a fill (0.526334ms)
+✔ a pair with no common free slot is ineligible (0.18525ms)
+✔ single-meeting strategy property: no proposer improves through any reported permutation or truncation, 150 small random instances (154.381209ms)
+✔ oracle catches a deliberately unstable placed schedule independently (0.143375ms)
+✔ common-slot eligibility alone does not guarantee global placement: unplaced count is reported (0.19025ms)
+ℹ tests 8
+ℹ suites 0
+ℹ pass 8
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 411.913916

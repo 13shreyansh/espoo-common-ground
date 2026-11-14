@@ -1,0 +1,13 @@
+# Frozen evaluation protocol
+
+Hidden labels were committed in `ca410e3` before extraction, matching or benchmark runs. The labelling pass is separate code in `scripts/prepare-fixtures.mjs`. It uses eight predefined operational scenarios and explicit transferable methods. It never reads extracted ESCO skills, matching results, names or audit groups. Labels range from 2 to 5 in this fixture, with 1 reserved for directly contradictory experience. Good is 4 or 5. Wasted is 1 or 2.
+
+People are split by an opaque stable key hash. A quarter of hash buckets is development; the remaining buckets are held out. No label-driven tuning is performed. Twenty seeds vary availability and the selected maximum meeting budget within each split. All methods get the same people, tables, availability and budgets in each run. They cannot access the label file. The scorer uses coverage, then stated interest, then stable opaque IDs for ties.
+
+Keyword CV matching counts shared words between each supplied short CV and the task advertisement. AI-polished CV ranking makes real Gemini calls to rewrite those same CVs from their stories, then real calls rank those CVs against each company's need. Both baselines allocate their ordered pairs to feasible slots under the same budgets. Common Ground uses model-extracted and human-approved evidence, deferred acceptance, then exact constrained edge-colouring.
+
+The independent checker imports no engine ranking or scoring helper. Blocking pairs use the evidence-based preference order for all three methods, so baseline counts indicate deviation from that common preference definition. Agreed pairs are fixed on rebuild and cannot be displaced in the checker. Fairness is meeting access, not hiring quality, and groups smaller than ten are suppressed.
+
+Important limits: stories are synthetic scenario variants, the labels share the authors' scenario design, and operational transfer is intentionally represented. Repeated random details are not twenty independent populations. The polished model sees only CV text when ranking; Common Ground has approved story evidence. These numbers cannot establish performance or fairness on real Espoo participants. Both poor scheduled pairs and high-label missed pairs are retained for Method.
+
+Sharing a free slot is necessary but not sufficient for placing every edge in a many-to-many schedule. The engine records unplaced edges. A product rebuild is rejected without changing the previous schedule if independent post-placement stability fails. No zero is substituted for a failed placement. The shipped full-availability fixture and randomized evaluation runs must pass placement and stability checks.
