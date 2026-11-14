@@ -1,0 +1,44 @@
+✔ company HTML payload cannot leak a proposed person name or key, and only reveals agreed people (42.944125ms)
+✔ the organiser endpoint cannot answer for either side (0.770958ms)
+✔ manual moves refuse clashes and agreed changes need a fresh yes (32.204875ms)
+✔ card edits cannot accept a forged proof offset or unknown skill (0.811875ms)
+✔ a refill respects a human decline and cannot create duplicate meeting IDs (62.553125ms)
+✔ an agreed table-only move requires renewed consent (28.652125ms)
+✔ failed edits cannot change approved proof used by companies or the matcher (1.858875ms)
+✔ saved evidence labels are canonical and offsets and highlights must be finite nonempty spans (0.946708ms)
+✔ editing a published brief keeps the original task on an already agreed meeting (31.522042ms)
+✔ previewing tasks does not publish them or change scoring input (2.967709ms)
+✔ manual entry remains available without calling a model (2.174292ms)
+✔ question answers persist as each answer is given (1.009958ms)
+✖ company registration proof skips empty cards and never shows a removed evidence line (4.344ms)
+ℹ tests 13
+ℹ suites 0
+ℹ pass 12
+ℹ fail 1
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 279.116541
+
+✖ failing tests:
+
+test at tests/api-v2.test.mjs:15:1
+✖ company registration proof skips empty cards and never shows a removed evidence line (4.344ms)
+  AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+  
+    assert(!companyView(e,c).registered_proof.some(x=>x.line===removed))
+  
+      at TestContext.<anonymous> (file:///Users/shreyansh/Documents/ChatGPT/Junction/espoo/tests/api-v2.test.mjs:15:402)
+      at Test.runInAsyncScope (node:async_hooks:227:14)
+      at Test.run (node:internal/test_runner/test:1402:25)
+      at Test.processPendingSubtests (node:internal/test_runner/test:974:18)
+      at Test.postRun (node:internal/test_runner/test:1542:19)
+      at Test.run (node:internal/test_runner/test:1467:12)
+      at async Test.processPendingSubtests (node:internal/test_runner/test:974:7) {
+    generatedMessage: true,
+    code: 'ERR_ASSERTION',
+    actual: false,
+    expected: true,
+    operator: '==',
+    diff: 'simple'
+  }

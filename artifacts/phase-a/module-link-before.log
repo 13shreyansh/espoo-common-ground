@@ -1,0 +1,25 @@
+file:///Users/shreyansh/Documents/ChatGPT/Junction/espoo/tests/client-modules.test.mjs:2
+import {overview,overviewAction} from '../client/overview.mjs';import {company,companyAction} from '../client/company.mjs';import {person,personAction} from '../client/person.mjs';import {schedule,scheduleAction} from '../client/schedule.mjs';import {method,methodAction} from '../client/method.mjs';import {reportPage} from '../client/report.mjs';
+                                                                                                                                                                                                                                                                  ^^^^^^^^^^^^
+SyntaxError: The requested module '../client/method.mjs' does not provide an export named 'methodAction'
+    at #asyncInstantiate (node:internal/modules/esm/module_job:455:21)
+    at async ModuleJob.run (node:internal/modules/esm/module_job:553:5)
+    at async node:internal/modules/esm/loader:647:26
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:101:5)
+
+Node.js v24.21.0
+✖ tests/client-modules.test.mjs (28.913292ms)
+ℹ tests 1
+ℹ suites 0
+ℹ pass 0
+ℹ fail 1
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 32.262875
+
+✖ failing tests:
+
+test at tests/client-modules.test.mjs:1:1
+✖ tests/client-modules.test.mjs (28.913292ms)
+  'test failed'

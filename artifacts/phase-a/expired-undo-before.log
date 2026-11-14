@@ -1,0 +1,38 @@
+✔ company HTML payload cannot leak a proposed person name or key, and only reveals agreed people (37.187042ms)
+✔ the organiser endpoint cannot answer for either side (0.752791ms)
+✔ manual moves refuse clashes and agreed changes need a fresh yes (25.642666ms)
+✔ card edits cannot accept a forged proof offset or unknown skill (0.690375ms)
+✔ a refill respects a human decline and cannot create duplicate meeting IDs (50.413125ms)
+✔ an agreed table-only move requires renewed consent (24.3965ms)
+✔ failed edits cannot change approved proof used by companies or the matcher (1.36875ms)
+✔ saved evidence labels are canonical and offsets and highlights must be finite nonempty spans (0.66675ms)
+✔ editing a published brief keeps the original task on an already agreed meeting (26.18725ms)
+✔ previewing tasks does not publish them or change scoring input (1.370125ms)
+✔ manual entry remains available without calling a model (0.9405ms)
+✔ question answers persist as each answer is given (0.579167ms)
+✔ company registration proof skips empty cards and never shows a removed evidence line (0.644542ms)
+✖ a declined meeting cannot be restored after the organiser fills its slot (51.323292ms)
+ℹ tests 14
+ℹ suites 0
+ℹ pass 13
+ℹ fail 1
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 269.550042
+
+✖ failing tests:
+
+test at tests/api-v2.test.mjs:16:1
+✖ a declined meeting cannot be restored after the organiser fills its slot (51.323292ms)
+  AssertionError [ERR_ASSERTION]: Missing expected rejection.
+      at async TestContext.<anonymous> (file:///Users/shreyansh/Documents/ChatGPT/Junction/espoo/tests/api-v2.test.mjs:16:380)
+      at async Test.run (node:internal/test_runner/test:1409:7)
+      at async Test.processPendingSubtests (node:internal/test_runner/test:974:7) {
+    generatedMessage: false,
+    code: 'ERR_ASSERTION',
+    actual: undefined,
+    expected: /refilled|no longer/,
+    operator: 'rejects',
+    diff: 'simple'
+  }

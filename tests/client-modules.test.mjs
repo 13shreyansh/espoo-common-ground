@@ -1,0 +1,3 @@
+import {test} from 'node:test';import assert from 'node:assert/strict';
+import {overview,overviewAction} from '../client/overview.mjs';import {company,companyAction} from '../client/company.mjs';import {person,personAction} from '../client/person.mjs';import {schedule,scheduleAction} from '../client/schedule.mjs';import {method,methodAction} from '../client/method.mjs';import {reportPage} from '../client/report.mjs';
+test('every screen module provides the render and action exports imported by the browser entry',()=>{for(const handler of [overview,overviewAction,company,companyAction,person,personAction,schedule,scheduleAction,method,methodAction,reportPage])assert.equal(typeof handler,'function');});
