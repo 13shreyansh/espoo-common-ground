@@ -5,10 +5,10 @@
 | Criterion | Try it | Inspect the proof |
 |---|---|---|
 | Impact & relevance, 45% | At the introduction desk, open Talent 01 + Loop Kitchen. Read the kitchen task beside the café waste-tracker sample. | [Synthetic event](src/data.mjs), [why-you-two policy](src/engine.mjs), video script 0:18–0:43 |
-| Innovation & UX, 35% | Record talent's yes and company's yes, create a card, print it or save the calendar entry. Cancel a meeting and build a replacement proposal. | [Interface](src/app.mjs), [workflow tests](tests), video script 0:43–1:24 |
+| Innovation & UX, 35% | Record talent's yes and company's yes, create a card and save the calendar entry. Print/PDF remains unverified. Cancel a meeting and build a replacement proposal. | [Public browser evidence](docs/VERIFICATION.md), [interface](src/app.mjs), [workflow tests](tests), video script 0:43–1:24 |
 | Responsible & feasible execution, 20% | Open Audit & limits. Compare the CV keyword baseline, inspect the family split, read the selection-rate gap. | [Specification](EVAL_SPEC.md), [ledger and failures](eval/LEDGER.md), [fresh-context review](eval/REVIEW.md), [frozen traces](eval/results.json), [fixtures](eval/fixtures.json) |
 
-[Public MIT source](https://github.com/13shreyansh/espoo-common-ground). Vercel publication and real-browser verification are tracked in the release status below.
+[Open the live demo](https://espoo-common-ground.vercel.app/) · [Public MIT source](https://github.com/13shreyansh/espoo-common-ground) · [Desktop/mobile verification](docs/VERIFICATION.md)
 
 An organiser's desk for a small Espoo recruitment event. Concrete company needs meet transferable work evidence, then both people agree to a practical in-person introduction. Built for Junction 2026 by Shreyansh, team The CS Guy. Independent prototype, no official City of Espoo affiliation implied.
 
@@ -28,14 +28,14 @@ npm run dev
 
 Open `http://127.0.0.1:4173`. To serve the release build, use `node scripts/serve.mjs --dist`. Vercel uses `npm run build` and the `dist` directory. No environment variables or API keys are needed. `npm run eval` replays the known fixtures to gitignored `work/replay-results.json` and checks counts against the sealed results without overwriting them; local timing and timestamp differ. `npm run verify:audit` verifies the release evidence hashes. Fixture regeneration refuses to overwrite the existing file.
 
-Release publication and live browser verification are tracked in [release status](docs/RELEASE.md). Do not infer deployment from this README.
+The Chief verified the public Vercel runtime at code commit `9575f5a` on 14 November 2026, approximately 18:27–18:30 Helsinki. See [release status](docs/RELEASE.md) and [observed browser evidence](docs/VERIFICATION.md). Later documentation-only commits do not change the tested runtime.
 
 ## What to try
 
 1. Start at the introduction desk. All meetings are proposals, with neither answer recorded.
 2. Select a meeting. Inspect the exact company need, matching work sample and mutual interest.
 3. Record each party's demo answer. The card becomes available only after both agree. Nothing is sent.
-4. Create an introduction card. It has a table letter, time and a specific opening question. Print it, save a calendar entry, or record a simulated in-person introduction.
+4. Create an introduction card. It has a table letter, time and a specific opening question. Save a calendar entry or record a simulated in-person introduction. The Print card control exists, but its browser interaction blocked verification; print/PDF output remains unverified and no physical print was submitted.
 5. Cancel the meeting, then build a proposal. A replacement needs fresh agreement. Existing mutually agreed meetings stay fixed.
 6. Open Work evidence and mark someone unavailable. Their meeting and confirmations are removed. Rebuild to suggest replacements.
 7. Open Company needs. Harbour Works is deliberately vague and receives no meeting. Editing any task clears old confirmations. Select essential tags and explicitly record organiser review to save a new evidence mapping. Saving without review abstains for that company. Reset demo restores the prepared samples.
