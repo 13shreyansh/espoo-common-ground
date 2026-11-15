@@ -1,3 +1,9 @@
+Implement Context.dev website-brand enrichment in the employer onboarding flow.
+Preserve the current event design, fictional fixtures, consent controls and skill-only matcher.
+Acceptance requires a real brand lookup, a source-linked preview, persistence and matcher-invariance tests.
+Do not touch Junction descriptions, portal records, other projects, or the CRACI workflow owned by root.
+Ship only after independent review and deployed desktop/mobile verification; keep credentials out of files and logs.
+
 UI REBUILD / Sun 15 Nov 2026 04:25 Helsinki (02:25 UTC), polish pass included / https://espoo-common-ground.vercel.app
 
 WHAT CHANGED (front end only; server/, src/, matching, ESCO and Gemini calls, persistence and the day-page renderer are untouched):

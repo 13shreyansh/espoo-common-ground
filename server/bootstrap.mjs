@@ -1,1 +1,2 @@
-let secret='';for await(const chunk of process.stdin)secret+=chunk;if(!secret.trim())throw Error('Runtime writing helper credential was not provided.');process.env.GEMINI_API_KEY=secret.trim();secret='';await import('./server.mjs');
+import {parseCredentialPipe} from './runtime-secrets.mjs';
+let secret='';for await(const chunk of process.stdin)secret+=chunk;Object.assign(process.env,parseCredentialPipe(secret));secret='';await import('./server.mjs');

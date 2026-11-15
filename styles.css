@@ -49,3 +49,5 @@ mark{background:var(--proof);text-decoration:underline solid var(--proof-edge) 1
 .day{border-radius:0;box-shadow:none;padding:24px 16px}
 .day-body{background:var(--paper)}
 }
+
+.company-website{margin-top:32px;padding-top:24px;border-top:1px solid var(--line)}.company-website h2{font-size:18px;line-height:26px}.company-website label{display:block;margin:16px 0 8px}.company-website input{flex:1;min-width:0}.brand-preview{display:flex;gap:16px;margin-top:20px;align-items:flex-start}.brand-preview img{object-fit:contain;flex:0 0 64px}.brand-preview h3{margin:0 0 8px}.brand-preview p{margin:8px 0;overflow-wrap:anywhere}.brand-preview>div{min-width:0}@media(max-width:699px){.company-website .actions{align-items:stretch;flex-direction:column}.company-website input,.company-website button{width:100%}}
