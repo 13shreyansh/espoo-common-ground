@@ -6,3 +6,5 @@ Independently reran npm test (46/46) and npm run build. Verified consent, approv
 No remaining blocking findings. Benchmark weakness remains a separate limitation.
 
 The subsequent release commit contains documentation, evidence-runner framing and generated-output exclusions only. Runtime application source is unchanged from the reviewed f6710e1. Final deployment markers and receipts are generated after testing HEAD in artifacts/e2e/.
+
+A final greyscale audit caught the general disabled-button rule hiding the held-slip border. The held-state CSS now explicitly preserves the dashed outline; the deployed E2E asserts both dashed style and a nontransparent border during the actual third round. Final receipts supersede earlier runtime hashes.

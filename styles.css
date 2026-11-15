@@ -19,3 +19,5 @@
 .data-table tbody td{padding-top:4px;padding-bottom:4px}.board-label.muted,.board-label.muted .table-code{color:var(--ink-3)}
 
 .shortcut-help{position:fixed;bottom:24px;left:24px;z-index:40;width:320px;padding:16px;background:var(--paper);border:1px solid var(--line);border-radius:8px;box-shadow:0 8px 24px #14181f1f,0 1px 2px #14181f14}.shortcut-help dl{display:grid;grid-template-columns:76px 1fr;gap:8px;margin:12px 0 0;font-size:13px;line-height:20px}.shortcut-help dt{font-weight:600}.shortcut-help dd{margin:0}@media(max-width:699px){.shortcut-help{left:16px;bottom:16px;width:calc(100vw - 32px)}}
+
+.slip.held:disabled{border:1px dashed var(--ink-3);background:var(--paper);color:var(--ink-2);cursor:default}
