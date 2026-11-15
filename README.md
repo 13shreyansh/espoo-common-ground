@@ -1,56 +1,91 @@
 # Common Ground
 
-An organiser tool for City of Espoo recruitment events. Companies turn a need into concrete tasks. People approve skills backed by exact quotes from their own work stories. The organiser builds ten-minute meetings, reviews the reason for each pair and sends proposals. A meeting is agreed only after both sides say yes.
+Plan a recruitment open house around demonstrated skills, available slots and mutual consent.
 
-**Live:** https://espoo-common-ground.vercel.app  
-**Source:** https://github.com/13shreyansh/espoo-common-ground
+[Open Common Ground](https://espoo-common-ground.vercel.app) · [Evaluation protocol](eval/v2/PROTOCOL.md) · [Release notes](docs/RELEASE.md)
 
-The binding screen specification is [DESIGN-DIRECTION.md](DESIGN-DIRECTION.md). [STATUS.md](STATUS.md) distinguishes measured results, review status and remaining decisions. All people, companies and outcomes are synthetic. The venue is Keilaniemi, Espoo; no real employer is represented.
+Built by Shreyansh, team The CS Guy, for Junction 2026's City of Espoo Rethinking Recruitment challenge.
 
-## What works
+## What people do
 
-- Fifteen fictional companies, checked against PRH/YTJ, and 120 people with three work stories each. Public job-ad provenance is in `fixtures/job-ad-sources.json`.
-- Live Gemini guided questions, task extraction and story-to-skill suggestions. Exact-input caches retain the model, prompt version and timestamp. A quotation must exist at verified offsets before a skill is kept. People can choose ESCO skills manually if the model fails or reaches its global daily cap.
-- Official ESCO API labels, URIs and cached responses. Generated mappings choose reviewed API concepts; a fuzzy search result is never silently accepted as a task skill.
-- Talent-proposing many-to-many deferred acceptance, followed by exact constrained edge colouring. The engine records proposals, holds and passes for each round. The independent checker evaluates the placed schedule. Infeasible or unstable rebuilds preserve the previous schedule and explain the failure.
-- Fixed agreed meetings, respected human declines, separate consent endpoints, immutable meeting explanations and a company API that omits unagreed people’s names and keys.
-- Static personal schedules with JavaScript-off rendering, an offline service-worker cache, individual calendar files and an IndexedDB outbox for follow-up answers.
-- Separate October event, report CSV, meeting-access audit and a Method page with the actual benchmark, failure cases and limitations.
+A participant describes work they have actually done and approves the resulting skill evidence. An employer describes a hiring need, answers follow-up questions and turns it into concrete work tasks. An organizer prepares employer slots. Common Ground uses skill evidence to propose an event schedule, then lets both sides consent before a connection becomes a follow-up.
 
-## The benchmark is weaker than hoped
+The workspace includes event planning, schedules, reports and follow-up. Static schedules remain readable offline with JavaScript disabled. The current October overview crash is fixed and the November workspace works. Data is synthetic, so trying the product does not contact real candidates or employers.
 
-Labels were committed in `ca410e3` before extraction or matching. The protocol, held-out results, both real model baselines and every run are in [eval/v2](eval/v2). Common Ground beats the keyword baseline on these synthetic labels, but **does not beat AI-polished CV ranking**. The Method page and STATUS report this directly. Repeated runs vary details within one synthetic population; they do not establish field accuracy, fairness or legal compliance.
+## Implemented architecture
 
-Six initially empty draft story fields were completed from their original pre-labelled scenarios. Extraction and both baselines were rerun for all 120 people. The original result remains in the Phase A artifacts and git history. No label or scoring-rule tuning followed the held-out result.
+```mermaid
+flowchart LR
+    P[Participant story] --> G[Gemini evidence-span checks]
+    N[Employer need] --> Q[Gemini questions and concrete work tasks]
+    Q --> C
+    G --> E[ESCO skill concepts and evidence spans]
+    E --> M[Deferred acceptance and slot placement]
+    C[Company slots] --> M
+    M --> S[Event schedule]
+    S --> B[Mutual consent]
+    B --> F[Follow-up and organizer report]
+    S --> O[Static offline schedule]
+```
 
-## Run and verify
+Gemini asks follow-up questions, generates small work tasks and checks whether claimed skills have supporting spans. Deterministic matching and scheduling code uses those outputs. Identity and audit-group inputs do not enter the matcher. That design choice does not by itself establish fairness.
 
-Requires Node 24 or newer.
+The current service uses Node.js and SQLite on cloud-hosted infrastructure, reached through the Vercel entry point. It does not rely on the builder's Mac. Live release `d858ba1` includes application changes that were not yet in the public branch when this README work began. This README-only publication does not publish the pending application commits.
 
-```sh
+## Sponsor and model roles
+
+| Service | Current state and concrete role |
+| --- | --- |
+| Gemini API | Implemented. Follow-up questions, work tasks and evidence-span checks help participants describe skills. The model does not make a real hiring decision. |
+| ESCO | Implemented. Shared skill concepts connect participant evidence and company needs. |
+| Codex | Used to build, debug and verify the application. |
+| CRACI | **Planned, not implemented.** Run the existing tests and build on CRACI CI. |
+| Context.dev | **Planned, not implemented.** Fetch public company brand information and logos during employer onboarding. Matching remains based on skills and slots, without brand or identity inputs. |
+
+The Context.dev plan must visibly support onboarding to meet the core-flow requirement. Fictional demo companies will not receive invented factual brand claims. Planned prize selections remain conditional on implementation and verification.
+
+## Run locally
+
+Use Node.js 24. Supply `GEMINI_API_KEY` securely in the process environment for new model requests. Existing cached evaluation outputs can be inspected without billing new requests.
+
+```bash
 npm ci
-npm test
-npm run build
 npm run dev
 ```
 
-The writing helper reads `GEMINI_API_KEY` from the process environment. Do not put a key in source, command output or a committed file. The local development store is in ignored `work/data/`. The default fixtures and cached model outputs work without a key; new model requests need the environment variable. ESCO search uses its public API.
+The project includes synthetic company and participant fixtures. Keep real personal data out of public fixtures, screenshots and evaluation outputs. The configured daily model-request counter is an application control, not a verified provider spending guarantee.
 
-```sh
-npx playwright install chromium
-npm run test:e2e
+## Validate
+
+```bash
+npm test
+npm run build
+npm run eval
 ```
 
-The E2E runner requires a configured writing helper and targets the deployed URL by default, at 1440×900 and 390×844, and checks that its frontend and backend commits equal HEAD. It creates an isolated visitor workspace and deletes it in `finally`. `E2E_URL` can select a local test server. Screenshots and receipts are in `artifacts/e2e/` and `screenshots/commonground/`. Run `node scripts/e2e-extras.mjs` for manual fallback, drag, fixed agreements, offline outbox and static-load checks; `node scripts/visual-audit.mjs` checks fonts and contrast. The current recording path and cloud release procedure are in [docs/HANDOFF-v2.md](docs/HANDOFF-v2.md).
+The evaluation uses cached outputs. The newer live release has a `scripts/fable-e2e.mjs` flow check, but that script is still in the unpublished application backlog. The published `npm run test:e2e` uses `scripts/e2e.mjs` and targets an older flow; it is not current live-release acceptance proof. Browser tests that write must use an isolated visitor copy and clean up. Do not run write checks or deploy while an active recording uses the shared product.
 
-`node scripts/e2e-cold-model.mjs` checks a separate brief and edited story through the production helper, retaining output provenance. `REQUIRE_FRESH=1` requires uncached responses and is used only before those inputs have been cached.
+## What the evaluation says
 
-`npm run eval` reruns the frozen evaluation using cached polished CVs and model rankings. It does not make model calls. `scripts/targeted-baseline.mjs` generates the primary advert-tailored baseline; `scripts/polish-baseline.mjs` retains the earlier generic control. Both are explicit model-calling steps. Existing engine tests remain; the retired UI test is archived under `tests/archive-v1/`.
+The synthetic fixture contains 15 companies, 120 people and three story templates. The reported held-out good-match rate was 72.1%, compared with 41.7% for a keyword baseline and 86.6% for an AI-polished CV baseline. The recorded group access gap was 11.1 percentage points.
 
-## Hosting and data boundaries
+These are measured results from author-labelled synthetic cases and 20 repeated runs. They are not field hiring outcomes, legal compliance evidence or proof that this method is fairer than polished CVs. The polished-CV baseline performed better on the reported fit measure. Read the [protocol](eval/v2/PROTOCOL.md) before citing a number.
 
-The existing Vercel project routes the whole application to this entry’s isolated cloud service. The free daily build-deployment quota was exhausted, so a promoted project route updates the runtime without another static build. `/release.json` and `/health` identify the actual running source commit; the older Vercel gateway build metadata is not the runtime revision. SQLite, schedules and live caches are on the cloud host, so the Mac is not part of the runtime. The cloud key is transported over SSH stdin; only host-bound encrypted ciphertext is persisted, then decrypted into the process’s memory at startup. The API has a shared 500-call daily reservation counter. No email or text message leaves the system.
+Before a real participant pilot, the project needs authenticated invitations, privacy and retention controls, transport hardening, and the appropriate assessment of employment-related AI use. Current consent screens do not complete that work.
 
-A silent cookie gives each visitor an independent copy of the fixtures. Link possession is the only actor authentication in this prototype. A real pilot needs authenticated, expiring invitations, transport hardening, operational monitoring and an EU AI Act assessment. The matcher’s closed input type excludes identity, story text and optional audit attributes. Group records are joined only for the audit; small groups are suppressed.
+## Planned architecture and completion checks
 
-Approved cards and agreed meeting explanations are preserved while drafts change. Deleting a person clears their stories, evidence, relevant answers and cached extraction. Server event records and their static schedules expire 30 days after the event. Offline or printed copies on a person’s own device cannot be remotely recalled.
+```mermaid
+flowchart LR
+    D[Employer public website] -. planned fetch .-> C[Context.dev brand data]
+    C -. source-linked preview .-> O[Employer onboarding]
+    O --> S[Existing company slots]
+    S --> M[Existing skill and slot matcher]
+    R[CRACI CI] -. planned .-> T[Tests and build]
+```
+
+After implementation approval, the brand step needs a real public-company lookup, source attribution, logo fallback and a visible onboarding preview. A regression check must establish that brand data never changes skill scores. CRACI needs an actual successful GitHub Actions run on `runs-on: craci` with build and tests. Neither planned integration is active today.
+
+## Repository guide
+
+`server/server.mjs` serves the application; `server/ai.mjs` contains model integration. `src/` contains the browser workspace. `fixtures/` supplies synthetic data; `eval/v2/` defines the current evaluation. Documentation under `docs/` includes earlier handoffs, so compare its dates with the current behaviour described here.
