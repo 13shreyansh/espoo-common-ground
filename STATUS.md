@@ -1,6 +1,6 @@
 NEEDS CHIEF: benchmark weak
 
-ENTRY: Espoo / Job 02 / Sun 15 Nov 2026 02:37 Helsinki / commit HEAD, verified by release.json and health / https://espoo-common-ground.vercel.app
+ENTRY: Espoo / Job 02 / Sun 15 Nov 2026 02:57 Helsinki / commit HEAD, verified by release.json and health / https://espoo-common-ground.vercel.app
 
 DONE:
 - Rebuilt every specified screen around 15 fictional companies, 120 synthetic people, approved proof lines and mutual consent. Retained compatible old engine tests.
@@ -24,7 +24,7 @@ Measured deployed video path: 160 meetings, 0 unplaced, 0 blocking pairs. Café 
 
 Verification: 47 tests pass, including 200 random stability fixtures and 150 small strategy-proofness instances. Both deployed viewport flows have no console errors. Static schedules render without JavaScript and reload offline; HTML and stylesheet transfer under 60KB excluding fonts. All 200 concurrent schedule requests returned 200 with zero database reads. Offline follow-up answers synced on reconnect. Text contrast is at least 4.63:1 across the checked pairs; chart marks are at least 3.11:1.
 
-Gemini/ESCO calls used: gemini-3.8-flash for guided questions, three tasks, exact-span evidence, polished CVs and baseline rankings. The committed archive contains 128 successful Gemini responses and 81 official ESCO responses, including request provenance. Prompts are cg-2.1 and cg-evidence-2.2; every output retains model, prompt version and timestamp. The tailored baseline contains 1,800 CVs. The live server has 93 cached ESCO responses, including acceptance-search calls. Live responses are also cached on the server. Failed or timed-out historical attempts are not reconstructed as a precise call total. Keys are absent from source and logs.
+Gemini/ESCO calls used: gemini-3.8-flash for guided questions, three tasks, exact-span evidence, polished CVs and baseline rankings. The committed archive contains 128 successful Gemini responses and 81 official ESCO responses, including request provenance. Prompts are cg-2.1 and cg-evidence-2.2; every output retains model, prompt version and timestamp. The tailored baseline contains 1,800 CVs. The live server has 93 cached ESCO responses, including acceptance-search calls. Live responses are also cached on the server. Failed or timed-out historical attempts are not reconstructed as a precise call total. Three uncached production calls were separately verified for a new brief, tasks and edited story, with fresh timestamps and exact proof spans. Keys are absent from source and logs.
 
 SCREENSHOTS:
 - [Desktop](/Users/shreyansh/Documents/ChatGPT/Junction/espoo/artifacts/e2e/01-overview-desktop.png)
@@ -65,7 +65,7 @@ TASTE-GATE: yes on each item within the binding decisions and explicit exception
 | 18. Content loaded before capture | Yes | 06-company-zero-desktop.png |
 | 19. Works with Mac off | Yes, cloud hosted | 26-day-offline-phone.png; deployment.json |
 
-REVIEW: Independent gpt-6-astra passes spec-fit and build-quality review. Earlier consent, privacy, persistence, editing and reporting defects are fixed and regression-tested. Benchmark remains weak; literal screenshot conflicts are documented. Phone acceptance is Chromium at 390px, not a physical-device claim. Real deployment still needs authenticated invitations, encrypted origin transport and an AI Act assessment before a pilot.
+REVIEW: Independent gpt-6-astra passes spec-fit and build-quality review. Earlier consent, privacy, persistence, editing, reporting and cloud credential defects are fixed and regression-tested. Benchmark remains weak; literal screenshot conflicts are documented. Phone acceptance is Chromium at 390px, not a physical-device claim. Real deployment still needs authenticated invitations, encrypted origin transport and an AI Act assessment before a pilot.
 
 NEXT: propose an independently human-labelled evaluation before making a superiority claim or starting a real participant pilot.
 NEEDS DECISION: none.

@@ -9,3 +9,5 @@ The final held-state correction explicitly restores its dashed border against th
 Final HEAD, release.json and health must agree. The post-commit receipts and all 30 required screenshots are saved in artifacts/e2e/ and screenshots/commonground/. Benchmark weakness is separate from engineering acceptance: 72.1% Common Ground versus 41.7% keyword and 86.6% advert-tailored AI CV ranking on synthetic held-out labels.
 
 The additional uncached production check exposed a systemd credential-name mismatch. Decryption now specifies the embedded name, the cloud bootstrap refuses an empty credential, and deploy readiness plus browser acceptance require the helper to be configured. An empty-pipe regression and a separate production brief/story runner cover this boundary.
+
+The fresh production smoke passed at 08e7135 with require_fresh=true: questions, tasks and evidence all have model timestamps after the run start, and the model cache preserves timestamps on hits. The final release after this is documentation only; application source is unchanged.
