@@ -1,0 +1,103 @@
+{
+  "model": "gemini-3.8-flash",
+  "prompt_version": "cg-2.1",
+  "at": "2026-11-15T00:11:09.370Z",
+  "kind": "advert-tailored-cvs",
+  "input_hash": "d133d99d420a6470e930cdf84009d2b2cd9a29954fbef95fd8ff4123afd99756",
+  "answer": {
+    "cvs": [
+      {
+        "id": 80,
+        "text": "Mariam Nyström brings strong data analytics, SQL, and customer support experience. Working for a distributor, she reconciled warehouse records with weekly returns by grouping discrepancies by product and reason, correcting double-counted items to match physical stock. She also mapped customer codes, deduplicated order files, and created detailed data guides with examples to train colleagues on accurate report preparation and import checks."
+      },
+      {
+        "id": 81,
+        "text": "Eero Wei has experience building booking tools and creating spreadsheet reports. When managing booking systems, Eero resolved user issues by analysing request logs, fixing root causes, and writing rigorous test cases to prevent duplicate records. Dedicated to clear documentation and training, Eero authored practical maintenance guides and coached volunteers to ensure consistent, accurate case handling."
+      },
+      {
+        "id": 82,
+        "text": "Nadia Nair has extensive experience managing café operations and using business tools to control inventory and processes. She created shared order and stock sheets, trained colleagues to log orders accurately to eliminate duplicate preparation, and updated formulas when pack sizes shifted. Nadia tracked waste by reason to adjust quantities, and coached six new team members using clear guides and practice orders."
+      },
+      {
+        "id": 83,
+        "text": "Linh Hassan offers methodical experience in recording workshop measurements, maintaining data integrity, and conducting practical testing. Linh meticulously documented equipment readings alongside detailed summaries, investigated root causes of discrepancies across test stands, and authored step-by-step procedure guides with illustrative examples to train colleagues on standard handling and escalation."
+      },
+      {
+        "id": 84,
+        "text": "Emilia Virtanen has direct experience coordinating an equipment rental desk and handling customer support. She maintained stock records using spreadsheets with automated formulas to flag overdue returns and low inventory for repair or reordering. Emilia resolved customer issues with faulty tools, logged causes and corrective actions, and trained colleagues using structured checklists to ensure consistent documentation and stock checks."
+      },
+      {
+        "id": 85,
+        "text": "Arjun Pham brings strong skills in process design, spreadsheet reports, and data coordination. In a community repair group, Arjun streamlined customer service by replacing redundant logs with a unified intake form to track repair requests efficiently. Arjun also created practical training exercises and updated guides with real-world examples to teach volunteers how to document cases accurately."
+      },
+      {
+        "id": 86,
+        "text": "Sara Ferreira possesses solid experience maintaining media systems and working with business tools. Sara investigated system performance issues to isolate recurring causes, audited user accounts, and developed comprehensive runbooks. To ensure procedural consistency, Sara trained new team members using simulated scenarios, refining documentation and instructions based on their practical feedback."
+      },
+      {
+        "id": 87,
+        "text": "Aleksi Mensah offers proven expertise in quality testing and tracking technical issues. Aleksi systematically captured error logs to identify the root causes of booking failures, verified fixes across varied scenarios, and grouped failure trends by screen and browser. Aleksi also established standardized test checklists and reporting formats to keep team notes consistent and reliable."
+      },
+      {
+        "id": 88,
+        "text": "Hana Mäkinen combines customer support awareness with systematic practical testing. Hana diagnosed member-facing booking errors by replicating concurrent requests, logging underlying causes, and validating solutions. Additionally, Hana grouped issues by interface and frequency to identify trends, and updated procedural checklists to ensure uniform case documentation and early defect resolution."
+      },
+      {
+        "id": 89,
+        "text": "Mateo Khalil possesses practical experience managing reporting data and spreadsheet reports for a distributor. Mateo matched warehouse records with returns reports by classifying discrepancies by product and reason, resolving physical count errors. Mateo also developed import documentation with step-by-step examples, enabling colleagues to handle customer records and data tracking consistently."
+      },
+      {
+        "id": 90,
+        "text": "Daniela Saarinen has software engineering and business tools experience building user-facing booking systems. Daniela identified and resolved recurring duplicate submission issues through log tracing and test cases. To support team operations, Daniela created clear operational guides and trained volunteers to resolve incorrect bookings and maintain records independently."
+      },
+      {
+        "id": 91,
+        "text": "Aino Nieminen brings hands-on experience running café operations and managing business workflows. Aino established shared order sheets to eliminate duplicated orders, tracked waste by day and reason in spreadsheets to inform prep amounts, and managed stock audits. Aino also trained six team members using concise guides and practical exercises to maintain consistent records."
+      },
+      {
+        "id": 92,
+        "text": "Farhan Lindberg offers customer support and meticulous technical recording experience from a repair workshop. Farhan systematically logged measurements, paired original data with summaries for seamless continuity, and diagnosed recurring hardware faults to resolve testing issues. Farhan also produced structured guides with clear examples to train colleagues on standardized checks."
+      },
+      {
+        "id": 93,
+        "text": "Oksana Salonen brings direct experience coordinating an equipment rental desk, delivering customer support, and managing inventory spreadsheets. Oksana built stock tracking sheets using formulas to flag low stock and overdue items to guide reordering and repairs. Oksana resolved customer equipment issues, documented root causes in case logs, and trained colleagues using checklists to ensure consistent case notes."
+      },
+      {
+        "id": 94,
+        "text": "Mikael Koskinen offers solid experience in coordination, business tools, and process improvement within a repair service. Mikael streamlined customer intake by replacing dual notebooks with a shared form, clarifying documentation responsibilities. Mikael also trained incoming volunteers through practice exercises and user guides, ensuring standard procedures and case logging."
+      },
+      {
+        "id": 95,
+        "text": "Li Ali provides strong technical, testing, and systems maintenance experience. Li monitored servers to identify performance bottlenecks and eliminate operational delays, managed access records, and created detailed operational runbooks. Li verified documentation by training team members through practical failure scenarios to ensure consistent troubleshooting and case handling."
+      },
+      {
+        "id": 96,
+        "text": "Priya Nguyen brings customer support experience alongside systems maintenance skills. Priya monitored operations to diagnose recurring causes of technical delays, audited and maintained access records, and authored comprehensive operational runbooks. Priya also trained new team members using practical simulations, refining documentation to ensure standard case handling."
+      },
+      {
+        "id": 97,
+        "text": "Abdi Petrov offers extensive experience in practical testing, issue analysis, and spreadsheet reporting. Abdi investigated service errors, pinpointed root causes through log analysis, and aggregated defects by frequency and category. Abdi created clear reporting frameworks and updated testing checklists to ensure team members maintained thorough, consistent case records."
+      },
+      {
+        "id": 98,
+        "text": "Sofia Berg has substantial experience with business tools and reporting data for a distributor. Sofia reconciled returns reports against warehouse stock by categorising variances by item and cause, resolving discrepancies to mirror physical inventory. Sofia also drafted data guidelines complete with examples, training colleagues to manage customer orders and records accurately."
+      },
+      {
+        "id": 99,
+        "text": "Tuan Rojas combines practical testing and tool-building experience for community operations. Tuan diagnosed request logs to resolve duplicate booking issues and implemented checks to prevent recurrence. Tuan also authored maintenance guides and trained team members through hands-on tasks, ensuring clear instructions and consistent record-keeping."
+      }
+    ]
+  },
+  "usage": {
+    "promptTokenCount": 5466,
+    "candidatesTokenCount": 1400,
+    "totalTokenCount": 6866,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 5466
+      }
+    ],
+    "serviceTier": "standard"
+  }
+}

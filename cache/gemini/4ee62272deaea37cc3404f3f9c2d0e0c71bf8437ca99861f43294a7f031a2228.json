@@ -1,0 +1,103 @@
+{
+  "model": "gemini-3.8-flash",
+  "prompt_version": "cg-2.1",
+  "at": "2026-11-15T00:08:30.526Z",
+  "kind": "advert-tailored-cvs",
+  "input_hash": "4ee62272deaea37cc3404f3f9c2d0e0c71bf8437ca99861f43294a7f031a2228",
+  "answer": {
+    "cvs": [
+      {
+        "id": 0,
+        "text": "Full-stack software developer experienced in Python, SQL, APIs, cloud, data analytics, and testing. Proven background in operational tracking and root-cause analysis, having created logging systems to analyse weekly data and identify key issues, resulting in significant improvements. Skilled in creating clear documentation, user guides, and training colleagues through hands-on practice to ensure smooth adoption of new tools and processes."
+      },
+      {
+        "id": 1,
+        "text": "Detail-oriented professional experienced in spreadsheet reports, structured data entry, and procedural documentation. Skilled at recording detailed measurements, isolating discrepancies, and conducting root-cause analysis by systematically testing variables. Adept at creating user-friendly guides with clear diagrams and instructions, making complex data and processes accessible and easy for colleagues to adopt and follow."
+      },
+      {
+        "id": 2,
+        "text": "Experienced coordinator proficient in business tools and spreadsheet tracking. Skilled at designing tracking systems with automated formulas to flag overdue items and monitor operational flow. Experienced in analysing recurring issues from case logs to uncover underlying causes, as well as onboarding and supporting team members using practical checklists and feedback-driven documentation."
+      },
+      {
+        "id": 3,
+        "text": "Organised coordinator with practical testing experience, skilled in streamlining workflows and managing operational data. Experienced in mapping processes, consolidating disparate data sources into clear shared forms, and identifying bottlenecks. Proven ability to train team members through hands-on practice and continuously refine operational guides based on user feedback to drive adoption."
+      },
+      {
+        "id": 4,
+        "text": "Systems-focused professional with customer support experience, adept at performance monitoring, issue diagnosis, and operational documentation. Experienced in analysing usage and timing data to pinpoint causes of system delays and resolving them effectively. Skilled in writing step-by-step runbooks, creating instructional resources, and validating procedures through practical user testing."
+      },
+      {
+        "id": 5,
+        "text": "Full-stack software developer with core strengths in Python, SQL, APIs, cloud systems, testing, and data analytics. Experienced in investigating technical errors, capturing logs, and analysing test data across multiple runs to uncover recurring issues. Skilled in establishing automated checks, documenting clear reports, and updating procedures to streamline operations and ensure high software reliability."
+      },
+      {
+        "id": 6,
+        "text": "Data-focused professional experienced in SQL, PostgreSQL, and business tools. Proven track record in combining multiple data exports, establishing mapping tables, and verifying data accuracy. Skilled in weekly discrepancy analysis to identify root causes of reporting errors, as well as documenting workflows, data models, and step-by-step guides to train team members."
+      },
+      {
+        "id": 7,
+        "text": "Developer with hands-on experience building functional web applications using JavaScript and web servers. Experienced in gathering user feedback to refine tools, diagnosing issues through request logs, and implementing test cases to prevent errors. Adept at creating clear practical guides and training non-technical users to independently manage and operate software tools."
+      },
+      {
+        "id": 8,
+        "text": "Developer experienced in building user-focused web tools with JavaScript and small web servers. Skilled in tracing request logs to troubleshoot operational errors and applying practical test cases. Strong customer support mindset, with demonstrated success in creating clear user guides, training colleagues, and gathering feedback to keep operational tools effective and well-documented."
+      },
+      {
+        "id": 9,
+        "text": "Operational specialist with four years of management experience and strong skills in spreadsheet reporting. Experienced in replacing manual notes with structured tracking sheets to coordinate workflows smoothly. Proven ability to analyse weekly logs to identify root causes of operational waste, alongside extensive experience training staff and updating instructional documentation."
+      },
+      {
+        "id": 10,
+        "text": "Full-stack software developer with expertise in Python, SQL, APIs, cloud environments, and data analytics. Experienced in systematic data recording, anomaly detection, and controlled troubleshooting to find root causes of discrepancies. Skilled in producing clear technical documentation, diagrams, and procedures that help team members execute tasks reliably."
+      },
+      {
+        "id": 11,
+        "text": "Organised operations coordinator experienced in practical testing and spreadsheet management. Skilled in setting up formula-driven tracking sheets to monitor stock levels and flag overdue items. Experienced in analysing case logs to identify repeated operational issues and developing practical checklists to train team members and support smooth daily workflows."
+      },
+      {
+        "id": 12,
+        "text": "Project coordinator with strong customer support and practical testing skills. Experienced in mapping workflows, replacing fragmented records with unified tracking forms, and monitoring operational performance. Proven track record in training team members with tailored practice exercises and refining user guides based on direct feedback to ensure effective tool adoption."
+      },
+      {
+        "id": 13,
+        "text": "Systems specialist experienced in performance monitoring, spreadsheet reporting, and user support. Adept at analysing system logs, response times, and scheduled tasks to diagnose and eliminate delays. Experienced in authoring clear runbooks with practical checklists and testing procedures with new users to ensure operational clarity and system stability."
+      },
+      {
+        "id": 14,
+        "text": "Quality assurance and business tools specialist experienced in testing and data analysis. Skilled in replicating issues, inspecting logs, and aggregating failure data to pinpoint root causes of operational defects. Adept at communicating findings to developers and drafting clear reports and checklists to guide team processes and prevent recurring issues."
+      },
+      {
+        "id": 15,
+        "text": "Full-stack software developer skilled in Python, SQL, APIs, cloud environments, and data analytics. Proven experience importing diverse data files into PostgreSQL, using SQL queries to validate records, and conducting weekly comparisons to identify and fix data discrepancies. Experienced in mapping data models and authoring clear documentation for team use."
+      },
+      {
+        "id": 16,
+        "text": "Data-oriented professional with strong customer support background and extensive experience handling business tools and PostgreSQL databases. Skilled in importing data exports, resolving record discrepancies, and identifying root causes of recurring weekly errors. Adept at explaining data structures and producing step-by-step guides to support colleagues in daily reporting."
+      },
+      {
+        "id": 17,
+        "text": "Web tools developer experienced in JavaScript, web servers, and spreadsheet reporting. Proven ability to create functional tracking and booking prototypes tailored to user needs. Skilled in analysing request logs to resolve operational bugs and writing clear procedural documentation to train and support team members effectively."
+      },
+      {
+        "id": 18,
+        "text": "Operations manager with four years of café leadership experience and expertise in business tools and spreadsheet reporting. Proven track record in establishing shared tracking sheets to prevent order mix-ups and analysing weekly log data to pinpoint and reduce waste. Skilled in producing step-by-step guides and training colleagues through hands-on practice."
+      },
+      {
+        "id": 19,
+        "text": "Detail-oriented specialist experienced in practical testing, structured measurement recording, and spreadsheet reporting. Skilled in identifying discrepancies, testing components to isolate underlying causes, and documenting setups clearly. Adept at authoring comprehensive procedural guides with diagrams to help colleagues follow instructions accurately and report unusual findings."
+      }
+    ]
+  },
+  "usage": {
+    "promptTokenCount": 5061,
+    "candidatesTokenCount": 1347,
+    "totalTokenCount": 6408,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 5061
+      }
+    ],
+    "serviceTier": "standard"
+  }
+}

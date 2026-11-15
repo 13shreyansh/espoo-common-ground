@@ -1,0 +1,103 @@
+{
+  "model": "gemini-3.8-flash",
+  "prompt_version": "cg-2.1",
+  "at": "2026-11-15T00:09:00.577Z",
+  "kind": "advert-tailored-cvs",
+  "input_hash": "ca359409a3ffa3845c1e34f4f58310b58b25cafc99fb3659950fb7feedaac826",
+  "answer": {
+    "cvs": [
+      {
+        "id": 100,
+        "text": "Full-stack software developer with skills in Python, SQL, APIs, cloud, software engineering, and testing. Experienced in customer support and creating operational tracking tools, including shared order sheets and waste-tracking spreadsheets that improved daily workflows. Skilled in testing formulas, identifying issues, and writing practical user guides with real-world examples to train teams effectively. Brings a strong foundation for building internal support-tracking tools, troubleshooting portal issues prior to release, and producing clear documentation."
+      },
+      {
+        "id": 101,
+        "text": "Experienced in recording structured data, spreadsheet reporting, and systematic diagnostic testing. Skilled at logging precise technical measurements, isolating hardware and setup faults through comparative testing, and verifying fixes before deployment. Demonstrated ability to document processes by writing step-by-step guides complete with diagrams, edge-case examples, and clear escalation instructions, validating usability with colleagues. Offers transferable strengths in tracking operational issues, verifying bug fixes before release, and creating clear user guides for team tools."
+      },
+      {
+        "id": 102,
+        "text": "Experienced in coordinating operations, customer support, and managing business tools. Built and maintained tracking spreadsheets featuring automated formulas to flag overdue items and stock issues, directly supporting operational decision-making. Adept at handling user issues, logging root causes to identify recurring problems, and implementing process improvements. Experienced in drafting practical checklists and training team members, offering strong transferable abilities to track support requests, test portal workflows, and produce user documentation."
+      },
+      {
+        "id": 103,
+        "text": "Experienced in operational coordination, practical testing, and workflow optimisation. Streamlined support processes by mapping repair requests and replacing redundant records with a single shared tracking form. Skilled at iteratively testing processes with users, pinpointing workflow bottlenecks, and refining tools based on direct feedback. Experienced in authoring practical user guides enriched with clear examples and practice exercises, bringing transferable expertise to tracking support requests, finding portal issues, and writing team guides."
+      },
+      {
+        "id": 104,
+        "text": "Experienced in customer support, workflow organisation, and process tracking. Successfully redesigned support request workflows by eliminating duplicated records and introducing a unified shared form to track tasks. Skilled in gathering user feedback, testing task flows, and identifying procedural issues. Experienced in writing practical guides featuring concrete examples and training users through hands-on practice, offering strong transferable capability for managing support-request tracking tools, testing portal flows, and drafting internal documentation."
+      },
+      {
+        "id": 105,
+        "text": "Full-stack software developer experienced in Python, SQL, APIs, cloud, testing, and software engineering. Demonstrated background in monitoring system performance, isolating root causes of system slowdowns, and verifying technical fixes in production environments. Skilled in maintaining secure access, performing restore tests, and writing clear operational runbooks validated through user practice runs. Well-prepared to develop internal tools for tracking support requests, debug portal releases, and deliver high-quality technical guides for teams."
+      },
+      {
+        "id": 106,
+        "text": "Experienced in software testing, business tools, and quality assurance. Built automated browser test suites covering core user journeys and integrated checks into the release process. Skilled at isolating intermittent defects, reproducing complex multi-user bugs using request logs, and verifying fixes across various screen sizes and environments. Proficient in updating test checklists and reporting clear issues, directly matching the need to identify portal bugs prior to release, support request tracking, and document tool procedures."
+      },
+      {
+        "id": 107,
+        "text": "Experienced in practical testing, database management, and data reporting. Proficient in combining data streams into PostgreSQL databases, using SQL queries to validate records, and performing duplicate checks. Experienced in troubleshooting discrepancies between data sets, identifying root causes such as double-counting, and documenting corrections. Skilled in authoring clear data guides and process diagrams validated by team members, providing strong transferable capabilities for building tracking tools, testing data workflows, and producing user documentation."
+      },
+      {
+        "id": 108,
+        "text": "Experienced in building web tools using JavaScript and web servers, backed by a strong background in customer support. Developed interactive web forms from initial wireframes through to production, iterating based on usability feedback. Skilled in diagnosing web application bugs, tracing request logs, resolving race conditions, and writing test cases prior to release. Experienced in authoring practical maintenance guides and training users, aligning directly with building internal support tools, fixing portal bugs, and documenting procedures."
+      },
+      {
+        "id": 109,
+        "text": "Experienced in operational tracking, spreadsheet reporting, and team coordination. Created shared tracking sheets and data-logging spreadsheets to streamline requests, eliminate duplicate work, and monitor operational patterns. Experienced in updating spreadsheet formulas, checking delivery data for discrepancies, and maintaining review documentation. Proven ability to create clear, one-page user guides with practical examples to train staff, offering strong transferable skills for tracking support workflows, catching portal issues, and documenting internal tools."
+      },
+      {
+        "id": 110,
+        "text": "Full-stack software developer with expertise in Python, SQL, APIs, software engineering, and testing. Experienced in logging technical data, running diagnostic tests, and isolating equipment faults through systematic testing before returning tools to service. Skilled in business tools and producing clear technical documentation, including diagrams, setup instructions, and edge-case handling validated by peer testing. Well-equipped to engineer internal tracking tools, identify and resolve bugs ahead of release, and author accessible documentation."
+      },
+      {
+        "id": 111,
+        "text": "Experienced in business tools, practical testing, and coordinating operational records. Built tracking spreadsheets utilizing automated formulas to flag overdue items and monitor inventory status. Experienced in troubleshooting customer issues, logging problem causes, and grouping recurring incidents to refine operational guidance. Skilled in writing procedural checklists and validating usability through team feedback, offering strong transferable skills for tracking support requests, testing portal functionality before release, and creating user guides."
+      },
+      {
+        "id": 112,
+        "text": "Experienced in customer support, desk coordination, and business tracking tools. Developed inventory spreadsheets with formulas to flag status changes and support team planning. Logged customer inquiries and equipment malfunctions to identify repeat issues and improve user instructions. Proven record of drafting clear checklists, incorporating team feedback, and training colleagues on system updates, providing relevant transferable capabilities for tracking support requests, identifying portal issues prior to release, and authoring user guides."
+      },
+      {
+        "id": 113,
+        "text": "Experienced in process coordination, practical testing, and spreadsheet reports. Designed shared workflows by mapping request paths and consolidating separate logs into a single shared tracking form. Skilled in validating processes through pilot runs, identifying gaps, and refining procedures. Experienced in writing practical instructional guides with real-world examples and training team members directly, offering strong transferable skills for tracking support requests, checking portal workflows, and writing clear team documentation."
+      },
+      {
+        "id": 114,
+        "text": "Experienced in systems maintenance, business tools, and operational monitoring. Tracked system usage, diagnosed performance delays by analyzing schedules, and adjusted background tasks to maintain server stability. Skilled in managing permissions, verifying backup restore procedures, and creating detailed runbooks complete with step-by-step instructions and screenshots. Brings relevant transferable skills in monitoring system workflows, catching issues prior to release, and writing comprehensive guides for internal tools."
+      },
+      {
+        "id": 115,
+        "text": "Full-stack software developer with comprehensive skills in Python, SQL, APIs, cloud environments, and software engineering. Highly proficient in testing, having developed automated browser suites for release processes and isolated complex race conditions using server logs. Experienced in reporting defects clearly, validating fixes across platforms, and updating test checklists. Well-suited to developing internal web tools for tracking support requests, debugging customer portals prior to deployment, and writing clear operational guides."
+      },
+      {
+        "id": 116,
+        "text": "Experienced in customer support, database administration, and reporting. Consolidated multi-source data into PostgreSQL databases, using SQL queries to reconcile records and verify data integrity. Skilled in detecting discrepancies, isolating root causes like duplicate entries, and documenting corrections. Experienced in producing data diagrams and procedural guides with illustrative examples to train colleagues, offering solid transferable capabilities for building tracking workflows, verifying portal behavior before release, and drafting user manuals."
+      },
+      {
+        "id": 117,
+        "text": "Web developer experienced in JavaScript, backend web servers, and spreadsheet reporting. Built end-to-end web booking forms, creating prototypes and refining them based on user testing. Skilled in troubleshooting web applications, analyzing request logs, resolving duplicate-submission bugs, and writing comprehensive test cases prior to release. Authored user guides for publishing and maintenance, validating clarity directly with colleagues. Directly matches requirements for building support-tracking tools, pre-release bug fixing, and writing documentation."
+      },
+      {
+        "id": 118,
+        "text": "Experienced in team operations, business tools, and process tracking. Designed shared order sheets and structured tracking spreadsheets to prevent duplicate handling and monitor operational trends. Skilled in updating formulas, verifying delivery data against records, and identifying discrepancies. Experienced in authoring concise user guides featuring practical examples and training staff through supervised practice, providing strong transferable capability for managing support request tracking, verifying portal flows, and drafting user guides."
+      },
+      {
+        "id": 119,
+        "text": "Experienced in practical testing, technical logging, and structured reporting. Collected detailed measurements, verified anomalous readings through repeat testing, and systematically isolated hardware faults before certifying equipment. Skilled at documenting standard operating procedures with diagrams, tool settings, and clear instructions for handling abnormal results. Demonstrates transferable ability to log and track issues accurately, verify bug fixes ahead of release, and author clear technical guides for team use."
+      }
+    ]
+  },
+  "usage": {
+    "promptTokenCount": 5434,
+    "candidatesTokenCount": 1899,
+    "totalTokenCount": 7333,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 5434
+      }
+    ],
+    "serviceTier": "standard"
+  }
+}

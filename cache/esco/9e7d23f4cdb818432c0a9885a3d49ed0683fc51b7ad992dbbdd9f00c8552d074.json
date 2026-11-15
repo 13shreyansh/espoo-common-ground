@@ -1,0 +1,393 @@
+{
+  "url": "https://ec.europa.eu/esco/api/search?type=skill&language=en&limit=6&text=identify%20ICT%20security%20risks",
+  "at": "2026-11-14T23:58:09.153Z",
+  "response": {
+    "total": 1323,
+    "offset": 0,
+    "limit": 6,
+    "text": "identify ICT security risks",
+    "language": "en",
+    "type": [
+      "skill"
+    ],
+    "isInScheme": null,
+    "facet": null,
+    "_links": {
+      "self": {
+        "href": "https://ec.europa.eu/esco/api/search?text=identify%20ICT%20security%20risks&type=skill&limit=6&offset=0&full=false&viewObsolete=false&language=en"
+      },
+      "next": {
+        "href": "https://ec.europa.eu/esco/api/search?text=identify%20ICT%20security%20risks&type=skill&limit=6&offset=1&full=false&viewObsolete=false&language=en"
+      }
+    },
+    "_embedded": {
+      "results": [
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/fe1c2b32-7fe9-4668-affa-07ff658a68cf",
+          "searchHit": "identify ICT security risks",
+          "title": "identify ICT security risks",
+          "preferredLabel": {
+            "de": "IKT-Sicherheitsrisiken identifizieren",
+            "no": "identifisere IKT-sikkerhetsrisikoer",
+            "fi": "määritellä ICT-turvallisuusriskit",
+            "en-us": "identify ICT security risks",
+            "pt": "identificar riscos de segurança informática",
+            "bg": "идентифициране на рискове за сигурността на ИКТ",
+            "lt": "nustatyti informacinių ir ryšių technologijų saugumo rizikos veiksnius",
+            "hr": "identificirati sigurnosne rizike u IKT-u",
+            "lv": "IKT drošības risku identificēšana",
+            "fr": "identifier les risques de sécurité des TIC",
+            "hu": "IKT biztonsági kockázatokat azonosít",
+            "sk": "identifikovať bezpečnostné riziká IKT",
+            "sl": "prepoznavati varnostna tveganja v IKT",
+            "ga": "rioscaí slándála TFC a shainaithint",
+            "sv": "identifiera IT-säkerhetsrisker",
+            "el": "προσδιορισμός των κινδύνων ασφάλειας ΤΠΕ",
+            "mt": "tidentifika riskji tas-sigurtà tal-ICT",
+            "en": "identify ICT security risks",
+            "is": "greina UT-áhættuþætti",
+            "it": "identificare i rischi per la sicurezza TIC",
+            "es": "identificar riesgos de seguridad de las TIC",
+            "et": "IKT-turberiske tuvastama",
+            "cs": "identifikovat bezpečnostní rizika ICT",
+            "ar": "تحديد مخاطر أمن تكنولوجيا المعلومات والاتصالات",
+            "pl": "identyfikować zagrożenia dla systemów ICT",
+            "da": "identificere IKT-sikkerhedsrisici",
+            "ro": "identifică riscurile la adresa securității TIC",
+            "nl": "ICT-beveiligingsrisico’s identificeren"
+          },
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/skill"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/sector-specific"
+          ],
+          "broaderSkill": [
+            "http://data.europa.eu/esco/skill/14832d87-2f2f-4895-b290-e4760ebae42a",
+            "http://data.europa.eu/esco/skill/2a3a96a3-709e-4d60-81f6-d247d6933f13",
+            "http://data.europa.eu/esco/skill/bc0b0b5d-f6be-405a-b224-b6902a4dbe97",
+            "http://data.europa.eu/esco/skill/69cfc5ed-6569-4aca-a4cc-fd782ba51d9c",
+            "http://data.europa.eu/esco/skill/a4b2a278-2123-4450-8b43-be01c4f341da",
+            "http://data.europa.eu/esco/skill/33a82b83-c838-4889-ae62-fae1317481eb"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/skill/S2.7.5"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/fe1c2b32-7fe9-4668-affa-07ff658a68cf&language=en",
+              "uri": "http://data.europa.eu/esco/skill/fe1c2b32-7fe9-4668-affa-07ff658a68cf",
+              "title": "identify ICT security risks"
+            }
+          }
+        },
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/69cfc5ed-6569-4aca-a4cc-fd782ba51d9c",
+          "searchHit": "Develop and implement procedures for identifying, assessing, treating and mitigating ICT risks, such as hacks or data leaks, according to the company's risk strategy, procedures and policies. Analyse and manage security risks and incidents. Recommend measures to improve digital security strategy.",
+          "title": "implement ICT risk management",
+          "preferredLabel": {
+            "de": "IKT-Risikomanagement durchführen",
+            "no": "implementere IKT-risikostyring",
+            "fi": "ottaa käyttöön ICT-riskinhallinta",
+            "en-us": "implement ICT risk management",
+            "pt": "executar gestão de riscos de TIC",
+            "bg": "извършване на управление на риска на ИКТ",
+            "lt": "valdyti informacinių ir ryšių technologijų riziką",
+            "hr": "implementirati upravljanje rizikom u IKT-u",
+            "lv": "IKT risku pārvaldības piemērošana",
+            "fr": "mettre en œuvre la gestion des risques des TIC",
+            "hu": "IKT kockázatmenedzsment rendszert vezet be",
+            "sk": "vykonávať riadenie rizika IKT",
+            "sl": "izvajati obvladovanje tveganja na področju IKT",
+            "ga": "bainistíocht riosca TFC a chur chun feidhme",
+            "sv": "implementera IT-riskhantering",
+            "el": "εφαρμογή συστήματος διαχείρισης κινδύνου ΤΠΕ",
+            "mt": "timplimenta l-ġestjoni tar-riskji fl-ICT",
+            "en": "implement ICT risk management",
+            "is": "innleiða áhættustjórnun á sviði upplýsinga- og fjarskiptatækni",
+            "it": "attuare la gestione del rischio TIC",
+            "es": "aplicar gestión de riesgos de las TIC",
+            "et": "IKT riskijuhtimist rakendama",
+            "cs": "zavádět řízení rizik ICT",
+            "ar": "إنفاذ إدارة مخاطر تكنولوجيا المعلومات والاتصالات",
+            "pl": "wdrażać zarządzanie ryzykiem w ICT",
+            "da": "implementere IKT-risikostyring",
+            "ro": "implementează gestionarea riscurilor în TIC",
+            "nl": "ICT-risicobeheer ten uitvoer brengen"
+          },
+          "isTopConceptInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/skill"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/sector-specific"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/skill/S2.7.5"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/69cfc5ed-6569-4aca-a4cc-fd782ba51d9c&language=en",
+              "uri": "http://data.europa.eu/esco/skill/69cfc5ed-6569-4aca-a4cc-fd782ba51d9c",
+              "title": "implement ICT risk management"
+            }
+          }
+        },
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/2ddb1226-1117-4eb4-ae65-3a2f5a5a3c80",
+          "searchHit": "ICT network security risks",
+          "title": "ICT network security risks",
+          "preferredLabel": {
+            "de": "IKT-Netzwerk-Sicherheitsrisiken",
+            "no": "Sikkerhetsrisikoer for IKT-nettverk",
+            "fi": "ICT-verkkoturvallisuusriskit",
+            "en-us": "ICT network security risks",
+            "pt": "riscos de segurança de redes informáticas",
+            "bg": "рискове свързани със сигурността на ИКТ мрежа",
+            "lt": "informacinių ir ryšių technologijų tinklų saugumo rizikos veiksniai",
+            "hr": "sigurnosni rizici IKT mreže",
+            "lv": "IKT tīklu drošības riski",
+            "fr": "risques de sécurité des réseaux de TIC",
+            "hu": "IKT hálózatbiztonsági kockázatok",
+            "sk": "bezpečnostné riziká siete IKT",
+            "sl": "varnostna tveganja v omrežjih IKT",
+            "ga": "rioscaí slándála líonra TFC",
+            "sv": "säkerhetsrisker för IT-nätverk",
+            "el": "κίνδυνοι για την ασφάλεια του δικτύου ΤΠΕ",
+            "mt": "riskji fis-sigurtà tan-netwerk tal-ICT",
+            "en": "ICT network security risks",
+            "is": "öryggisáhætta UT-neta",
+            "it": "rischi di sicurezza della rete TIC",
+            "es": "riesgos de seguridad de la red de TIC",
+            "et": "IKT-võrgu turvariskid",
+            "cs": "bezpečnostní rizika sítě ICT",
+            "ar": "مخاطر أمن شبكات تكنولوجيا المعلومات والاتصالات",
+            "pl": "zagrożenia bezpieczeństwa sieci ICT",
+            "da": "IKT-netværks sikkerhedsrisici",
+            "ro": "riscuri de securitate a rețelelor de TIC",
+            "nl": "beveiligingsrisico’s voor ICT-netwerken"
+          },
+          "isTopConceptInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/knowledge"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/sector-specific"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/isced-f/0612"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/2ddb1226-1117-4eb4-ae65-3a2f5a5a3c80&language=en",
+              "uri": "http://data.europa.eu/esco/skill/2ddb1226-1117-4eb4-ae65-3a2f5a5a3c80",
+              "title": "ICT network security risks"
+            }
+          }
+        },
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/5acf6408-e084-4202-9442-ffcf0119811c",
+          "searchHit": "security risks",
+          "title": "security threats",
+          "preferredLabel": {
+            "de": "Bedrohungen der Sicherheit",
+            "no": "sikkerhetstrusler",
+            "fi": "turvauhkat",
+            "en-us": "security threats",
+            "pt": "ameaças à segurança",
+            "bg": "заплахи за сигурността",
+            "lt": "grėsmės saugumui",
+            "hr": "prijetnje sigurnosti",
+            "lv": "drošības apdraudējumi",
+            "fr": "menaces de sécurité",
+            "hu": "biztonsági fenyegetések",
+            "sk": "bezpečnostné hrozby",
+            "sl": "varnostne grožnje",
+            "ga": "bagairtí slándála",
+            "sv": "säkerhetshot",
+            "el": "απειλές για την ασφάλεια",
+            "mt": "theddid għas-sigurtà",
+            "en": "security threats",
+            "is": "ógnanir við öryggi",
+            "it": "minacce alla sicurezza",
+            "es": "amenazas para la seguridad",
+            "et": "julgeolekuohud",
+            "cs": "hrozby pro bezpečnost",
+            "ar": "التهديدات الأمنية",
+            "pl": "zagrożenia dla bezpieczeństwa",
+            "da": "sikkerhedstrusler",
+            "ro": "amenințări la adresa securității",
+            "nl": "veiligheidsrisico’s"
+          },
+          "isTopConceptInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/knowledge"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/cross-sector"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/isced-f/1032"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/5acf6408-e084-4202-9442-ffcf0119811c&language=en",
+              "uri": "http://data.europa.eu/esco/skill/5acf6408-e084-4202-9442-ffcf0119811c",
+              "title": "security threats"
+            }
+          }
+        },
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/b7729524-6d0e-45b6-87c8-79af1e955a5b",
+          "searchHit": "identify risk of flooding",
+          "title": "identify risk of flooding",
+          "preferredLabel": {
+            "de": "Überflutungsrisiko ermitteln",
+            "no": "identifisere risiko for flom",
+            "fi": "tunnistaa tulvariskejä",
+            "en-us": "identify risk of flooding",
+            "pt": "identificar risco de inundações",
+            "bg": "установяване на риска от наводнения",
+            "lt": "nustatyti potvynio riziką",
+            "hr": "utvrđivati postojanje rizika od poplave",
+            "lv": "identificēt plūdu riskus",
+            "fr": "recenser les risques d’inondation",
+            "hu": "árvízveszélyt azonosít",
+            "sk": "stanoviť povodňové nebezpečenstvo",
+            "sl": "ugotavljati poplavno ogroženost",
+            "ga": "riosca tuile a shainaithint",
+            "sv": "fastställa översvämningsrisk",
+            "el": "εντοπισμός κινδύνου πλημμύρας",
+            "mt": "identifikazzjoni tar-riskju ta’ għargħar",
+            "en": "identify risk of flooding",
+            "is": "ber kennsl á flóðaáhættu",
+            "it": "individuare il rischio di inondazioni",
+            "es": "identificar el riesgo de inundaciones",
+            "et": "üleujutusriski tuvastama",
+            "cs": "identifikovat riziko záplav",
+            "ar": "تحديد مخاطر الفيضانات",
+            "pl": "identyfikować ryzyko powodziowe",
+            "da": "udpege risici for oversvømmelse",
+            "ro": "identifică riscul de inundații",
+            "nl": "risico op overstromingen vaststellen"
+          },
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/skill"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/cross-sector"
+          ],
+          "broaderSkill": [
+            "http://data.europa.eu/esco/skill/5f97fac8-2001-4b81-ae8b-22f9062d921a"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/skill/S2.7.5"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/b7729524-6d0e-45b6-87c8-79af1e955a5b&language=en",
+              "uri": "http://data.europa.eu/esco/skill/b7729524-6d0e-45b6-87c8-79af1e955a5b",
+              "title": "identify risk of flooding"
+            }
+          }
+        },
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/7f27f1ff-2e17-4b69-990e-c23334478313",
+          "searchHit": "assessment of risks and threats",
+          "title": "assessment of risks and threats",
+          "preferredLabel": {
+            "de": "Bewertung von Risiken und Bedrohungen",
+            "no": "vurdering av risikoer og trusler",
+            "fi": "riskien ja uhkien arviointi",
+            "en-us": "assessment of risks and threats",
+            "pt": "avaliação de riscos e ameaças",
+            "bg": "оценка на рисковете и заплахите",
+            "lt": "rizikos ir grėsmių vertinimas",
+            "hr": "procjenjivanje rizika i prijetnji",
+            "lv": "risku un apdraudējumu novērtējums",
+            "fr": "évaluation des risques et des menaces",
+            "hu": "kockázat- és veszélyértékelés",
+            "sk": "posúdenie rizík a hrozieb",
+            "sl": "ocena tveganj in nevarnosti",
+            "ga": "measúnú ar rioscaí agus bagairtí",
+            "sv": "bedömning av risker och hot",
+            "el": "αξιολόγηση κινδύνων και απειλών",
+            "mt": "valutazzjoni tar-riskji u tat-theddidiet",
+            "en": "assessment of risks and threats",
+            "is": "mat á áhættu og ógnum",
+            "it": "valutazione dei rischi e delle minacce",
+            "es": "evaluación de los riesgos y las amenazas",
+            "et": "riskide ja ohtude hindamine",
+            "cs": "posouzení rizik a hrozeb",
+            "ar": "تقييم المخاطر والتهديدات",
+            "pl": "ocena czynników ryzyka i zagrożeń",
+            "da": "vurdering af risici og trusler",
+            "ro": "evaluarea riscurilor și a amenințărilor",
+            "nl": "beoordeling van risico’s en bedreigingen"
+          },
+          "isTopConceptInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/knowledge"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/cross-sector"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/isced-f/0612"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/7f27f1ff-2e17-4b69-990e-c23334478313&language=en",
+              "uri": "http://data.europa.eu/esco/skill/7f27f1ff-2e17-4b69-990e-c23334478313",
+              "title": "assessment of risks and threats"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

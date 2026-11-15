@@ -1,0 +1,103 @@
+{
+  "model": "gemini-3.8-flash",
+  "prompt_version": "cg-2.1",
+  "at": "2026-11-15T00:10:49.162Z",
+  "kind": "advert-tailored-cvs",
+  "input_hash": "e1caec6519b8088c71357c13b1d68ed924cdcb1cd8aef213136dbfce6f76f87a",
+  "answer": {
+    "cvs": [
+      {
+        "id": 100,
+        "text": "Experienced professional with a background in customer support and full-stack software development. Skilled in mapping handovers and eliminating duplicate work, demonstrated by replacing loose order slips with a shared tracking sheet to halt double-handling. Experienced in documentation and coaching; created one-page practical guides with real error examples and conducted one-on-one practice sessions to help team members adopt new tools and sheets. Ready to support the service team through tool adoption, process streamlining, and guided practice."
+      },
+      {
+        "id": 101,
+        "text": "Detail-oriented specialist experienced with spreadsheet reports and workshop data tracking. Proven ability to document workflows clearly by creating setup diagrams, step-by-step check procedures, and handling instructions for irregular results. Skilled in facilitating practice and process reviews, testing guides directly with colleagues to uncover unclear steps before rollouts. Experienced in structuring handovers to eliminate guesswork between team members. Well-prepared to document rollout processes, lead practical user sessions, and refine case tracking handovers."
+      },
+      {
+        "id": 102,
+        "text": "Experienced coordinator with a background in customer support and business tools. Proven track record in case management and process improvement, having tracked customer tool issues, logged causes and corrective actions, and analyzed monthly trends to refine operational instructions. Experienced in mapping returns and handover checklists to remove manual confusion. Adept at coaching colleagues using hands-on practice sessions and feedback to embed tool adoption and improve workflows. Ready to guide service teams through new tool implementation."
+      },
+      {
+        "id": 103,
+        "text": "Organised coordinator experienced with practical testing and community operations. Directly mapped handover processes between front-desk reception and repair teams, replacing duplicate paper notebooks with a single shared form and clear field ownership. Experienced in creating short practice exercises to train team members on recording cases and finding instructions, refining documentation based on where users hesitate. Well-suited to help service teams adopt case-management tools, eliminate redundant manual steps, and lead hands-on practice sessions."
+      },
+      {
+        "id": 104,
+        "text": "Community coordinator experienced in customer support and operational workflow design. Directly mapped handover steps between reception and service volunteers, eliminating duplicate notebook entries by introducing a unified shared form with designated field owners. Proven track record in user adoption; designed practical exercises, guided new team members through logging cases, and updated documentation with examples based on user feedback. Ready to train service teams, streamline case handovers, and document new tool rollouts."
+      },
+      {
+        "id": 105,
+        "text": "Full-stack software developer experienced in systems administration, testing, and spreadsheet reports. Skilled at documenting operational procedures into clear runbooks featuring ordered checklists and escalation rules. Proven ability to organize practice sessions, having tested procedures with new volunteers using simulated failures to identify ambiguities and add visual aids. Adept at analyzing system performance and streamlining handovers. Ready to support service teams with tool documentation, practice runs, and structured case management workflows."
+      },
+      {
+        "id": 106,
+        "text": "Quality assurance and business tools specialist experienced in testing web workflows and reporting. Skilled in mapping user journeys across registration, account management, and booking flows, identifying friction points, and documenting repeatable test cases. Experienced in creating clear reports and checklists for non-technical volunteers to help them navigate tool errors and releases. Well-equipped to assist service teams in mapping handovers, documenting tool rollouts, and running structured practice sessions for smooth adoption."
+      },
+      {
+        "id": 107,
+        "text": "Data-focused professional experienced in practical testing, database mapping, and reporting data. Skilled at mapping handovers between disparate systems, resolving duplicate records, and creating clear process documentation. Created visual data models and detailed import check guides for operational teams, using colleague feedback to add practical examples that clarify complex steps. Strong aptitude for eliminating redundant manual handling, documenting new procedures, and guiding teams through practice sessions to ensure confident tool adoption."
+      },
+      {
+        "id": 108,
+        "text": "Software and web tools builder experienced in customer support and user-centered design. Skilled at mapping handover steps by wireframing screens alongside users, creating prototypes, and observing where people hesitate to eliminate process bottlenecks. Proven experience writing practical maintenance guides for non-technical volunteers and conducting independent practice sessions to validate clear instructions. Ready to help service teams seamlessly adopt new case-management tools through clear documentation, streamlined workflows, and interactive coaching."
+      },
+      {
+        "id": 109,
+        "text": "Experienced operations and café manager skilled in spreadsheet reporting and workflow coordination. Proven track record in eliminating duplicate manual work by replacing disorganized paper orders with a centralized shared tracking sheet. Demonstrated success in onboarding colleagues: produced one-page instructional guides featuring real-world mistakes, led supervised practice orders, and maintained structured documentation for team reviews. Highly capable of training service staff, optimizing handover processes, and supporting case-management tool adoption."
+      },
+      {
+        "id": 110,
+        "text": "Full-stack software developer experienced with business tools, technical testing, and structured data collection. Proven skill in establishing consistent handover procedures and maintaining traceable records that eliminate confusion between operators and technicians. Adept at creating documentation, including illustrated setup diagrams, sequential check guides, and boundary rules. Experienced in validating instructions by having peers perform tasks directly from written guides, making them well-prepared to organize practice sessions and document tool rollouts."
+      },
+      {
+        "id": 111,
+        "text": "Rental desk coordinator experienced with business tools and practical testing. Experienced in mapping customer issues, logging actions in case records, and categorizing recurring problems to refine user instructions. Successfully trained team members on updated workflows by running hands-on practice scenarios with edge cases prior to live deployment. Streamlined handovers by developing practical checklists based on user feedback, ensuring smooth adoption of new procedures and case-management workflows."
+      },
+      {
+        "id": 112,
+        "text": "Customer support and rental desk coordinator experienced in case logging, returns workflows, and business tools. Proven track record in logging customer issues, recording solutions, and analyzing monthly patterns to improve instructions. Adept at teaching new colleagues through structured practice sessions covering edge cases before busy shifts. Built practical checklists and adjusted handover steps based on trainee feedback, ensuring effective user adoption, clear documentation, and efficient service workflows."
+      },
+      {
+        "id": 113,
+        "text": "Operations coordinator experienced in spreadsheet reports and volunteer management. Demonstrated success in mapping handover workflows between intake desks and service specialists, eliminating redundant dual-notebook recording in favor of a single shared form. Skilled in user training and adoption; developed practical exercises, observed staff during case entry, and updated guides with real trainee questions. Well-qualified to map handovers, remove repeated manual tasks, and lead hands-on practice for new tools."
+      },
+      {
+        "id": 114,
+        "text": "Systems administrator experienced with business tools and community studio operations. Skilled in documenting workflows by writing structured runbooks with clear sequential checks and escalation instructions. Proven track record in running practical simulation sessions, guiding new volunteers through practice system failures to clarify instructions and incorporate visual aids. Adept at streamlining administrative access and handovers, ensuring service teams can adopt new operational tools smoothly."
+      },
+      {
+        "id": 115,
+        "text": "Full-stack developer experienced in automated testing, cloud tools, and data analytics. Adept at mapping digital user paths and creating clear, accessible reporting for non-technical volunteers. Strong background in identifying system bottlenecks, documenting exact steps to reproduce issues, and maintaining structured checklists to prevent recurring errors. Well-equipped to assist service teams in mapping handovers, creating reliable rollout documentation, and organizing structured practice sessions for new tools."
+      },
+      {
+        "id": 116,
+        "text": "Reporting and customer support specialist experienced in data coordination and quality checking. Proven ability to map data handovers between warehouse and administrative teams, identifying duplicate records and aligning divergent codes into a central database. Experienced in drafting visual process diagrams and procedural guides, incorporating user feedback and concrete examples so colleagues could independently prepare reports. Well-suited to streamline manual handovers, document tool rollouts, and support team adoption."
+      },
+      {
+        "id": 117,
+        "text": "Technical builder experienced with spreadsheet reports and digital workshop workflows. Adept at mapping process flows alongside end users, creating prototypes, and adjusting designs based on direct observation of user friction points. Proven track record in writing practical step-by-step guides for operational staff and running coaching sessions where volunteers test procedures independently. Skilled at resolving duplicate entries and ready to support teams in adopting new case-management tools."
+      },
+      {
+        "id": 118,
+        "text": "Experienced team manager with strong background in business tools and daily operations. Successfully eliminated duplicate manual work by replacing loose paper slips with a centralized shared order sheet. Proven ability in driving adoption through hands-on practice; authored concise one-page guides highlighting common mistakes and supervised team members through trial runs. Adept at organizing process documentation and mapping handovers to ensure seamless operational transitions."
+      },
+      {
+        "id": 119,
+        "text": "Technical operations specialist experienced in practical testing and precision record-keeping. Skilled at mapping handover documentation between operators and technicians to ensure clear case traceability without guesswork. Demonstrated ability in drafting procedural guides complete with diagrams, setting sequences, and handling instructions for anomalies. Experienced in running user-testing sessions with colleagues to identify unclear instructions, making them well-prepared to document tool rollouts and coordinate practical training."
+      }
+    ]
+  },
+  "usage": {
+    "promptTokenCount": 5433,
+    "candidatesTokenCount": 1847,
+    "totalTokenCount": 7280,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 5433
+      }
+    ],
+    "serviceTier": "standard"
+  }
+}

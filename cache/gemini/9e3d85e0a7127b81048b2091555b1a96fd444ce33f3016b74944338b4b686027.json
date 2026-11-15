@@ -1,0 +1,103 @@
+{
+  "model": "gemini-3.8-flash",
+  "prompt_version": "cg-2.1",
+  "at": "2026-11-15T00:10:23.709Z",
+  "kind": "advert-tailored-cvs",
+  "input_hash": "9e3d85e0a7127b81048b2091555b1a96fd444ce33f3016b74944338b4b686027",
+  "answer": {
+    "cvs": [
+      {
+        "id": 0,
+        "text": "Full-stack software developer with skills in cloud, API, SQL, Python, software engineering, testing, and data analytics. Experienced in monitoring operations and analysing logs to resolve workflow issues, demonstrated by tracking waste trends to reduce errors. Skilled in documenting operational processes and drafting clear guides, having created a one-page procedure with mistake examples to ensure correct ordering. Experienced in coaching team members through practical walkthroughs to maintain operational continuity and prevent duplicate processing."
+      },
+      {
+        "id": 1,
+        "text": "Detail-oriented professional with experience in spreadsheet reporting, data recording, and practical testing. Skilled at monitoring system outputs, isolating operational discrepancies through controlled testing, and verifying equipment before returning it to service. Proven ability to document technical procedures by creating setup guides featuring diagrams, ordered checks, and handling instructions for unusual results. Strong focus on testing documentation clarity with team members to ensure robust error handling and safe procedural execution."
+      },
+      {
+        "id": 2,
+        "text": "Experienced operations coordinator skilled in business tools, stock tracking, and workflow management. Proficient in monitoring operational logs and spreadsheet data to identify overdue items, service trends, and recurring tool failures. Experienced in resolving service interruptions by diagnosing root causes, coordinating replacements, and updating user guidance. Skilled in creating operational checklists and runbooks, training team members through practical simulations to prioritize safety checks and maintain standard operating procedures."
+      },
+      {
+        "id": 3,
+        "text": "Organised operations lead experienced in practical testing, process mapping, and workflow optimisation. Skilled at reviewing service procedures, removing administrative redundancies, and establishing single sources of truth for operational tracking. Experienced in authoring clear instructions and runbooks, testing procedures with team members, and updating guides based on direct feedback and edge-case questions. Adept at coordinating operational changes and maintaining shared documentation during unexpected disruptions."
+      },
+      {
+        "id": 4,
+        "text": "Technical support specialist experienced in systems maintenance and customer support for community media infrastructure. Directly skilled in cloud operations tasks: monitored server response times and disk usage to diagnose slow requests caused by scheduled jobs, rescheduling tasks to eliminate delays. Reviewed and secured access by auditing shared server accounts and removing unauthorized users. Authored and validated recovery procedures and step-by-step runbooks, testing restore operations and simulating outages with team members to resolve service interruptions."
+      },
+      {
+        "id": 5,
+        "text": "Full-stack software developer experienced in cloud, APIs, SQL, Python, testing, and data analytics. Highly skilled in troubleshooting system performance, isolating concurrency issues through targeted reproduction, capturing logs, and explaining root causes to developers. Experienced in establishing automated checks, grouping failure trends across environments, and updating testing runbooks and checklists to catch issues before release, ensuring reliable service operations and transparent reporting."
+      },
+      {
+        "id": 6,
+        "text": "Data reporting specialist experienced in business tools, PostgreSQL databases, and SQL querying. Proficient in reviewing system records, reconciling operational datasets, and tracing discrepancies back to original transactions to ensure data integrity. Skilled in mapping system architectures and authoring clear operational documentation, including data models and step-by-step import verification checks with practical examples to guide colleagues through standard and edge-case workflows."
+      },
+      {
+        "id": 7,
+        "text": "Technical developer experienced in JavaScript web tools, practical testing, and system maintenance. Directly relevant experience in cloud operations: monitored and traced request logs to diagnose slow retry issues and prevent duplicate transactions. Authored operational guides and runbooks for volunteers covering routine publishing, error correction, and version restoration. Proven track record of testing procedures directly with users to refine documentation and ensure safe, repeatable recovery steps."
+      },
+      {
+        "id": 8,
+        "text": "Customer support professional and developer experienced in practical testing and lightweight web server deployments. Directly experienced in monitoring system behaviour and tracing request logs to identify and resolve root causes of duplicate requests during network delays. Created comprehensive guides and runbooks detailing error correction, operational maintenance, and safe version restoration. Proven ability to validate documentation through practical user testing to ensure clear recovery procedures during service interruptions."
+      },
+      {
+        "id": 9,
+        "text": "Operational lead experienced in workflow tracking, customer support, and spreadsheet reporting. Proven ability to analyze operational records over time to identify systemic inefficiencies and reduce operational waste. Skilled in reviewing procedures, standardising communication between teams to eliminate duplicate actions, and drafting concise reference guides with practical examples. Experienced in onboarding colleagues via hands-on practice to maintain consistent operational standards."
+      },
+      {
+        "id": 10,
+        "text": "Full-stack software developer with background in cloud, API, Python, SQL, data analytics, and testing. Experienced in systematic diagnostic testing, logging baseline measurements, and isolating hardware or configuration faults by analyzing comparative data. Skilled in authoring technical procedures with structured steps, diagrams, and guidance for handling unusual readings, ensuring safe verification practices and consistent operational standards."
+      },
+      {
+        "id": 11,
+        "text": "Operations coordinator experienced in practical testing and business tools. Proficient in maintaining inventory logs, tracking operational status, and analyzing recurring equipment failure cases to improve standard user instructions. Skilled at developing practical checklists and runbooks, walking new team members through fault scenarios, and incorporating user feedback to prioritize safety checks and safe recovery procedures."
+      },
+      {
+        "id": 12,
+        "text": "Operations organiser experienced in workflow management and practical testing. Proven ability to map operational handoffs, consolidate redundant tracking steps, and define clear accountabilities across teams. Skilled at authoring practical guides, incorporating user feedback, and designing practice scenarios to ensure team members can safely follow operating instructions and resolve operational issues."
+      },
+      {
+        "id": 13,
+        "text": "Systems specialist with direct experience in system monitoring and server maintenance. Regularly monitored live media server response times and disk usage, diagnosing request delays from system logs and rescheduling overlapping background jobs. Reviewed server access permissions to safely offboard former users, authored and tested backup restore procedures, and created detailed incident runbooks with ordered escalation steps and screenshots to handle service interruptions."
+      },
+      {
+        "id": 14,
+        "text": "Quality assurance and testing specialist experienced in business tools and automated web service testing. Proficient in monitoring service failures, reproducing edge-case concurrency issues, capturing diagnostic logs, and identifying root causes. Skilled at grouping failure data, updating test checklists and runbooks, and providing clear operational reports for team members to ensure swift incident analysis."
+      },
+      {
+        "id": 15,
+        "text": "Full-stack software developer with expertise in cloud, SQL, Python, APIs, and data analytics. Experienced in data reconciliation, database management (PostgreSQL), and writing queries to audit system records against operational logs. Proficient in mapping workflows, identifying duplicate records, and drafting clear import documentation and runbooks that enable colleagues to verify data integrity and execute safe procedures."
+      },
+      {
+        "id": 16,
+        "text": "Data reporting and customer support specialist experienced in SQL, PostgreSQL, and business tools. Skilled in auditing system data, reconciling reporting discrepancies against physical records, and isolating duplicate entries. Experienced in diagramming data models and authoring clear operational documentation with practical examples, enabling team members to verify logs and execute standard operational checks reliably."
+      },
+      {
+        "id": 17,
+        "text": "Technical builder experienced in web server tools, spreadsheet reports, and practical testing. Directly experienced in investigating system logs to trace slow requests and duplicate submissions. Skilled in documenting operational runbooks covering session management, error resolution, and safe system recovery, validating instructions directly with operators to ensure dependable service continuity."
+      },
+      {
+        "id": 18,
+        "text": "Operations coordinator experienced in business tools and workflow tracking. Skilled in logging operational metrics, analyzing recurring trends to resolve operational inefficiencies, and synchronising updates across teams to prevent duplicate processing. Experienced in writing clear one-page runbooks and operational guides with practical error examples, training team members through guided practice to uphold standard procedures."
+      },
+      {
+        "id": 19,
+        "text": "Technical workshop specialist experienced in practical testing, diagnostic reporting, and data recording. Proficient in monitoring test measurements, isolating equipment anomalies by tracing variables, and logging results for comparative analysis. Skilled in producing clear procedural runbooks featuring setup diagrams, ordered checks, and defined escalation points for abnormal readings, ensuring team adherence to safe operating standards."
+      }
+    ]
+  },
+  "usage": {
+    "promptTokenCount": 5054,
+    "candidatesTokenCount": 1596,
+    "totalTokenCount": 6650,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 5054
+      }
+    ],
+    "serviceTier": "standard"
+  }
+}

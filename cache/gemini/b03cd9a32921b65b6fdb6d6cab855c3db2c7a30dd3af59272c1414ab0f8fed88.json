@@ -1,0 +1,103 @@
+{
+  "model": "gemini-3.8-flash",
+  "prompt_version": "cg-2.1",
+  "at": "2026-11-15T00:10:44.587Z",
+  "kind": "advert-tailored-cvs",
+  "input_hash": "b03cd9a32921b65b6fdb6d6cab855c3db2c7a30dd3af59272c1414ab0f8fed88",
+  "answer": {
+    "cvs": [
+      {
+        "id": 40,
+        "text": "Full-stack developer with customer support experience, adept at driving tool adoption and streamlining service workflows. Mapped the end-to-end handover process for repair requests, eliminating duplicate data entry by introducing a single shared form and clarifying role responsibilities. Led the launch of a tool-sharing service, coordinating volunteer tasks and maintaining decision logs. Created practical exercises and user guides to train volunteers on recording cases and accessing safety instructions, iteratively refining documentation based on user questions and observations."
+      },
+      {
+        "id": 41,
+        "text": "Systems specialist experienced with media server maintenance and spreadsheet reports. Proven track record in guiding users through procedures by developing clear, practical runbooks. Tested operational documentation by running practice failure drills with new volunteers, using their feedback to add screenshots and clarify instructions. Reviewed access accounts, documented formal restore processes, and verified them through sample folder tests. Adept at identifying process bottlenecks and ensuring operational continuity."
+      },
+      {
+        "id": 42,
+        "text": "Quality assurance and business tools specialist experienced in testing web membership platforms. Developed comprehensive test checklists and automated test coverage across member workflows. Skilled at mapping edge-case failure states, reproducing issues, and capturing logs to resolve operational errors. Synthesised multi-run test results into actionable reports for teams and refined rollout documentation to identify defects early, ensuring robust tool rollouts and smooth team handovers."
+      },
+      {
+        "id": 43,
+        "text": "Data professional experienced in reporting data consolidation and practical testing. Mapped order and return lifecycles to design unified PostgreSQL database schemas, removing duplicated records across disparate customer codes. Clearly documented import checks and handovers alongside data models for finance teams, running guided walk-throughs and incorporating practical user feedback into documentation to ensure consistent reporting adoption."
+      },
+      {
+        "id": 44,
+        "text": "Technical developer experienced with customer support and community workshop booking tools. Designed user-friendly booking interfaces by mapping screens directly with volunteers and testing working prototypes on mobile devices. Authored practical maintenance guides covering session publishing and troubleshooting, and ran practice sessions where volunteers completed real tasks independently to validate documentation and support user adoption."
+      },
+      {
+        "id": 45,
+        "text": "Operations manager and full-stack software developer experienced in process improvement and spreadsheet reports. Streamlined shift handovers by replacing loose order notes with a shared tracking sheet, eliminating repeated order preparation. Created clear one-page training guides and led hands-on practice sessions for new team members to ensure smooth adoption of inventory and ordering tools."
+      },
+      {
+        "id": 46,
+        "text": "Workshop technician experienced with business tools and precise data recording. Successfully documented technical workflows by drafting step-by-step measurement guides complete with setup diagrams and checklists. Validated documentation through peer trials, gathering user feedback to clarify instructions, explain edge cases, and establish clear escalation boundaries to assist team tool adoption."
+      },
+      {
+        "id": 47,
+        "text": "Rental desk coordinator experienced with practical testing and customer support. Created inventory tracking spreadsheets using formulas to manage equipment availability, returns, and repairs. Experienced in handling user cases, logging root causes, and updating guidance. Trained new team members on return processes and stock updates using practice scenarios, incorporating feedback to refine practical checklists."
+      },
+      {
+        "id": 48,
+        "text": "Customer support coordinator experienced in rental operations and inventory administration. Built and managed shared tracking sheets to monitor equipment lifecycles and streamline stock management. Logged and categorised support issues to improve user-facing instructions. Organised practice training sessions for new staff using real-world scenarios, updating checklists to improve process handovers and ensure confident tool adoption."
+      },
+      {
+        "id": 49,
+        "text": "Community coordinator experienced in volunteer organisation and spreadsheet reports. Mapped service handovers between reception and technicians, consolidating dual-notebook entries into a single shared form to eliminate manual steps. Organised tool rollout schedules and decision logs, and trained volunteers through tailored practice exercises and iteratively refined procedural guides."
+      },
+      {
+        "id": 50,
+        "text": "Full-stack software developer experienced with systems maintenance and business tools. Created step-by-step incident runbooks with screenshots and validated them through simulated practice failures with new volunteers. Mapped system schedules to eliminate operational bottlenecks, reviewed server access, and clearly documented restore workflows to enable smooth service adoption."
+      },
+      {
+        "id": 51,
+        "text": "Testing specialist with background in sports club membership platforms and practical testing. Mapped out user booking and cancellation flows, creating automated test suites to ensure reliable system behavior. Produced accessible status reports for volunteers and updated checklists to resolve user-facing errors, supporting smooth rollouts and systematic process tracking."
+      },
+      {
+        "id": 52,
+        "text": "Data support specialist with experience in practical testing and data consolidation. Integrated disparate monthly order logs into structured SQL databases, designing cross-reference mapping tables to remove duplicate records. Mapped data workflows, documented import procedures, and guided colleagues through reporting tasks to ensure seamless adoption of new data processes."
+      },
+      {
+        "id": 53,
+        "text": "Developer experienced in building booking tools and working with spreadsheet reports. Prototyped and deployed user-friendly interfaces based directly on volunteer workflow needs. Authored comprehensive operational guides for system maintenance and ran practice walk-throughs with team members, refining documentation based on their questions to ensure smooth long-term adoption."
+      },
+      {
+        "id": 54,
+        "text": "Operations manager experienced in café management and business tools. Eliminated duplicate orders and lost requests by designing a centralized order sheet and mapping daily kitchen handover routines. Developed a waste-tracking spreadsheet, authored accessible one-page procedural guides, and ran hands-on practice sessions to train team members on new reporting methods."
+      },
+      {
+        "id": 55,
+        "text": "Full-stack developer and testing specialist experienced in technical workshop measurements. Mapped diagnostic procedures to isolate equipment faults, ensuring accurate data tracking. Documented end-to-end testing setups with structured diagrams and instructional steps, validating guides through peer practice sessions to clarify ambiguous steps and aid team adoption."
+      },
+      {
+        "id": 56,
+        "text": "Workshop technician with customer support experience, skilled in meticulous data recording and process improvement. Developed clear procedural guides featuring setup diagrams and structured checklists for complex measurement tools. Tested operational instructions with colleagues, incorporating feedback and edge-case examples to ensure seamless team onboarding."
+      },
+      {
+        "id": 57,
+        "text": "Rental desk coordinator experienced with practical testing and spreadsheet reports. Implemented structured inventory sheets to monitor return statuses and prevent stock discrepancies. Logged service issues to update user guidance and conducted practice sessions with staff on realistic return scenarios, refining procedural checklists for smoother handovers."
+      },
+      {
+        "id": 58,
+        "text": "Service coordinator experienced in community operations and business tools. Streamlined repair handovers by mapping workflow stages, replacing duplicate notebook logging with a single shared form. Planned rollout schedules, managed decision logs, and authored user guides tested through hands-on practice sessions to facilitate smooth tool adoption."
+      },
+      {
+        "id": 59,
+        "text": "Systems administrator experienced in practical testing and media server maintenance. Designed and implemented operational runbooks with visual guides, testing them through practice error simulations with volunteers. Mapped backup and broadcast schedules to remove performance conflicts and documented recovery protocols to support team operational handovers."
+      }
+    ]
+  },
+  "usage": {
+    "promptTokenCount": 5473,
+    "candidatesTokenCount": 1416,
+    "totalTokenCount": 6889,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 5473
+      }
+    ],
+    "serviceTier": "standard"
+  }
+}

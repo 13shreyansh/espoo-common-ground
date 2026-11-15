@@ -1,0 +1,103 @@
+{
+  "model": "gemini-3.8-flash",
+  "prompt_version": "cg-2.1",
+  "at": "2026-11-15T00:09:00.418Z",
+  "kind": "advert-tailored-cvs",
+  "input_hash": "78cdccd4d7539ca6515b6e54e40448f153179fce4657dc0b8220875acbb6471b",
+  "answer": {
+    "cvs": [
+      {
+        "id": 20,
+        "text": "Full-stack software developer with skills in Python, SQL, APIs, software engineering, testing, and customer support. Experienced in building operational tracking systems, having created structured sheets with automated formulas to monitor equipment status, track condition, and flag issues. Skilled in resolving user-reported defects by investigating root causes, documenting case logs, and analysing trends to improve guidance. Proficient in technical documentation and onboarding, having written checklists and instructions tested directly with colleagues to streamline team workflows."
+      },
+      {
+        "id": 21,
+        "text": "Experienced in workflow coordination, process improvement, and documentation. Streamlined support request handling by mapping operational flows and replacing duplicate tracking with a single shared form defining field ownership. Skilled in identifying points of confusion and creating practical guides and training exercises tailored to user feedback. Proven ability to plan projects, adapt tasks to changing constraints, and produce clear documentation to help teams adopt and maintain internal tools."
+      },
+      {
+        "id": 22,
+        "text": "Systems specialist experienced with business tools, system administration, and technical troubleshooting. Monitored media server operations, evaluated metrics, and resolved performance bottlenecks affecting uploads. Experienced in verifying system changes, testing backup and restore procedures, and managing access permissions. Skilled in technical writing, having authored step-by-step runbooks featuring clear action orders and screenshots, validated through real user testing to ensure seamless handover to the team."
+      },
+      {
+        "id": 23,
+        "text": "Testing specialist experienced in web application quality assurance and defect resolution. Built automated browser test suites for member service workflows and integrated checks directly into the release process. Adept at finding and isolating portal bugs, reproducing race conditions using simultaneous requests, and capturing logs to guide engineering fixes. Experienced in documenting clear issue reports, updating regression checklists, and producing readable test summaries to support team releases."
+      },
+      {
+        "id": 24,
+        "text": "Quality assurance and customer support specialist with strong practical testing expertise. Created automated browser tests covering critical portal flows, such as registration and cancellations, and embedded them into deployment cycles. Skilled in pre-release defect discovery, reproducing intermittent errors under concurrency, and detailing log outputs for resolution. Experienced in reporting failures across browsers and devices, updating test documentation, and providing clear release summaries to support internal users."
+      },
+      {
+        "id": 25,
+        "text": "Full-stack software developer experienced in Python, SQL, APIs, software engineering, and data analytics. Built data-tracking pipelines by migrating disparate files into PostgreSQL databases, resolving code mismatches, and verifying data integrity with SQL queries. Skilled in diagnosing data discrepancies, documenting corrections, and auditing workflows. Proven technical communicator who designs data models and writes comprehensive guides and checks to enable team members to run internal tools independently."
+      },
+      {
+        "id": 26,
+        "text": "Developer experienced in building web tools and business applications. Created a custom web booking tool using JavaScript and a lightweight server, iterating designs based on direct user feedback. Adept at pre-release troubleshooting, successfully tracing request logs to fix duplicate submissions and creating test cases for edge cases and input validation. Skilled in writing user manuals, authoring operational guides, and validating instructions directly with colleagues to ensure seamless tool maintenance."
+      },
+      {
+        "id": 27,
+        "text": "Operations lead experienced in practical testing, process design, and workflow tracking. Created shared order-tracking systems that eliminated duplicate handling during busy operations. Experienced in building tracking sheets to monitor operational metrics, analyse trends, and adjust workflows. Skilled in producing concise operational documentation, creating one-page guides with concrete error examples, and training team members through hands-on practice to ensure tools are used accurately."
+      },
+      {
+        "id": 28,
+        "text": "Detail-oriented technician experienced in structured data logging, customer support, and system verification. Recorded and organised technical measurements, ensuring full traceability between incoming items and maintenance records. Experienced in troubleshooting hardware and test equipment by methodically isolating faults through comparative testing. Skilled in writing clear technical setup guides with diagrams and instructions, incorporating user feedback and edge-case handling so team members can follow procedures independently."
+      },
+      {
+        "id": 29,
+        "text": "Operations coordinator experienced in spreadsheet reporting, customer support, and inventory tracking. Built automated tracking sheets with formulas to flag overdue items and monitor stock condition, supporting internal planning and repair decisions. Experienced in diagnosing support issues, logging incident causes, and grouping recurring problems to improve standard instructions. Proven ability in writing practical checklists and onboarding team members to run tracking processes smoothly."
+      },
+      {
+        "id": 30,
+        "text": "Full-stack software developer with expertise in Python, SQL, APIs, cloud, software engineering, and testing. Experienced in mapping and streamlining operational request flows, successfully consolidating multi-step handovers into single shared tracking tools with clear field responsibilities. Adept at coordinating technical tasks, breaking down workflows, and producing structured guides and training materials to help teams adopt internal tools and processes."
+      },
+      {
+        "id": 31,
+        "text": "Systems specialist experienced in practical testing, server maintenance, and operational documentation. Monitored server response times to identify and resolve resource bottlenecks impacting operational performance. Experienced in verifying server accounts, auditing permissions, and testing recovery workflows before deployment. Skilled in writing clear, tested runbooks with ordered troubleshooting steps and screenshots, ensuring team members can operate systems and address failures effectively."
+      },
+      {
+        "id": 32,
+        "text": "Systems technician with experience in customer support, systems maintenance, and operational troubleshooting. Monitored media server operations and performance metrics, successfully diagnosing and resolving scheduling conflicts that caused service delays. Experienced in managing user permissions, testing data recovery procedures, and writing structured runbooks. Refined operational guides using feedback from practice drills to ensure team members can resolve system issues smoothly."
+      },
+      {
+        "id": 33,
+        "text": "Software tester experienced in practical testing and spreadsheet reporting. Developed automated browser tests for key user journeys and integrated reporting into the release cycle using dedicated test accounts. Skilled at finding and debugging portal issues prior to release, isolating concurrency defects with reproducible test cases, and capturing log data. Experienced in documenting issue reports and updating regression checklists to maintain software reliability."
+      },
+      {
+        "id": 34,
+        "text": "Data technician experienced in database integration, reporting, and business tools. Structured disparate incoming data into a PostgreSQL database, resolving mapping discrepancies and validating totals using SQL queries. Skilled in investigating tracking anomalies, auditing system records against physical data, and correcting errors. Experienced in documenting data models and writing step-by-step procedural guides with concrete examples for colleagues using internal reporting tools."
+      },
+      {
+        "id": 35,
+        "text": "Full-stack software developer experienced in Python, SQL, APIs, software engineering, and testing. Built internal web tools using JavaScript and web servers, designing user interfaces and refining features through real-world usage. Experienced in pre-release defect investigation, resolving request race conditions through log analysis, and adding automated test cases for edge cases. Proficient in authoring operational documentation, having created end-to-end user guides and validated them with team members."
+      },
+      {
+        "id": 36,
+        "text": "Team coordinator with extensive experience in workflow organization, customer support, and operational tracking. Replaced loose paperwork with centralized order-tracking sheets, eliminating duplicate processing and keeping cross-functional teams synchronized. Experienced in tracking operational metrics through spreadsheets to uncover root causes and drive process improvements. Skilled in creating concise, one-page user guides with concrete examples and training colleagues on standard procedures."
+      },
+      {
+        "id": 37,
+        "text": "Technical documentation and reporting specialist with a strong background in precision data logging and verification. Maintained detailed measurement sheets linking records to individual assets to support maintenance workflows. Skilled in identifying technical discrepancies through comparative testing and isolating faulty equipment. Experienced in writing step-by-step technical manuals with diagrams and examples, helping team members execute procedures accurately."
+      },
+      {
+        "id": 38,
+        "text": "Operations coordinator experienced in business tools, inventory tracking, and customer support. Developed tracking sheets using automated formulas to monitor equipment status, track return dates, and flag maintenance needs. Experienced in handling technical support inquiries, logging failure causes, and analysing recurring issues to improve user documentation. Skilled in creating straightforward checklists and training team members on operational workflows."
+      },
+      {
+        "id": 39,
+        "text": "Project and operations coordinator with strong experience in practical testing and workflow design. Streamlined request tracking by mapping service workflows and replacing fragmented logging with a single shared form. Experienced in planning operational rollouts and adapting task schedules to constraints. Skilled in technical onboarding, creating practical exercises, and producing guides refined with direct user feedback to ensure tools are operated smoothly."
+      }
+    ]
+  },
+  "usage": {
+    "promptTokenCount": 5482,
+    "candidatesTokenCount": 1685,
+    "totalTokenCount": 7167,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 5482
+      }
+    ],
+    "serviceTier": "standard"
+  }
+}

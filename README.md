@@ -43,11 +43,11 @@ npm run test:e2e
 
 The E2E runner targets the deployed URL by default, at 1440×900 and 390×844, and checks that its frontend and backend commits equal HEAD. It creates an isolated visitor workspace and deletes it in `finally`. `E2E_URL` can select a local test server. Screenshots and receipts are in `artifacts/e2e/` and `screenshots/commonground/`.
 
-`npm run eval` reruns the frozen evaluation using cached polished CVs and model rankings. It does not make model calls. `scripts/polish-baseline.mjs` is the separate, explicit model-baseline generation step. Existing engine tests remain; the retired UI test is archived under `tests/archive-v1/`.
+`npm run eval` reruns the frozen evaluation using cached polished CVs and model rankings. It does not make model calls. `scripts/targeted-baseline.mjs` generates the primary advert-tailored baseline; `scripts/polish-baseline.mjs` retains the earlier generic control. Both are explicit model-calling steps. Existing engine tests remain; the retired UI test is archived under `tests/archive-v1/`.
 
 ## Hosting and data boundaries
 
-Vercel serves the static interface and proxies this entry’s API and static schedule files to its isolated cloud service. SQLite, schedules and live caches are on the cloud host, so the Mac is not part of the runtime. The cloud key is transported over SSH stdin; only host-bound encrypted ciphertext is persisted, then decrypted into the process’s memory at startup. The API has a shared 500-call daily reservation counter. No email or text message leaves the system.
+The existing Vercel project routes the whole application to this entry’s isolated cloud service. The free daily build-deployment quota was exhausted, so a promoted project route updates the runtime without another static build. `/release.json` and `/health` identify the actual running source commit; the older Vercel gateway build metadata is not the runtime revision. SQLite, schedules and live caches are on the cloud host, so the Mac is not part of the runtime. The cloud key is transported over SSH stdin; only host-bound encrypted ciphertext is persisted, then decrypted into the process’s memory at startup. The API has a shared 500-call daily reservation counter. No email or text message leaves the system.
 
 A silent cookie gives each visitor an independent copy of the fixtures. Link possession is the only actor authentication in this prototype. A real pilot needs authenticated, expiring invitations, transport hardening, operational monitoring and an EU AI Act assessment. The matcher’s closed input type excludes identity, story text and optional audit attributes. Group records are joined only for the audit; small groups are suppressed.
 

@@ -1,0 +1,103 @@
+{
+  "model": "gemini-3.8-flash",
+  "prompt_version": "cg-2.1",
+  "at": "2026-11-15T00:10:46.256Z",
+  "kind": "advert-tailored-cvs",
+  "input_hash": "6afa44f99830a70da1e3e5685ccdece18d7f2b7e04f986209bd7deb7def75c8d",
+  "answer": {
+    "cvs": [
+      {
+        "id": 80,
+        "text": "Full-stack developer with customer support experience and a strong background in data analytics and reporting. Proven ability to document workflows, create mapping tables to eliminate duplicate entries, and explain technical data models to cross-functional teams like finance. Skilled at turning complex data flows into practical, step-by-step guides with concrete examples to help users adopt new reporting tools with confidence."
+      },
+      {
+        "id": 81,
+        "text": "Technical contributor experienced in developing tools and supporting user adoption. Skilful at designing intuitive screens alongside users, testing prototypes directly with team members, and observing where people get stuck to refine interfaces. Highly capable in creating practical user guides, delivering walk-throughs, and setting up hands-on practice sessions that empower non-technical volunteers to run and maintain new software independently."
+      },
+      {
+        "id": 82,
+        "text": "Operations and business tools specialist with four years of café management experience. Expert in replacing fragmented paper-based processes with shared systems, eliminating redundant manual work, and preventing double entries. Experienced in training staff, authoring one-page practical reference guides with common error examples, and running structured practice sessions to ensure seamless team adoption of new tools."
+      },
+      {
+        "id": 83,
+        "text": "Process and testing specialist experienced in establishing precise data recording and operational consistency. Adept at identifying process flaws, standardising documentation, and structuring clear step-by-step instructions with visual diagrams. Experienced in facilitating peer run-throughs of newly documented workflows, refining training materials based on user feedback, and clarifying exception handling to build confidence in new procedures."
+      },
+      {
+        "id": 84,
+        "text": "Customer support and operational desk coordinator experienced in tracking inventory and case management. Skilled at replacing manual gaps with structured tracking systems and categorising recurring customer issues to improve user instructions. Experienced in training team members through hands-on practice sessions, creating clear procedural checklists, and adapting processes based on colleague feedback to ensure smooth operational handovers."
+      },
+      {
+        "id": 85,
+        "text": "Full-stack software developer and organiser skilled in streamlining team workflows and supporting system adoption. Experienced in mapping multi-step handover processes, eliminating duplicate entries across parallel records, and consolidating steps into single shared forms. Strong track record in authoring practice exercises, observing users during onboarding, and updating documentation with real-world examples to resolve common pain points."
+      },
+      {
+        "id": 86,
+        "text": "Systems specialist experienced with business tools and operational procedures. Adept at mapping server jobs to prevent bottlenecks and securing user access across teams. Demonstrated expertise in documenting complex workflows into practical runbooks, embedding screenshots, and validating procedures by organising practice failure simulations with team members to ensure smooth, self-sufficient tool adoption."
+      },
+      {
+        "id": 87,
+        "text": "Quality assurance and testing specialist experienced in evaluating workflows and documenting edge cases. Adept at diagnosing service breakdowns, creating clear issue reports, and maintaining release checklists that safeguard operational stability. Well-equipped to verify case-management tooling, streamline processes by removing recurring manual errors, and prepare clear diagnostic reports that guide team members through new software rollouts."
+      },
+      {
+        "id": 88,
+        "text": "Customer support and software testing specialist skilled at diagnosing functional issues and improving user workflows. Experienced in simulating user actions, logging defects clearly, and updating testing checklists to catch errors early. Brings a user-focused mindset to case management adoption, capable of documenting system behaviour, clarifying complex release steps, and guiding teams through new tool rollouts."
+      },
+      {
+        "id": 89,
+        "text": "Data reporting specialist experienced in mapping disparate data sources and eliminating redundant records. Skilled at comparing discrepancies between systems, investigating operational differences with frontline teams, and creating traceable handover documentation. Proven ability to write clear procedural guides with practical examples, ensuring service teams understand data relationships and successfully adopt new operational workflows."
+      },
+      {
+        "id": 90,
+        "text": "Full-stack developer experienced in building user-centred business tools and facilitating user adoption. Skilled at mapping out screen flows directly with users, prototyping tools to eliminate friction points, and resolving system logic errors. Experienced in writing clear administrative documentation and conducting hands-on practice sessions to enable team members to resolve issues and navigate systems without assistance."
+      },
+      {
+        "id": 91,
+        "text": "Operations manager with extensive experience using business tools to streamline daily team handovers. Skilled at eliminating redundant paper processes, introducing shared sheets, and preventing duplicated effort during peak periods. Accomplished in training new team members, developing concise single-page guides with clear mistake examples, and supervising practical test runs to ensure complete tool adoption."
+      },
+      {
+        "id": 92,
+        "text": "Detail-oriented specialist with customer support and practical testing experience, adept at establishing dependable recording workflows. Experienced in standardising data collection, isolating hardware faults, and creating visual setup guides. Skilled at having team members walk through procedural documentation to identify gaps, adding clear guidance for edge cases to ensure teams adopt new technical processes smoothly."
+      },
+      {
+        "id": 93,
+        "text": "Operations and rental desk coordinator skilled in managing stock data, case logging, and customer support. Experienced in identifying recurring user issues to refine operating instructions, mapping handovers, and eliminating workflow bottlenecks. Strong experience in onboarding new staff via structured practice sessions, using feedback to streamline checklists, and driving consistent adoption of team management tools."
+      },
+      {
+        "id": 94,
+        "text": "Operations organiser experienced in coordinating workflows and driving process improvements with business tools. Proven track record in mapping handovers between front desk and operational staff, consolidating duplicate record-keeping into a single shared form. Skilled in designing practical exercises for new team members, observing tool usage, and enriching procedural guides with direct user feedback."
+      },
+      {
+        "id": 95,
+        "text": "Full-stack software developer with expertise in system maintenance, practical testing, and operational runbooks. Proven ability to analyse server workflows to remove operational bottlenecks, structure access controls, and author detailed technical documentation. Skilled in running practice simulation exercises with team members, incorporating user feedback, and adding visual aids to ensure smooth adoption of critical tooling."
+      },
+      {
+        "id": 96,
+        "text": "Systems coordinator with customer support experience, adept at monitoring operational tools and refining support processes. Experienced in identifying operational conflicts, managing user account transitions, and producing comprehensive emergency runbooks. Adept at testing documentation through hands-on practice sessions with colleagues, using their questions to eliminate ambiguities and embed visual guides that facilitate tool adoption."
+      },
+      {
+        "id": 97,
+        "text": "Software tester experienced in reporting, defect isolation, and process validation. Skilful at documenting complex edge cases, creating reproducible examples, and updating testing checklists to remove repetitive errors from release cycles. Capable of supporting tool adoption by translating complex case flows into clear reports and structured validation steps for team members."
+      },
+      {
+        "id": 98,
+        "text": "Data analytics and reporting specialist experienced in aligning operational data across departments. Adept at building mapping tables, auditing records to remove duplicate entries, and reconciling discrepancies with frontline teams. Strong communicator who visualises data flows, writes thorough rollout guides with contextual examples, and supports colleagues through step-by-step process transitions."
+      },
+      {
+        "id": 99,
+        "text": "Practical testing and software development specialist experienced in creating user-friendly web tools. Demonstrated ability to engage directly with users during design, observe where people encounter difficulties, and eliminate redundant manual errors. Proven background in drafting step-by-step guides, running trial sessions with colleagues, and refining instructions to enable self-sufficient adoption of new tools."
+      }
+    ]
+  },
+  "usage": {
+    "promptTokenCount": 5466,
+    "candidatesTokenCount": 1474,
+    "totalTokenCount": 6940,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 5466
+      }
+    ],
+    "serviceTier": "standard"
+  }
+}

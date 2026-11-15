@@ -1,0 +1,103 @@
+{
+  "model": "gemini-3.8-flash",
+  "prompt_version": "cg-2.1",
+  "at": "2026-11-15T00:09:55.026Z",
+  "kind": "advert-tailored-cvs",
+  "input_hash": "d464fb9c8bce16651e2502702826d1c16f2c8137600a2ba213a5279d4d924d37",
+  "answer": {
+    "cvs": [
+      {
+        "id": 0,
+        "text": "Full-stack software developer with skills in Python, SQL, APIs, cloud, and testing. Experienced in establishing systematic operational checks and tracking down recurring faults. Created shared tracking sheets and systematic verification routines to eliminate duplicate work. Built data-logging systems to analyse weekly trends, identify root causes of waste, and verify corrective actions. Brings hands-on experience updating formula logic, writing procedural documentation, and testing deliveries to ensure reliable releases."
+      },
+      {
+        "id": 1,
+        "text": "Experienced in spreadsheet reporting and meticulous practical testing from workshop environments. Skilled in isolating intermittent faults by systematically comparing test run data, repeating unusual measurements, and swapping components to trace defects directly to their source. Proficient at maintaining detailed logs of original readings alongside summaries to make verification straightforward. Experienced in authoring clear setup guides and test checklists to ensure operational consistency and reliability."
+      },
+      {
+        "id": 2,
+        "text": "Experienced coordinator proficient in business tools, stock verification, and systematic issue resolution. Built automated spreadsheet tracking with formula-based alert checks to catch low stock and overdue items ahead of operational deadlines. Skilled in investigating intermittent equipment issues, logging root causes and corrective steps, and categorising monthly failures to identify recurring problems and improve operational documentation."
+      },
+      {
+        "id": 3,
+        "text": "Experienced in practical testing, process mapping, and operational coordination. Proven track record in streamlining user workflows by mapping end-to-end journeys and consolidating duplicate administrative processes into single verified forms. Skilled at diagnosing operational bottlenecks, documenting clear handover steps, and creating practical verification guides with concrete examples to prevent recurring errors during releases."
+      },
+      {
+        "id": 4,
+        "text": "Experienced in systems maintenance and customer support within a media studio environment. Proven ability to monitor system performance metrics, correlate response times with operational schedules, and trace performance issues to background jobs. Skilled at validating fixes across subsequent live operations, executing restore checks, and producing step-by-step troubleshooting runbooks with practical scenarios to ensure service stability."
+      },
+      {
+        "id": 5,
+        "text": "Full-stack software developer with expertise in automated testing, Python, SQL, and APIs. Wrote automated browser tests covering critical member journeys—including registration, updates, and cancellations—and integrated checks directly into the release process. Skilled in reproducing edge-case concurrency errors, capturing diagnostic logs, and recording verified outcomes. Regularly compares test run failures across browsers to pinpoint recurring issues and update checklists."
+      },
+      {
+        "id": 6,
+        "text": "Data professional experienced in PostgreSQL, SQL queries, and business reporting tools. Skilled in reconciling mismatched data, detecting duplicate entries, and running verification queries across datasets to maintain complete auditability. Adept at comparing weekly discrepancy reports, isolating root causes of data duplication, documenting fixes, and creating detailed schema guides and import checks to ensure repeatable data integrity."
+      },
+      {
+        "id": 7,
+        "text": "Developer experienced in building web tools with JavaScript and practical testing. Skilled in mapping customer journeys, developing functional prototypes, and testing with end users. Successfully reproduced intermittent race-condition errors causing duplicate submissions by analysing request logs, implementing fixes, and running automated test cases covering retries and missing fields prior to release. Authored operational maintenance guides to ensure consistent updates."
+      },
+      {
+        "id": 8,
+        "text": "Experienced in building web tools with JavaScript and supporting users. Skilled in refining user journeys through hands-on prototype testing. Demonstrated ability to investigate intermittent bugs, reproduce duplicate submission issues from retry logs, implement fixes, and execute test cases before each release. Committed to maintaining detailed operational documentation to ensure reliable and repeatable processes."
+      },
+      {
+        "id": 9,
+        "text": "Experienced manager with expertise in spreadsheet reports and process reliability. Implemented shared operational tracking sheets to eliminate duplicated effort during peak periods. Built structured logging sheets to analyse recurring discrepancies, isolating causes and monitoring subsequent results to ensure lasting improvements. Skilled in maintaining detailed instructional guides and formula-driven checks to keep recurring workflows reliable."
+      },
+      {
+        "id": 10,
+        "text": "Full-stack software developer with skills in Python, SQL, testing, and cloud technologies. Experienced in technical measurement, data comparison, and fault isolation. Proficient in isolating intermittent technical errors by plotting test runs, swapping components, and pinpointing hardware faults. Experienced in documenting comprehensive setup guides, edge-case handling, and verification checks to ensure high standards of release reliability."
+      },
+      {
+        "id": 11,
+        "text": "Operational coordinator experienced in practical testing and business tools. Created inventory tracking spreadsheets using automated formula checks to detect discrepancies before critical deadlines. Adept at logging intermittent equipment failures, identifying patterns across monthly reports, and improving operating guides. Experienced in training staff with practical checklists to prevent operational errors."
+      },
+      {
+        "id": 12,
+        "text": "Experienced in customer support, workflow coordination, and practical process testing. Skilled in mapping end-to-end user journeys to eliminate duplicate data entry and streamline operational handoffs. Experienced in piloting unified forms, validating edge cases, and developing clear, step-by-step guides based on user questions to ensure reliable and error-free execution."
+      },
+      {
+        "id": 13,
+        "text": "Systems professional experienced in monitoring and spreadsheet reporting. Proven ability to trace intermittent system delays by monitoring performance metrics, cross-referencing server logs against schedules, and rescheduling background tasks. Skilled in verifying fixes across subsequent operations, running test restores, and authoring clear troubleshooting runbooks to diagnose and resolve recurring system failures."
+      },
+      {
+        "id": 14,
+        "text": "Software tester experienced in business tools and release verification. Developed automated browser tests for core user journeys, integrating checks into release processes with clear failure reporting. Experienced in reproducing elusive concurrency issues, capturing server logs, and verifying fixes across varied scenarios. Routinely analyses failure data across test runs to identify recurring defects and refine test checklists."
+      },
+      {
+        "id": 15,
+        "text": "Full-stack developer skilled in Python, SQL, APIs, cloud systems, and testing. Proficient in designing SQL verification checks and mapping tables to catch duplicates and discrepancies across datasets. Experienced in comparing recurring error reports against source records, tracing data anomalies to duplicate logging, documenting corrective steps, and implementing strict validation rules to safeguard release reliability."
+      },
+      {
+        "id": 16,
+        "text": "Experienced in data reporting, customer support, and system auditing. Skilled in reconciling operational data across PostgreSQL databases and source files using mapping tables and SQL checks. Adept at comparing recurring discrepancy reports, identifying the root causes of duplicated records, documenting fixes, and establishing clear import verification steps to prevent repeated issues."
+      },
+      {
+        "id": 17,
+        "text": "Experienced in web development with JavaScript and spreadsheet reporting. Built user-focused booking tools, refining user journeys through iterative testing. Adept at diagnosing intermittent bugs, reproducing duplicate entry errors via server logs, and creating test cases for slow requests and missing fields before release. Created step-by-step documentation to maintain consistent system reliability."
+      },
+      {
+        "id": 18,
+        "text": "Operations manager skilled in business tools and spreadsheet reporting. Experienced in identifying recurring operational errors, designing shared tracking systems, and eliminating duplicate work during high-volume periods. Built structured logs to analyse loss trends, verified operational changes over weekly cycles, and maintained instructional guides and formula checks to ensure ongoing process consistency."
+      },
+      {
+        "id": 19,
+        "text": "Experienced in workshop measurement, spreadsheet reporting, and practical testing. Skilled in tracking intermittent defects by comparing repeated test run data, isolating faulty components through systematic elimination, and verifying replacement performance. Experienced in maintaining detailed test logs alongside summaries and creating structured testing guides to ensure repeatable, reliable operations."
+      }
+    ]
+  },
+  "usage": {
+    "promptTokenCount": 5057,
+    "candidatesTokenCount": 1479,
+    "totalTokenCount": 6536,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 5057
+      }
+    ],
+    "serviceTier": "standard"
+  }
+}

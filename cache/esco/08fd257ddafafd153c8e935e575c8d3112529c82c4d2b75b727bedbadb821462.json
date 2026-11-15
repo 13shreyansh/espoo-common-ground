@@ -1,0 +1,838 @@
+{
+  "url": "https://ec.europa.eu/esco/api/resource/skill?language=en&uri=http%3A%2F%2Fdata.europa.eu%2Fesco%2Fskill%2Ffe1c2b32-7fe9-4668-affa-07ff658a68cf",
+  "at": "2026-11-14T23:58:52.469Z",
+  "response": {
+    "className": "Skill",
+    "classId": "http://data.europa.eu/esco/model#Skill",
+    "uri": "http://data.europa.eu/esco/skill/fe1c2b32-7fe9-4668-affa-07ff658a68cf",
+    "title": "identify ICT security risks",
+    "referenceLanguage": [
+      "en"
+    ],
+    "preferredLabel": {
+      "de": "IKT-Sicherheitsrisiken identifizieren",
+      "no": "identifisere IKT-sikkerhetsrisikoer",
+      "fi": "määritellä ICT-turvallisuusriskit",
+      "en-us": "identify ICT security risks",
+      "pt": "identificar riscos de segurança informática",
+      "bg": "идентифициране на рискове за сигурността на ИКТ",
+      "lt": "nustatyti informacinių ir ryšių technologijų saugumo rizikos veiksnius",
+      "hr": "identificirati sigurnosne rizike u IKT-u",
+      "lv": "IKT drošības risku identificēšana",
+      "fr": "identifier les risques de sécurité des TIC",
+      "hu": "IKT biztonsági kockázatokat azonosít",
+      "sk": "identifikovať bezpečnostné riziká IKT",
+      "sl": "prepoznavati varnostna tveganja v IKT",
+      "ga": "rioscaí slándála TFC a shainaithint",
+      "sv": "identifiera IT-säkerhetsrisker",
+      "el": "προσδιορισμός των κινδύνων ασφάλειας ΤΠΕ",
+      "mt": "tidentifika riskji tas-sigurtà tal-ICT",
+      "en": "identify ICT security risks",
+      "is": "greina UT-áhættuþætti",
+      "it": "identificare i rischi per la sicurezza TIC",
+      "es": "identificar riesgos de seguridad de las TIC",
+      "et": "IKT-turberiske tuvastama",
+      "cs": "identifikovat bezpečnostní rizika ICT",
+      "ar": "تحديد مخاطر أمن تكنولوجيا المعلومات والاتصالات",
+      "pl": "identyfikować zagrożenia dla systemów ICT",
+      "ro": "identifică riscurile la adresa securității TIC",
+      "da": "identificere IKT-sikkerhedsrisici",
+      "nl": "ICT-beveiligingsrisico’s identificeren"
+    },
+    "alternativeLabel": {
+      "de": [
+        "IKT-Sicherheitsrisiken und -Bedrohungen identifizieren",
+        "Risiken für die IKT-Sicherheit identifizieren",
+        "IKT-Sicherheitsrisiken ermitteln",
+        "IKT-Sicherheitsrisiko identifizieren",
+        "IKT-Bedrohungen modellieren"
+      ],
+      "fi": [
+        "tunnistaa ICT-turvallisuuden riskit",
+        "määrittää ict-turvallisuusriskit",
+        "tunnistaa ICT-järjestelmän tietoturvan riskit ja uhat",
+        "tunnistaa ICT-turvallisuusriskit",
+        "mallintaa ICT-uhkat",
+        "mallintaa ICT-uhat"
+      ],
+      "sv": [
+        "identifierade IT-säkerhetsrisker",
+        "peka ut IT-säkerhetsrisker",
+        "leta efter säkerhetsrisker",
+        "hitta säkerhetsrisker",
+        "identifierar IT-säkerhetsrisker"
+      ],
+      "pt": [
+        "detetar riscos de segurança da informação",
+        "identificar ameaças de segurança",
+        "detetar riscos de segurança informática",
+        "identificar os riscos de segurança informática",
+        "identificar riscos e ameaças de segurança informática",
+        "identificar riscos para segurança informática"
+      ],
+      "bg": [
+        "моделиране на заплахи за ИКТ",
+        "идентифициране на рискове и заплахи за сигурността на ИКТ",
+        "идентифициране на рискове за сигурността на ИТ",
+        "идентифицирането на рискове за сигурността на ИКТ",
+        "идентифициране на риск за сигурността на ИКТ",
+        "определяне на рискове за сигурността на ИКТ"
+      ],
+      "el": [
+        "προσδιορίζω τους κινδύνους για την ασφάλεια των ΤΠΕ· προσδιορίζω τις απειλές ασφάλειας των ΤΠΕ",
+        "εντοπίζω τους κινδύνους ασφάλειας ΤΠΕ· αναγνωρίζω τις απειλές ασφάλειας ΤΠΕ· καταδεικνύω τις απειλές ΤΠΕ"
+      ],
+      "mt": [
+        "tiddetermina r-riskji ta' sigurtà tal-ICT",
+        "tinduna bir-riskji tas-sigurtà tal-ICT",
+        "tidentifika riskji tas-sikurezza tal-ICT",
+        "tidentifika r-riskji għas-sigurtà tal-ICT",
+        "tidentifika r-riskji tas-sigurtà fl-ICT",
+        "tidentifika r-riskji ta' sigurtà tal-ICT"
+      ],
+      "lt": [
+        "identifikuoti informacinių ir ryšių technologijų riziką ir pavojus",
+        "identifikuoti informacinių ir ryšių technologijų saugumo pavojus",
+        "nustatyti informacinių ir ryšių technologijų saugumo rizikas",
+        "nustatyti IRT saugumo rizikas",
+        "modeliuoti informacinių ir ryšių technologijų saugumo grėsmes",
+        "nustatyti IRT saugumo rizikos veiksnius"
+      ],
+      "en": [
+        "model ICT threats",
+        "identify ICT security risks and threats"
+      ],
+      "is": [
+        "greinum UT-áhættuiþætti",
+        "greina áhættuþætti í upplýsingatækni",
+        "greina áhættuþætti á sviði upplýsingatækni",
+        "greinir UT-áhættuþætti"
+      ],
+      "hr": [
+        "prepoznati IKT sigurnosne rizike",
+        "utvrditi sigurnosne rizike u IKT-u",
+        "prepoznati sigurnosne rizike u IKT-u",
+        "utvrditi IKT sigurnosne rizike",
+        "identificirati IKT sigurnosne rizike"
+      ],
+      "lv": [
+        "IKT drošības risku noteikšana",
+        "identificēt IKT drošības riskus",
+        "IKT sistēmu drošības risku identificēšana",
+        "noteikt IKT drošības riskus",
+        "IKT sistēmu drošības risku noteikšana"
+      ],
+      "it": [
+        "identificare i rischi di sicurezza delle TIC",
+        "individuare i rischi per la sicurezza TIC",
+        "stabilire i rischi per la sicurezza TIC",
+        "determinare i fattori di rischio per la sicurezza TIC",
+        "identificare i rischi in materia di sicurezza TIC"
+      ],
+      "fr": [
+        "évaluer les risques de sécurité des TIC",
+        "modéliser les menaces informatiques",
+        "identifier les risques de sécurité liés à l’utilisation des TIC",
+        "déterminer les risques de sécurité des TIC",
+        "identifier les risques et menaces de sécurité des TIC",
+        "détecter les risques de sécurité des TIC"
+      ],
+      "hu": [
+        "IKT biztonsági fenyegetéseket és kockázatokat azonosít",
+        "azonosítja a biztonsági fenyegetéseket és a biztonsági rések kockázatait",
+        "azonosítja az IKT biztonsági kockázatokat",
+        "meghatározza az IKT biztonsági kockázatokat",
+        "IKT biztonsági fenyegetéseket azonosít",
+        "ICT biztonsági kockázatokat azonosít"
+      ],
+      "es": [
+        "definir riesgos de seguridad de las TIC",
+        "describir riesgos de seguridad de las TIC",
+        "establecer riesgos de seguridad de las TIC",
+        "detectar riesgos de seguridad de las TIC",
+        "determinar riesgos de seguridad de las TIC"
+      ],
+      "et": [
+        "IKT turvalisusriske tuvastama",
+        "IKT turvaauke tuvastama",
+        "IKT-süsteemi haavatavaust analüüsima",
+        "IKT potentsiaalseid rünnakuid tuvastama"
+      ],
+      "cs": [
+        "identifikovat bezpečnostní rizika informačních systémů",
+        "identifikovat bezpečnostní rizika a hrozby ICT",
+        "identifikovat bezpečnostní rizika IKT",
+        "identifikovat bezpečnostní riziko ICT",
+        "modelovat hrozby ICT"
+      ],
+      "sk": [
+        "vymedziť bezpečnostné hrozby pre IT",
+        "identifikovať riziká bezpečnosti v oblasti informačných a komunikačných technológií",
+        "zistiť riziká pre bezpečnosť IKT",
+        "identifikovať bezpečnostné riziká IT",
+        "modelovať bezpečnostné riziká IKT"
+      ],
+      "sl": [
+        "prepoznati varnostna tveganja v IKT",
+        "prepoznati grožnje varnosti IKT",
+        "identificirati varnostna tveganja v IKT",
+        "odkriti varnostna tveganja na področju IKT",
+        "prepoznavati tveganja za varnost IKT",
+        "prepoznavati varnostna tveganja v informacijski in komunikacijski tehnologiji"
+      ],
+      "pl": [
+        "identyfikować zagrożenia dla komponentów ICT",
+        "przewidywać zagrożenia dla systemów ICT",
+        "analizować zagrożenia dla systemów ICT",
+        "modelować zagrożenia dla systemów ICT",
+        "identyfikować ryzyko związane z bezpieczeństwem ICT"
+      ],
+      "ro": [
+        "identifică riscurile TIC",
+        "identifică riscurile la adresa securității informatice",
+        "identifică amenințările la adresa securității TIC",
+        "identifică riscurile de securitate în TIC",
+        "identifică riscurile care amenință securitatea cibernetică"
+      ],
+      "da": [
+        "identificere IKT-sikkerhedsrisici og -trusler",
+        "udpege IKT-sikkerhedsrisici",
+        "lokalisere IKT-sikkerhedsrisici",
+        "fastslå IKT-sikkerhedsrisici",
+        "identificere sikkerhedsrisici forbundet med IKT"
+      ],
+      "nl": [
+        "ICT-bedreigingen wegnemen",
+        "ICT-beveiligingsrisico’s modelleren",
+        "beveiligingsrisico’s identificeren",
+        "ICT beveiligen",
+        "risico’s voor de ICT-beveiliging identificeren",
+        "ICT-beveiligingsrisico’s wegnemen"
+      ]
+    },
+    "description": {
+      "de": {
+        "literal": "Anwenden von Methoden und Techniken, um potenzielle Sicherheitsbedrohungen, Sicherheitsverstöße und Risikofaktoren zu ermitteln durch den Einsatz von IKT-Instrumenten für die Überwachung von IKT-Systemen, die Analyse von Risiken, Schwachstellen und Bedrohungen sowie die Bewertung von Notfallplänen.",
+        "mimetype": "plain/text"
+      },
+      "no": {
+        "literal": "Bruke metoder og teknikker for å identifisere potensielle sikkerhetstrusler, sikkerhetsbrudd og risikofaktorer ved bruk av IKT-verktøy for kartlegging av IKT-systemer, analysere risikoer, sårbarheter og trusler og evaluere beredskapsplaner.",
+        "mimetype": "plain/text"
+      },
+      "fi": {
+        "literal": "Soveltaa sellaisia menetelmiä ja tekniikoita, joilla voidaan tunnistaa mahdolliset turvallisuusuhat, turvallisuusloukkaukset ja riskitekijät, käyttämällä tietoteknisiä työkaluja tietojärjestelmien valvontaan, riskien, haavoittuvuuksien ja uhkien analysointiin ja valmiussuunnitelmien arviointiin.",
+        "mimetype": "plain/text"
+      },
+      "en-us": {
+        "literal": "Apply methods and techniques to identify potential security threats, security breaches and risk factors using ICT tools for surveying ICT systems, analyzing risks, vulnerabilities and threats and evaluating contingency plans.",
+        "mimetype": "plain/text"
+      },
+      "pt": {
+        "literal": "Aplicar métodos e técnicas para identificar potenciais ameaças à segurança, violações da segurança e fatores de risco utilizando ferramentas informáticas para vigiar sistemas informáticos, analisando riscos, vulnerabilidades e ameaças e avaliando planos de contingência.",
+        "mimetype": "plain/text"
+      },
+      "bg": {
+        "literal": "Прилага методи и техники за идентифициране на потенциални заплахи за сигурността, нарушения в сигурността и рискови фактори, като използва ИКТ инструменти за претърсване на ИКТ системи, анализира рисковете, уязвимостта и заплахите и оценява плановете за действие при извънредни ситуации.",
+        "mimetype": "plain/text"
+      },
+      "lt": {
+        "literal": "Taikyti metodus ir technikas, siekiant nustatyti galimą riziką saugumui, saugumo pažeidimus ir rizikos veiksnius, naudojant IRT priemones IRT sistemomis tikrinti, rizikos veiksniams, silpnoms vietoms ir grėsmėms analizuoti, taip pat nenumatytų atvejų planams vertinti.",
+        "mimetype": "plain/text"
+      },
+      "lv": {
+        "literal": "Piemērot metodes un paņēmienus, lai apzinātu iespējamus drošības apdraudējumus, drošības pārkāpumus un riska faktorus, izmantojot IKT rīkus informācijas un komunikācijas tehnoloģiju (IKT) sistēmu izpētei, risku, neaizsargātības un draudu analīzei un ārkārtas rīcības plānu novērtēšanai.",
+        "mimetype": "plain/text"
+      },
+      "hr": {
+        "literal": "Primijeniti metode i tehnike za utvrđivanje mogućih sigurnosnih prijetnji, povreda sigurnosti i čimbenika rizika primjenom alata IKT-a za praćenje sustava IKT-a, analiziranje rizika, slabosti i prijetnji te ocjenjivanje kriznih planova.",
+        "mimetype": "plain/text"
+      },
+      "fr": {
+        "literal": "Appliquer des méthodes et des techniques pour identifier les menaces de sécurité, les failles de sécurité et les facteurs de risque potentiels en utilisant des outils TIC pour surveiller les systèmes TIC, analyser les risques, les vulnérabilités et les menaces et évaluer les plans d’urgence.",
+        "mimetype": "plain/text"
+      },
+      "hu": {
+        "literal": "Olyan módszereket és technikákat alkalmaz, amelyekkel azonosíthatja a potenciális biztonsági fenyegetéseket, a biztonsági szabálysértéseket IKT-eszközök segítségével az IKT-rendszerek felmérésére, a kockázatok, a sebezhetőségek és a fenyegetések elemzésére és a készenléti tervek értékelésére.",
+        "mimetype": "plain/text"
+      },
+      "sk": {
+        "literal": "Používať metódy a techniky na identifikáciu potenciálnych bezpečnostných hrozieb, narušenia bezpečnosti a rizikových faktorov pomocou IKT nástrojov na skúmanie systémov IKT, analýzu rizík, slabých miest a hrozieb, ako aj hodnotiť pohotovostné plány.",
+        "mimetype": "plain/text"
+      },
+      "sl": {
+        "literal": "Uporabiti metode in tehnike za zaznavanje morebitnih varnostnih groženj, kršitev varnosti in dejavnikov tveganja z uporabo orodij IKT za nadzor sistemov IKT, analizo tveganj, šibkih točk in groženj, ter ocenjevati krizne načrte.",
+        "mimetype": "plain/text"
+      },
+      "ga": {
+        "literal": "Modhanna agus teicnící a chur i bhfeidhm chun bagairtí féideartha slándála, sáruithe slándála agus fachtóirí riosca a shainaithint trí úsáid a bhaint as uirlisí TFC chun suirbhéireacht a dhéanamh ar chórais TFC, trí anailís a dhéanamh ar rioscaí, leochaileachtaí agus bagairtí, agus trí mheastóireacht a dhéanamh ar phleananna teagmhasacha.",
+        "mimetype": "plain/text"
+      },
+      "sv": {
+        "literal": "Tillämpa olika metoder och tekniker för att identifiera potentiella säkerhetshot, säkerhetsöverträdelser och riskfaktorer med hjälp av IKT-verktyg för övervakning av IKT-system, analys av risker, sårbarheter och hot och utvärdering av beredskapsplaner.",
+        "mimetype": "plain/text"
+      },
+      "el": {
+        "literal": "Εφαρμογή μεθόδων και τεχνικών για τον εντοπισμό πιθανών απειλών για την ασφάλεια, παραβιάσεων της ασφάλειας και παραγόντων κινδύνου με τη χρήση εργαλείων ΤΠΕ για την παρακολούθηση των συστημάτων ΤΠΕ, την ανάλυση των κινδύνων, των ευπαθειών και των απειλών και την αξιολόγηση των σχεδίων έκτακτης ανάγκης.",
+        "mimetype": "plain/text"
+      },
+      "mt": {
+        "literal": "Applikazzjoni ta’ metodi u tekniki biex jiġu identifikati t-theddid potenzjali għas-sigurtà, il-ksur tas-sigurtà u l-fatturi tar-riskju bl-użu ta’ għodod tal-ICT għal stħarriġ tas-sistemi tal-ICT, analiżi tar-riskji, vulnerabbiltajiet u theddid u evalwazzjoni ta’ pjanijiet ta’ kontinġenza.",
+        "mimetype": "plain/text"
+      },
+      "en": {
+        "literal": "Apply methods and techniques to identify potential security threats, security breaches and risk factors using ICT tools for surveying ICT systems, analysing risks, vulnerabilities and threats and evaluating contingency plans.",
+        "mimetype": "plain/text"
+      },
+      "is": {
+        "literal": "Nota aðferðir og tækni til að greina hugsanlega öryggisógn, brot á öryggisreglum og áhættuþætti með notkun upplýsingatæknibúnaðar sem notaður er til að kanna upplýsingatæknikerfi, greina hættur, veikleika og ógnir og til að meta viðbragðsáætlanir.",
+        "mimetype": "plain/text"
+      },
+      "it": {
+        "literal": "Applicare metodi e tecniche per individuare le potenziali rischi alla sicurezza, violazioni della sicurezza e fattori di rischio mediante l’uso di strumenti TIC per la prospezione dei sistemi TIC, l’analisi dei rischi, delle vulnerabilità e delle minacce e la valutazione dei piani di emergenza.",
+        "mimetype": "plain/text"
+      },
+      "es": {
+        "literal": "Aplicar métodos y técnicas para identificar posibles amenazas de seguridad, violaciones de seguridad y factores de riesgo con el empleo de herramientas de TIC para inspeccionar los sistemas de TIC, analizar riesgos, vulnerabilidades y amenazas y evaluar planes de contingencia.",
+        "mimetype": "plain/text"
+      },
+      "et": {
+        "literal": "Meetodite ja tehnikate rakendamine võimalike turbeohtude, turberikkumiste ja riskitegurite tuvastamiseks, kasutades IKT-vahendeid IKT-süsteemide uurimiseks, riskide, nõrkuste ja ohtude analüüsimiseks ning hädaolukorra lahendamise kavade hindamiseks.",
+        "mimetype": "plain/text"
+      },
+      "cs": {
+        "literal": "Používat metody a techniky pro identifikaci potenciálních bezpečnostních hrozeb, narušení bezpečnosti a rizikových faktorů pomocí nástrojů ICT pro průzkum systémů ICT, analýzu rizik, zranitelných míst a hrozeb a hodnocení pohotovostních plánů.",
+        "mimetype": "plain/text"
+      },
+      "ar": {
+        "literal": "تطبيق الأساليب والتقنيات المستخدمة لتحديد التهديدات الأمنية المحتملة والثغرات الأمنية وعوامل الخطر باستخدام أدوات تكنولوجيا المعلومات والاتصالات لمسح أنظمة تكنولوجيا المعلومات والاتصالات وتحليل المخاطر والثغرات والتهديدات وتقييم خطط الطوارئ.",
+        "mimetype": "plain/text"
+      },
+      "pl": {
+        "literal": "Stosować metody i techniki w celu zidentyfikowania potencjalnych zagrożeń dla bezpieczeństwa, naruszeń bezpieczeństwa i czynników ryzyka, wykorzystując narzędzia ICT do badania systemów ICT, analizy ryzyka, podatności na zagrożenia i zagrożeń oraz oceny planów awaryjnych.",
+        "mimetype": "plain/text"
+      },
+      "da": {
+        "literal": "Anvende metoder og teknikker til at identificere potentielle sikkerhedstrusler, sikkerhedsbrud og risikofaktorer ved hjælp af IKT-værktøjer til overvågning af IKT-systemer, analysere risici, sårbarheder og trusler og evaluere beredskabsplaner.",
+        "mimetype": "plain/text"
+      },
+      "ro": {
+        "literal": "Aplică metode și tehnici de identificare a eventualelor amenințări la adresa securității, a breșelor de securitate și a factorilor de risc prin utilizarea de instrumentele TIC pentru supravegherea sistemelor TIC, analizarea riscurilor, a vulnerabilităților și a amenințărilor și evaluarea planurilor de urgență.",
+        "mimetype": "plain/text"
+      },
+      "nl": {
+        "literal": "Methoden en technieken toepassen om potentiële beveiligingsrisico's, beveiligingsinbreuken en risicofactoren te identificeren met behulp van ICT-tools voor het in kaart brengen van ICT-systemen, het analyseren van risico's, kwetsbaarheden en bedreigingen en het evalueren van noodplannen.",
+        "mimetype": "plain/text"
+      }
+    },
+    "status": "released",
+    "_links": {
+      "self": {
+        "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/fe1c2b32-7fe9-4668-affa-07ff658a68cf&language=en",
+        "uri": "http://data.europa.eu/esco/skill/fe1c2b32-7fe9-4668-affa-07ff658a68cf",
+        "title": "identify ICT security risks"
+      },
+      "isInScheme": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/taxonomy?uri=http://data.europa.eu/esco/concept-scheme/skills&language=en",
+          "uri": "http://data.europa.eu/esco/concept-scheme/skills",
+          "title": "ESCO skills"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/taxonomy?uri=http://data.europa.eu/esco/concept-scheme/member-skills&language=en",
+          "uri": "http://data.europa.eu/esco/concept-scheme/member-skills",
+          "title": "ESCO member skills"
+        }
+      ],
+      "hasSkillType": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/concept?uri=http://data.europa.eu/esco/skill-type/skill&language=en",
+          "uri": "http://data.europa.eu/esco/skill-type/skill",
+          "title": "skill"
+        }
+      ],
+      "hasReuseLevel": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/concept?uri=http://data.europa.eu/esco/skill-reuse-level/sector-specific&language=en",
+          "uri": "http://data.europa.eu/esco/skill-reuse-level/sector-specific",
+          "title": "sector specific skills and competences",
+          "code": "Level 3"
+        }
+      ],
+      "broaderHierarchyConcept": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/concept?uri=http://data.europa.eu/esco/skill/S2.7.5&language=en",
+          "uri": "http://data.europa.eu/esco/skill/S2.7.5",
+          "title": "performing risk analysis and management",
+          "code": "S2.7.5"
+        }
+      ],
+      "broaderSkill": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/a4b2a278-2123-4450-8b43-be01c4f341da&language=en",
+          "uri": "http://data.europa.eu/esco/skill/a4b2a278-2123-4450-8b43-be01c4f341da",
+          "title": "safeguard online privacy and identity",
+          "skillType": "http://data.europa.eu/esco/skill-type/skill"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/2a3a96a3-709e-4d60-81f6-d247d6933f13&language=en",
+          "uri": "http://data.europa.eu/esco/skill/2a3a96a3-709e-4d60-81f6-d247d6933f13",
+          "title": "manage system security",
+          "skillType": "http://data.europa.eu/esco/skill-type/skill"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/69cfc5ed-6569-4aca-a4cc-fd782ba51d9c&language=en",
+          "uri": "http://data.europa.eu/esco/skill/69cfc5ed-6569-4aca-a4cc-fd782ba51d9c",
+          "title": "implement ICT risk management",
+          "skillType": "http://data.europa.eu/esco/skill-type/skill"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/14832d87-2f2f-4895-b290-e4760ebae42a&language=en",
+          "uri": "http://data.europa.eu/esco/skill/14832d87-2f2f-4895-b290-e4760ebae42a",
+          "title": "solve technical problems",
+          "skillType": "http://data.europa.eu/esco/skill-type/skill"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/33a82b83-c838-4889-ae62-fae1317481eb&language=en",
+          "uri": "http://data.europa.eu/esco/skill/33a82b83-c838-4889-ae62-fae1317481eb",
+          "title": "protect personal data and privacy",
+          "skillType": "http://data.europa.eu/esco/skill-type/skill"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/bc0b0b5d-f6be-405a-b224-b6902a4dbe97&language=en",
+          "uri": "http://data.europa.eu/esco/skill/bc0b0b5d-f6be-405a-b224-b6902a4dbe97",
+          "title": "manage digital identity",
+          "skillType": "http://data.europa.eu/esco/skill-type/skill"
+        }
+      ],
+      "narrowerSkill": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/f4a85869-1855-45d5-a43c-7ee8cd451996&language=en",
+          "uri": "http://data.europa.eu/esco/skill/f4a85869-1855-45d5-a43c-7ee8cd451996",
+          "title": "perform security vulnerability assessments",
+          "skillType": "http://data.europa.eu/esco/skill-type/skill"
+        }
+      ],
+      "hasOptionalSkill": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/7f27f1ff-2e17-4b69-990e-c23334478313&language=en",
+          "uri": "http://data.europa.eu/esco/skill/7f27f1ff-2e17-4b69-990e-c23334478313",
+          "title": "assessment of risks and threats",
+          "skillType": "http://data.europa.eu/esco/skill-type/knowledge"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/2ddb1226-1117-4eb4-ae65-3a2f5a5a3c80&language=en",
+          "uri": "http://data.europa.eu/esco/skill/2ddb1226-1117-4eb4-ae65-3a2f5a5a3c80",
+          "title": "ICT network security risks",
+          "skillType": "http://data.europa.eu/esco/skill-type/knowledge"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/3ff589b7-68df-4ea5-ae41-b395bdb2378f&language=en",
+          "uri": "http://data.europa.eu/esco/skill/3ff589b7-68df-4ea5-ae41-b395bdb2378f",
+          "title": "ICT security standards",
+          "skillType": "http://data.europa.eu/esco/skill-type/knowledge"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/902fb91c-3113-4004-9b4f-79aa86b638b7&language=en",
+          "uri": "http://data.europa.eu/esco/skill/902fb91c-3113-4004-9b4f-79aa86b638b7",
+          "title": "web application security threats",
+          "skillType": "http://data.europa.eu/esco/skill-type/knowledge"
+        }
+      ],
+      "isEssentialForOccupation": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/0ce5a9f4-e00a-4bbe-b255-3c63407167a4&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/0ce5a9f4-e00a-4bbe-b255-3c63407167a4",
+          "title": "ICT security consultant"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/102e75c8-3b47-4964-9b47-30a980aed25c&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/102e75c8-3b47-4964-9b47-30a980aed25c",
+          "title": "ICT disaster recovery analyst"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/b37d15b3-402e-4792-8292-f18c0de7aca6&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/b37d15b3-402e-4792-8292-f18c0de7aca6",
+          "title": "mobile devices technician"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/0c448a27-10ec-43ba-b880-d9938bade424&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/0c448a27-10ec-43ba-b880-d9938bade424",
+          "title": "digital forensics expert"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/76ef0a87-6afe-4560-b5d0-9a086abe45c5&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/76ef0a87-6afe-4560-b5d0-9a086abe45c5",
+          "title": "ethical hacker"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/a99b38bc-6e71-4bef-b127-0f2b5e357815&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/a99b38bc-6e71-4bef-b127-0f2b5e357815",
+          "title": "ICT resilience manager"
+        }
+      ],
+      "isOptionalForOccupation": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/b11e1742-5e28-4270-b081-b0193d85ee7d&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/b11e1742-5e28-4270-b081-b0193d85ee7d",
+          "title": "database developer"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/7754d570-9519-48c2-b1c9-8e165f8bca0f&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/7754d570-9519-48c2-b1c9-8e165f8bca0f",
+          "title": "ICT security manager"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/occupation?uri=http://data.europa.eu/esco/occupation/cdd3d773-75a4-4f35-bd1d-1ac720afcf9d&language=en",
+          "uri": "http://data.europa.eu/esco/occupation/cdd3d773-75a4-4f35-bd1d-1ac720afcf9d",
+          "title": "IT auditor"
+        }
+      ]
+    },
+    "_embedded": {
+      "ancestors": [
+        {
+          "title": "identify ICT security risks",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/fe1c2b32-7fe9-4668-affa-07ff658a68cf&language=en",
+              "uri": "http://data.europa.eu/esco/skill/fe1c2b32-7fe9-4668-affa-07ff658a68cf"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/14832d87-2f2f-4895-b290-e4760ebae42a",
+            "http://data.europa.eu/esco/skill/2a3a96a3-709e-4d60-81f6-d247d6933f13",
+            "http://data.europa.eu/esco/skill/bc0b0b5d-f6be-405a-b224-b6902a4dbe97",
+            "http://data.europa.eu/esco/skill/S2.7.5",
+            "http://data.europa.eu/esco/skill/69cfc5ed-6569-4aca-a4cc-fd782ba51d9c",
+            "http://data.europa.eu/esco/skill/a4b2a278-2123-4450-8b43-be01c4f341da",
+            "http://data.europa.eu/esco/skill/33a82b83-c838-4889-ae62-fae1317481eb"
+          ]
+        },
+        {
+          "title": "solve technical problems",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/14832d87-2f2f-4895-b290-e4760ebae42a&language=en",
+              "uri": "http://data.europa.eu/esco/skill/14832d87-2f2f-4895-b290-e4760ebae42a"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/7e5147d1-60b1-4a68-804b-1f5cb0396b91",
+            "http://data.europa.eu/esco/skill/S5.2.3"
+          ]
+        },
+        {
+          "title": "problem-solving with digital tools",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/7e5147d1-60b1-4a68-804b-1f5cb0396b91&language=en",
+              "uri": "http://data.europa.eu/esco/skill/7e5147d1-60b1-4a68-804b-1f5cb0396b91"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/aeecc330-0be9-419f-bddb-5218de926004"
+          ]
+        },
+        {
+          "title": "digital competencies",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/aeecc330-0be9-419f-bddb-5218de926004&language=en",
+              "uri": "http://data.europa.eu/esco/skill/aeecc330-0be9-419f-bddb-5218de926004"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/4f663b30-1c49-4634-82e4-7e582b1551b7"
+          ]
+        },
+        {
+          "title": "application of knowledge",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/4f663b30-1c49-4634-82e4-7e582b1551b7&language=en",
+              "uri": "http://data.europa.eu/esco/skill/4f663b30-1c49-4634-82e4-7e582b1551b7"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/7ee746cb-fded-47f5-9652-19ebebbce51b"
+          ]
+        },
+        {
+          "title": "Transversal skills/competences",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/7ee746cb-fded-47f5-9652-19ebebbce51b&language=en",
+              "uri": "http://data.europa.eu/esco/skill/7ee746cb-fded-47f5-9652-19ebebbce51b"
+            }
+          },
+          "parents": []
+        },
+        {
+          "title": "resolving computer problems",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S5.2.3&language=en",
+              "uri": "http://data.europa.eu/esco/skill/S5.2.3"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S5.2"
+          ]
+        },
+        {
+          "title": "setting up and protecting computer systems",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S5.2&language=en",
+              "uri": "http://data.europa.eu/esco/skill/S5.2"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S5"
+          ]
+        },
+        {
+          "title": "working with computers",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S5&language=en",
+              "uri": "http://data.europa.eu/esco/skill/S5"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S"
+          ]
+        },
+        {
+          "title": "skills",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S&language=en",
+              "uri": "http://data.europa.eu/esco/skill/S"
+            }
+          },
+          "parents": []
+        },
+        {
+          "title": "manage system security",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/2a3a96a3-709e-4d60-81f6-d247d6933f13&language=en",
+              "uri": "http://data.europa.eu/esco/skill/2a3a96a3-709e-4d60-81f6-d247d6933f13"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S5.2.2"
+          ]
+        },
+        {
+          "title": "protecting ict devices",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S5.2.2&language=en",
+              "uri": "http://data.europa.eu/esco/skill/S5.2.2"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S5.2"
+          ]
+        },
+        {
+          "title": "performing risk analysis and management",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S2.7.5&language=en",
+              "uri": "http://data.europa.eu/esco/skill/S2.7.5"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S2.7"
+          ]
+        },
+        {
+          "title": "analysing and evaluating information and data",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S2.7&language=en",
+              "uri": "http://data.europa.eu/esco/skill/S2.7"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S2"
+          ]
+        },
+        {
+          "title": "information skills",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S2&language=en",
+              "uri": "http://data.europa.eu/esco/skill/S2"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S"
+          ]
+        },
+        {
+          "title": "implement ICT risk management",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/69cfc5ed-6569-4aca-a4cc-fd782ba51d9c&language=en",
+              "uri": "http://data.europa.eu/esco/skill/69cfc5ed-6569-4aca-a4cc-fd782ba51d9c"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S2.7.5"
+          ]
+        },
+        {
+          "title": "safeguard online privacy and identity",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/a4b2a278-2123-4450-8b43-be01c4f341da&language=en",
+              "uri": "http://data.europa.eu/esco/skill/a4b2a278-2123-4450-8b43-be01c4f341da"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/426ceaba-6867-481c-bb6b-aee3933da7d2",
+            "http://data.europa.eu/esco/skill/S4.2.1"
+          ]
+        },
+        {
+          "title": "ICT safety",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/426ceaba-6867-481c-bb6b-aee3933da7d2&language=en",
+              "uri": "http://data.europa.eu/esco/skill/426ceaba-6867-481c-bb6b-aee3933da7d2"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/aeecc330-0be9-419f-bddb-5218de926004"
+          ]
+        },
+        {
+          "title": "directing operational activities",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S4.2.1&language=en",
+              "uri": "http://data.europa.eu/esco/skill/S4.2.1"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S4.2"
+          ]
+        },
+        {
+          "title": "organising, planning and scheduling work and activities",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S4.2&language=en",
+              "uri": "http://data.europa.eu/esco/skill/S4.2"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S4"
+          ]
+        },
+        {
+          "title": "management skills",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S4&language=en",
+              "uri": "http://data.europa.eu/esco/skill/S4"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S"
+          ]
+        },
+        {
+          "title": "protect personal data and privacy",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/33a82b83-c838-4889-ae62-fae1317481eb&language=en",
+              "uri": "http://data.europa.eu/esco/skill/33a82b83-c838-4889-ae62-fae1317481eb"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/426ceaba-6867-481c-bb6b-aee3933da7d2",
+            "http://data.europa.eu/esco/skill/S3.3.6"
+          ]
+        },
+        {
+          "title": "protecting privacy and personal data",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S3.3.6&language=en",
+              "uri": "http://data.europa.eu/esco/skill/S3.3.6"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S3.3"
+          ]
+        },
+        {
+          "title": "protecting and enforcing",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S3.3&language=en",
+              "uri": "http://data.europa.eu/esco/skill/S3.3"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S3"
+          ]
+        },
+        {
+          "title": "assisting and caring",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S3&language=en",
+              "uri": "http://data.europa.eu/esco/skill/S3"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S"
+          ]
+        },
+        {
+          "title": "manage digital identity",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/bc0b0b5d-f6be-405a-b224-b6902a4dbe97&language=en",
+              "uri": "http://data.europa.eu/esco/skill/bc0b0b5d-f6be-405a-b224-b6902a4dbe97"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S3.3.5",
+            "http://data.europa.eu/esco/skill/574257ea-7b64-4100-b7b6-e27c233fe143"
+          ]
+        },
+        {
+          "title": "maintaining and enforcing physical security",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/S3.3.5&language=en",
+              "uri": "http://data.europa.eu/esco/skill/S3.3.5"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/S3.3"
+          ]
+        },
+        {
+          "title": "digital communication and collaboration",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/574257ea-7b64-4100-b7b6-e27c233fe143&language=en",
+              "uri": "http://data.europa.eu/esco/skill/574257ea-7b64-4100-b7b6-e27c233fe143"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/aeecc330-0be9-419f-bddb-5218de926004"
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "model": "gemini-3.8-flash",
+  "prompt_version": "cg-2.1",
+  "at": "2026-11-15T00:11:34.720Z",
+  "kind": "advert-tailored-cvs",
+  "input_hash": "afdb71ba91510071c6b7c58244ab9cec03c7408efabfef7dec149f7e6ff6eae2",
+  "answer": {
+    "cvs": [
+      {
+        "id": 100,
+        "text": "Full-stack software developer experienced in data analytics, Python, SQL, and testing. Proven background in systematic data tracking and process documentation. Created logging sheets to track operational metrics, analysed trends weekly to identify root causes, and adjusted procedures accordingly. Experienced in standardising multi-step routines, updating data formulas, and creating clear step-by-step guides with examples to enable colleagues to repeat processes reliably."
+      },
+      {
+        "id": 101,
+        "text": "Experienced in collecting mechanical and electrical workshop measurements, including brake and battery readings. Routinely recorded tool settings, maintained baseline and summary data, and repeated out-of-spec readings before logging. Adept at comparative bench testing, identifying hardware faults through methodical lead swapping, and plotting data across conditions. Documented full measurement setups with diagrams, tool settings, and fault-handling steps for team replication."
+      },
+      {
+        "id": 102,
+        "text": "Experienced in equipment coordination, stock condition tracking, and practical troubleshooting. Designed spreadsheets utilizing automated formulas to flag anomalous stock and overdue statuses. Skilled in comparing repeated tool failures, recording incident details in case logs, and identifying recurring root causes to improve instructions. Authored standard procedural checklists and conducted validation exercises to ensure team members could accurately repeat inspection routines."
+      },
+      {
+        "id": 103,
+        "text": "Experienced in coordinating practical operations and streamlining technical workflows. Skilled at reviewing process steps, eliminating duplicate data entry, and establishing unified logging forms. Experienced in isolating testing difficulties through direct observation, updating instructional documentation with real-world examples, and producing reliable, repeatable operating guides for team members."
+      },
+      {
+        "id": 104,
+        "text": "Experienced in process coordination, practical workflow mapping, and operational support. Skilled in consolidating parallel tracking records into unified logs and documenting roles for accurate data entry. Experienced in identifying workflow bottlenecks, testing revised procedures, and drafting step-by-step instructional guides with concrete examples to ensure team members can reliably replicate operational tasks."
+      },
+      {
+        "id": 105,
+        "text": "Full-stack developer with expertise in testing, Python, SQL, and data analytics. Experienced in continuous system monitoring, logging response times and resource usage, and isolating repeatable background job conflicts. Documented detailed technical runbooks featuring sequential checks, contact points, and screenshots, validating clarity through supervised user tests so operations could be reliably reproduced."
+      },
+      {
+        "id": 106,
+        "text": "Experienced in practical software testing, automated test execution, and systematic defect analysis. Skilled in designing reproducible test scenarios to isolate intermittent edge-case errors, inspecting logs, and defining expected versus actual outcomes. Adept at aggregating test run metrics, grouping repeated failures by component, documenting root causes, and updating verification checklists for future runs."
+      },
+      {
+        "id": 107,
+        "text": "Experienced in data reporting, SQL, and practical data integrity testing. Routinely mapped complex datasets, flagged discrepancies, and conducted SQL comparative analyses to validate figures against physical records. Investigated anomalies to uncover root causes such as double-counting, documented corrective actions, and authored data model guides with clear examples to ensure consistent process replication."
+      },
+      {
+        "id": 108,
+        "text": "Experienced in tool development, testing, and operational troubleshooting. Skilled in reproducing edge-case issues, analysing execution logs to isolate repeatable logic faults, and implementing targeted fixes with regression test cases. Authored clear maintenance guides covering operational setups and recovery procedures, validating their usability directly with peers to ensure tasks could be repeated independently."
+      },
+      {
+        "id": 109,
+        "text": "Experienced in operational tracking, spreadsheet reporting, and systematic data analysis. Designed structured logging sheets to record daily operational metrics and categorized exceptions. Analysed weekly data trends to isolate anomalies, adjusted parameters, and verified outcomes. Authored clear process guides with illustrative mistake examples and trained staff to ensure consistent execution."
+      },
+      {
+        "id": 110,
+        "text": "Full-stack software developer with expertise in testing, Python, SQL, and data analytics. Direct experience taking precision brake and battery measurements in a repair setting, noting tool settings and repeating outlier readings. Skilled in comparative bench testing, graphing metrics by temperature, and tracing hardware faults through controlled component swaps. Authored detailed setup diagrams and procedural guides for repeatable team testing."
+      },
+      {
+        "id": 111,
+        "text": "Experienced in equipment coordination, structured data logging, and practical testing. Utilised spreadsheet formulas to flag out-of-range inventory conditions and overdue items. Analysed recurring equipment faults by reviewing issue logs and grouping related failures. Authored practical checklists and validated verification workflows with colleagues to ensure safe, repeatable diagnostic routines."
+      },
+      {
+        "id": 112,
+        "text": "Experienced in equipment desk coordination, inventory tracking, and frontline technical support. Built structured spreadsheets with automated formula flags to track asset status and anomalous returns. Investigated repeated tool malfunctions using case logs to isolate common failure causes and improve reference documentation. Developed step-by-step checklists to ensure team members consistently performed standardized checks."
+      },
+      {
+        "id": 113,
+        "text": "Experienced in operational planning, practical process mapping, and spreadsheet reporting. Mapped technical repair workflows to eliminate redundant data collection, establishing standardized logging sheets for accurate record-keeping. Designed procedural guides and hands-on exercises, iteratively refining instructions based on user testing to ensure tasks could be repeated accurately."
+      },
+      {
+        "id": 114,
+        "text": "Experienced in systems maintenance and technical monitoring. Methodically monitored operational server metrics, identifying performance bottlenecks and isolating conflicting scheduled tasks. Authored detailed technical runbooks outlining ordered diagnostic checks, escalation criteria, and interface screenshots, actively validating documentation with peers to ensure fault recovery procedures could be reliably repeated."
+      },
+      {
+        "id": 115,
+        "text": "Full-stack developer with expertise in testing, Python, and data analytics. Skilled in automated testing, isolating edge-case system faults through reproducible test scripts, and capturing logs for diagnosis. Experienced in aggregating multi-run test data, classifying repeatable failures by interface and environment, and maintaining comprehensive test checklists to ensure standardized, repeatable quality assurance."
+      },
+      {
+        "id": 116,
+        "text": "Experienced in data reporting, customer support, and practical database verification. Skilled in building mapping tables, auditing duplicates, and writing SQL queries to validate records against primary source data. Investigated weekly reporting discrepancies to resolve counting errors, documented root causes, and created data flow diagrams and guides to allow colleagues to replicate reporting routines."
+      },
+      {
+        "id": 117,
+        "text": "Experienced in tool development, log analysis, and system testing. Skilled in tracking and reproducing transient faults, examining request logs, and constructing targeted test suites for edge cases. Authored comprehensive operational manuals for tool maintenance and recovery, directly evaluating guide clarity with users to enable independent, repeatable execution."
+      },
+      {
+        "id": 118,
+        "text": "Experienced in operational logging, team coordination, and business tools. Designed structured tracking spreadsheets to record daily data points and classify root causes of operational waste. Compared weekly data to identify trends and evaluate procedural changes. Documented multi-step procedures with clear examples of potential errors, ensuring consistent and repeatable execution across the team."
+      },
+      {
+        "id": 119,
+        "text": "Experienced in recording precision workshop measurements, meticulously documenting tool settings, baseline metrics, and repeating anomalous readings to maintain high data integrity. Conducted comparative bench tests, plotting performance against temperature and swapping hardware leads to isolate faulty equipment. Documented end-to-end measurement procedures with diagrams and fault thresholds to allow colleagues to repeat setups seamlessly."
+      }
+    ]
+  },
+  "usage": {
+    "promptTokenCount": 5433,
+    "candidatesTokenCount": 1474,
+    "totalTokenCount": 6907,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 5433
+      }
+    ],
+    "serviceTier": "standard"
+  }
+}

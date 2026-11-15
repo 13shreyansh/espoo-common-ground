@@ -1,0 +1,103 @@
+{
+  "model": "gemini-3.8-flash",
+  "prompt_version": "cg-2.1",
+  "at": "2026-11-15T00:10:50.082Z",
+  "kind": "advert-tailored-cvs",
+  "input_hash": "70555ba32af578b4ea56f3d02de6027db7dad85d4213c88da30e0fe617988584",
+  "answer": {
+    "cvs": [
+      {
+        "id": 0,
+        "text": "Experienced in customer support and full-stack development, Daniela brings practical expertise in process improvement and user adoption. She streamlined café operations by replacing loose paper with a shared order sheet, eliminating duplicate orders. She also authored a clear, example-based user guide, organised practice runs for six new team members, and supervised their hands-on practice. Daniela’s background in training teams on shared tools, removing manual operational errors, and maintaining updated documentation directly supports rolling out the new case-management tool."
+      },
+      {
+        "id": 1,
+        "text": "Aino combines detailed workflow analysis with experience in spreadsheet reporting and documentation. In a bicycle repair workshop, she established clear data recording procedures and removed ambiguity in handover records between testing and technicians. To support adoption, she authored a comprehensive setup guide featuring diagrams, tool settings, and clear check sequences. She systematically tested her documentation by having a colleague execute the process using only the guide, iteratively refining instructions to address potential stumbling blocks."
+      },
+      {
+        "id": 2,
+        "text": "Experienced with business tools, Farhan has a strong track record in coordinating desk operations, improving workflows, and coaching colleagues. At an equipment rental desk, he implemented a structured spreadsheet system to streamline stock handovers and track item status. He trained new staff by facilitating hands-on practice sessions with realistic scenarios—such as damaged items—and authored clear process checklists based on user feedback. His focus on mapping operational steps and preparing teams makes him well suited to drive case-management tool adoption."
+      },
+      {
+        "id": 3,
+        "text": "Oksana brings strong experience in practical testing, process mapping, and team coordination. In a volunteer repair organisation, she mapped the handover workflow between reception and repair volunteers, successfully eliminating duplicate data entry across multiple notebooks by introducing a single shared form. She developed practical training exercises for incoming volunteers, directly observed practice sessions to identify friction points, and iteratively updated rollout documentation with real examples. Her hands-on approach directly aligns with onboarding service teams to new tools."
+      },
+      {
+        "id": 4,
+        "text": "Mikael is experienced in customer support and systems maintenance within a community media studio. He excels at mapping operational processes, eliminating workflow bottlenecks, and creating clear technical documentation. Mikael authored a comprehensive runbook with step-by-step checks and visual aids, ensuring smooth duty handovers. To facilitate adoption, he tested the documentation with new volunteers through simulated failure exercises, refining instructions based on their feedback. His structured approach ensures teams are fully supported when transitioning to new operational tools."
+      },
+      {
+        "id": 5,
+        "text": "Li is a full-stack software developer with expertise in spreadsheet reports and quality assurance. When testing membership services, Li focused on clarifying error reporting for volunteers, generating accessible summaries from automated tests, and documenting edge-case issues to streamline developer handovers. Li systematically tracked issues across devices to establish standardized test checklists. Li’s strong technical foundation, methodical documentation habits, and focus on helping non-technical users navigate software issues offer valuable support for rolling out new case-management systems."
+      },
+      {
+        "id": 6,
+        "text": "Priya has extensive experience with business tools, data workflows, and operational reporting. Working with a distributor, she mapped order and return data flows across departments, eliminating duplicate record-keeping through structured database tables and SQL validation. To facilitate process handovers, Priya created clear visual data models and detailed step-by-step import guides. She actively validated her documentation by having colleagues test the instructions, refining the rollout guide with concrete examples to ensure independent adoption."
+      },
+      {
+        "id": 7,
+        "text": "Abdi combines practical testing experience with user-focused tool development. When creating a workshop booking system, he mapped user requirements alongside volunteers, testing prototypes on mobile devices to pinpoint where users struggled. He eliminated submission bugs and authored practical administrative guides covering daily tasks and error recovery. Abdi successfully onboarded volunteers by guiding them through live practice sessions, using their questions to clarify documentation and ensure independent system adoption."
+      },
+      {
+        "id": 8,
+        "text": "Sofia brings a customer support background combined with practical experience building and deploying digital tools. She mapped user workflows alongside volunteers to develop an intuitive booking tool, directly addressing pain points observed during prototype testing. She established reliable documentation detailing session publishing, booking corrections, and system recovery. To ensure confident adoption, Sofia organized hands-on practice sessions for volunteers, validating the guidance through user feedback and maintaining thorough process notes for team continuity."
+      },
+      {
+        "id": 9,
+        "text": "With four years of café management experience and expertise in spreadsheet reports, Tuan excels at streamlining daily operations and training teams. He mapped and replaced a disjointed paper ordering system with a unified order sheet, eliminating duplicate meal preparations during peak rush periods. Tuan documented procedures in a concise reference guide, conducted structured stock-check training, and supervised practice runs for six colleagues, ensuring seamless adoption of new operational processes."
+      },
+      {
+        "id": 10,
+        "text": "Ines is a full-stack software developer experienced with business tools, data analytics, and workflow documentation. In a technical workshop setting, Ines standardized measurement logging, ensuring test records and summaries were seamlessly handed over to repair technicians without ambiguity. Ines authored clear procedural guides with diagrams, verified usability by having colleagues execute the steps independently, and added practical examples for unusual edge cases, ensuring consistent process execution across the team."
+      },
+      {
+        "id": 11,
+        "text": "Kwame has practical testing experience coordinating equipment desk operations, maintaining case logs, and refining operational workflows. He optimized return procedures, removing redundant checks and prioritizing safety steps based on operational feedback. Kwame trained new colleagues through hands-on practice scenarios involving damaged tools, created practical reference checklists, and incorporated user feedback to ensure smooth adoption and confident handover execution."
+      },
+      {
+        "id": 12,
+        "text": "Petra has deep customer support experience and a demonstrated track record in workflow optimization for volunteer groups. She mapped the end-to-end request handover process between reception and repair volunteers, successfully eliminating duplicate manual logging across multiple notebooks by deploying a single shared form. Petra organized practice exercises for new team members, observed their interactions to improve guidance materials, and documented the rollout with clear, real-world examples."
+      },
+      {
+        "id": 13,
+        "text": "Samir brings strong systems maintenance and spreadsheet reporting experience from a community media environment. He is skilled at analyzing operational workflows to eliminate bottlenecks, such as rescheduling resource-heavy background jobs during peak broadcast hours. Samir authored structured operational runbooks and verified their effectiveness by organizing practice sessions with volunteers, refining documentation with screenshots and clear steps to facilitate smooth system handovers."
+      },
+      {
+        "id": 14,
+        "text": "Anna brings a methodical approach to business tools and workflow validation from her background testing membership services. She focused on improving issue visibility by producing readable reports for volunteers and documenting complex system interactions into clear issue trackers. Anna translated failure patterns into standardized checklists, ensuring team-wide consistency. Her structured documentation and analytical approach support seamless tool rollouts and reliable process handovers."
+      },
+      {
+        "id": 15,
+        "text": "Jonas is a full-stack developer experienced with data analytics, practical testing, and reporting tools. He streamlined distribution processes by mapping data flows, eliminating duplicate records between returns and warehouse logs, and aligning inventory reporting. Jonas created clear process diagrams and step-by-step guides for finance colleagues, actively collecting user feedback to incorporate necessary examples. His background supports mapping handovers and guiding teams through new digital workflows."
+      },
+      {
+        "id": 16,
+        "text": "Yuki combines customer support experience with strong data handling and process coordination skills. At a distributor, Yuki mapped handover discrepancies between warehouse counts and return reports, identifying and eliminating duplicated logging. Yuki documented data procedures alongside visual workflow models for finance colleagues and tested the instructions directly with team members, integrating practical examples to ensure the process could be easily followed and adopted."
+      },
+      {
+        "id": 17,
+        "text": "Rahul has hands-on experience developing tools, tracking reporting data, and facilitating user adoption. For a community workshop, he mapped requirements directly with volunteers, testing prototypes to remove user friction points. Rahul wrote clear user guides covering everyday operations, troubleshooting, and version recovery. He ran practice sessions with volunteers to confirm they could manage tasks independently, updating instructions based on their questions to ensure lasting adoption."
+      },
+      {
+        "id": 18,
+        "text": "Elif combines four years of hospitality management with strong business tool skills to drive process improvement. She mapped shift operations to replace chaotic paper slips with a shared digital order sheet, completely eliminating duplicate preparation steps. Elif created a one-page user guide, conducted stock-check practice sessions for six new colleagues, and directly coached them through trial orders, ensuring the whole team comfortably adopted the new system."
+      },
+      {
+        "id": 19,
+        "text": "Tomás combines practical testing experience with strong technical documentation skills developed in a workshop environment. He established standard measurement workflows to ensure technicians received clear, unambiguous data handovers. Tomás produced a comprehensive guide featuring setup diagrams and structured check sequences, validating it by having colleagues perform the tasks unassisted. He refined the documentation with practical guidance on edge cases, ensuring smooth adoption of standardized procedures."
+      }
+    ]
+  },
+  "usage": {
+    "promptTokenCount": 5054,
+    "candidatesTokenCount": 1810,
+    "totalTokenCount": 6864,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 5054
+      }
+    ],
+    "serviceTier": "standard"
+  }
+}

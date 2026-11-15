@@ -1,0 +1,103 @@
+{
+  "model": "gemini-3.8-flash",
+  "prompt_version": "cg-2.1",
+  "at": "2026-11-15T00:11:11.126Z",
+  "kind": "advert-tailored-cvs",
+  "input_hash": "821683a2bd0289ddc67c35059650e13107d1878719a17a459d87b0d71db56618",
+  "answer": {
+    "cvs": [
+      {
+        "id": 20,
+        "text": "Mariam Laine brings strong customer support experience from coordinating an equipment rental desk. She managed stock records by creating spreadsheets with automated formulas to flag overdue returns and low stock, directing team repair and reordering decisions. Mariam resolved customer issues involving malfunctioning equipment, logged actions and causes, and grouped recurring problems to refine tool instructions. Additionally, she trained colleagues on return procedures and stock sheet updates using structured checklists and hands-on practice, ensuring consistent records."
+      },
+      {
+        "id": 21,
+        "text": "Eero Saarinen possesses proven coordination and reporting experience from managing a volunteer repair group. He streamlined workflow by mapping repair requests and introducing a unified shared form that eliminated duplicate entries and clarified record-keeping roles. Eero trained new volunteers on how to accurately record repairs and access safety documentation, using practical exercises and targeted feedback to refine guidance. His structured approach to tracking decisions and standardising case documentation aligns closely with support and record-keeping needs."
+      },
+      {
+        "id": 22,
+        "text": "Nadia Nieminen brings systems maintenance and documentation experience from a community media studio. She monitored server performance and disk usage, adjusting schedules to maintain reliable operations. Nadia ensured data integrity by managing access accounts and documenting verification and backup restore processes. Skilled in operational guidance, she authored clear runbooks for incident handling and validated them with new team members using practice scenarios, ensuring consistent case tracking and reliable procedures."
+      },
+      {
+        "id": 23,
+        "text": "Linh Lindberg offers thorough testing and issue-tracking experience from supporting a sports club membership service. She systematically analysed booking errors, documented exact failure scenarios using captured logs, and verified resolutions across edge cases. Linh analysed failure trends, grouped recurring issues to drive fixes, and updated test checklists to standardise verification. Her meticulous approach to tracking anomalies, logging detailed case records, and identifying recurring root causes provides valuable transferable support skills."
+      },
+      {
+        "id": 24,
+        "text": "Emilia Salonen brings customer support and testing experience from a sports club membership service. She investigated complex user booking failures by creating repeatable test cases, examining logs, and documenting findings to resolve issues. Emilia systematically grouped recurring system failures by screen and browser, producing clear documentation to prevent future faults. Her diligence in recording precise case details, identifying recurring problem trends, and maintaining structured checklists supports high-quality customer service records."
+      },
+      {
+        "id": 25,
+        "text": "Arjun Koskinen brings robust data and reporting experience from managing distributor records. He combined monthly order data, built mapping tables, resolved duplicates, and wrote queries to trace transactions accurately. Arjun investigated discrepancies between warehouse records and weekly return reports, categorised issues by product and root cause, and corrected double-counted stock. He also documented data models and procedures, mentoring colleagues to ensure consistent record updates and accurate inventory tracking."
+      },
+      {
+        "id": 26,
+        "text": "Sara Ali has practical experience in user workflow design and business tooling from supporting a community workshop. She resolved user issues by analysing request logs, reproducing technical faults, and implementing checks for repeated submissions. Sara produced clear, practical documentation detailing how to update records and resolve incorrect bookings, directly guiding volunteers through practice tasks to ensure accurate case notes and consistent administrative procedures."
+      },
+      {
+        "id": 27,
+        "text": "Aleksi Nguyen has extensive operational and inventory experience from managing a café. He introduced a shared order sheet that eliminated lost orders and duplicate work, coordinating daily updates with team members. Aleksi maintained detailed spreadsheets tracking items and reasons for loss to inform prep adjustments, and he regularly conducted stock checks. He also trained new staff using tailored guides and practical exercises to maintain consistent ordering and stock records."
+      },
+      {
+        "id": 28,
+        "text": "Hana Petrov brings meticulous recording and customer support experience from a bicycle repair workshop. She tracked bike measurements, tool settings, and test anomalies systematically in shared sheets, ensuring full traceability for technicians. Hana diagnosed recurring testing discrepancies by comparing data across test stands and isolating faulty components. Furthermore, she authored structured measurement guides and trained colleagues to follow standardised check sequences and note unusual cases accurately."
+      },
+      {
+        "id": 29,
+        "text": "Mateo Berg coordinated an equipment rental desk, directly managing stock records and customer support. He built and maintained stock spreadsheets using formulas to identify low inventory and overdue items, guiding weekly reordering. Mateo resolved customer issues with malfunctioning tools, documented root causes in case logs, and analysed monthly patterns to address recurring problems. Furthermore, he trained new staff using practical checklists to ensure consistent return handling and accurate record updates."
+      },
+      {
+        "id": 30,
+        "text": "Daniela Hassan brings strong organisation and workflow coordination skills from managing a volunteer repair group. She improved record management by replacing duplicate notebooks with a single shared form, establishing clear responsibilities for logging repair requests. Daniela also trained incoming volunteers on logging repairs and accessing safety guidance, testing processes through hands-on practice to standardise documentation and improve team consistency."
+      },
+      {
+        "id": 31,
+        "text": "Aino Virtanen offers a disciplined background in system maintenance and process documentation from a community media studio. She monitored operations, resolved system delays, and maintained strict account access records. Aino authored clear runbooks for handling operational issues, incorporating step-by-step instructions and testing them with new volunteers to ensure procedures were transparent and reliably documented."
+      },
+      {
+        "id": 32,
+        "text": "Farhan Pham brings customer support and technical maintenance experience from a community media studio. He maintained operational stability by monitoring resource metrics, adjusting schedules, and verifying system accounts. Farhan developed clear incident runbooks and trained new team members through practice exercises, refining instructions to ensure consistent case notes and dependable operational procedures."
+      },
+      {
+        "id": 33,
+        "text": "Oksana Ferreira offers strong testing and spreadsheet reporting skills from a sports club membership platform. She logged detailed technical issues, isolated reproducible errors using logs, and verified fixes across diverse scenarios. Oksana aggregated results across runs to categorise recurring defects and updated checklists to enforce consistent tracking, supporting accurate issue resolution and documentation."
+      },
+      {
+        "id": 34,
+        "text": "Mikael Mensah brings extensive data tracking and inventory reconciliation experience from a small distributor. He structured order data, eliminated duplicates, and audited returns reports against warehouse stock. By categorising discrepancies by product and reason, he identified double-counted items to align records with physical counts. Mikael also created clear data guides with practical examples so colleagues could follow consistent documentation procedures."
+      },
+      {
+        "id": 35,
+        "text": "Li Mäkinen possesses practical technical and documentation experience from developing workshop booking tools. She investigated user booking errors through request logs, identified recurring technical causes, and put preventive checks in place. Li created straightforward operational guides detailing how to correct bookings and update session records, coaching volunteers through the processes to ensure accurate data entry."
+      },
+      {
+        "id": 36,
+        "text": "Priya Khalil provides strong operational, stock, and customer support experience from running a café. She replaced loose paper orders with a centralised tracking sheet to prevent duplicated efforts and maintain service flow. Priya logged waste by date and cause, using the data to adjust stock and cut waste by a third. She also directed stock audits and trained new staff with step-by-step guides to keep ordering sheets accurate."
+      },
+      {
+        "id": 37,
+        "text": "Abdi Kowalska brings structured data logging and reporting expertise from a bicycle repair workshop. He meticulously recorded tool configurations and diagnostic measurements, preserving clear baselines for each repair. Abdi analysed test variances to uncover equipment defects and created illustrated procedural guides, ensuring colleagues recorded observations consistently and escalated issues effectively."
+      },
+      {
+        "id": 38,
+        "text": "Sofia Eklund brings directly relevant experience coordinating an equipment rental desk. She maintained stock records using spreadsheets with formulas to flag shortages and overdue equipment, guiding team repair and reordering decisions. Sofia handled customer queries regarding faulty tools, logged causes and resolutions, and grouped repeated issues to improve guidance. She also trained colleagues with structured checklists to ensure thorough and consistent record keeping."
+      },
+      {
+        "id": 39,
+        "text": "Tuan Tanaka offers practical process improvement and coordination experience from a volunteer repair group. He streamlined intake workflows by consolidating separate logs into a single shared form with defined update roles. Tuan trained volunteers on recording repairs accurately and tested documentation with practical exercises, updating guides with real examples to maintain consistent case notes."
+      }
+    ]
+  },
+  "usage": {
+    "promptTokenCount": 5481,
+    "candidatesTokenCount": 1646,
+    "totalTokenCount": 7127,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 5481
+      }
+    ],
+    "serviceTier": "standard"
+  }
+}

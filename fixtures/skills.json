@@ -351,5 +351,14 @@
     "label": "business intelligence",
     "description": "The tools used to transform large amounts of raw data into relevant and helpful business information.",
     "narrower": []
+  },
+  {
+    "query": "identify ICT security risks",
+    "uri": "http://data.europa.eu/esco/skill/fe1c2b32-7fe9-4668-affa-07ff658a68cf",
+    "label": "identify ICT security risks",
+    "description": "Apply methods and techniques to identify potential security threats, security breaches and risk factors using ICT tools for surveying ICT systems, analysing risks, vulnerabilities and threats and evaluating contingency plans.",
+    "narrower": [
+      "http://data.europa.eu/esco/skill/f4a85869-1855-45d5-a43c-7ee8cd451996"
+    ]
   }
 ]

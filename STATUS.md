@@ -17,10 +17,10 @@ All values below are measured on synthetic scenario fixtures, not field outcomes
 |---|---|---|---|---|---|
 | dev | Common Ground | 63.5% (791/1246) | 30.3% (377/1246) | 0.0 | 0.0 points |
 | dev | Keyword CV matching | 25.0% (318/1272) | 56.8% (723/1272) | 22.6 | 0.0 points |
-| dev | AI-polished CV ranking | 75.4% (959/1272) | 12.3% (156/1272) | 25.6 | 0.0 points |
+| dev | AI-polished CV ranking | 67.5% (858/1272) | 24.3% (309/1272) | 30.1 | 0.0 points |
 | held-out | Common Ground | 72.1% (2581/3579) | 17.4% (622/3579) | 0.0 | 11.1 points |
 | held-out | Keyword CV matching | 41.7% (1501/3600) | 45.6% (1641/3600) | 178.8 | 4.8 points |
-| held-out | AI-polished CV ranking | 84.7% (3048/3600) | 8.9% (321/3600) | 205.8 | 14.3 points |
+| held-out | AI-polished CV ranking | 86.6% (3116/3600) | 10.7% (385/3600) | 222.8 | 7.1 points |
 
 Main event after café-card approval: 140 matched and placed, 0 unplaced, 0 blocking pairs. Largest live group gap: 13.5 points.
 

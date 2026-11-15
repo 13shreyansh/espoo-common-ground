@@ -1,0 +1,103 @@
+{
+  "model": "gemini-3.8-flash",
+  "prompt_version": "cg-2.1",
+  "at": "2026-11-15T00:09:56.467Z",
+  "kind": "advert-tailored-cvs",
+  "input_hash": "fc235fbd2a4ffc1afd0e92b34ccb0156cfb8be8acc8fc575252aea50ea64107f",
+  "answer": {
+    "cvs": [
+      {
+        "id": 40,
+        "text": "Full-stack software developer experienced in testing, Python, SQL, API, and cloud engineering. Proven ability to analyse user journeys, map process workflows, and eliminate duplicate effort through structured trials and shared systems. Skilled at identifying workflow bottlenecks, testing changes with teams, and documenting standard procedures to ensure reliable operations. Experienced in tracking operational issues, observing where users struggle, and maintaining detailed documentation to establish repeatable, error-free processes."
+      },
+      {
+        "id": 41,
+        "text": "Systems specialist experienced in maintaining infrastructure and operational processes. Skilled at diagnosing intermittent technical issues by tracking performance metrics, analysing schedules, and resolving resource conflicts to prevent delays. Experienced in validating disaster recovery procedures through practical test restores before relying on backups. Proficient at writing detailed runbooks, simulating failures with users, and refining technical troubleshooting guides to ensure reliable operations and smooth releases."
+      },
+      {
+        "id": 42,
+        "text": "Testing specialist experienced in automating browser checks for critical customer journeys, including onboarding and cancellations, integrated directly into release workflows. Proven expertise in reproducing elusive, intermittent concurrency issues by simulating simultaneous requests, capturing system logs, and validating post-fix behaviour across varied states. Adept at comparing failed test runs, categorising recurring faults, documenting precise issue reports, and updating regression checklists to safeguard release stability."
+      },
+      {
+        "id": 43,
+        "text": "Data specialist experienced in practical testing, data integrity verification, and reconciliation. Skilled in writing SQL queries to compare legacy and target databases, ensuring end-to-end traceability. Experienced in cross-referencing reports against operational records, categorising discrepancies, and tracing recurring faults to root causes such as duplicate logging. Competent in documenting validation checks and workflows to establish dependable, repeatable processes."
+      },
+      {
+        "id": 44,
+        "text": "Application developer experienced in full lifecycle web tool creation using JavaScript and backend servers. Experienced in mapping customer journeys, developing prototypes, and iterating designs to address user bottlenecks. Skilled at reproducing intermittent defects, analysing request logs to isolate race conditions or retry errors, and establishing test cases covering edge cases prior to deployment. Competent in creating maintenance runbooks and rollback guides to ensure release reliability."
+      },
+      {
+        "id": 45,
+        "text": "Full-stack software developer experienced in testing, software engineering, Python, API, and SQL. Proven track record in structuring operational flows, eliminating duplicate processing, and maintaining workflow accuracy. Experienced in tracking recurring operational waste, analysing trend data to identify root causes, and implementing procedural adjustments. Adept at creating practical instructional guides, designing test exercises, and updating logic to ensure consistent execution."
+      },
+      {
+        "id": 46,
+        "text": "Technical measurement specialist experienced in practical testing and data analysis. Skilled at identifying anomalies across repeated runs, isolating faulty hardware components by systematically swapping variables, and verifying fixes before returning systems to operation. Experienced in recording detailed testing conditions alongside results, mapping precise sequential verification steps, and creating comprehensive reference documentation to maintain reliable quality standards."
+      },
+      {
+        "id": 47,
+        "text": "Operations coordinator experienced in inventory tracking and practical testing. Proficient in designing formula-driven spreadsheets to flag exceptions, monitoring operational status, and maintaining data consistency. Experienced in investigating equipment malfunctions, logging case details, and aggregating recurring issues to prevent repeat problems. Skilled at developing checklists, running scenario practices for critical edge cases, and documenting processes to support dependable workflows."
+      },
+      {
+        "id": 48,
+        "text": "Customer support coordinator experienced in tracking inventory and handling operational records. Skilled in building spreadsheets to identify discrepancies and managing physical stock checks. Experienced in handling issue reports, conducting root-cause investigations, maintaining case logs, and categorising repeated failures to drive systematic improvements. Adept at training staff using structured checklists and refining workflows to ensure dependable everyday operations."
+      },
+      {
+        "id": 49,
+        "text": "Workflow coordinator experienced in process mapping, task breakdown, and project tracking. Skilled at examining end-to-end workflows to eliminate redundant steps and implementing shared tracking systems to prevent duplicate work. Experienced in observing user interactions, identifying points of friction, and iteratively refining operational guides with real examples to ensure repeatable, reliable outcomes across teams."
+      },
+      {
+        "id": 50,
+        "text": "Full-stack software developer experienced in testing, cloud, API, Python, and SQL. Skilled in monitoring server metrics, identifying scheduling conflicts causing performance degradation, and verifying resolution across subsequent runs. Experienced in validating operational resilience by testing sample restores and reviewing permissions. Adept at writing structured runbooks, validating procedures against simulated failures, and maintaining comprehensive operational documentation."
+      },
+      {
+        "id": 51,
+        "text": "Software tester experienced in automating browser tests covering primary user journeys, including registration and booking workflows, integrated into release cycles. Proven track record in isolating intermittent defects by creating reproducible edge-case scenarios, capturing diagnostic logs, and performing multi-state retesting. Highly skilled at comparing failed test runs, categorising recurring errors by environment and component, and updating test checklists to enhance release reliability."
+      },
+      {
+        "id": 52,
+        "text": "Reporting and data specialist experienced in data migration, PostgreSQL, and SQL querying. Proven ability to compare large datasets across systems to identify duplicate entries and maintain complete audit trails. Experienced in auditing weekly discrepancy reports, grouping variance causes, and resolving logging errors. Skilled in documenting validation checks and system diagrams to support reliable, repeatable data releases."
+      },
+      {
+        "id": 53,
+        "text": "Web developer experienced in building user-focused applications using JavaScript and web servers. Experienced in validating user workflows through direct prototyping and observation. Demonstrated ability in diagnosing intermittent defects by tracing request logs, identifying failure modes during retried requests, and developing test cases run prior to release. Skilled in producing operational documentation and rollback instructions to safeguard deployment reliability."
+      },
+      {
+        "id": 54,
+        "text": "Operational manager experienced in structured workflow tracking and process improvement. Skilled in creating shared order tracking systems to eliminate duplicate processing and lost records. Experienced in gathering exception data, analysing failure patterns over time, and adjusting practices to reduce recurring issues. Adept at creating clear procedural guides and running practical training sessions to ensure reliable daily operations."
+      },
+      {
+        "id": 55,
+        "text": "Full-stack developer experienced in practical testing, software engineering, Python, SQL, and API development. Proven expertise in running detailed verification tests, documenting technical parameters, and capturing baseline data. Skilled in isolating intermittent faults by comparing repeated test runs across variables, identifying malfunctioning components, and validating replacements. Proficient in producing clear diagnostic documentation to establish consistent testing procedures."
+      },
+      {
+        "id": 56,
+        "text": "Testing and measurement specialist experienced in methodical verification and process documentation. Skilled at recording detailed test parameters, repeating unusual readings, and keeping comprehensive raw data for comparison. Experienced in diagnosing discrepancies across test setups, isolating faulty components by swapping leads, and verifying fixes. Adept at writing clear test procedures with visual diagrams to ensure consistent quality control."
+      },
+      {
+        "id": 57,
+        "text": "Operations specialist experienced in tracking systems and spreadsheet reporting. Skilled in building automated formula checks to monitor status and flag discrepancies. Experienced in troubleshooting user-reported failures, logging incidents, and categorising repeated issues to identify recurring operational defects. Adept at designing verification checklists and training personnel with hands-on practice to maintain consistent operational reliability."
+      },
+      {
+        "id": 58,
+        "text": "Operations coordinator experienced in workflow analysis and process design. Proficient in mapping operational steps, identifying duplicate data entry points, and testing consolidated procedures to streamline delivery. Experienced in managing schedules, adjusting plans during delays, and observing users during trial tasks to locate friction points. Skilled in documenting standard practices and updating training materials to maintain consistent quality."
+      },
+      {
+        "id": 59,
+        "text": "Systems specialist experienced in practical testing, server monitoring, and performance troubleshooting. Proven ability to analyse server metrics during live operations, trace intermittent slowdowns to misconfigured background tasks, and confirm fixes across subsequent runs. Skilled in executing test restores to validate recovery procedures and drafting step-by-step runbooks evaluated against practice failures to ensure dependable system releases."
+      }
+    ]
+  },
+  "usage": {
+    "promptTokenCount": 5476,
+    "candidatesTokenCount": 1574,
+    "totalTokenCount": 7050,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 5476
+      }
+    ],
+    "serviceTier": "standard"
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "model": "gemini-3.8-flash",
+  "prompt_version": "cg-2.1",
+  "at": "2026-11-15T00:09:28.459Z",
+  "kind": "advert-tailored-cvs",
+  "input_hash": "c75444c9bedee88dd765377c9e29b8bb5de69304df00334e3461a6ddcb5ca743",
+  "answer": {
+    "cvs": [
+      {
+        "id": 60,
+        "text": "Full-stack software developer with skills in SQL, Python, data analytics, testing, and API integration. Experienced in ensuring reliable data through systematic testing and clear reporting. In previous work, created automated test suites, captured detailed logs to isolate edge-case errors, and produced structured failure reports for non-technical team members. Skilled at aggregating results across multiple test runs, comparing failed cases, and maintaining documented procedures so reporting workflows can be repeated reliably."
+      },
+      {
+        "id": 61,
+        "text": "Experienced in spreadsheet reporting and database management with practical expertise in creating reliable data pipelines. Successfully imported diverse order files into a PostgreSQL database by establishing mapping tables for inconsistent identifiers and validating duplicates prior to ingestion. Skilled in comparing weekly return reports against source records to identify root causes of missing or duplicated entries. Designed a structured data model covering customers, orders, and returns, accompanied by comprehensive import documentation to deliver repeatable monthly reporting."
+      },
+      {
+        "id": 62,
+        "text": "Experienced with business tools and practical software development. Built robust web booking workflows, creating functional prototypes and validating processes with users to maintain data accuracy. Skilled in investigating data discrepancies by isolating edge cases, tracing request logs to resolve duplicate submissions, and introducing rigorous validation checks. Experienced in producing detailed documentation and maintenance guides to ensure administrative processes and data workflows can be reliably repeated by colleagues."
+      },
+      {
+        "id": 63,
+        "text": "Experienced in operational tracking and practical testing, with a strong focus on data accuracy and reporting. Consolidated fragmented order processes into a centralised order tracking sheet, eliminating duplicate processing. Developed structured spreadsheets to record waste and stock data, comparing weekly changes to isolate trends and reduce discrepancies. Created documented checklists and step-by-step guides for stock checks and order calculations, ensuring consistent data updates and repeatable reporting routines."
+      },
+      {
+        "id": 64,
+        "text": "Experienced in customer support and operational coordination, focused on establishing dependable records and practical reporting systems. Replaced loose paper ordering with a shared tracking sheet to prevent duplicated entries and ensure consistent order data. Built spreadsheet tools to log metrics by category, comparing weekly figures to pinpoint underlying operational issues. Authored standard operating guides and updated calculation formulas, enabling team members to maintain accurate records and generate repeatable reports."
+      },
+      {
+        "id": 65,
+        "text": "Full-stack software developer with expertise in SQL, Python, data analytics, and testing. Proven background in maintaining precise data integrity by capturing raw metrics alongside summary records with clear identifiers to ensure traceability. Adept at comparing recurring data runs, isolating anomalies across test conditions, and diagnosing data discrepancies. Experienced in documenting structured workflows, data collection setups, and edge-case procedures to facilitate dependable, repeatable reporting."
+      },
+      {
+        "id": 66,
+        "text": "Experienced in business tools and inventory coordination with strong skills in tracking and reporting. Built spreadsheet systems using formulas to monitor stock changes, track item status, and flag exceptions. Regularly compared weekly inventory sheets against physical assets to identify discrepancies and maintain dependable records. Documented structured procedures and checklists to ensure team members could reliably manage data workflows and monthly reporting tasks."
+      },
+      {
+        "id": 67,
+        "text": "Experienced in coordinating community operations and practical testing, focusing on streamlined workflows and data consistency. Audited information flows to eliminate duplicate record-keeping, designing a unified intake form with clearly defined fields. Skilled at mapping processes, verifying that required data points are captured without omissions, and producing clear documentation with practical examples so that regular reporting and tracking tasks are executed reliably."
+      },
+      {
+        "id": 68,
+        "text": "Experienced in systems administration, system monitoring, and customer support. Tracked server performance metrics against operational schedules to identify conflicting processes and resolve bottlenecks. Audited user accounts and permissions against administrative records, establishing structured procedures for data recovery and testing backups. Developed clear runbooks and ordered checklists to ensure reporting, system checks, and data maintenance procedures can be executed repeatably and reliably."
+      },
+      {
+        "id": 69,
+        "text": "Experienced in spreadsheet reports and quality assurance testing. Designed automated test workflows covering account and booking processes, generating accessible failure reports. Skilled in diagnosing data and functional discrepancies by reproducing edge cases, inspecting system logs, and documenting expected versus actual outcomes. Adept at comparing results across runs, categorising discrepancies, and updating checklists to ensure data accuracy and repeatable reporting."
+      },
+      {
+        "id": 70,
+        "text": "Full-stack software developer experienced in SQL, Python, data analytics, and business reporting tools. Directly handled combining fragmented monthly order files into a PostgreSQL database, creating mapping tables to resolve differing identifiers and checking for duplicates. Regularly compared weekly return reports against warehouse data using SQL queries to locate missing or duplicate records. Designed a comprehensive data model for customers, orders, and returns, documenting import checks to produce repeatable monthly reports."
+      },
+      {
+        "id": 71,
+        "text": "Experienced in practical testing and tool development, with a track record of improving operational reliability. Developed booking tools and traced request logs to diagnose and eliminate duplicated records caused by network retries. Implemented automated validation checks for missing fields to preserve data integrity across releases. Produced clear, step-by-step documentation and user guides to allow team members to maintain tools and execute regular administrative reporting tasks reliably."
+      },
+      {
+        "id": 72,
+        "text": "Experienced in customer support and digital tool implementation, focused on process reliability and accurate record-keeping. Built and tested booking systems, identifying where user workflows stalled to improve data entry consistency. Traced system logs to detect missing checks and resolve duplicate record creation. Authored comprehensive procedural guides to help team members manage records, resolve data entry errors, and maintain repeatable operational routines."
+      },
+      {
+        "id": 73,
+        "text": "Experienced in managing operations and spreadsheet reporting, with a strong focus on accurate and structured data. Streamlined paper-based orders into a shared order sheet, eliminating duplicate processing and keeping records synchronized. Designed categorized spreadsheets to track metrics daily and compared weekly totals to identify anomalies and underlying causes. Documented step-by-step guides and updated tracking formulas to ensure reliable, repeatable reporting."
+      },
+      {
+        "id": 74,
+        "text": "Experienced in operational data recording and business tools, emphasizing rigorous record integrity. Recorded workshop measurements by tagging items with clear identifiers, maintaining original and summary data side by side to ensure complete traceability. Compared repeated measurement runs to isolate anomalies and explain discrepancies in recorded figures. Documented procedures and data collection steps with clear examples, establishing reliable guidelines for repeatable reporting."
+      },
+      {
+        "id": 75,
+        "text": "Full-stack software developer with skills in SQL, Python, data analytics, testing, and business operations. Built spreadsheet models using automated formulas to track inventory, identify status changes, and flag exceptions. Logged customer issue data systematically and aggregated monthly reports to identify repeating problem categories. Authored step-by-step verification checklists to ensure reliable data capture, thorough validation, and repeatable reporting procedures."
+      },
+      {
+        "id": 76,
+        "text": "Experienced in customer support and community operational coordination, with expertise in streamlining record-keeping workflows. Mapped information flows between departments to eliminate dual-entry redundancies, establishing a unified intake form with clear ownership of data fields. Monitored record changes to ensure no critical details were missing. Developed practical onboarding exercises and documentation to support reliable, repeatable data tracking."
+      },
+      {
+        "id": 77,
+        "text": "Experienced in systems administration and spreadsheet reporting. Monitored server metrics and compared utilization figures against broadcast schedules to resolve performance anomalies. Conducted audits of system access records against administrative lists to remove invalid entries, validating data backups through routine restoration tests. Created detailed operational runbooks and ordered verification steps to ensure repeatable data monitoring and dependable reporting."
+      },
+      {
+        "id": 78,
+        "text": "Experienced in business tools, software testing, and operational reporting. Created automated test routines to validate user data updates and generated structured reports for non-technical stakeholders when checks failed. Captured system logs to isolate the exact conditions behind data discrepancies and recorded expected outcomes across test scenarios. Aggregated and compared failure data across multiple runs to ensure reporting is robust, accurate, and repeatable."
+      },
+      {
+        "id": 79,
+        "text": "Experienced in practical testing and managing reporting data for distribution. Built database pipelines by consolidating disparate order files into PostgreSQL, using mapping tables to resolve inconsistent identifiers and removing duplicates before ingestion. Compared weekly returns against warehouse records to isolate discrepancies and identify double-counted items. Designed a data model covering customers, orders, and returns with documented validation checks for missing data, ensuring repeatable monthly reporting."
+      }
+    ]
+  },
+  "usage": {
+    "promptTokenCount": 5474,
+    "candidatesTokenCount": 1670,
+    "totalTokenCount": 7144,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 5474
+      }
+    ],
+    "serviceTier": "standard"
+  }
+}

@@ -449,11 +449,13 @@
               ]
             },
             {
-              "query": "assess risks",
-              "uri": "http://data.europa.eu/esco/skill/4e8a2547-c91e-41ff-ad92-170e02e95a8d",
-              "label": "assess risk in the outdoors",
-              "description": "Elaborate and accomplish risk analysis.",
-              "narrower": []
+              "query": "identify ICT security risks",
+              "uri": "http://data.europa.eu/esco/skill/fe1c2b32-7fe9-4668-affa-07ff658a68cf",
+              "label": "identify ICT security risks",
+              "description": "Apply methods and techniques to identify potential security threats, security breaches and risk factors using ICT tools for surveying ICT systems, analysing risks, vulnerabilities and threats and evaluating contingency plans.",
+              "narrower": [
+                "http://data.europa.eu/esco/skill/f4a85869-1855-45d5-a43c-7ee8cd451996"
+              ]
             }
           ]
         }
@@ -1283,11 +1285,13 @@
               ]
             },
             {
-              "query": "assess risks",
-              "uri": "http://data.europa.eu/esco/skill/4e8a2547-c91e-41ff-ad92-170e02e95a8d",
-              "label": "assess risk in the outdoors",
-              "description": "Elaborate and accomplish risk analysis.",
-              "narrower": []
+              "query": "identify ICT security risks",
+              "uri": "http://data.europa.eu/esco/skill/fe1c2b32-7fe9-4668-affa-07ff658a68cf",
+              "label": "identify ICT security risks",
+              "description": "Apply methods and techniques to identify potential security threats, security breaches and risk factors using ICT tools for surveying ICT systems, analysing risks, vulnerabilities and threats and evaluating contingency plans.",
+              "narrower": [
+                "http://data.europa.eu/esco/skill/f4a85869-1855-45d5-a43c-7ee8cd451996"
+              ]
             }
           ]
         }

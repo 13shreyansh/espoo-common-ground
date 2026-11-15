@@ -1,0 +1,103 @@
+{
+  "model": "gemini-3.8-flash",
+  "prompt_version": "cg-2.1",
+  "at": "2026-11-15T00:10:24.183Z",
+  "kind": "advert-tailored-cvs",
+  "input_hash": "a11ba2117d7da45baf14c0d908c49e93b6799395910a6aba0911110dc9fc50af",
+  "answer": {
+    "cvs": [
+      {
+        "id": 60,
+        "text": "Full-stack software developer experienced in cloud, APIs, SQL, Python, software engineering, and testing. Proven ability to support service reliability by reproducing complex issues using simultaneous requests, inspecting system logs, and isolating root causes for developers. Skilled in maintaining safe operations by utilizing dedicated test accounts to safeguard production data, as well as establishing repeatable verification steps and documentation. Experienced in creating clear incident checklists and readable diagnostic reports for cross-functional teams, ensuring operational tasks and failure evaluations can be seamlessly repeated."
+      },
+      {
+        "id": 61,
+        "text": "Experienced in data reporting, SQL, and database management. Skilled in tracing data discrepancies and validating system integrity using PostgreSQL queries to map and verify customer records. Demonstrates strong attention to safe operational access and consistency by identifying duplicate records, reconciling conflicting reports with operational teams, and documenting corrections. Experienced in producing clear documentation, system models, and step-by-step guides with concrete examples to help team members execute safe import checks and operational reviews."
+      },
+      {
+        "id": 62,
+        "text": "Experienced in developing web tools with JavaScript and handling web server administration. Directly relevant experience monitoring service behavior and diagnosing performance issues, including reproducing race conditions and tracing request logs to resolve retried slow requests. Skilled in supporting safe operational workflows by authoring practical maintenance guides, documenting rollback steps to restore previous versions, and validating instructional clarity through hands-on testing with team members to ensure uninterrupted service."
+      },
+      {
+        "id": 63,
+        "text": "Experienced team manager with a strong focus on practical operational testing, error reduction, and workflow organization. Proven background in resolving operational friction by identifying workflow bottlenecks, replacing error-prone manual paper methods with structured tracking tools, and eliminating duplicate efforts. Skilled in monitoring operational data to identify trends, systematically reducing waste by adjusting volumes. Experienced in developing clear, one-page procedure guides and training colleagues through practical simulations to maintain consistent execution."
+      },
+      {
+        "id": 64,
+        "text": "Experienced manager with a strong customer support and operational coordination background. Skilled in establishing organized workflows to prevent duplicate actions and ensure clear communication across teams during peak operational hours. Experienced in logging and analyzing operational data to detect underlying issues and successfully adjust processes to optimize efficiency. Adept at standardizing procedures, writing instructional guides containing concrete examples, and training team members through hands-on exercises to maintain reliable operations."
+      },
+      {
+        "id": 65,
+        "text": "Full-stack developer with background in cloud, APIs, SQL, Python, software engineering, and testing. Experienced in systematically collecting operational measurements, identifying anomalies, and verifying instrument integrity by isolating faulty hardware components. Skilled in documenting operational configurations, tooling setups, and safe check sequences using diagrams and clear failure thresholds. Strong background in establishing structured test processes, preserving baseline data for comparison, and producing guides that guide technicians on when to stop and escalate issues safely."
+      },
+      {
+        "id": 66,
+        "text": "Experienced in business tools, inventory tracking, and operational desk coordination. Adept at tracking system state and handling customer-reported service issues. Experienced in gathering incident details, checking case notes, logging causes and resolutions, and analyzing patterns to implement preventative solutions. Skilled in establishing operational checklists and training team members on safe processes, ensuring quality checks and safety considerations precede standard administrative paperwork."
+      },
+      {
+        "id": 67,
+        "text": "Experienced in operational coordination, practical testing, and workflow optimization. Skilled in mapping out end-to-end processes to eliminate duplicate data entry, introducing shared tracking forms, and clearly assigning responsibilities for updates. Proven ability to guide teams through operational shifts during disruptions and author practice-based documentation. Adept at training staff, observing areas of friction, and refining instructional materials with real-world examples to maintain safe and predictable operational routines."
+      },
+      {
+        "id": 68,
+        "text": "Experienced in systems maintenance and customer support. Directly experienced in cloud operations tasks: monitored media server response times and disk usage during live operations, pinpointed slow requests in relation to schedules, and resolved delays by rescheduling heavy jobs. Conducted service access reviews, audited user accounts, and removed stale privileges safely. Authored a complete operational runbook for duty staff detailing diagnostic steps and escalation paths, and verified safe recovery procedures by testing folder restoration from backups."
+      },
+      {
+        "id": 69,
+        "text": "Experienced in service testing and structured reporting. Skilled in isolating system defects by reproducing timing errors using concurrent requests and capturing system logs to explain root causes to developers. Protects service integrity by setting up isolated test accounts to prevent modification of production data. Adept at compiling failure patterns across test runs, updating issue checklists to detect anomalies early, and writing accessible failure summaries to guide team responses."
+      },
+      {
+        "id": 70,
+        "text": "Full-stack developer experienced in cloud, APIs, SQL, Python, software engineering, and data analytics. Highly skilled in diagnosing data and service discrepancies using SQL queries, reconciling disparate data sources, and preventing duplicates through systematic mapping. Strong background in documenting data models, defining safe import and recovery checks for missing identifiers, and producing clear procedural guides with worked examples to enable smooth, repeatable team operations."
+      },
+      {
+        "id": 71,
+        "text": "Experienced in building web tools with JavaScript, maintaining small servers, and practical testing. Directly relevant experience diagnosing slow and repeated requests by tracing server request logs and adding safeguards against duplicate submissions. Demonstrates solid operational support capabilities by authoring clear maintenance guides that cover publishing changes, remediating erroneous records, and executing safe recovery procedures to restore previous system states."
+      },
+      {
+        "id": 72,
+        "text": "Experienced in web tool development and customer support. Proven background in investigating service irregularities by tracing request logs to locate issues caused by slow network retries and implementing corrective checks. Skilled in supporting reliable operations by writing step-by-step guides for tool maintenance, correcting bad records, and safely restoring previous versions. Validated operational documentation by having team members independently execute recovery tasks and refining guidance based on real-world feedback."
+      },
+      {
+        "id": 73,
+        "text": "Experienced in operational management and spreadsheet reporting. Proven ability to establish structured tracking systems that replace fragile manual methods, successfully eliminating duplicate processing during high-volume periods. Skilled in monitoring operational data to identify trends and implementing process changes that reduce inefficiency. Experienced in creating clear reference guides, updating operational formulas, and conducting practical training to ensure consistent adherence to procedures across the team."
+      },
+      {
+        "id": 74,
+        "text": "Experienced in operational tracking, test measurements, and business tools. Demonstrates a disciplined approach to diagnosing system issues by isolating variables, comparing test stand readings, and verifying replacement components before returning equipment to service. Experienced in producing detailed operational setup guides complete with diagrams, setting clear parameters for normal operation, and defining safe procedures for when to pause work and escalate unusual findings."
+      },
+      {
+        "id": 75,
+        "text": "Full-stack developer with experience in cloud, APIs, SQL, Python, software engineering, and testing. Proven capability in monitoring operational records, identifying anomalies, and coordinating issue resolution. Skilled in logging failure causes, analyzing recurring incident logs to improve instructions, and defining step-by-step checklists. Experienced in mentoring colleagues on safe workflows and ensuring critical safety and verification checks are embedded directly into operational procedures."
+      },
+      {
+        "id": 76,
+        "text": "Experienced in operational coordination and customer support. Strong background in mapping operational workflows, eliminating duplicate administrative steps, and standardizing shared records to clarify team ownership. Proven ability to adapt plans during resource delays to maintain service continuity. Experienced in developing instructional guides, observing team members during practice tasks to identify confusion, and incorporating direct feedback to ensure operational safety instructions are clear and reliable."
+      },
+      {
+        "id": 77,
+        "text": "Experienced in systems maintenance and reporting. Directly matched to cloud operations tasks: monitored server response times and disk performance, analyzing log trends against schedules to eliminate slow request bottlenecks caused by background jobs. Reviewed server access permissions, decommissioned inactive accounts, and documented and tested backup recovery procedures. Wrote an incident runbook with ordered diagnostic steps and escalation thresholds, validating its clarity through guided trial runs with duty team members."
+      },
+      {
+        "id": 78,
+        "text": "Experienced in automated testing, service validation, and business tools. Proven track record in diagnosing intermittent system bugs by generating concurrent requests, capturing logs, and demonstrating root causes for development teams. Strong background in protecting live data through dedicated test accounts, maintaining detailed records of expected behaviors across varied conditions, and updating operational checklists to ensure early detection of service defects."
+      },
+      {
+        "id": 79,
+        "text": "Experienced in data reporting, SQL, and practical testing. Skilled in investigating discrepancies across operational records by writing PostgreSQL queries and mapping data across systems. Experienced in identifying root causes of duplicated records, documenting corrective steps, and confirming alignment through follow-up audits. Competent in authoring comprehensive data models and operational guides with concrete recovery steps for missing identifiers to maintain safe, repeatable workflows."
+      }
+    ]
+  },
+  "usage": {
+    "promptTokenCount": 5476,
+    "candidatesTokenCount": 1755,
+    "totalTokenCount": 7231,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 5476
+      }
+    ],
+    "serviceTier": "standard"
+  }
+}

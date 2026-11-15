@@ -1,0 +1,103 @@
+{
+  "model": "gemini-3.8-flash",
+  "prompt_version": "cg-2.1",
+  "at": "2026-11-15T00:08:34.395Z",
+  "kind": "advert-tailored-cvs",
+  "input_hash": "184f7185ca2dfd36a4e6ad27877601a6f54d590f1c49f7c2f9c5b39ccf302185",
+  "answer": {
+    "cvs": [
+      {
+        "id": 80,
+        "text": "Mariam Nyström is a full-stack software developer experienced in Python, SQL, APIs, cloud, data analytics, software engineering, and customer support. Skilled at combining data exports into PostgreSQL databases using mapping tables and validation queries, Mariam aligns well with building late-delivery trackers. Experienced in investigating weekly report discrepancies by categorizing root causes and verifying findings with operations teams. Strong communication and documentation background, including producing data models, step-by-step guides with examples, and assisting colleagues to ensure seamless adoption of new processes."
+      },
+      {
+        "id": 81,
+        "text": "Eero Wei brings practical experience developing web applications using JavaScript and lightweight web servers, suited to building tracking tools from export data. Skilled in diagnosing recurring issues through log tracing, reproducing errors, and implementing automated test cases. Eero excels at supporting end-users through hands-on prototype testing, gathering feedback directly from users, and authoring clear operational documentation with practical walkthroughs to ensure tools are operated smoothly and changes are documented."
+      },
+      {
+        "id": 82,
+        "text": "Nadia Nair offers extensive experience creating tracking tools and analyzing operational data. Nadia built shared tracking sheets to prevent operational duplications and created spreadsheets analyzing waste by day and reason to identify root causes and adjust prep amounts. Highly skilled at training team members through clear, one-page guides, practical walk-throughs, and ongoing formula updates, making Nadia well prepared to help dispatchers use tracking tools and document workflow adjustments."
+      },
+      {
+        "id": 83,
+        "text": "Linh Hassan provides strong practical testing and structured data-tracking skills. Linh has experience recording detailed operational measurements, verifying anomalous entries, and comparing data sets across equipment to isolate root causes of performance issues. Linh also creates comprehensive, diagrammed process documentation and instructions with clear examples, guiding team members through complex tasks and capturing feedback to keep procedures clear and up to date."
+      },
+      {
+        "id": 84,
+        "text": "Emilia Virtanen brings solid customer support and operational tracking experience from coordinating an equipment rental desk. Emilia developed tracking spreadsheets with automated formulas to flag overdue items, conducted regular inventory audits, and systematically logged issues to categorize root causes and improve documentation. Experienced in training colleagues with clear checklists and feedback sessions, Emilia is well-suited to support dispatchers and document operational adjustments."
+      },
+      {
+        "id": 85,
+        "text": "Arjun Pham is a full-stack software developer experienced in Python, SQL, APIs, cloud infrastructure, testing, and data analytics. Arjun has hands-on experience mapping operational workflows, streamlining data-entry processes, and consolidating multi-source logs into unified tracking systems. Arjun excels at troubleshooting process inefficiencies, supporting team members through clear exercises, and documenting changes to ensure dispatchers and operational staff can seamlessly adopt new tools."
+      },
+      {
+        "id": 86,
+        "text": "Sara Ferreira combines strong business tools proficiency with technical operations support. Experienced in monitoring system metrics, identifying performance bottlenecks from scheduled jobs, and resolving latency issues. Sara has authored detailed operational runbooks featuring sequential steps and screenshots, tested procedures with team members, and maintained thorough records to support operational shifts and keep dispatchers or operators fully guided."
+      },
+      {
+        "id": 87,
+        "text": "Aleksi Mensah offers a strong background in practical testing and automated verification. Experienced in running automated browser tests, capturing and analyzing system logs to identify edge-case errors, and categorizing failure trends to isolate root causes. Aleksi communicates technical findings clearly to developers and stakeholders, maintains updated checklists, and documents changes, providing strong analytical support for tracking and operational documentation."
+      },
+      {
+        "id": 88,
+        "text": "Hana Mäkinen brings a strong testing and customer support background, experienced in writing automated test suites, capturing system logs to trace recurring faults, and grouping failure data to uncover root causes. Hana creates clear technical issue reports, updates test documentation, and provides straightforward reporting that assists teams in understanding system changes and resolving operational bottlenecks."
+      },
+      {
+        "id": 89,
+        "text": "Mateo Khalil possesses extensive data-handling experience, including consolidating disparate export files into PostgreSQL databases using mapping tables and duplicate verification. Skilled at querying and reconciling weekly discrepancies by categorizing root causes alongside operational teams. Mateo excels at producing clear data models, writing import guides with practical examples, and walking colleagues through new reporting workflows."
+      },
+      {
+        "id": 90,
+        "text": "Daniela Saarinen is a full-stack software developer with expertise in Python, SQL, APIs, cloud systems, testing, and data analytics. Daniela has built web-based tracking and booking tools using JavaScript and web servers, tracing request logs to fix issues and writing automated tests for edge cases. Skilled at user-centered development, Daniela works closely with end users, creates practical operational documentation, and trains teams to ensure smooth adoption of new tools."
+      },
+      {
+        "id": 91,
+        "text": "Aino Nieminen brings proven experience managing operations, creating shared tracking spreadsheets, and analyzing performance trends. Aino established shared order tracking to eliminate duplicate work and analyzed weekly discrepancy logs to identify root causes and reduce waste. Skilled in hands-on training, Aino has created user guides with concrete examples and trained staff directly, providing strong support for dispatchers adopting new tracker tools."
+      },
+      {
+        "id": 92,
+        "text": "Farhan Lindberg combines meticulous record-keeping with customer support and practical testing experience. Farhan has tracked detailed operational measurements, validated atypical readings, and compared repeated data sets to isolate root causes of equipment issues. Additionally, Farhan writes structured, diagrammed procedural guides with clear examples, ensuring operational staff can follow workflows and understand when to escalate issues."
+      },
+      {
+        "id": 93,
+        "text": "Oksana Salonen offers strong spreadsheet reporting and customer support experience, having managed inventory records using formulas to track overdue items and identify shortages. Oksana investigates operational problems by analyzing logs, categorizing recurring issues, and refining procedures accordingly. Experienced in training staff using structured checklists and incorporating user feedback, Oksana is well-equipped to support dispatchers and document procedural changes."
+      },
+      {
+        "id": 94,
+        "text": "Mikael Koskinen offers proven skills in business tools and operational process coordination. Mikael has mapped workflows to streamline dual-entry tracking into single, shared forms, identifying missing requirements with front-line staff. An effective trainer, Mikael develops targeted practice exercises, gathers user feedback to refine instructions, and documents procedural changes to help teams adopt new tracking workflows effectively."
+      },
+      {
+        "id": 95,
+        "text": "Li Ali is a full-stack software developer with expertise in Python, SQL, APIs, cloud, testing, and data analytics. Li has experience monitoring server operations, analyzing logs alongside schedules to pinpoint and resolve performance bottlenecks, and maintaining thorough change documentation. Li writes detailed operational runbooks with visual guides, validates processes through user walkthroughs, and is well-equipped to build delivery trackers and guide dispatchers through system updates."
+      },
+      {
+        "id": 96,
+        "text": "Priya Nguyen brings practical system monitoring and customer support experience from media studio operations. Priya has analyzed log metrics against operational schedules to resolve delays and improve turnaround times. Skilled at creating structured runbooks with visual screenshots, Priya validates procedures through end-user testing and updates documentation based on feedback, well-suited to assisting dispatchers with new tracking processes."
+      },
+      {
+        "id": 97,
+        "text": "Abdi Petrov provides solid experience in practical testing, automated test creation, and spreadsheet reporting. Abdi has reproduced complex edge cases, analyzed log files to isolate specific operational errors, and grouped system failures by device and interface to pinpoint root causes. Abdi generates clear summary reports for team members and updates procedural checklists, supporting effective tool adoption and documentation."
+      },
+      {
+        "id": 98,
+        "text": "Sofia Berg has extensive experience managing and reporting operational data. Sofia has consolidated file exports into PostgreSQL databases using mapping tables, verified data integrity via SQL queries, and analyzed weekly discrepancy reports to identify root causes like double-counting. Sofia also creates clear data models and procedural documentation with practical examples, effectively onboarding colleagues to new data processes."
+      },
+      {
+        "id": 99,
+        "text": "Tuan Rojas offers practical software development and testing experience, having built prototype web applications using JavaScript and web servers based on user feedback. Tuan has traced server logs to resolve duplicate submissions and created targeted automated test cases. Experienced in writing step-by-step user guides and coaching volunteers through new systems, Tuan is well prepared to build delivery trackers, document modifications, and support dispatchers."
+      }
+    ]
+  },
+  "usage": {
+    "promptTokenCount": 5473,
+    "candidatesTokenCount": 1685,
+    "totalTokenCount": 7158,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 5473
+      }
+    ],
+    "serviceTier": "standard"
+  }
+}

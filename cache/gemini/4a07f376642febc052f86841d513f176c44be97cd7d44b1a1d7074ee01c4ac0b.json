@@ -1,0 +1,103 @@
+{
+  "model": "gemini-3.8-flash",
+  "prompt_version": "cg-2.1",
+  "at": "2026-11-15T00:09:34.734Z",
+  "kind": "advert-tailored-cvs",
+  "input_hash": "4a07f376642febc052f86841d513f176c44be97cd7d44b1a1d7074ee01c4ac0b",
+  "answer": {
+    "cvs": [
+      {
+        "id": 20,
+        "text": "Mariam Laine is a full-stack developer experienced in SQL, Python, API, cloud, and data analytics. She has a strong track record of maintaining reliable tracking systems, having structured stock records with spreadsheets and automated formulas to monitor inventory and overdue items. Mariam accurately logged case records, grouped recurring issues monthly, and maintained detailed procedural notes to ensure processes were repeatable across reviews. Her technical background in databases and software engineering, paired with practical experience validating records and documentation, aligns directly with tasks requiring identifier consistency, comparison of weekly changes, and creating repeatable monthly reporting structures."
+      },
+      {
+        "id": 21,
+        "text": "Eero Saarinen offers hands-on experience in streamlining data workflows and spreadsheet reporting. When managing processes for a volunteer repair group, he identified inefficiencies in dual record-keeping and consolidated them into a unified, shared form. He carefully monitored fields to ensure no data was missing and established clear ownership for updating each attribute. Eero also documented workflows and decision logs to enable future teams to repeat processes accurately. His disciplined approach to structuring shared forms, tracking changes, and maintaining transparent records translates directly into helping consolidate exports and ensuring data reliability for ongoing reporting."
+      },
+      {
+        "id": 22,
+        "text": "Nadia Nieminen brings strong experience with business tools and systems maintenance. In her studio systems role, she routinely monitored system metrics, compared usage data against broadcast schedules to resolve performance delays, and maintained clear operating documentation. She conducted thorough audits of shared accounts against manager records to identify discrepancies, removing outdated entries and rigorously testing restore procedures before relying on backups. Nadia’s methodical approach to comparing datasets, identifying anomalies, creating runbooks, and ensuring operational reliability supports key needs in comparing weekly record changes and establishing reliable data procedures."
+      },
+      {
+        "id": 23,
+        "text": "Linh Lindberg offers solid practical testing experience, with expertise in validating data integrity and tracking record changes. In her work with a sports club membership system, she developed automated tests to verify record updates across user flows while ensuring core member datasets remained protected. She regularly aggregated outputs across multiple runs, isolated discrepancies, and produced clear reports explaining anomalies and failure patterns. linh documents procedures systematically to ensure repeatability across review cycles, providing valuable analytical rigor for comparing weekly changes, explaining missing records, and verifying consistent data flows."
+      },
+      {
+        "id": 24,
+        "text": "Emilia Salonen brings extensive experience in practical testing, customer support, and system verification. In her previous testing work on a membership platform, she established automated checks across key user actions, using segregated test accounts to safeguard data consistency. She excels at identifying anomalies, such as race conditions during booking updates, and documenting exact logs to isolate errors. Emilia routinely consolidated test data, grouped failure patterns, and provided clear reports to explain missing or failing records. Her structured testing discipline and focus on repeatable processes support tasks in tracking weekly changes and ensuring data reliability."
+      },
+      {
+        "id": 25,
+        "text": "Arjun Koskinen is a full-stack developer skilled in SQL, Python, cloud, and data analytics. He has direct experience combining disparate monthly order files into a PostgreSQL database, creating mapping tables for customer codes, and handling duplicates and missing identifiers. Arjun compared weekly warehouse returns against reports, grouping differences by product and reason to resolve double-counted items and align data with physical stock. Furthermore, he designed comprehensive data models showing customers, orders, and returns, complete with import checks and documentation for finance teams to run repeatable monthly reports."
+      },
+      {
+        "id": 26,
+        "text": "Sara Ali brings practical experience building custom business tools, web forms, and handling data workflows. She developed booking solutions with JavaScript, incorporating user-focused validations and documenting procedures so future teams could repeat the setup. When investigating duplicate booking records, she traced request logs, isolated edge cases, and implemented checks along with repeatable test scenarios to prevent faulty entries. Her background in debugging data flow issues, writing administrative runbooks, and maintaining consistent record logic provides transferable strengths for organizing data exports and establishing repeatable reporting processes."
+      },
+      {
+        "id": 27,
+        "text": "Aleksi Nguyen possesses solid practical experience in operations management, data organization, and weekly variance analysis. He created shared order-tracking systems to eliminate duplicate entries and ensure accurate recording during busy periods. Aleksi built a waste-tracking spreadsheet that categorized daily records by reason, regularly comparing weekly totals to uncover root causes and adjust operations. He also designed one-page procedural guides and updated formulas when suppliers changed configurations. His practical experience auditing weekly figures, identifying missing or duplicate records, and building structured tracking tools aligns well with reporting and reliable data needs."
+      },
+      {
+        "id": 28,
+        "text": "Hana Petrov offers rigorous experience in precise data capture, anomaly investigation, and reporting. In a technical workshop, she systematically labeled items, paired raw readings with summary sheets, and maintained consistent identifiers so technicians could reliably trace and compare historical records. She analyzed repeated test results, plotted trends against variables to detect anomalies, and isolated equipment faults causing data skews. Hana also produced clear measurement runbooks featuring diagrams and handling rules for unusual results, supporting tasks centered on maintaining dependable identifiers, comparing weekly shifts, and establishing repeatable reporting protocols."
+      },
+      {
+        "id": 29,
+        "text": "Mateo Berg has practical experience in spreadsheet reporting, inventory tracking, and operational record-keeping. He built and maintained stock spreadsheets using formulas to monitor conditions, identify overdue items, and flag discrepancies during weekly shelf checks. Mateo systematically logged customer issues, grouping trends monthly to identify repeating patterns and update operational procedures. His focus on creating structured checklists and comprehensive review notes ensured that processes could be seamlessly repeated by colleagues, demonstrating strong capabilities for monitoring weekly changes, reconciling records, and supporting organized monthly reporting."
+      },
+      {
+        "id": 30,
+        "text": "Daniela Hassan is a full-stack developer with skills in SQL, Python, API, cloud, and data analytics. She has demonstrated strong organisational and data structuring abilities by mapping workflows, replacing redundant logbooks with a single standardised form, and establishing field-level update responsibilities to prevent missing records. Daniela is adept at breaking down processes, tracking decisions, and documenting repeatable workflows for subsequent reviews. Combining software engineering expertise with practical data hygiene and process documentation, she is well-equipped to combine exports into consistent database models and support reliable monthly reporting."
+      },
+      {
+        "id": 31,
+        "text": "Aino Virtanen has substantial experience in systems maintenance, data auditing, and practical testing. In a media studio environment, she regularly tracked performance metrics, comparing them against operations schedules to diagnose discrepancies and optimize workloads. She audited user records against master lists to eliminate outdated entries, documented system procedures, and verified backups through sample restoration tests. Aino's methodical approach to comparing dataset changes, recording step-by-step procedures in runbooks, and ensuring process repeatability supports operational data reliability, weekly audits, and structured reporting workflows."
+      },
+      {
+        "id": 32,
+        "text": "Farhan Pham brings strong experience in systems maintenance, customer support, and operational logging. He routinely monitored server performance metrics, cross-referencing disk usage and response logs with broadcast schedules to identify and resolve operational bottlenecks. Farhan conducted rigorous access audits, cross-checking user lists with management to remove inactive accounts, and documented restore processes with verified test runs. His attention to detail in tracking record discrepancies, maintaining system runbooks, and ensuring procedural repeatability makes him well-suited for reconciling weekly data changes and maintaining dependable reporting workflows."
+      },
+      {
+        "id": 33,
+        "text": "Oksana Ferreira is experienced in spreadsheet reports, automated testing, and dataset validation. Working with sports club membership systems, she designed repeatable automated tests covering record updates and cancellations, ensuring data integrity across test accounts. She investigated edge-case transaction failures by capturing request logs, analyzing concurrency issues, and recording expected outcomes. Oksana regularly aggregated multiple test run datasets, grouped anomalies by screen and browser, and updated validation checklists. Her expertise in isolating missing records, explaining differences, and standardizing reporting checklists aligns directly with reliable data management."
+      },
+      {
+        "id": 34,
+        "text": "Mikael Mensah has direct, practical experience with business tools, database consolidation, and reporting data. For a distributor, he imported disparate order files into a PostgreSQL database, building custom mapping tables to align conflicting customer codes and remove duplicates before ingestion. He used SQL queries to reconcile data against finance figures. Mikael also analyzed weekly discrepancies between returns reports and physical inventory to identify double-counted records. He designed data models covering customers, orders, and returns, adding import checks and guides so colleagues could repeat monthly reports accurately."
+      },
+      {
+        "id": 35,
+        "text": "Li Mäkinen is a full-stack software developer with expertise in SQL, Python, data analytics, API, and cloud tools. In developing booking tools, Li established clean data collection workflows, traced request logs to eliminate duplicate entries, and authored robust test cases covering edge cases like missing fields and duplicate requests. Li documented technical guides to enable colleagues to manage records, fix incorrect bookings, and restore versions reliably. This strong background in software engineering, database query languages, and systematic validation makes Li well-suited for building structured data models and maintaining dependable monthly reports."
+      },
+      {
+        "id": 36,
+        "text": "Priya Khalil offers extensive experience in operational organization, tracking sheets, and weekly data analysis. She implemented consolidated order sheets to replace loose documentation, successfully eliminating duplicated orders and maintaining clean records. Priya designed daily tracking spreadsheets categorized by reason, comparing weekly metrics over months to identify patterns and reduce waste. She also managed regular stock checks, trained staff with practical guides, and adjusted calculation formulas when supplier specifications changed. Her diligent focus on consistent records and comparative analysis provides valuable transferable skills for reliable reporting."
+      },
+      {
+        "id": 37,
+        "text": "Abdi Kowalska possesses solid experience in spreadsheet reporting, technical measurements, and data documentation. Working in a bicycle repair workshop, Abdi systematically indexed equipment with consistent labels, recorded raw and summary data together, and repeated outlier readings to guarantee data integrity across historical records. Abdi conducted comparative analysis across repeated test datasets, isolating discrepancies in hardware by analyzing data trends across temperatures. Abdi also authored clear procedural guides with step-by-step diagrams and error-handling instructions, ensuring reliable, repeatable monthly workflows."
+      },
+      {
+        "id": 38,
+        "text": "Sofia Eklund brings solid experience in business tools, inventory tracking, and operational record keeping. Managing an equipment rental desk, she built and maintained structured spreadsheets to track item conditions and return dates, utilizing formulas to flag overdue records and monitor weekly inventory levels. Sofia systematically logged customer issues, aggregating recurring cases monthly to pinpoint process improvements. Her practice of documenting workflows and checklists ensured seamless handovers and repeatable operations, supporting tasks that involve tracking weekly changes, maintaining clean datasets, and establishing monthly reporting routines."
+      },
+      {
+        "id": 39,
+        "text": "Tuan Tanaka offers practical testing, coordination, and process mapping experience. In a volunteer repair organization, he analyzed operational data flows, identifying redundant entries across notebooks and consolidating them into a single, standardized shared form. He verified that essential fields were populated without omissions and assigned clear accountability for updates. Tuan documented shared decisions and created training exercises with clear examples to ensure processes were consistently repeatable. His structured approach to eliminating duplicate data, enforcing record consistency, and maintaining documentation aligns well with data reliability requirements."
+      }
+    ]
+  },
+  "usage": {
+    "promptTokenCount": 5479,
+    "candidatesTokenCount": 2259,
+    "totalTokenCount": 7738,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 5479
+      }
+    ],
+    "serviceTier": "standard"
+  }
+}

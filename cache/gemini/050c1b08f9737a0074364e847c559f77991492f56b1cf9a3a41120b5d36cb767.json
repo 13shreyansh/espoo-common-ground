@@ -1,0 +1,57 @@
+{
+  "model": "gemini-3.8-flash",
+  "prompt_version": "cg-evidence-2.2",
+  "at": "2026-11-14T23:52:48.351Z",
+  "kind": "evidence",
+  "input_hash": "050c1b08f9737a0074364e847c559f77991492f56b1cf9a3a41120b5d36cb767",
+  "answer": {
+    "people": [
+      {
+        "id": "b793bc620197b308cd85f77f",
+        "story_languages": [
+          "en",
+          "en",
+          "en"
+        ],
+        "evidence": [
+          {
+            "uri": "http://data.europa.eu/esco/skill/1973c966-f236-40c9-b2d4-5d71a89019be",
+            "story_index": 1,
+            "quote": "I built a spreadsheet that logged everything we threw away, by day and by reason.",
+            "mark": "spreadsheet"
+          },
+          {
+            "uri": "http://data.europa.eu/esco/skill/2b92a5b2-6758-4ee3-9fb4-b6387a55cc8f",
+            "story_index": 1,
+            "quote": "I compared the totals each week and found that most waste came from sandwiches prepared after lunch.",
+            "mark": "compared the totals each week"
+          },
+          {
+            "uri": "http://data.europa.eu/esco/skill/e54ff029-1ce9-447d-a5b2-eb7283a23e6e",
+            "story_index": 2,
+            "quote": "I organised stock checks and showed six new colleagues how to update the ordering sheet.",
+            "mark": "showed six new colleagues how to update the ordering sheet"
+          },
+          {
+            "uri": "http://data.europa.eu/esco/skill/ab6265f2-a9bf-49e8-a9a5-67cbab4de38b",
+            "story_index": 2,
+            "quote": "I organised stock checks and showed six new colleagues how to update the ordering sheet.",
+            "mark": "stock checks"
+          }
+        ]
+      }
+    ]
+  },
+  "usage": {
+    "promptTokenCount": 2820,
+    "candidatesTokenCount": 368,
+    "totalTokenCount": 3188,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 2820
+      }
+    ],
+    "serviceTier": "standard"
+  }
+}

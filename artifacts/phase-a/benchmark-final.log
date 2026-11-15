@@ -1,0 +1,179 @@
+{
+  "strong": false,
+  "summary": [
+    {
+      "split": "dev",
+      "method": "Common Ground",
+      "total": 1246,
+      "good": 791,
+      "wasted": 377,
+      "good_rate": 63.48314606741573,
+      "wasted_rate": 30.25682182985554,
+      "blocking_pairs_mean": 0,
+      "gap_mean": 0,
+      "ranges": {
+        "good_rate": [
+          60,
+          72.91666666666667
+        ],
+        "wasted_rate": [
+          27.083333333333332,
+          31.428571428571427
+        ],
+        "blocking_pairs": [
+          0,
+          0
+        ],
+        "gap": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "split": "dev",
+      "method": "Keyword CV matching",
+      "total": 1272,
+      "good": 318,
+      "wasted": 723,
+      "good_rate": 25,
+      "wasted_rate": 56.839622641509436,
+      "blocking_pairs_mean": 22.6,
+      "gap_mean": 0,
+      "ranges": {
+        "good_rate": [
+          25,
+          25
+        ],
+        "wasted_rate": [
+          55.55555555555556,
+          60.416666666666664
+        ],
+        "blocking_pairs": [
+          20,
+          24
+        ],
+        "gap": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "split": "dev",
+      "method": "AI-polished CV ranking",
+      "total": 1272,
+      "good": 959,
+      "wasted": 156,
+      "good_rate": 75.39308176100629,
+      "wasted_rate": 12.264150943396226,
+      "blocking_pairs_mean": 25.65,
+      "gap_mean": 0,
+      "ranges": {
+        "good_rate": [
+          68.05555555555556,
+          95.83333333333333
+        ],
+        "wasted_rate": [
+          0,
+          16.666666666666668
+        ],
+        "blocking_pairs": [
+          25,
+          26
+        ],
+        "gap": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "split": "held-out",
+      "method": "Common Ground",
+      "total": 3579,
+      "good": 2581,
+      "wasted": 622,
+      "good_rate": 72.11511595417714,
+      "wasted_rate": 17.379156188879577,
+      "blocking_pairs_mean": 0,
+      "gap_mean": 11.122222222222224,
+      "ranges": {
+        "good_rate": [
+          71.11111111111111,
+          74.01129943502825
+        ],
+        "wasted_rate": [
+          16.11111111111111,
+          19.774011299435028
+        ],
+        "blocking_pairs": [
+          0,
+          0
+        ],
+        "gap": [
+          0,
+          17.111111111111114
+        ]
+      }
+    },
+    {
+      "split": "held-out",
+      "method": "Keyword CV matching",
+      "total": 3600,
+      "good": 1501,
+      "wasted": 1641,
+      "good_rate": 41.69444444444444,
+      "wasted_rate": 45.583333333333336,
+      "blocking_pairs_mean": 178.85,
+      "gap_mean": 4.8060344827586245,
+      "ranges": {
+        "good_rate": [
+          41.111111111111114,
+          42.77777777777778
+        ],
+        "wasted_rate": [
+          45,
+          46.666666666666664
+        ],
+        "blocking_pairs": [
+          121,
+          210
+        ],
+        "gap": [
+          3.125,
+          5.7112068965517295
+        ]
+      }
+    },
+    {
+      "split": "held-out",
+      "method": "AI-polished CV ranking",
+      "total": 3600,
+      "good": 3048,
+      "wasted": 321,
+      "good_rate": 84.66666666666667,
+      "wasted_rate": 8.916666666666666,
+      "blocking_pairs_mean": 205.85,
+      "gap_mean": 14.31985294117647,
+      "ranges": {
+        "good_rate": [
+          83.88888888888889,
+          86.11111111111111
+        ],
+        "wasted_rate": [
+          8.333333333333334,
+          10
+        ],
+        "blocking_pairs": [
+          109,
+          258
+        ],
+        "gap": [
+          8.82352941176471,
+          17.279411764705884
+        ]
+      }
+    }
+  ]
+}

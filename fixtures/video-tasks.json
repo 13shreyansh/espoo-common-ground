@@ -1,45 +1,45 @@
 {
   "model": "gemini-3.8-flash",
   "prompt_version": "cg-2.1",
-  "at": "2026-11-14T23:18:29.136Z",
+  "at": "2026-11-14T23:58:55.311Z",
   "kind": "tasks",
-  "input_hash": "ef5c756f5c05f089b322cd77fe0d61c948b44d47900610fdb2a380f002e11d80",
+  "input_hash": "81a1dc5175dce9a0f23bb1ad6d554aec79c18a1247c19672be5b571d76cfd0d6",
   "answer": {
     "tasks": [
       {
-        "line": "Build a customer-facing sign-up and order flow prototype to streamline incoming customer requests.",
+        "line": "Build the customer sign-up and order flow web interface and user interaction logic.",
         "skills": [
-          "develop software prototype",
           "implement front-end website design",
-          "JavaScript"
+          "JavaScript",
+          "develop software prototype"
         ]
       },
       {
-        "line": "Analyse exported operational data from scattered spreadsheets to consolidate business records.",
+        "line": "Consolidate and analyse operational data from scattered spreadsheets to standardise order records.",
         "skills": [
           "perform data analysis",
           "use spreadsheets software",
-          "gather data"
+          "manage data"
         ]
       },
       {
-        "line": "Develop an automated status report view to replace manual updates and track operational activity.",
+        "line": "Create an automated reporting view to replace manual status email updates.",
         "skills": [
           "manage database",
-          "SQL",
-          "Python (computer programming)"
+          "create data models",
+          "SQL"
         ]
       }
     ]
   },
   "usage": {
-    "promptTokenCount": 2691,
-    "candidatesTokenCount": 182,
-    "totalTokenCount": 2873,
+    "promptTokenCount": 2799,
+    "candidatesTokenCount": 179,
+    "totalTokenCount": 2978,
     "promptTokensDetails": [
       {
         "modality": "TEXT",
-        "tokenCount": 2691
+        "tokenCount": 2799
       }
     ],
     "serviceTier": "standard"

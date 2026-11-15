@@ -1,0 +1,103 @@
+{
+  "model": "gemini-3.8-flash",
+  "prompt_version": "cg-2.1",
+  "at": "2026-11-15T00:11:34.851Z",
+  "kind": "advert-tailored-cvs",
+  "input_hash": "44d0ae7ed2706e4d88c85dcb1810d953254998511889119712f3ceb60a6c3c98",
+  "answer": {
+    "cvs": [
+      {
+        "id": 80,
+        "text": "Full-stack developer experienced in data analytics, SQL, Python, and testing. Proven background in validating datasets and identifying discrepancies, including comparing reports against warehouse records to isolate duplicate entries and explain root causes. Skilled at validating data using SQL queries and checking for anomalies such as duplicates or missing identifiers. Strong documentation skills, having mapped data processes, added concrete examples, and kept review notes so colleagues could accurately repeat procedures."
+      },
+      {
+        "id": 81,
+        "text": "Software developer experienced in building web tools, practical testing, and documentation. Demonstrated ability to troubleshoot repeatable faults by reproducing issues, tracing logs, identifying missing checks, and creating test cases. Proficient in testing workflows and observing user interactions to refine systems. Strong record of documenting procedures into practical maintenance guides and validating instructions with colleagues to ensure tasks can be repeated without assistance."
+      },
+      {
+        "id": 82,
+        "text": "Experienced in business operations, data logging, and systematic testing. Proficient at collecting operational data, using spreadsheets to track metrics by day and reason, and comparing totals across weeks to identify patterns and explain discrepancies. Skilled at creating clear, step-by-step documentation, including one-page guides with concrete examples, and training colleagues to ensure procedures are repeatable and errors are minimised."
+      },
+      {
+        "id": 83,
+        "text": "Experienced in practical workshop testing, data collection, and measurement documentation. Directly collected brake and battery measurements, consistently recorded tool settings, and repeated unusual readings to maintain reliable data. Proven ability to compare bench test results, plot readings against temperature, and isolate repeatable faults by swapping components like measuring leads. Adept at documenting measurement setups with diagrams, tool settings, check sequences, and guidelines on handling unusual results."
+      },
+      {
+        "id": 84,
+        "text": "Experienced in equipment coordination, inventory tracking, and systematic issue resolution. Proficient in using spreadsheets with formulas to monitor stock conditions, flag low levels, and identify overdue items. Skilled at logging customer equipment issues, grouping repeated faults to diagnose underlying causes, and improving operational instructions. Strong record of creating checklists and documentation to train team members and ensure repeatable processes."
+      },
+      {
+        "id": 85,
+        "text": "Full-stack software developer experienced in data analytics, testing, and process organisation. Skilled at mapping workflows, testing shared tracking forms, and simplifying data-entry procedures to prevent duplicate records. Experienced in organising tasks, structuring operational steps, and producing clear, tested instructional guides with concrete examples to enable colleagues to repeat processes reliably."
+      },
+      {
+        "id": 86,
+        "text": "Experienced in systems maintenance, performance monitoring, and diagnostics. Tracked response times and resource usage alongside operational schedules to detect anomalies and pinpoint conflicting background tasks. Experienced in testing procedures, such as dry-run folder restorations, and writing structured runbooks detailing sequenced checks and fault-handling steps to ensure issues can be handled repeatably by colleagues."
+      },
+      {
+        "id": 87,
+        "text": "Experienced test specialist proficient in practical testing, automated test creation, and fault isolation. Skilled at identifying repeatable faults by capturing system logs, designing targeted test cases for edge cases, and recording expected results across varied scenarios. Experienced in analysing grouped test results across environments to isolate underlying defects, documenting issues clearly, and updating test checklists so procedures remain robust and repeatable."
+      },
+      {
+        "id": 88,
+        "text": "Experienced in practical testing, issue analysis, and customer support. Skilled at creating test runs, logging results, and grouping failures across browsers and screen sizes to identify patterns and flag anomalies. Strong ability to isolate repeatable defects using simultaneous requests and log analysis, document issues clearly for development teams, and update testing checklists to ensure consistent, repeatable verification."
+      },
+      {
+        "id": 89,
+        "text": "Experienced in data reporting, spreadsheet analysis, and database management. Skilled at comparing disparate datasets, using SQL queries to flag anomalies and duplicate entries, and investigating discrepancies between warehouse records and reports. Demonstrated experience in explaining root causes of repeatable discrepancies, producing clear data flow documentation, and creating step-by-step guides with examples so procedures can be repeated seamlessly."
+      },
+      {
+        "id": 90,
+        "text": "Full-stack software developer with skills in Python, SQL, data analytics, and testing. Experienced in investigating repeatable system faults by examining logs, reproducing edge cases, and implementing automated test cases. Proficient in validating functionality through iterative prototyping and documenting practical maintenance runbooks to enable team members to carry out technical procedures reliably."
+      },
+      {
+        "id": 91,
+        "text": "Experienced in practical operational management, spreadsheet tracking, and testing workflows. Skilled at logging continuous metrics, analysing data week-over-week, and identifying anomalies to address issues such as food waste. Experienced in creating concise, one-page procedure guides featuring examples of common mistakes and guiding colleagues through practical tasks to maintain repeatable operations."
+      },
+      {
+        "id": 92,
+        "text": "Experienced in workshop testing, measurement collection, and customer support. Skilled in gathering brake and battery data, logging tool settings, and flagging unusual readings by verifying them through repeat tests. Proven ability to compare bench test results across varying conditions, diagnose repeatable faults by isolating faulty leads, and produce comprehensive measurement documentation complete with diagrams and setup sequences."
+      },
+      {
+        "id": 93,
+        "text": "Experienced in stock administration, spreadsheet reporting, and issue tracking. Proficient in applying spreadsheet formulas to monitor equipment conditions and automatically flag outliers like overdue returns or low stock. Experienced at investigating equipment failures, grouping repeated problems in case logs to identify root causes, and writing clear process checklists to ensure consistent, repeatable team operations."
+      },
+      {
+        "id": 94,
+        "text": "Experienced in operations, process organisation, and business tools. Skilled at mapping workflows, evaluating data capture across teams, and piloting standardized forms to eliminate duplicate data entry. Proficient at creating training materials, observing colleagues during practical exercises, and refining documentation with clear examples so operational processes can be repeated accurately."
+      },
+      {
+        "id": 95,
+        "text": "Full-stack developer skilled in software engineering, practical testing, and systems monitoring. Experienced in logging system performance metrics like response times and disk usage, comparing them against operational schedules, and isolating anomalies. Adept at testing restore procedures and authoring structured runbooks with sequenced checks and screenshots to enable team members to reproduce diagnostic steps reliably."
+      },
+      {
+        "id": 96,
+        "text": "Systems and customer support specialist experienced in monitoring operational metrics. Tracked response times and server usage against broadcast schedules to identify and resolve performance anomalies. Demonstrated diligence in verifying system procedures, such as running test file restorations, and producing clear runbooks with sequenced checklists to help team members reproduce diagnostic and support workflows."
+      },
+      {
+        "id": 97,
+        "text": "Testing specialist experienced in automated and manual verification, spreadsheet reporting, and defect analysis. Proven track record in isolating repeatable faults by generating targeted test conditions, analysing logs, and recording expected outcomes. Skilled at aggregating test failure data, grouping defects by environment to pinpoint trends, and maintaining clear testing checklists for repeatable team use."
+      },
+      {
+        "id": 98,
+        "text": "Data reporting specialist experienced in database validation and spreadsheet analysis. Proficient in using SQL to reconcile datasets, verify totals, and flag discrepancies such as duplicate entries between reporting sheets and physical counts. Experienced in diagnosing repeatable recording errors and documenting data models, import rules, and step-by-step instructions so colleagues can repeat reporting procedures."
+      },
+      {
+        "id": 99,
+        "text": "Developer experienced in web tools, practical testing, and technical documentation. Skilled at diagnosing repeatable faults by tracing request logs, reproducing edge cases, and writing targeted test cases for duplicate submissions. Experienced in producing clear procedural documentation, testing guides with volunteers, and refining instructions to ensure technical tasks can be repeated without supervision."
+      }
+    ]
+  },
+  "usage": {
+    "promptTokenCount": 5466,
+    "candidatesTokenCount": 1511,
+    "totalTokenCount": 6977,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 5466
+      }
+    ],
+    "serviceTier": "standard"
+  }
+}

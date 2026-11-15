@@ -1,0 +1,103 @@
+{
+  "model": "gemini-3.8-flash",
+  "prompt_version": "cg-2.1",
+  "at": "2026-11-15T00:10:49.983Z",
+  "kind": "advert-tailored-cvs",
+  "input_hash": "2aeb7e4fa828f3d8e22d9c378b5ebd5706a653d6648f4da45a6892ae8c1c88f7",
+  "answer": {
+    "cvs": [
+      {
+        "id": 60,
+        "text": "Full-stack developer experienced in customer support and testing. Proven background in simplifying technical workflows and driving tool adoption by creating accessible documentation and clear failure reports for volunteers. Adept at isolating workflow bottlenecks, mapping edge cases, and updating operational checklists to streamline ongoing releases. Offers strong technical skills in Python, SQL, and APIs, alongside hands-on practice in structuring handover notes that enable service teams to replicate processes independently and maintain data integrity."
+      },
+      {
+        "id": 61,
+        "text": "Experienced reporting specialist with a strong background in data reconciliation, process mapping, and user guidance. Mapped complex data flows across disparate sources, eliminating duplicated entries by creating mapping tables and cross-departmental checks. Skilled at translating technical processes into clear diagrams and step-by-step guides for finance teams, actively gathering user feedback to add practical examples. Well equipped to document tool rollouts, train service colleagues, and remove repeated manual handover steps."
+      },
+      {
+        "id": 62,
+        "text": "Experienced with business tools and collaborative application development. Demonstrated success in helping non-technical users adopt new platforms by co-designing interfaces, gathering immediate user feedback, and observing where people get stuck. Proactive in mapping workflows to eliminate duplicate actions and writing clear, practical maintenance guides. Proven ability to organise hands-on practice sessions, refining instructions based on user questions to ensure smooth team handovers."
+      },
+      {
+        "id": 63,
+        "text": "Experienced operations lead skilled in practical testing, process improvement, and workflow coordination. Replaced chaotic loose-paper ordering with a streamlined, shared system, directly eliminating duplicate steps and training morning service teams on daily upkeep. Proven ability to organise hands-on practice sessions, guiding six new staff members through trial runs using tailored one-page guides with realistic examples. Adept at documenting routines and refining tools based on ongoing operational needs."
+      },
+      {
+        "id": 64,
+        "text": "Customer support and operational team leader with four years of café management experience. Replaced fragmented, manual paper tracking with a shared order system, eliminating duplicate orders through clear team training and daily coordination. Skilled at mapping routines, establishing practical stock sheets, and guiding new team members through realistic practice sessions. Produces concise, one-page user guides with clear examples of common mistakes, ensuring seamless process handovers and effective tool adoption."
+      },
+      {
+        "id": 65,
+        "text": "Full-stack software developer with strong analytical and documentation skills. Highly effective at standardising manual workflows and mapping structured procedures to remove ambiguity. Created clear setup guides featuring diagrams, standard settings, and check sequences, validating them by having peers run processes independently to identify gaps. Skilled at refining user documentation with real-world examples, supporting reliable operational handovers, and training teams to adopt systematic technical routines."
+      },
+      {
+        "id": 66,
+        "text": "Experienced in coordinating rental operations, managing case logs, and implementing business tools. Built practical spreadsheet systems with automated flags that streamlined inventory handovers and eliminated guesswork. Directly handled customer issue escalation, logging cases systematically to pinpoint recurring problems and improve guidance. Skilled at training colleagues through targeted practice sessions with damaged or missing items, refining process checklists based on user feedback to ensure seamless tool adoption."
+      },
+      {
+        "id": 67,
+        "text": "Experienced community organiser with a strong track record in practical testing, process mapping, and tool adoption. Streamlined repair handovers by mapping workflows, removing duplicate notebook entries, and implementing a single shared form with clearly assigned responsibilities. Skilled at designing practice exercises, observing where users hesitate, and refining step-by-step documentation using real-world questions. Well prepared to guide service teams through new tools and establish smooth handover routines."
+      },
+      {
+        "id": 68,
+        "text": "Systems and customer support specialist experienced in coordinating technical workflows and user onboarding. Streamlined media broadcast operations by mapping system usage, rescheduling conflicting jobs, and resolving delays. Experienced in managing user permissions, testing restoration routines, and producing actionable runbooks. Proven ability to organise hands-on practice sessions for new team members, using simulated failures and trainee questions to clarify instructions, add screenshots, and ensure reliable tool adoption."
+      },
+      {
+        "id": 69,
+        "text": "Quality assurance and testing specialist experienced with spreadsheet reporting and workflow validation. Proficient in analysing failure patterns, documenting reproducible steps, and maintaining structured checklists to support reliable releases. Skilled at turning complex technical issues into clear, accessible reports for volunteer teams, ensuring full visibility across handovers. Ready to support tool rollouts by identifying manual bottlenecks, documenting processes, and helping service teams adopt standard operational procedures."
+      },
+      {
+        "id": 70,
+        "text": "Full-stack developer experienced in business tools, data analytics, and reporting. Proven ability to streamline handovers by designing mapping tables, querying databases, and eliminating duplicate records across systems. Skilled in translating technical architectures into visual data models and step-by-step guides for finance teams. Validates user guides through direct peer practice and targeted examples, ensuring non-technical teams can comfortably adopt new tools and follow documented workflows."
+      },
+      {
+        "id": 71,
+        "text": "Developer experienced in building business tools and conducting practical usability testing. Engaged volunteers directly to prototype and test interfaces on mobile devices, mapping real user behaviour to eliminate points of friction. Resolved duplicate entry issues through targeted checks and authored practical guides for maintenance tasks. Experienced in leading practice sessions where users complete tasks independently, using their feedback to refine operational instructions and streamline handovers."
+      },
+      {
+        "id": 72,
+        "text": "Experienced in customer support and business tool development, with a focus on user-centred adoption. Collaborated closely with volunteers to map user journeys, design intuitive booking screens, and eliminate duplicate submission errors. Proven track record in writing practical maintenance guides and conducting hands-on practice sessions where users test procedures unassisted. Uses direct user feedback to clarify instructions, simplify manual steps, and ensure confident adoption of new tools."
+      },
+      {
+        "id": 73,
+        "text": "Experienced operations manager skilled in spreadsheet reporting, process standardisation, and team onboarding. Transitioned chaotic paper-based orders into a shared daily system, removing duplicated tasks and training kitchen and front-of-house teams to maintain accuracy. Designed clear one-page reference sheets and conducted hands-on practice orders for six new staff members. Well qualified to eliminate manual bottlenecks, document new tool rollouts, and lead practical coaching sessions."
+      },
+      {
+        "id": 74,
+        "text": "Detail-oriented operations specialist experienced in business tools, structured data logging, and process documentation. Mapped physical measurement and setup sequences into clear diagrams, establishing consistent procedures that eliminated guesswork during handovers. Validated procedural guides by having colleagues test instructions independently, incorporating concrete examples to clarify edge cases. Brings a disciplined approach to removing manual discrepancies, drafting rollout documentation, and training colleagues on new tools."
+      },
+      {
+        "id": 75,
+        "text": "Full-stack software developer experienced in equipment coordination, customer support logging, and practical testing. Streamlined rental desk routines by building automated spreadsheets to flag low inventory and track returns, removing manual overhead. Successfully trained colleagues on return workflows by running interactive practice sessions with damaged items and collecting feedback to optimise process checklists. Combines technical acumen with hands-on user coaching to ensure smooth tool adoption."
+      },
+      {
+        "id": 76,
+        "text": "Experienced community coordinator with a background in customer support and workflow improvement. Successfully mapped repair request handovers between front desk and technical volunteers, eliminating duplicate data entry by introducing a unified shared form. Designed short practice exercises and step-by-step guides to train new volunteers, observing their interactions and adding real-world examples to resolve points of confusion. Well prepared to guide service teams through new tool rollouts."
+      },
+      {
+        "id": 77,
+        "text": "Systems support specialist experienced in operational monitoring, spreadsheet reports, and workflow coordination. Optimised media operations by analysing resource schedules and eliminating conflicting background tasks. Experienced in access management, disaster recovery testing, and creating practical incident runbooks. Proven ability to organise practice sessions with simulated failures for new team members, using their direct feedback and questions to refine instructions and add supportive visual documentation."
+      },
+      {
+        "id": 78,
+        "text": "Testing and business tools specialist experienced in validating service workflows and improving system reliability. Proficient at isolating edge-case failures, documenting repeatable steps, and maintaining comprehensive review notes for subsequent teams. Skilled at transforming system checks into user-friendly reports that non-technical volunteers can interpret easily. Ready to map service processes, remove repetitive manual steps, and support case-management tool adoption through structured checklists and thorough documentation."
+      },
+      {
+        "id": 79,
+        "text": "Data reporting specialist experienced in practical testing, system reconciliation, and process mapping. Integrated multi-source order data into structured databases, eliminating duplicate records by creating mapping tables and collaborating directly with warehouse teams. Illustrated data models and wrote clear import instructions for finance colleagues, validating guides by having peers test them and adding examples where needed. Well equipped to document tool rollouts, streamline manual handovers, and lead team practice sessions."
+      }
+    ]
+  },
+  "usage": {
+    "promptTokenCount": 5476,
+    "candidatesTokenCount": 1778,
+    "totalTokenCount": 7254,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 5476
+      }
+    ],
+    "serviceTier": "standard"
+  }
+}

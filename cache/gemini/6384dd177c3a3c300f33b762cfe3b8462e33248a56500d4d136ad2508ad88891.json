@@ -1,0 +1,103 @@
+{
+  "model": "gemini-3.8-flash",
+  "prompt_version": "cg-2.1",
+  "at": "2026-11-15T00:08:37.180Z",
+  "kind": "advert-tailored-cvs",
+  "input_hash": "6384dd177c3a3c300f33b762cfe3b8462e33248a56500d4d136ad2508ad88891",
+  "answer": {
+    "cvs": [
+      {
+        "id": 100,
+        "text": "Full-stack software developer experienced in Python, SQL, APIs, cloud, data analytics, and customer support. Adept at building tracking tools and diagnosing trends, having designed a weekly logging spreadsheet to pinpoint root causes of café waste and created shared order sheets that eliminated duplicate work. Skilled at guiding users through new workflows, writing step-by-step documentation with practical examples, and maintaining detailed notes for process handovers. Well suited to building late-delivery tracking tools, analysing app export data weekly, and supporting dispatchers with clear documentation."
+      },
+      {
+        "id": 101,
+        "text": "Detail-oriented professional experienced in spreadsheet reports and systematic data collection. Skilled at logging and structuring operational measurements, validating unusual readings, and identifying underlying issues through data analysis—such as plotting repeated test readings to isolate damaged equipment. Experienced in supporting users and team members by creating clear technical documentation, setup diagrams, and procedures that guide others through complex workflows. Offers transferable expertise in building structured reporting sheets, investigating export data to find patterns behind issues, and creating thorough guides to assist operational teams."
+      },
+      {
+        "id": 102,
+        "text": "Organised operations specialist experienced with business tools and customer support. Built inventory tracking spreadsheets using formulas to monitor statuses and automatically flag overdue items and shortages, directly informing operational decisions. Experienced in analysing weekly and monthly logs to group recurring issues and identify root causes. Proven ability in user onboarding and change management, having trained team members using practical checklists and documented procedures for handovers. Well positioned to build tracker tools, analyse export logs for delivery delays, and guide dispatchers through system updates."
+      },
+      {
+        "id": 103,
+        "text": "Process-oriented coordinator experienced in practical testing and workflow design. Mapped multi-step operational flows to eliminate duplicated data entry, successfully creating and testing a unified shared form with end users. Skilled at monitoring recurring issues, identifying points of friction, and training team members through hands-on practice. Regularly documents processes and updates guides based on user feedback to ensure clear adoption. Offers transferable strengths in designing straightforward tracking workflows, analysing operational data for bottlenecks, and supporting dispatchers with practical training and clear documentation."
+      },
+      {
+        "id": 104,
+        "text": "Customer support and operational coordinator skilled at streamlining workflows and supporting team adoption. Successfully mapped request paths across departments to replace duplicate records with a single shared form. Experienced in breaking down tasks, tracking decisions, and training users through hands-on practice sessions and iterative guidance. Skilled at maintaining clear review documentation for seamless operational transitions. Offers strong transferable capabilities for implementing a late-delivery tracker, examining operational exports to identify delay patterns, and assisting dispatchers with clear, user-focused guides."
+      },
+      {
+        "id": 105,
+        "text": "Full-stack software developer with expertise in Python, SQL, APIs, cloud, data analytics, and system testing. Experienced in monitoring system performance metrics, diagnosing root causes of timing delays, and realigning background jobs to resolve lag. Proven communicator who creates structured operational runbooks, tests workflows with users, and documents technical changes thoroughly for future handovers. Directly qualified to develop late-delivery tracking tools from driver exports, analyse weekly export data to find root causes of delays, and support dispatchers with clear system documentation."
+      },
+      {
+        "id": 106,
+        "text": "Quality assurance and business tools specialist with a strong background in practical testing and defect analysis. Experienced in analysing test runs, capturing logs, and grouping data across categories to uncover root causes of functional failures. Skilled at translating complex findings into concise, readable reports for stakeholders, updating test checklists, and documenting procedures for team reviews. Highly capable of reviewing driver and app export data, identifying weekly delivery delay trends, and helping dispatchers adopt reliable tracking routines backed by clear documentation."
+      },
+      {
+        "id": 107,
+        "text": "Data reporting specialist experienced with SQL, PostgreSQL databases, and practical testing. Built database structures and mapping tables to combine disparate order exports and resolve duplicate entries, using SQL queries to validate totals against source data. Experienced in investigating weekly discrepancies between operational reports and physical counts to uncover root causes. Skilled at communicating data models to non-technical teams and writing instructional guides with examples. Well prepared to construct delivery trackers from data exports, analyse weekly late-delivery trends, and document tools for dispatchers."
+      },
+      {
+        "id": 108,
+        "text": "Developer and support specialist experienced in building practical web applications using JavaScript and lightweight servers. Designed, prototyped, and refined a functional booking tool based on direct user feedback, and resolved operational defects by inspecting request logs and adding automated tests. Experienced in writing clear handover guides for non-technical users, observing where users struggle, and improving documentation accordingly. Well equipped to build a straightforward late-delivery tracker, investigate app export logs to identify recurring delay causes, and support dispatchers with clear guides."
+      },
+      {
+        "id": 109,
+        "text": "Operations manager experienced in spreadsheet reports and team workflow coordination. Built shared tracking sheets that streamlined order handling and eliminated duplicate work. Developed spreadsheets to log items by day and reason, analysing weekly totals to uncover key sources of waste and successfully adjust processes. Experienced in training colleagues, writing single-page reference guides with concrete examples, and maintaining handover notes. Offers strong transferable skills in establishing delivery tracking spreadsheets, analysing weekly export data for delay trends, and assisting dispatchers with practical documentation."
+      },
+      {
+        "id": 110,
+        "text": "Full-stack software developer experienced in Python, SQL, APIs, cloud, data analytics, and testing. Highly skilled in systematic data recording, verifying anomalous entries, and performing root-cause analysis by plotting test results across conditions to isolate faults. Experienced in authoring clear setup instructions, diagrams, and workflow guides, then validating them with colleagues to ensure smooth adoption. Ideally qualified to develop late-delivery trackers using driver exports, analyse weekly app data for delay patterns, and assist dispatchers with clear documentation of system updates."
+      },
+      {
+        "id": 111,
+        "text": "Operational coordinator experienced in business tools and practical testing. Created inventory tracking spreadsheets using formulas to identify overdue returns and low stock, enabling timely operational decisions. Regularly analysed customer case logs to group recurring issues and improve operational instructions. Experienced in training staff through hands-on practice, developing checklists, and documenting process improvements for seasonal handovers. Well suited to tracking late deliveries from export files, investigating recurring causes of delays through data logs, and helping dispatchers adopt updated tools with thorough documentation."
+      },
+      {
+        "id": 112,
+        "text": "Customer support and operations specialist experienced in business tools and tracking systems. Designed spreadsheet trackers utilizing automated formulas to highlight overdue items and inventory shortages. Routinely logged customer issues, grouped recurring causes monthly, and refined operating instructions to prevent repeat problems. Experienced in onboarding team members using clear checklists, gathering user feedback, and documenting operational changes. Well equipped to build late-delivery tracking sheets from driver exports, evaluate weekly delay reasons, and support dispatchers with comprehensive procedural notes."
+      },
+      {
+        "id": 113,
+        "text": "Workflow coordinator experienced in spreadsheet reports and practical operational testing. Successfully simplified administrative processes by mapping task flows and replacing duplicate logging with a single shared form. Experienced in tracking project decisions, breaking down operational steps, and training team members using hands-on exercises and tailored guides. Maintains detailed review notes to facilitate process handovers. Offers transferable expertise in establishing delivery tracking sheets, reviewing weekly data exports to identify reasons behind delays, and supporting dispatchers with practical, step-by-step documentation."
+      },
+      {
+        "id": 114,
+        "text": "Systems specialist experienced with business tools and operational tracking. Monitored media server metrics against schedules, successfully analysing performance data to uncover and resolve scheduling conflicts causing system delays. Experienced in writing clear operational runbooks, testing procedures with new users using simulated issues, and refining instructions based on user questions. Brings strong transferable skills in monitoring export data, investigating weekly performance issues, creating tracker mechanisms, and providing dispatchers with actionable, well-documented operating guides."
+      },
+      {
+        "id": 115,
+        "text": "Full-stack developer experienced in Python, SQL, APIs, cloud, data analytics, and software testing. Skilled at capturing and analysing system logs, isolating edge-case defects through reproducible testing, and grouping failure data to pinpoint underlying causes. Experienced in generating user-friendly summary reports and maintaining detailed documentation for team handovers. Perfectly aligned with the requirements to engineer a late-delivery tracker from driver exports, analyse weekly application exports to determine root causes of delays, and provide clear change documentation to support dispatchers."
+      },
+      {
+        "id": 116,
+        "text": "Data reporting and customer support specialist experienced in SQL, PostgreSQL databases, and practical testing. Merged order files into structured databases using mapping tables to resolve duplicates, writing SQL queries to trace records back to source data. Regularly performed weekly audits comparing return logs with warehouse counts to diagnose discrepancies and document corrections. Experienced in explaining data models to colleagues and writing procedural guides. Capable of building delivery tracking systems from driver exports, analyzing weekly delay trends, and guiding dispatchers through new processes."
+      },
+      {
+        "id": 117,
+        "text": "Web developer experienced in spreadsheet reporting, JavaScript, and small web servers. Built and deployed a prototype booking application, testing interfaces directly with users and adjusting features based on observed usage. Diagnosed and fixed system errors through request log analysis and test coverage. Experienced in authoring clear documentation, guiding users through operational tasks without supervision, and keeping handover records. Well prepared to develop a late-delivery tracker, analyse weekly application export logs for delay causes, and support dispatchers with practical guides."
+      },
+      {
+        "id": 118,
+        "text": "Operations coordinator experienced in business tools and spreadsheet management. Created shared tracking sheets to prevent lost orders and duplicate processing during rush periods. Built weekly logging spreadsheets to categorise operational waste by reason, analysing trends to drive measurable improvements. Trained staff using customized, one-page guides featuring common pitfalls and practical exercises, while keeping thorough process documentation. Well equipped to build simple late-delivery tracking spreadsheets, analyse weekly export data to diagnose delays, and help dispatchers adapt to changes through clear documentation."
+      },
+      {
+        "id": 119,
+        "text": "Testing specialist experienced in practical testing and structured data reporting. Skilled at logging operational measurements systematically, recording setup parameters, and validating anomalies before updating primary records. Analysed repetitive test data to uncover underlying technical faults and isolate defective components. Experienced in writing detailed step-by-step guides with diagrams, testing procedures with colleagues to remove ambiguities, and documenting operational changes. Transferable capabilities make them well equipped to track delivery metrics, analyse weekly export records for delay trends, and provide dispatchers with clear, documented procedures."
+      }
+    ]
+  },
+  "usage": {
+    "promptTokenCount": 5440,
+    "candidatesTokenCount": 2123,
+    "totalTokenCount": 7563,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 5440
+      }
+    ],
+    "serviceTier": "standard"
+  }
+}

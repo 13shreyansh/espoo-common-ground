@@ -1,0 +1,322 @@
+{
+  "url": "https://ec.europa.eu/esco/api/search?type=skill&language=en&limit=6&text=Finnish",
+  "at": "2026-11-15T00:03:52.933Z",
+  "response": {
+    "total": 5,
+    "offset": 0,
+    "limit": 6,
+    "text": "Finnish",
+    "language": "en",
+    "type": [
+      "skill"
+    ],
+    "isInScheme": null,
+    "facet": null,
+    "_links": {
+      "self": {
+        "href": "https://ec.europa.eu/esco/api/search?text=Finnish&type=skill&limit=6&offset=0&full=false&viewObsolete=false&language=en"
+      }
+    },
+    "_embedded": {
+      "results": [
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/0e3493f4-0cad-4fbc-8e02-025f169b8114",
+          "searchHit": "Finnish",
+          "title": "Finnish",
+          "preferredLabel": {
+            "de": "Finnisch",
+            "no": "finsk",
+            "fi": "suomi",
+            "en-us": "Finnish",
+            "pt": "finlandês",
+            "bg": "фински език",
+            "lt": "suomių kalba",
+            "hr": "finski",
+            "lv": "somu",
+            "fr": "finnois",
+            "hu": "finn nyelv",
+            "sk": "fínčina",
+            "sl": "finščina",
+            "ga": "Fionlainnis",
+            "sv": "finska",
+            "el": "φινλανδικά",
+            "mt": "Finlandiż",
+            "en": "Finnish",
+            "is": "finnska",
+            "it": "finlandese",
+            "es": "finés",
+            "et": "soome keel",
+            "cs": "finština",
+            "ar": "الفنلندية",
+            "pl": "fiński",
+            "da": "finsk",
+            "ro": "finlandeză",
+            "nl": "Fins"
+          },
+          "isTopConceptInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/member-skills",
+            "http://data.europa.eu/esco/concept-scheme/skill-language-groups"
+          ],
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills",
+            "http://data.europa.eu/esco/concept-scheme/skill-language-groups"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/knowledge"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/transversal"
+          ],
+          "broaderSkillGroup": [
+            "http://data.europa.eu/esco/skill/58095196-d766-4a5c-b16c-d941489f8e66"
+          ],
+          "broaderHierarchyConcept": [
+            "http://data.europa.eu/esco/skill/L1"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/0e3493f4-0cad-4fbc-8e02-025f169b8114&language=en",
+              "uri": "http://data.europa.eu/esco/skill/0e3493f4-0cad-4fbc-8e02-025f169b8114",
+              "title": "Finnish"
+            }
+          }
+        },
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/3048bf6d-27c7-4dc6-ae4b-e55094cec090",
+          "searchHit": "interact verbally in Finnish",
+          "title": "interact verbally in Finnish",
+          "preferredLabel": {
+            "de": "Finnisch sprechen",
+            "no": "samhandle muntlig på finsk",
+            "fi": "viestiä suullisesti suomeksi",
+            "en-us": "interact verbally in Finnish",
+            "pt": "comunicar verbalmente em finlandês",
+            "bg": "устно общуване на фински език",
+            "lt": "žodžiu bendrauti suomių kalba",
+            "hr": "usmeno komunicirati na finskom jeziku",
+            "lv": "sarunāties somu valodā",
+            "fr": "interagir verbalement en finnois",
+            "hu": "beszéli a finn nyelvet",
+            "sk": "verbálne komunikovať vo fínčine",
+            "sl": "verbalno se sporazumevati v finščini",
+            "ga": "idirghníomhú ó bhéal i bhFionlainnis",
+            "sv": "kommunicera muntligt på finska",
+            "el": "προφορική επικοινωνία στα φινλανδικά",
+            "mt": "ikkomunika verbalment bil-Finlandiż",
+            "en": "interact verbally in Finnish",
+            "is": "hefur munnleg samskipti á finnsku",
+            "it": "interagire verbalmente in finlandese",
+            "es": "interactuar verbalmente en finés",
+            "et": "suuliselt soome keeles suhtlema",
+            "cs": "ústně komunikovat ve finštině",
+            "ar": "التواصل شفهيًا باللغة الفنلندية",
+            "pl": "posługiwać się językiem fińskim w mowie",
+            "da": "føre en samtale på finsk",
+            "ro": "interacționează verbal în limba finlandeză",
+            "nl": "mondeling in het Fins communiceren"
+          },
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills",
+            "http://data.europa.eu/esco/concept-scheme/skill-language-groups"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/skill"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/transversal"
+          ],
+          "broaderSkill": [
+            "http://data.europa.eu/esco/skill/0e3493f4-0cad-4fbc-8e02-025f169b8114"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/3048bf6d-27c7-4dc6-ae4b-e55094cec090&language=en",
+              "uri": "http://data.europa.eu/esco/skill/3048bf6d-27c7-4dc6-ae4b-e55094cec090",
+              "title": "interact verbally in Finnish"
+            }
+          }
+        },
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/049de1f6-34ec-46f9-a0b1-8fc6f0199413",
+          "searchHit": "write Finnish",
+          "title": "write Finnish",
+          "preferredLabel": {
+            "de": "Finnisch schreiben",
+            "no": "skrive på finsk",
+            "fi": "kirjoittaa suomea",
+            "en-us": "write Finnish",
+            "pt": "escrever em finlandês",
+            "bg": "писане на фински език",
+            "lt": "mokėti rašyti suomių kalba",
+            "hr": "pisati na finskom jeziku",
+            "lv": "rakstīt somu valodā",
+            "fr": "écrire en finnois",
+            "hu": "ír finn nyelven",
+            "sk": "písať vo fínčine",
+            "sl": "pisati v finščini",
+            "ga": "Fionlainnis a scríobh",
+            "sv": "skriva på finska",
+            "el": "παραγωγή γραπτού λόγου στα φινλανδικά",
+            "mt": "ikteb bil-Finlandiż",
+            "en": "write Finnish",
+            "is": "skrifar finnsku",
+            "it": "scrivere in finlandese",
+            "es": "escribir en finés",
+            "et": "soome keeles kirjutama",
+            "cs": "psát finsky",
+            "ar": "الكتابة باللغة الفنلندية",
+            "pl": "posługiwać się językiem fińskim w piśmie",
+            "da": "skrive finsk",
+            "ro": "scrie în limba finlandeză",
+            "nl": "Fins schrijven"
+          },
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills",
+            "http://data.europa.eu/esco/concept-scheme/skill-language-groups"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/skill"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/transversal"
+          ],
+          "broaderSkill": [
+            "http://data.europa.eu/esco/skill/0e3493f4-0cad-4fbc-8e02-025f169b8114"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/049de1f6-34ec-46f9-a0b1-8fc6f0199413&language=en",
+              "uri": "http://data.europa.eu/esco/skill/049de1f6-34ec-46f9-a0b1-8fc6f0199413",
+              "title": "write Finnish"
+            }
+          }
+        },
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/3a0814b1-5851-43f9-b886-1e496fefcf9c",
+          "searchHit": "understand written Finnish",
+          "title": "understand written Finnish",
+          "preferredLabel": {
+            "de": "geschriebenes Finnisch verstehen",
+            "no": "forstå skriftlig finsk",
+            "fi": "ymmärtää kirjoitettua suomea",
+            "en-us": "understand written Finnish",
+            "pt": "compreender finlandês escrito",
+            "bg": "разбиране при четене на фински език",
+            "lt": "suprasti rašytinę suomių kalbą",
+            "hr": "razumjeti pisani finski jezik",
+            "lv": "saprast rakstveida somu valodu",
+            "fr": "comprendre le finnois écrit",
+            "hu": "érti az írott finn nyelvet",
+            "sk": "rozumieť písomnej fínčine",
+            "sl": "razumeti pisno finščino",
+            "ga": "Fionlainnis scríofa a thuiscint",
+            "sv": "förstå skriven finska",
+            "el": "κατανόηση γραπτού λόγου στα φινλανδικά",
+            "mt": "fehim tal-Finlandiż miktub",
+            "en": "understand written Finnish",
+            "is": "skilur ritaða finnsku",
+            "it": "comprendere il finlandese scritto",
+            "es": "comprender el finés escrito",
+            "et": "kirjalikku soome keelt mõistma",
+            "cs": "rozumět psané finštině",
+            "ar": "فهم اللغة الفنلندية المكتوبة",
+            "pl": "rozumieć język fiński w piśmie",
+            "da": "forstå skrevet finsk",
+            "ro": "înțelege limba finlandeză scrisă",
+            "nl": "geschreven Fins begrijpen"
+          },
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills",
+            "http://data.europa.eu/esco/concept-scheme/skill-language-groups"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/skill"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/transversal"
+          ],
+          "broaderSkill": [
+            "http://data.europa.eu/esco/skill/0e3493f4-0cad-4fbc-8e02-025f169b8114"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/3a0814b1-5851-43f9-b886-1e496fefcf9c&language=en",
+              "uri": "http://data.europa.eu/esco/skill/3a0814b1-5851-43f9-b886-1e496fefcf9c",
+              "title": "understand written Finnish"
+            }
+          }
+        },
+        {
+          "className": "Skill",
+          "classId": "http://data.europa.eu/esco/model#Skill",
+          "uri": "http://data.europa.eu/esco/skill/7bd84008-afc2-4f72-8b49-a1dc4723d479",
+          "searchHit": "understand spoken Finnish",
+          "title": "understand spoken Finnish",
+          "preferredLabel": {
+            "de": "gesprochenes Finnisch verstehen",
+            "no": "forstå muntlig finsk",
+            "fi": "ymmärtää puhuttua suomea",
+            "en-us": "understand spoken Finnish",
+            "pt": "compreender finlandês falado",
+            "bg": "разбиране при слушане на фински език",
+            "lt": "suprasti šnekamąją suomių kalbą",
+            "hr": "razumjeti govoreni finski jezik",
+            "lv": "saprast mutvārdu somu valodu",
+            "fr": "comprendre le finnois parlé",
+            "hu": "érti a beszélt finn nyelvet",
+            "sk": "rozumieť hovorenej fínčine",
+            "sl": "razumeti govorno finščino",
+            "ga": "Fionlainnis labhartha a thuiscint",
+            "sv": "förstå talad finska",
+            "el": "κατανόηση προφορικού λόγου στα φινλανδικά",
+            "mt": "fehim tal-Finlandiż mitkellem",
+            "en": "understand spoken Finnish",
+            "is": "skilur talaða finnsku",
+            "it": "comprendere il finlandese parlato",
+            "es": "comprender el finés hablado",
+            "et": "suulist soome keelt mõistma",
+            "cs": "rozumět mluvené finštině",
+            "ar": "فهم اللغة الفنلندية المنطوقة",
+            "pl": "rozumieć język fiński w mowie",
+            "da": "forstå talt finsk",
+            "ro": "înțelege limba finlandeză vorbită",
+            "nl": "gesproken Fins begrijpen"
+          },
+          "isInScheme": [
+            "http://data.europa.eu/esco/concept-scheme/skills",
+            "http://data.europa.eu/esco/concept-scheme/member-skills",
+            "http://data.europa.eu/esco/concept-scheme/skill-language-groups"
+          ],
+          "hasSkillType": [
+            "http://data.europa.eu/esco/skill-type/skill"
+          ],
+          "hasReuseLevel": [
+            "http://data.europa.eu/esco/skill-reuse-level/transversal"
+          ],
+          "broaderSkill": [
+            "http://data.europa.eu/esco/skill/0e3493f4-0cad-4fbc-8e02-025f169b8114"
+          ],
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/7bd84008-afc2-4f72-8b49-a1dc4723d479&language=en",
+              "uri": "http://data.europa.eu/esco/skill/7bd84008-afc2-4f72-8b49-a1dc4723d479",
+              "title": "understand spoken Finnish"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

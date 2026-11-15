@@ -1,0 +1,320 @@
+{
+  "url": "https://ec.europa.eu/esco/api/resource/skill?language=en&uri=http%3A%2F%2Fdata.europa.eu%2Fesco%2Fskill%2F0e3493f4-0cad-4fbc-8e02-025f169b8114",
+  "at": "2026-11-15T00:03:53.132Z",
+  "response": {
+    "className": "Skill",
+    "classId": "http://data.europa.eu/esco/model#Skill",
+    "uri": "http://data.europa.eu/esco/skill/0e3493f4-0cad-4fbc-8e02-025f169b8114",
+    "title": "Finnish",
+    "referenceLanguage": [
+      "en"
+    ],
+    "preferredLabel": {
+      "de": "Finnisch",
+      "no": "finsk",
+      "fi": "suomi",
+      "en-us": "Finnish",
+      "pt": "finlandês",
+      "bg": "фински език",
+      "lt": "suomių kalba",
+      "hr": "finski",
+      "lv": "somu",
+      "fr": "finnois",
+      "hu": "finn nyelv",
+      "sk": "fínčina",
+      "sl": "finščina",
+      "ga": "Fionlainnis",
+      "sv": "finska",
+      "el": "φινλανδικά",
+      "mt": "Finlandiż",
+      "en": "Finnish",
+      "is": "finnska",
+      "it": "finlandese",
+      "es": "finés",
+      "et": "soome keel",
+      "cs": "finština",
+      "ar": "الفنلندية",
+      "pl": "fiński",
+      "da": "finsk",
+      "ro": "finlandeză",
+      "nl": "Fins"
+    },
+    "alternativeLabel": {
+      "ro": [
+        "cunoștințe de limba finlandeză",
+        "capacitate de a înțelege limba finlandeză scrisă și vorbită și de a scrie și a vorbi în limba finlandeză"
+      ],
+      "es": [
+        "finlandés"
+      ]
+    },
+    "description": {
+      "no": {
+        "literal": "Finsk språk. Finsk er et offisielt språk og arbeidsspråk i EU.",
+        "mimetype": "plain/text"
+      },
+      "de": {
+        "literal": "Finnische Sprache. Finnisch ist Amts- und Arbeitssprache der EU.",
+        "mimetype": "plain/text"
+      },
+      "fi": {
+        "literal": "Suomen kieli. Suomi on EU:n virallinen kieli ja työkieli.",
+        "mimetype": "plain/text"
+      },
+      "en-us": {
+        "literal": "The Finnish language. Finnish is an official and working language of the EU.",
+        "mimetype": "plain/text"
+      },
+      "pt": {
+        "literal": "A língua finlandesa. O finlandês é uma língua oficial e de trabalho da UE.",
+        "mimetype": "plain/text"
+      },
+      "bg": {
+        "literal": "Фински език. Финският език е официален и работен език на ЕС.",
+        "mimetype": "plain/text"
+      },
+      "lt": {
+        "literal": "Suomių kalba. Suomių kalba – oficiali ES darbo kalba.",
+        "mimetype": "plain/text"
+      },
+      "hr": {
+        "literal": "Finski jezik. Finski je službeni i radni jezik EU-a.",
+        "mimetype": "plain/text"
+      },
+      "lv": {
+        "literal": "Somu valoda. Somu valoda ir ES oficiālā un darba valoda.",
+        "mimetype": "plain/text"
+      },
+      "fr": {
+        "literal": "La langue finnoise. Le finnois est une langue officielle et une langue de travail de l’Union européenne.",
+        "mimetype": "plain/text"
+      },
+      "hu": {
+        "literal": "A finn nyelv. A finn az EU hivatalos és munkanyelve.",
+        "mimetype": "plain/text"
+      },
+      "sk": {
+        "literal": "Fínsky jazyk. Fínčina je úradným a pracovným jazykom EÚ.",
+        "mimetype": "plain/text"
+      },
+      "sl": {
+        "literal": "Finski jezik. Finščina je uradni in delovni jezik EU.",
+        "mimetype": "plain/text"
+      },
+      "ga": {
+        "literal": "An teanga Fhionlainnise. Tá an Fhionlainnis ar cheann de theangacha oifigiúla agus oibre an Aontais Eorpaigh.",
+        "mimetype": "plain/text"
+      },
+      "sv": {
+        "literal": "Det finska språket. Finska är ett officiellt språk och ett arbetsspråk av EU.",
+        "mimetype": "plain/text"
+      },
+      "mt": {
+        "literal": "Il-lingwa Finlandiża. Il-Finlandiż huwa lingwa uffiċjali u ta’ ħidma tal-UE.",
+        "mimetype": "plain/text"
+      },
+      "el": {
+        "literal": "Η φινλανδική γλώσσα. Τα φινλανδικά είναι επίσημη γλώσσα και γλώσσα εργασίας της ΕΕ.",
+        "mimetype": "plain/text"
+      },
+      "en": {
+        "literal": "The Finnish language. Finnish is an official and working language of the EU.",
+        "mimetype": "plain/text"
+      },
+      "is": {
+        "literal": "Finnska tungumálið. Finnska er opinbert tungumál ESB og vinnutungumál í Evrópusambandinu.",
+        "mimetype": "plain/text"
+      },
+      "it": {
+        "literal": "La lingua finlandese. Il finlandese è una lingua ufficiale e di lavoro dell’UE.",
+        "mimetype": "plain/text"
+      },
+      "es": {
+        "literal": "El idioma finés. El finés es una lengua oficial y de trabajo de la UE.",
+        "mimetype": "plain/text"
+      },
+      "et": {
+        "literal": "Soome keel. Soome keel on ELi ametlik ja töökeel.",
+        "mimetype": "plain/text"
+      },
+      "cs": {
+        "literal": "Finský jazyk. Finština je úředním a pracovním jazykem EU.",
+        "mimetype": "plain/text"
+      },
+      "ar": {
+        "literal": "اللغة الفنلندية. الفنلندية هي لغة رسمية ومستخدمة في الاتحاد الأوروبي.",
+        "mimetype": "plain/text"
+      },
+      "pl": {
+        "literal": "Język fiński. Język fiński jest językiem urzędowym i roboczym UE.",
+        "mimetype": "plain/text"
+      },
+      "ro": {
+        "literal": "Limba finlandeză. Limba finlandeză este o limbă oficială și de lucru a UE.",
+        "mimetype": "plain/text"
+      },
+      "da": {
+        "literal": "Det finske sprog. Finsk er et af EU's officielle sprog og arbejdssprog.",
+        "mimetype": "plain/text"
+      },
+      "nl": {
+        "literal": "De Finse taal. Fins is een officiële taal en een werktaal van de EU.",
+        "mimetype": "plain/text"
+      }
+    },
+    "status": "released",
+    "_links": {
+      "self": {
+        "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/0e3493f4-0cad-4fbc-8e02-025f169b8114&language=en",
+        "uri": "http://data.europa.eu/esco/skill/0e3493f4-0cad-4fbc-8e02-025f169b8114",
+        "title": "Finnish"
+      },
+      "isTopConceptInScheme": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/taxonomy?uri=http://data.europa.eu/esco/concept-scheme/skill-language-groups&language=en",
+          "uri": "http://data.europa.eu/esco/concept-scheme/skill-language-groups",
+          "title": "Language"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/taxonomy?uri=http://data.europa.eu/esco/concept-scheme/member-skills&language=en",
+          "uri": "http://data.europa.eu/esco/concept-scheme/member-skills",
+          "title": "ESCO member skills"
+        }
+      ],
+      "isInScheme": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/taxonomy?uri=http://data.europa.eu/esco/concept-scheme/skill-language-groups&language=en",
+          "uri": "http://data.europa.eu/esco/concept-scheme/skill-language-groups",
+          "title": "Language"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/taxonomy?uri=http://data.europa.eu/esco/concept-scheme/skills&language=en",
+          "uri": "http://data.europa.eu/esco/concept-scheme/skills",
+          "title": "ESCO skills"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/taxonomy?uri=http://data.europa.eu/esco/concept-scheme/member-skills&language=en",
+          "uri": "http://data.europa.eu/esco/concept-scheme/member-skills",
+          "title": "ESCO member skills"
+        }
+      ],
+      "hasSkillType": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/concept?uri=http://data.europa.eu/esco/skill-type/knowledge&language=en",
+          "uri": "http://data.europa.eu/esco/skill-type/knowledge",
+          "title": "knowledge"
+        }
+      ],
+      "hasReuseLevel": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/concept?uri=http://data.europa.eu/esco/skill-reuse-level/transversal&language=en",
+          "uri": "http://data.europa.eu/esco/skill-reuse-level/transversal",
+          "title": "transversal skills and competences",
+          "code": "Level 1"
+        }
+      ],
+      "broaderSkillGroup": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/concept?uri=http://data.europa.eu/esco/skill/58095196-d766-4a5c-b16c-d941489f8e66&language=en",
+          "uri": "http://data.europa.eu/esco/skill/58095196-d766-4a5c-b16c-d941489f8e66",
+          "title": "language"
+        }
+      ],
+      "broaderHierarchyConcept": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/concept?uri=http://data.europa.eu/esco/skill/L1&language=en",
+          "uri": "http://data.europa.eu/esco/skill/L1",
+          "title": "languages",
+          "code": "L1"
+        }
+      ],
+      "narrowerSkill": [
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/7bd84008-afc2-4f72-8b49-a1dc4723d479&language=en",
+          "uri": "http://data.europa.eu/esco/skill/7bd84008-afc2-4f72-8b49-a1dc4723d479",
+          "title": "understand spoken Finnish",
+          "skillType": "http://data.europa.eu/esco/skill-type/skill"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/049de1f6-34ec-46f9-a0b1-8fc6f0199413&language=en",
+          "uri": "http://data.europa.eu/esco/skill/049de1f6-34ec-46f9-a0b1-8fc6f0199413",
+          "title": "write Finnish",
+          "skillType": "http://data.europa.eu/esco/skill-type/skill"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/3a0814b1-5851-43f9-b886-1e496fefcf9c&language=en",
+          "uri": "http://data.europa.eu/esco/skill/3a0814b1-5851-43f9-b886-1e496fefcf9c",
+          "title": "understand written Finnish",
+          "skillType": "http://data.europa.eu/esco/skill-type/skill"
+        },
+        {
+          "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/3048bf6d-27c7-4dc6-ae4b-e55094cec090&language=en",
+          "uri": "http://data.europa.eu/esco/skill/3048bf6d-27c7-4dc6-ae4b-e55094cec090",
+          "title": "interact verbally in Finnish",
+          "skillType": "http://data.europa.eu/esco/skill-type/skill"
+        }
+      ]
+    },
+    "_embedded": {
+      "ancestors": [
+        {
+          "title": "Finnish",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/0e3493f4-0cad-4fbc-8e02-025f169b8114&language=en",
+              "uri": "http://data.europa.eu/esco/skill/0e3493f4-0cad-4fbc-8e02-025f169b8114"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/58095196-d766-4a5c-b16c-d941489f8e66",
+            "http://data.europa.eu/esco/skill/L1"
+          ]
+        },
+        {
+          "title": "language",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/58095196-d766-4a5c-b16c-d941489f8e66&language=en",
+              "uri": "http://data.europa.eu/esco/skill/58095196-d766-4a5c-b16c-d941489f8e66"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/7ee746cb-fded-47f5-9652-19ebebbce51b"
+          ]
+        },
+        {
+          "title": "Transversal skills/competences",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/7ee746cb-fded-47f5-9652-19ebebbce51b&language=en",
+              "uri": "http://data.europa.eu/esco/skill/7ee746cb-fded-47f5-9652-19ebebbce51b"
+            }
+          },
+          "parents": []
+        },
+        {
+          "title": "languages",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/L1&language=en",
+              "uri": "http://data.europa.eu/esco/skill/L1"
+            }
+          },
+          "parents": [
+            "http://data.europa.eu/esco/skill/L"
+          ]
+        },
+        {
+          "title": "language skills and knowledge",
+          "_links": {
+            "self": {
+              "href": "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/L&language=en",
+              "uri": "http://data.europa.eu/esco/skill/L"
+            }
+          },
+          "parents": []
+        }
+      ]
+    }
+  }
+}

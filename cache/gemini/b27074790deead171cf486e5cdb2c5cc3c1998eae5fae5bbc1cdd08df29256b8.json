@@ -1,0 +1,103 @@
+{
+  "model": "gemini-3.8-flash",
+  "prompt_version": "cg-2.1",
+  "at": "2026-11-15T00:10:02.115Z",
+  "kind": "advert-tailored-cvs",
+  "input_hash": "b27074790deead171cf486e5cdb2c5cc3c1998eae5fae5bbc1cdd08df29256b8",
+  "answer": {
+    "cvs": [
+      {
+        "id": 100,
+        "text": "Full-stack software developer with skills in software engineering, testing, Python, SQL, cloud, and APIs. Experienced in tracking operational issues and establishing robust, standardized processes. Created structured tracking sheets, monitored daily prep against orders to prevent duplicate work, and tracked food waste data weekly to identify patterns and adjust quantities. Skilled in standardizing procedures through clear guides and reviewing delivery formulas to maintain operational accuracy. Brings strong analytical thinking, testing background, and documentation discipline to identifying recurring release problems and ensuring delivery reliability."
+      },
+      {
+        "id": 101,
+        "text": "Detail-oriented professional experienced with spreadsheet reports, precise data collection, and practical troubleshooting. In a workshop environment, recorded diagnostic measurements, verified tool settings, and re-tested unusual readings to maintain accurate baseline records. Skilled in isolating intermittent faults, successfully diagnosing an inconsistent test stand by comparing test runs across temperatures, swapping components, and validating the fix. Authored step-by-step measurement guides detailing check sequences and edge cases. Brings systematic diagnostic skills and rigorous documentation to reproducing intermittent errors, tracking failed runs, and supporting reliable release testing."
+      },
+      {
+        "id": 102,
+        "text": "Operations-focused coordinator experienced with business tools and structured problem tracking. Developed spreadsheet systems utilizing formulas to track stock conditions, flag overdue items, and schedule preventative maintenance. Handled technical failure reports from users, logging root causes and actions taken, and grouped recurring monthly issues to update guidance and prevent repeat failures. Created comprehensive checklists and testing exercises to train colleagues and refine processes. Offers solid transferable skills in categorizing recurring failure trends, documenting resolution steps, and ensuring consistent pre-release verification."
+      },
+      {
+        "id": 103,
+        "text": "Organised coordinator experienced with practical testing, process mapping, and workflow optimization. Mapped end-to-end service requests to identify duplicated effort, consolidating fragmented logging into a unified tracking form. Planned rollout activities into structured steps, adjusting plans smoothly around operational delays. Created practical onboarding exercises and step-by-step guides, incorporating edge cases and user questions to prevent recurring procedural mistakes. Brings a methodical approach to mapping user journeys, validating multi-step workflows, and clearly documenting failure reproduction steps to enhance release dependability."
+      },
+      {
+        "id": 104,
+        "text": "Customer support and coordination specialist experienced in streamlining workflows and maintaining operational consistency. Streamlined request lifecycles by eliminating redundant tracking steps and establishing a single shared form to monitor tasks from intake to completion. Managed project launches by sequencing milestones and adapting schedules during blockers. Developed structured reference guides and hands-on practice scenarios to ensure procedures were carried out reliably and without confusion. Offers practical skills in mapping user journeys, tracking recurring operational issues, and producing clear procedural documentation to support release stability."
+      },
+      {
+        "id": 105,
+        "text": "Full-stack software developer experienced in testing, Python, SQL, APIs, cloud, and systems administration. Monitored server response times and resource utilization during live operations, pinpointing background jobs that conflicted with peak traffic and rescheduling them to resolve delays. Conducted security access audits and verified restore procedures using sample data. Authored detailed operational runbooks and ordered check sequences, testing them against simulated failures to ensure maintainability. Brings strong diagnostic abilities and engineering rigor to isolating intermittent bugs, automating checks, and analyzing recurring release issues."
+      },
+      {
+        "id": 106,
+        "text": "Software tester experienced with business tools and web application quality assurance. Implemented automated browser tests covering critical user journeys—including account registration, profile updates, and cancellations—integrated directly into the release process. Adept at isolating intermittent defects; successfully reproduced a race condition during low-capacity bookings using concurrent requests, analyzed server logs, and validated subsequent fixes. Analyzed historical test run failures, grouped patterns by environment and browser, and updated test checklists to catch defects early. Directly aligned with automating checks, reproducing intermittent errors, and stabilizing releases."
+      },
+      {
+        "id": 107,
+        "text": "Data reporting professional experienced with practical testing, PostgreSQL, and SQL querying. Integrated multi-source order data by creating mapping tables to eliminate duplicates, running SQL checks to ensure end-to-end data integrity. Routinely compared warehouse records against return reports, categorizing discrepancies to identify and resolve systemic double-counting errors. Documented data models and precise validation steps, incorporating clear examples to assist team verification. Brings strong analytical capabilities to comparing test runs, tracking down recurring data or release discrepancies, and establishing reliable verification checks."
+      },
+      {
+        "id": 108,
+        "text": "Web developer experienced with JavaScript, web servers, and customer support. Built interactive booking applications from user-journey wireframes to live prototypes, iterating features based on user testing. Successfully reproduced intermittent duplicate booking bugs by tracing request logs, identifying race conditions on retried network requests, implementing fixes, and writing pre-release automated test cases. Authored maintenance runbooks covering session management and version rollbacks, verifying clarity with team members. Well-suited to automating core customer journey tests, isolating intermittent release errors, and documenting fixes."
+      },
+      {
+        "id": 109,
+        "text": "Experienced team lead skilled in spreadsheet reports, workflow tracking, and operational analysis. Standardized order management during peak rushes by implementing centralized tracking, eliminating duplicate preparation errors. Designed waste-tracking spreadsheets to categorize losses by reason and timeframe, analyzing weekly trends to correct production quantities and reduce waste by one third. Authored procedural guides with mistake examples and updated operational formulas when specifications changed. Brings proven expertise in tracking recurring discrepancies, maintaining procedural consistency, and analyzing workflow data to support release reliability."
+      },
+      {
+        "id": 110,
+        "text": "Full-stack software developer with skills in testing, Python, SQL, cloud, APIs, and data analytics. Applied rigorous measurement and testing methods in a repair environment, recording precise baseline data and re-testing anomalous values. Diagnosed intermittent hardware faults by analyzing repeated test series across varying conditions, swapping components to trace anomalies, and validating replacements before sign-off. Authored detailed measurement workflows outlining execution order and handling atypical results. Combines technical developer skills with meticulous failure analysis to reproduce intermittent defects and establish automated release checks."
+      },
+      {
+        "id": 111,
+        "text": "Practical testing and operations coordinator skilled in inventory management and business process tracking. Built spreadsheet models with automated flags to monitor asset status, track condition logs, and schedule necessary maintenance. Investigated failed equipment by gathering incident details, documenting root causes in case logs, and aggregating monthly issue data to resolve recurring defects. Designed thorough verification checklists to walk team members through quality and safety procedures before operations began. Brings strong pattern-analysis and defect-logging capabilities to investigate test failures and make release cycles dependable."
+      },
+      {
+        "id": 112,
+        "text": "Customer support and coordination professional experienced with business tools and systematic record-keeping. Maintained operational tracking sheets to monitor equipment lifecycles and highlight exceptions. Handled user-reported failures by gathering incident specifics, checking return logs, and recording root causes in case histories. Evaluated monthly logs to identify repeated failure trends and update documentation accordingly. Created structured checklists to guide team members through verification steps before deployment. Well-equipped to document fix procedures, analyze recurring failure patterns, and support reliable release processes."
+      },
+      {
+        "id": 113,
+        "text": "Process-focused coordinator experienced with spreadsheet reports, service workflows, and practical problem resolution. Managed the launch of community service initiatives, sequencing task dependencies and maintaining transparent decision logs. Analyzed request handoffs between reception and technicians, streamlining redundant logs into a single shared format. Designed practical testing exercises and clear guides containing real-world examples to resolve user bottlenecks. Brings strong transferable skills in auditing workflows, identifying friction points, and systematically recording procedures to help prevent recurring release issues."
+      },
+      {
+        "id": 114,
+        "text": "Systems-focused professional experienced with business tools, server administration, and infrastructure monitoring. Monitored media systems during live operations by tracking response times and system resources, correlating performance drops with scheduled background jobs to remove production bottlenecks. Executed access audits and validated disaster recovery procedures using sample folders. Authored detailed operational runbooks with step-by-step diagnostic sequences, using practice failure scenarios to ensure steps were clear and reproducible. Offers proven ability to investigate performance anomalies, document troubleshooting runbooks, and stabilize release environments."
+      },
+      {
+        "id": 115,
+        "text": "Full-stack software developer experienced in automated testing, Python, SQL, APIs, cloud, and data analytics. Built automated browser test suites for core user journeys, including registration and booking cancellations, integrating them directly into deployment pipelines. Skilled in isolating intermittent bugs; reproduced tricky single-seat concurrency failures with parallel requests, captured system logs, and documented verification steps across edge cases. Systematically analyzed failed test runs, categorizing failures by device and screen to resolve systemic defects. Directly equipped to automate critical paths, reproduce elusive bugs, and improve release reliability."
+      },
+      {
+        "id": 116,
+        "text": "Data reporting and customer support specialist experienced in SQL querying, practical testing, and relational data management. Combined complex data sets using PostgreSQL, building mapping logic to catch duplicates and writing SQL validation queries to verify end-to-end consistency. Analyzed warehouse discrepancy reports against weekly counts, isolating recurring double-counting errors and establishing verified corrections. Documented technical data models and validation procedures with clear examples for team execution. Brings strong analytical rigor to identifying patterns across failed test logs and ensuring release checks remain reliable."
+      },
+      {
+        "id": 117,
+        "text": "Software and booking tools developer experienced with JavaScript, web servers, and spreadsheet reports. Designed and deployed interactive web applications, refining customer journey flows through prototype testing. Tracked and resolved elusive bugs, successfully reproducing intermittent duplicate submissions by inspecting server logs, identifying missing request idempotency checks, and authoring automated test suites for repeated requests before release. Wrote clear maintenance guides detailing rollback steps and administrative operations. Directly suited to automating customer journey tests, diagnosing intermittent faults, and strengthening release predictability."
+      },
+      {
+        "id": 118,
+        "text": "Operations lead experienced in business tools, structured tracking, and process refinement. Successfully eliminated duplicate orders during peak rush periods by introducing centralized tracking routines and kitchen verification checks. Built detailed spreadsheet tracking systems to log daily operational discrepancies, comparing weekly summaries to pinpoint trends and adjust processes, resulting in a 30% reduction in recurring waste. Created clear reference sheets and updated calculation formulas to handle changing inputs. Offers practical experience in monitoring recurring failure patterns, standardizing workflows, and documenting procedures for reliable execution."
+      },
+      {
+        "id": 119,
+        "text": "Practical testing technician experienced in systematic measurements and diagnostics. Recorded and tracked hardware metrics, consistently validating abnormal readings before updating master logs to maintain reliable baseline data. Diagnosed intermittent test failures by plotting repeated test stand results across temperature variations, swapping components to isolate a faulty lead, and verifying replacement stability. Created step-by-step testing instructions complete with check sequences and edge-case protocols. Brings strong diagnostic persistence, structured defect logging, and rigorous validation methods to investigating intermittent software errors and comparing test runs."
+      }
+    ]
+  },
+  "usage": {
+    "promptTokenCount": 5436,
+    "candidatesTokenCount": 2193,
+    "totalTokenCount": 7629,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 5436
+      }
+    ],
+    "serviceTier": "standard"
+  }
+}

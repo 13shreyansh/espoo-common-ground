@@ -1,0 +1,103 @@
+{
+  "model": "gemini-3.8-flash",
+  "prompt_version": "cg-2.1",
+  "at": "2026-11-15T00:11:09.921Z",
+  "kind": "advert-tailored-cvs",
+  "input_hash": "9d70dddd686652f0d5e36c1c9f3d0d5504517c5dab9eba0b6e36c3c34c6f912b",
+  "answer": {
+    "cvs": [
+      {
+        "id": 60,
+        "text": "Experienced in customer support and full-stack software development, bringing strong analytical and testing abilities. Tracked and diagnosed complex user issues by creating repeatable test cases and analysing system logs. Skilled at grouping recurring problems by pattern, browser, or screen to pinpoint underlying causes and prevent repeat issues. Experienced in producing clear documentation, checklists, and reports for team handovers, ensuring colleagues can consistently follow processes and maintain accurate records."
+      },
+      {
+        "id": 61,
+        "text": "Experienced in data reporting, SQL, and database management for distribution operations. Reconciled weekly returns reports against warehouse inventory records, identifying discrepancies, grouping issues by product and reason, and correcting double-recorded damaged stock to match physical counts. Developed structured data import checks, data models, and documentation with concrete examples. Skilled in guiding colleagues through processes to ensure team-wide consistency in record-keeping and data tracking."
+      },
+      {
+        "id": 62,
+        "text": "Experienced in developing and maintaining business tools and user-facing workflows. Investigated and resolved booking system issues by tracing logs to identify recurring failure causes, such as duplicate entries. Created comprehensive operational guides and coached volunteers to execute workflows, resolve user errors, and maintain accurate records independently, refining procedures based on direct user feedback to ensure consistent team practices."
+      },
+      {
+        "id": 63,
+        "text": "Experienced café manager with strong expertise in stock management, team training, and customer-facing operations. Maintained ordering sheets and implemented waste-tracking spreadsheets to identify patterns and adjust preparation quantities, cutting waste by one-third. Organized regular stock checks and trained six new team members with practice sessions and written guides with error examples, ensuring consistent record updates and accurate ordering."
+      },
+      {
+        "id": 64,
+        "text": "Experienced café manager with a background in customer support and operations. Created shared order systems that prevented duplicated requests during peak hours. Tracked waste data systematically by day and cause, identifying recurring issues to adjust stock preparation. Trained six staff members using practical guides and exercises, establishing disciplined and consistent documentation habits for stock management and supplier deliveries."
+      },
+      {
+        "id": 65,
+        "text": "Experienced developer and workshop technician with a rigorous approach to data analytics and documentation. Managed accurate physical records by systematically labelling items, noting specific settings, and logging test readings. Investigated recurring anomalies through structured testing to isolate equipment faults. Created detailed written guides and diagrams to ensure colleagues maintained precise, consistent records and knew when to escalate complex issues."
+      },
+      {
+        "id": 66,
+        "text": "Experienced equipment rental desk coordinator skilled in stock control and customer support. Built inventory tracking spreadsheets using formulas to identify low stock and overdue items, guiding reordering and repairs. Handled customer inquiries regarding broken equipment, logged resolutions, and categorized recurring causes to address systemic issues. Trained new staff on return procedures and stock updates using practical checklists to ensure consistent record-keeping."
+      },
+      {
+        "id": 67,
+        "text": "Experienced in operations, customer support, and volunteer coordination. Streamlined repair request workflows by creating unified recording sheets that eliminated duplicate data entry between front desk and technicians. Created practical training exercises and guides with real-world examples to help team members accurately log repairs and track tasks, continuously refining processes to maintain consistent case documentation."
+      },
+      {
+        "id": 68,
+        "text": "Experienced in systems support and customer service operations. Monitored server performance and schedules to identify recurring bottlenecks and resolve service delays. Maintained accurate account and backup records, and developed comprehensive runbooks featuring step-by-step checks. Trained and onboarded volunteers using practice failure scenarios, refining documentation to ensure the team kept clear, consistent operational notes."
+      },
+      {
+        "id": 69,
+        "text": "Experienced in testing and spreadsheet reporting. Skilled in identifying, reproducing, and resolving system issues through structured logging and analysis. Grouped recurring errors by issue type and screen to pinpoint core causes, and developed detailed test checklists and reports. Ensures teams maintain consistent case notes and reliable records to catch operational discrepancies early."
+      },
+      {
+        "id": 70,
+        "text": "Full-stack developer experienced in business tools, data analytics, and reporting for distributors. Skilled in reconciling inventory records by comparing weekly returns against warehouse counts, categorizing discrepancies by product and reason, and resolving stock duplication errors. Created data models and documentation with practical examples, guiding colleagues to ensure consistent record updates and precise stock tracking."
+      },
+      {
+        "id": 71,
+        "text": "Experienced in practical testing and business tool development. Skilled at identifying and troubleshooting operational issues by tracing request logs and writing test cases for recurring errors. Designed practical documentation and guides for volunteers, walking them through common tasks, error correction, and consistent note-taking to ensure accurate and dependable record management across the team."
+      },
+      {
+        "id": 72,
+        "text": "Experienced in customer support and tool development. Investigated recurring user issues and system errors, tracing request logs to resolve duplicate submissions. Produced clear, step-by-step documentation for team members on managing bookings and correcting records. Trained colleagues directly by walking them through practical guides, ensuring reliable workflows and consistent record-keeping across the team."
+      },
+      {
+        "id": 73,
+        "text": "Experienced café manager with a background in spreadsheet reporting and stock control. Created centralized ordering systems that eliminated duplicate orders, and built spreadsheets to track inventory waste by cause and day, reducing waste by one-third. Led regular stock checks and trained six team members using practical guides, ensuring consistent and accurate inventory records across the team."
+      },
+      {
+        "id": 74,
+        "text": "Experienced workshop technician with a background in business tools and technical documentation. Accurately tracked equipment conditions and maintenance records, verifying unusual entries before logging them. Systematically diagnosed recurring test discrepancies through comparative analysis. Authored detailed operational guides with diagrams to train colleagues on consistent measurement protocols and proper escalation procedures."
+      },
+      {
+        "id": 75,
+        "text": "Full-stack developer experienced in coordinating equipment rental operations, customer support, and testing. Managed rental stock records via spreadsheets with automated formulas to highlight shortages, overdue returns, and reorder needs. Resolved customer tool issues, logging actions and categorizing recurring faults to improve service. Trained team members using checklists to maintain accurate, consistent case notes and stock updates."
+      },
+      {
+        "id": 76,
+        "text": "Experienced in customer support, coordination, and practical operations. Streamlined request logging by transitioning from disparate notebooks to a shared tracking form, removing duplicated effort and defining clear responsibilities. Trained team members using practice exercises to log repairs accurately, refining guides based on feedback to ensure consistent case notes and dependable tracking."
+      },
+      {
+        "id": 77,
+        "text": "Experienced in media studio systems support and spreadsheet reporting. Monitored usage patterns and schedules to diagnose and resolve recurring bottlenecks. Managed access records and created clear runbooks that outlined sequential steps and escalation points. Trained new volunteers using simulated issues, refining guides to maintain consistent case notes and operational tracking across the team."
+      },
+      {
+        "id": 78,
+        "text": "Experienced in software testing, business tools, and customer-facing services. Systematically analysed recurring issues by aggregating failure data and identifying common causes across platforms. Documented detailed, repeatable test cases and reports, updating team checklists so colleagues could resolve requests efficiently and maintain uniform, accurate records."
+      },
+      {
+        "id": 79,
+        "text": "Experienced in distribution reporting, SQL, and practical testing. Reconciled weekly returns data with physical warehouse stock, categorizing differences by product and reason to correct duplicate records. Created import checks and step-by-step guides with concrete examples, training colleagues to follow standard procedures and maintain consistent records across inventory and order tracking."
+      }
+    ]
+  },
+  "usage": {
+    "promptTokenCount": 5476,
+    "candidatesTokenCount": 1490,
+    "totalTokenCount": 6966,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 5476
+      }
+    ],
+    "serviceTier": "standard"
+  }
+}

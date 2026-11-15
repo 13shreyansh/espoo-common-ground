@@ -1,7 +1,7 @@
 {
   "build": {
-    "id": "build-0-2026-11-14T23:03:48.319Z",
-    "at": "2026-11-14T23:03:48.319Z",
+    "id": "build-0-2026-11-14T23:36:23.539Z",
+    "at": "2026-11-14T23:36:23.539Z",
     "kind": "full",
     "rounds": [
       {
@@ -7546,6 +7546,6164 @@
         "table": 6
       }
     ],
+    "rankings": {
+      "pairs": [
+        {
+          "person": "b793bc620197b308cd85f77f",
+          "company": "2e3aceaa00a77e95dbbaffae",
+          "task": "2ec4952f51afd570158eef48",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "b793bc620197b308cd85f77f",
+          "company": "dbc49fbdda5c3f3713a4e822",
+          "task": "7b0fe0158bbe161ffe7dcdc0",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "b793bc620197b308cd85f77f",
+          "company": "66d1d6d554d887b3196156d8",
+          "task": "5cc65bf56e5bf708968d3eb9",
+          "fit": 1,
+          "proof": 2,
+          "total": 2,
+          "ps": 100,
+          "cs": 100
+        },
+        {
+          "person": "b793bc620197b308cd85f77f",
+          "company": "6ea1729582d51ed38aa4d2bf",
+          "task": "90045319ee03716d4c0dfb60",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "b793bc620197b308cd85f77f",
+          "company": "b4c42371fbce0a57cbad191a",
+          "task": "2b6c22d5f53e460398c7aae9",
+          "fit": 1,
+          "proof": 2,
+          "total": 2,
+          "ps": 100,
+          "cs": 100
+        },
+        {
+          "person": "b793bc620197b308cd85f77f",
+          "company": "872d826def039fcd0fee7b47",
+          "task": "e8d8b98bc209a7149dab3212",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "baf92b2dc2d5e2625e159de9",
+          "company": "687dff2a6948c035250b99b3",
+          "task": "369158c5f19a4b3a8a20cac7",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "baf92b2dc2d5e2625e159de9",
+          "company": "6600814a81bba012275a1e5e",
+          "task": "6cbc670397b0a818e7ea76c6",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "baf92b2dc2d5e2625e159de9",
+          "company": "5e28380668a37ea4f112546c",
+          "task": "897c5ae4847f2713bd11f8b2",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "baf92b2dc2d5e2625e159de9",
+          "company": "dbc49fbdda5c3f3713a4e822",
+          "task": "9dd85a010bb1dd110649c40a",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "baf92b2dc2d5e2625e159de9",
+          "company": "6ea1729582d51ed38aa4d2bf",
+          "task": "90045319ee03716d4c0dfb60",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "baf92b2dc2d5e2625e159de9",
+          "company": "7a0c2898348849cafd753701",
+          "task": "fb87149c967f93325d3e658b",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "baf92b2dc2d5e2625e159de9",
+          "company": "9710dfa34181033bbd18826a",
+          "task": "58a915a8e3f0c0e5ae478254",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "baf92b2dc2d5e2625e159de9",
+          "company": "0dbd03607776ed45cb88e1e3",
+          "task": "0685a3ff3dba72bddc7c8c14",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "448a5ddc6ed48e1c21ba85a5",
+          "company": "dbc49fbdda5c3f3713a4e822",
+          "task": "7b0fe0158bbe161ffe7dcdc0",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "448a5ddc6ed48e1c21ba85a5",
+          "company": "66d1d6d554d887b3196156d8",
+          "task": "5cc65bf56e5bf708968d3eb9",
+          "fit": 1,
+          "proof": 2,
+          "total": 2,
+          "ps": 100,
+          "cs": 100
+        },
+        {
+          "person": "448a5ddc6ed48e1c21ba85a5",
+          "company": "b4c42371fbce0a57cbad191a",
+          "task": "2b6c22d5f53e460398c7aae9",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "4f07fa9a404775ddc0838ca8",
+          "company": "dbc49fbdda5c3f3713a4e822",
+          "task": "7b0fe0158bbe161ffe7dcdc0",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "4f07fa9a404775ddc0838ca8",
+          "company": "66d1d6d554d887b3196156d8",
+          "task": "5cc65bf56e5bf708968d3eb9",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "4f07fa9a404775ddc0838ca8",
+          "company": "b4c42371fbce0a57cbad191a",
+          "task": "661324cea021e3185e4a711d",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "5e86806fc4ec247ea16ce061",
+          "company": "687dff2a6948c035250b99b3",
+          "task": "369158c5f19a4b3a8a20cac7",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "5e86806fc4ec247ea16ce061",
+          "company": "5e28380668a37ea4f112546c",
+          "task": "6b656448156cadfd0eefa5eb",
+          "fit": 1,
+          "proof": 2,
+          "total": 2,
+          "ps": 100,
+          "cs": 100
+        },
+        {
+          "person": "5e86806fc4ec247ea16ce061",
+          "company": "dbc49fbdda5c3f3713a4e822",
+          "task": "9dd85a010bb1dd110649c40a",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "5e86806fc4ec247ea16ce061",
+          "company": "6ea1729582d51ed38aa4d2bf",
+          "task": "90045319ee03716d4c0dfb60",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "5e86806fc4ec247ea16ce061",
+          "company": "7a0c2898348849cafd753701",
+          "task": "fb87149c967f93325d3e658b",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "5e86806fc4ec247ea16ce061",
+          "company": "0dbd03607776ed45cb88e1e3",
+          "task": "0685a3ff3dba72bddc7c8c14",
+          "fit": 1,
+          "proof": 2,
+          "total": 2,
+          "ps": 100,
+          "cs": 100
+        },
+        {
+          "person": "89d4e1ac59fe9f467031806f",
+          "company": "6600814a81bba012275a1e5e",
+          "task": "6cbc670397b0a818e7ea76c6",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "89d4e1ac59fe9f467031806f",
+          "company": "6ea1729582d51ed38aa4d2bf",
+          "task": "aa025da9b71bcf9566712e5a",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "89d4e1ac59fe9f467031806f",
+          "company": "9710dfa34181033bbd18826a",
+          "task": "38413134d83a5d40523971ad",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "49290eb927c05fb338cc9f47",
+          "company": "2e3aceaa00a77e95dbbaffae",
+          "task": "24bd522988b53824a5b108b4",
+          "fit": 1,
+          "proof": 2,
+          "total": 2,
+          "ps": 100,
+          "cs": 100
+        },
+        {
+          "person": "49290eb927c05fb338cc9f47",
+          "company": "872d826def039fcd0fee7b47",
+          "task": "73b3f1d95f293f93d814a952",
+          "fit": 1,
+          "proof": 2,
+          "total": 2,
+          "ps": 100,
+          "cs": 100
+        },
+        {
+          "person": "1c5d97b9f2bcda4da6983373",
+          "company": "687dff2a6948c035250b99b3",
+          "task": "dd895e7998009db2eb54dc74",
+          "fit": 1,
+          "proof": 2,
+          "total": 2,
+          "ps": 100,
+          "cs": 100
+        },
+        {
+          "person": "1c5d97b9f2bcda4da6983373",
+          "company": "6600814a81bba012275a1e5e",
+          "task": "2bf32fd0c5aa043e3bdee870",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "1c5d97b9f2bcda4da6983373",
+          "company": "5e28380668a37ea4f112546c",
+          "task": "897c5ae4847f2713bd11f8b2",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "1c5d97b9f2bcda4da6983373",
+          "company": "dbc49fbdda5c3f3713a4e822",
+          "task": "9dd85a010bb1dd110649c40a",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "1c5d97b9f2bcda4da6983373",
+          "company": "6ea1729582d51ed38aa4d2bf",
+          "task": "90045319ee03716d4c0dfb60",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "1c5d97b9f2bcda4da6983373",
+          "company": "7a0c2898348849cafd753701",
+          "task": "cd0625be5b75a94bc0a6a2d6",
+          "fit": 1,
+          "proof": 2,
+          "total": 2,
+          "ps": 100,
+          "cs": 100
+        },
+        {
+          "person": "1c5d97b9f2bcda4da6983373",
+          "company": "9710dfa34181033bbd18826a",
+          "task": "58a915a8e3f0c0e5ae478254",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "1c5d97b9f2bcda4da6983373",
+          "company": "0dbd03607776ed45cb88e1e3",
+          "task": "0685a3ff3dba72bddc7c8c14",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "3d31cc1769f2d610542c26bb",
+          "company": "687dff2a6948c035250b99b3",
+          "task": "dd895e7998009db2eb54dc74",
+          "fit": 1,
+          "proof": 2,
+          "total": 2,
+          "ps": 100,
+          "cs": 100
+        },
+        {
+          "person": "3d31cc1769f2d610542c26bb",
+          "company": "6600814a81bba012275a1e5e",
+          "task": "2bf32fd0c5aa043e3bdee870",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "3d31cc1769f2d610542c26bb",
+          "company": "5e28380668a37ea4f112546c",
+          "task": "897c5ae4847f2713bd11f8b2",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "3d31cc1769f2d610542c26bb",
+          "company": "dbc49fbdda5c3f3713a4e822",
+          "task": "9dd85a010bb1dd110649c40a",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "3d31cc1769f2d610542c26bb",
+          "company": "6ea1729582d51ed38aa4d2bf",
+          "task": "90045319ee03716d4c0dfb60",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "3d31cc1769f2d610542c26bb",
+          "company": "7a0c2898348849cafd753701",
+          "task": "cd0625be5b75a94bc0a6a2d6",
+          "fit": 1,
+          "proof": 2,
+          "total": 2,
+          "ps": 100,
+          "cs": 100
+        },
+        {
+          "person": "3d31cc1769f2d610542c26bb",
+          "company": "9710dfa34181033bbd18826a",
+          "task": "58a915a8e3f0c0e5ae478254",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "3d31cc1769f2d610542c26bb",
+          "company": "0dbd03607776ed45cb88e1e3",
+          "task": "0685a3ff3dba72bddc7c8c14",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "260e75b90c1cb6d476898021",
+          "company": "2e3aceaa00a77e95dbbaffae",
+          "task": "2ec4952f51afd570158eef48",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "260e75b90c1cb6d476898021",
+          "company": "dbc49fbdda5c3f3713a4e822",
+          "task": "7b0fe0158bbe161ffe7dcdc0",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "260e75b90c1cb6d476898021",
+          "company": "66d1d6d554d887b3196156d8",
+          "task": "5cc65bf56e5bf708968d3eb9",
+          "fit": 1,
+          "proof": 2,
+          "total": 2,
+          "ps": 100,
+          "cs": 100
+        },
+        {
+          "person": "260e75b90c1cb6d476898021",
+          "company": "6ea1729582d51ed38aa4d2bf",
+          "task": "90045319ee03716d4c0dfb60",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "260e75b90c1cb6d476898021",
+          "company": "b4c42371fbce0a57cbad191a",
+          "task": "2b6c22d5f53e460398c7aae9",
+          "fit": 1,
+          "proof": 2,
+          "total": 2,
+          "ps": 100,
+          "cs": 100
+        },
+        {
+          "person": "260e75b90c1cb6d476898021",
+          "company": "872d826def039fcd0fee7b47",
+          "task": "e8d8b98bc209a7149dab3212",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "bbd97876c8fde72cba1dedff",
+          "company": "687dff2a6948c035250b99b3",
+          "task": "369158c5f19a4b3a8a20cac7",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "bbd97876c8fde72cba1dedff",
+          "company": "2e3aceaa00a77e95dbbaffae",
+          "task": "a9ee016304855235174eacf5",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "bbd97876c8fde72cba1dedff",
+          "company": "6600814a81bba012275a1e5e",
+          "task": "6cbc670397b0a818e7ea76c6",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "bbd97876c8fde72cba1dedff",
+          "company": "5e28380668a37ea4f112546c",
+          "task": "897c5ae4847f2713bd11f8b2",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "bbd97876c8fde72cba1dedff",
+          "company": "dbc49fbdda5c3f3713a4e822",
+          "task": "9dd85a010bb1dd110649c40a",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "bbd97876c8fde72cba1dedff",
+          "company": "6ea1729582d51ed38aa4d2bf",
+          "task": "aa025da9b71bcf9566712e5a",
+          "fit": 1,
+          "proof": 2,
+          "total": 2,
+          "ps": 100,
+          "cs": 100
+        },
+        {
+          "person": "bbd97876c8fde72cba1dedff",
+          "company": "7a0c2898348849cafd753701",
+          "task": "fb87149c967f93325d3e658b",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "bbd97876c8fde72cba1dedff",
+          "company": "872d826def039fcd0fee7b47",
+          "task": "f39f9a57e0e64c131299672b",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "bbd97876c8fde72cba1dedff",
+          "company": "9710dfa34181033bbd18826a",
+          "task": "58a915a8e3f0c0e5ae478254",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "bbd97876c8fde72cba1dedff",
+          "company": "0dbd03607776ed45cb88e1e3",
+          "task": "0685a3ff3dba72bddc7c8c14",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "a32e1f413bebc6fc6d81ce8d",
+          "company": "dbc49fbdda5c3f3713a4e822",
+          "task": "7b0fe0158bbe161ffe7dcdc0",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "a32e1f413bebc6fc6d81ce8d",
+          "company": "66d1d6d554d887b3196156d8",
+          "task": "5cc65bf56e5bf708968d3eb9",
+          "fit": 1,
+          "proof": 2,
+          "total": 2,
+          "ps": 100,
+          "cs": 100
+        },
+        {
+          "person": "a32e1f413bebc6fc6d81ce8d",
+          "company": "b4c42371fbce0a57cbad191a",
+          "task": "2b6c22d5f53e460398c7aae9",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "ef97ae21dfa6f5956e37cd47",
+          "company": "dbc49fbdda5c3f3713a4e822",
+          "task": "7b0fe0158bbe161ffe7dcdc0",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "ef97ae21dfa6f5956e37cd47",
+          "company": "66d1d6d554d887b3196156d8",
+          "task": "5cc65bf56e5bf708968d3eb9",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "ef97ae21dfa6f5956e37cd47",
+          "company": "b4c42371fbce0a57cbad191a",
+          "task": "661324cea021e3185e4a711d",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "bb10523a67bf990069da593a",
+          "company": "687dff2a6948c035250b99b3",
+          "task": "369158c5f19a4b3a8a20cac7",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "bb10523a67bf990069da593a",
+          "company": "5e28380668a37ea4f112546c",
+          "task": "6b656448156cadfd0eefa5eb",
+          "fit": 1,
+          "proof": 2,
+          "total": 2,
+          "ps": 100,
+          "cs": 100
+        },
+        {
+          "person": "bb10523a67bf990069da593a",
+          "company": "dbc49fbdda5c3f3713a4e822",
+          "task": "9dd85a010bb1dd110649c40a",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "bb10523a67bf990069da593a",
+          "company": "6ea1729582d51ed38aa4d2bf",
+          "task": "90045319ee03716d4c0dfb60",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "bb10523a67bf990069da593a",
+          "company": "7a0c2898348849cafd753701",
+          "task": "fb87149c967f93325d3e658b",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "bb10523a67bf990069da593a",
+          "company": "0dbd03607776ed45cb88e1e3",
+          "task": "0685a3ff3dba72bddc7c8c14",
+          "fit": 1,
+          "proof": 2,
+          "total": 2,
+          "ps": 100,
+          "cs": 100
+        },
+        {
+          "person": "eabe46fe27618c34490b6497",
+          "company": "6600814a81bba012275a1e5e",
+          "task": "6cbc670397b0a818e7ea76c6",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "eabe46fe27618c34490b6497",
+          "company": "6ea1729582d51ed38aa4d2bf",
+          "task": "aa025da9b71bcf9566712e5a",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "eabe46fe27618c34490b6497",
+          "company": "9710dfa34181033bbd18826a",
+          "task": "38413134d83a5d40523971ad",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "372e838ded43ed56fafb0a3a",
+          "company": "687dff2a6948c035250b99b3",
+          "task": "369158c5f19a4b3a8a20cac7",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "372e838ded43ed56fafb0a3a",
+          "company": "2e3aceaa00a77e95dbbaffae",
+          "task": "24bd522988b53824a5b108b4",
+          "fit": 1,
+          "proof": 2,
+          "total": 2,
+          "ps": 100,
+          "cs": 100
+        },
+        {
+          "person": "372e838ded43ed56fafb0a3a",
+          "company": "5e28380668a37ea4f112546c",
+          "task": "897c5ae4847f2713bd11f8b2",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "372e838ded43ed56fafb0a3a",
+          "company": "dbc49fbdda5c3f3713a4e822",
+          "task": "9dd85a010bb1dd110649c40a",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "372e838ded43ed56fafb0a3a",
+          "company": "6ea1729582d51ed38aa4d2bf",
+          "task": "90045319ee03716d4c0dfb60",
+          "fit": 1,
+          "proof": 2,
+          "total": 2,
+          "ps": 100,
+          "cs": 100
+        },
+        {
+          "person": "372e838ded43ed56fafb0a3a",
+          "company": "b4c42371fbce0a57cbad191a",
+          "task": "2b6c22d5f53e460398c7aae9",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "372e838ded43ed56fafb0a3a",
+          "company": "7a0c2898348849cafd753701",
+          "task": "fb87149c967f93325d3e658b",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "372e838ded43ed56fafb0a3a",
+          "company": "872d826def039fcd0fee7b47",
+          "task": "73b3f1d95f293f93d814a952",
+          "fit": 1,
+          "proof": 2,
+          "total": 2,
+          "ps": 100,
+          "cs": 100
+        },
+        {
+          "person": "372e838ded43ed56fafb0a3a",
+          "company": "0dbd03607776ed45cb88e1e3",
+          "task": "0685a3ff3dba72bddc7c8c14",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "ad77e569ad32137f37c16edf",
+          "company": "2e3aceaa00a77e95dbbaffae",
+          "task": "24bd522988b53824a5b108b4",
+          "fit": 1,
+          "proof": 2,
+          "total": 2,
+          "ps": 100,
+          "cs": 100
+        },
+        {
+          "person": "ad77e569ad32137f37c16edf",
+          "company": "872d826def039fcd0fee7b47",
+          "task": "73b3f1d95f293f93d814a952",
+          "fit": 1,
+          "proof": 2,
+          "total": 2,
+          "ps": 100,
+          "cs": 100
+        },
+        {
+          "person": "ffae31bc37cd3b0a411660e5",
+          "company": "687dff2a6948c035250b99b3",
+          "task": "dd895e7998009db2eb54dc74",
+          "fit": 1,
+          "proof": 2,
+          "total": 2,
+          "ps": 100,
+          "cs": 100
+        },
+        {
+          "person": "ffae31bc37cd3b0a411660e5",
+          "company": "6600814a81bba012275a1e5e",
+          "task": "2bf32fd0c5aa043e3bdee870",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "ffae31bc37cd3b0a411660e5",
+          "company": "5e28380668a37ea4f112546c",
+          "task": "897c5ae4847f2713bd11f8b2",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "ffae31bc37cd3b0a411660e5",
+          "company": "dbc49fbdda5c3f3713a4e822",
+          "task": "9dd85a010bb1dd110649c40a",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "ffae31bc37cd3b0a411660e5",
+          "company": "6ea1729582d51ed38aa4d2bf",
+          "task": "90045319ee03716d4c0dfb60",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "ffae31bc37cd3b0a411660e5",
+          "company": "7a0c2898348849cafd753701",
+          "task": "cd0625be5b75a94bc0a6a2d6",
+          "fit": 1,
+          "proof": 2,
+          "total": 2,
+          "ps": 100,
+          "cs": 100
+        },
+        {
+          "person": "ffae31bc37cd3b0a411660e5",
+          "company": "9710dfa34181033bbd18826a",
+          "task": "58a915a8e3f0c0e5ae478254",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "ffae31bc37cd3b0a411660e5",
+          "company": "0dbd03607776ed45cb88e1e3",
+          "task": "0685a3ff3dba72bddc7c8c14",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "ca9916568d69d40cea999267",
+          "company": "dbc49fbdda5c3f3713a4e822",
+          "task": "7b0fe0158bbe161ffe7dcdc0",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "ca9916568d69d40cea999267",
+          "company": "66d1d6d554d887b3196156d8",
+          "task": "5cc65bf56e5bf708968d3eb9",
+          "fit": 1,
+          "proof": 2,
+          "total": 2,
+          "ps": 100,
+          "cs": 100
+        },
+        {
+          "person": "ca9916568d69d40cea999267",
+          "company": "b4c42371fbce0a57cbad191a",
+          "task": "2b6c22d5f53e460398c7aae9",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "fb86d27a79d49f93eacb7fba",
+          "company": "687dff2a6948c035250b99b3",
+          "task": "369158c5f19a4b3a8a20cac7",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "fb86d27a79d49f93eacb7fba",
+          "company": "6600814a81bba012275a1e5e",
+          "task": "6cbc670397b0a818e7ea76c6",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "fb86d27a79d49f93eacb7fba",
+          "company": "5e28380668a37ea4f112546c",
+          "task": "897c5ae4847f2713bd11f8b2",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "fb86d27a79d49f93eacb7fba",
+          "company": "dbc49fbdda5c3f3713a4e822",
+          "task": "9dd85a010bb1dd110649c40a",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "fb86d27a79d49f93eacb7fba",
+          "company": "6ea1729582d51ed38aa4d2bf",
+          "task": "90045319ee03716d4c0dfb60",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "fb86d27a79d49f93eacb7fba",
+          "company": "7a0c2898348849cafd753701",
+          "task": "fb87149c967f93325d3e658b",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "fb86d27a79d49f93eacb7fba",
+          "company": "9710dfa34181033bbd18826a",
+          "task": "58a915a8e3f0c0e5ae478254",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "fb86d27a79d49f93eacb7fba",
+          "company": "0dbd03607776ed45cb88e1e3",
+          "task": "0685a3ff3dba72bddc7c8c14",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "e71a97d4690f75e747d7c1a2",
+          "company": "dbc49fbdda5c3f3713a4e822",
+          "task": "7b0fe0158bbe161ffe7dcdc0",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "e71a97d4690f75e747d7c1a2",
+          "company": "66d1d6d554d887b3196156d8",
+          "task": "5cc65bf56e5bf708968d3eb9",
+          "fit": 1,
+          "proof": 2,
+          "total": 2,
+          "ps": 100,
+          "cs": 100
+        },
+        {
+          "person": "e71a97d4690f75e747d7c1a2",
+          "company": "b4c42371fbce0a57cbad191a",
+          "task": "2b6c22d5f53e460398c7aae9",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "047eecd0110608ae7f8151a3",
+          "company": "dbc49fbdda5c3f3713a4e822",
+          "task": "7b0fe0158bbe161ffe7dcdc0",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "047eecd0110608ae7f8151a3",
+          "company": "66d1d6d554d887b3196156d8",
+          "task": "5cc65bf56e5bf708968d3eb9",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "047eecd0110608ae7f8151a3",
+          "company": "b4c42371fbce0a57cbad191a",
+          "task": "661324cea021e3185e4a711d",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "6269095a24572017f6644ec1",
+          "company": "687dff2a6948c035250b99b3",
+          "task": "369158c5f19a4b3a8a20cac7",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "6269095a24572017f6644ec1",
+          "company": "5e28380668a37ea4f112546c",
+          "task": "6b656448156cadfd0eefa5eb",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "6269095a24572017f6644ec1",
+          "company": "dbc49fbdda5c3f3713a4e822",
+          "task": "9dd85a010bb1dd110649c40a",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "6269095a24572017f6644ec1",
+          "company": "6ea1729582d51ed38aa4d2bf",
+          "task": "90045319ee03716d4c0dfb60",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "6269095a24572017f6644ec1",
+          "company": "7a0c2898348849cafd753701",
+          "task": "fb87149c967f93325d3e658b",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "6269095a24572017f6644ec1",
+          "company": "0dbd03607776ed45cb88e1e3",
+          "task": "0685a3ff3dba72bddc7c8c14",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "1774bf2db01b4002bc16353a",
+          "company": "6600814a81bba012275a1e5e",
+          "task": "6cbc670397b0a818e7ea76c6",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "1774bf2db01b4002bc16353a",
+          "company": "6ea1729582d51ed38aa4d2bf",
+          "task": "aa025da9b71bcf9566712e5a",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "1774bf2db01b4002bc16353a",
+          "company": "9710dfa34181033bbd18826a",
+          "task": "38413134d83a5d40523971ad",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "e437955ab8966499a552a412",
+          "company": "6600814a81bba012275a1e5e",
+          "task": "6cbc670397b0a818e7ea76c6",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "e437955ab8966499a552a412",
+          "company": "6ea1729582d51ed38aa4d2bf",
+          "task": "aa025da9b71bcf9566712e5a",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "e437955ab8966499a552a412",
+          "company": "9710dfa34181033bbd18826a",
+          "task": "38413134d83a5d40523971ad",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "2816dd134cd802c877bc0e48",
+          "company": "2e3aceaa00a77e95dbbaffae",
+          "task": "24bd522988b53824a5b108b4",
+          "fit": 1,
+          "proof": 2,
+          "total": 2,
+          "ps": 100,
+          "cs": 100
+        },
+        {
+          "person": "2816dd134cd802c877bc0e48",
+          "company": "872d826def039fcd0fee7b47",
+          "task": "73b3f1d95f293f93d814a952",
+          "fit": 1,
+          "proof": 2,
+          "total": 2,
+          "ps": 100,
+          "cs": 100
+        },
+        {
+          "person": "0e8d34dc2db51c05250e749e",
+          "company": "687dff2a6948c035250b99b3",
+          "task": "dd895e7998009db2eb54dc74",
+          "fit": 1,
+          "proof": 2,
+          "total": 2,
+          "ps": 100,
+          "cs": 100
+        },
+        {
+          "person": "0e8d34dc2db51c05250e749e",
+          "company": "6600814a81bba012275a1e5e",
+          "task": "2bf32fd0c5aa043e3bdee870",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "0e8d34dc2db51c05250e749e",
+          "company": "5e28380668a37ea4f112546c",
+          "task": "897c5ae4847f2713bd11f8b2",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "0e8d34dc2db51c05250e749e",
+          "company": "dbc49fbdda5c3f3713a4e822",
+          "task": "9dd85a010bb1dd110649c40a",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "0e8d34dc2db51c05250e749e",
+          "company": "6ea1729582d51ed38aa4d2bf",
+          "task": "90045319ee03716d4c0dfb60",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "0e8d34dc2db51c05250e749e",
+          "company": "7a0c2898348849cafd753701",
+          "task": "cd0625be5b75a94bc0a6a2d6",
+          "fit": 1,
+          "proof": 2,
+          "total": 2,
+          "ps": 100,
+          "cs": 100
+        },
+        {
+          "person": "0e8d34dc2db51c05250e749e",
+          "company": "9710dfa34181033bbd18826a",
+          "task": "58a915a8e3f0c0e5ae478254",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "0e8d34dc2db51c05250e749e",
+          "company": "0dbd03607776ed45cb88e1e3",
+          "task": "0685a3ff3dba72bddc7c8c14",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "2b0b140913cc2db4c7918569",
+          "company": "dbc49fbdda5c3f3713a4e822",
+          "task": "7b0fe0158bbe161ffe7dcdc0",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "2b0b140913cc2db4c7918569",
+          "company": "66d1d6d554d887b3196156d8",
+          "task": "5cc65bf56e5bf708968d3eb9",
+          "fit": 1,
+          "proof": 2,
+          "total": 2,
+          "ps": 100,
+          "cs": 100
+        },
+        {
+          "person": "2b0b140913cc2db4c7918569",
+          "company": "b4c42371fbce0a57cbad191a",
+          "task": "2b6c22d5f53e460398c7aae9",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "4caa93f91aff2168c7ee0c95",
+          "company": "687dff2a6948c035250b99b3",
+          "task": "369158c5f19a4b3a8a20cac7",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "4caa93f91aff2168c7ee0c95",
+          "company": "6600814a81bba012275a1e5e",
+          "task": "6cbc670397b0a818e7ea76c6",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "4caa93f91aff2168c7ee0c95",
+          "company": "5e28380668a37ea4f112546c",
+          "task": "897c5ae4847f2713bd11f8b2",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "4caa93f91aff2168c7ee0c95",
+          "company": "dbc49fbdda5c3f3713a4e822",
+          "task": "9dd85a010bb1dd110649c40a",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "4caa93f91aff2168c7ee0c95",
+          "company": "6ea1729582d51ed38aa4d2bf",
+          "task": "90045319ee03716d4c0dfb60",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "4caa93f91aff2168c7ee0c95",
+          "company": "7a0c2898348849cafd753701",
+          "task": "fb87149c967f93325d3e658b",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "4caa93f91aff2168c7ee0c95",
+          "company": "9710dfa34181033bbd18826a",
+          "task": "58a915a8e3f0c0e5ae478254",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "4caa93f91aff2168c7ee0c95",
+          "company": "0dbd03607776ed45cb88e1e3",
+          "task": "0685a3ff3dba72bddc7c8c14",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "0e44065e7f8a73aa3a70cf0b",
+          "company": "dbc49fbdda5c3f3713a4e822",
+          "task": "7b0fe0158bbe161ffe7dcdc0",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "0e44065e7f8a73aa3a70cf0b",
+          "company": "66d1d6d554d887b3196156d8",
+          "task": "5cc65bf56e5bf708968d3eb9",
+          "fit": 1,
+          "proof": 2,
+          "total": 2,
+          "ps": 100,
+          "cs": 100
+        },
+        {
+          "person": "0e44065e7f8a73aa3a70cf0b",
+          "company": "b4c42371fbce0a57cbad191a",
+          "task": "2b6c22d5f53e460398c7aae9",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "fb510d076837505cf68d40d0",
+          "company": "dbc49fbdda5c3f3713a4e822",
+          "task": "7b0fe0158bbe161ffe7dcdc0",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "fb510d076837505cf68d40d0",
+          "company": "66d1d6d554d887b3196156d8",
+          "task": "5cc65bf56e5bf708968d3eb9",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "fb510d076837505cf68d40d0",
+          "company": "b4c42371fbce0a57cbad191a",
+          "task": "661324cea021e3185e4a711d",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "7058e1515548897cfaec551f",
+          "company": "687dff2a6948c035250b99b3",
+          "task": "369158c5f19a4b3a8a20cac7",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "7058e1515548897cfaec551f",
+          "company": "5e28380668a37ea4f112546c",
+          "task": "6b656448156cadfd0eefa5eb",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "7058e1515548897cfaec551f",
+          "company": "dbc49fbdda5c3f3713a4e822",
+          "task": "9dd85a010bb1dd110649c40a",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "7058e1515548897cfaec551f",
+          "company": "6ea1729582d51ed38aa4d2bf",
+          "task": "90045319ee03716d4c0dfb60",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "7058e1515548897cfaec551f",
+          "company": "7a0c2898348849cafd753701",
+          "task": "fb87149c967f93325d3e658b",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "7058e1515548897cfaec551f",
+          "company": "0dbd03607776ed45cb88e1e3",
+          "task": "0685a3ff3dba72bddc7c8c14",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "838ef0db87e634a0abe81a90",
+          "company": "687dff2a6948c035250b99b3",
+          "task": "369158c5f19a4b3a8a20cac7",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "838ef0db87e634a0abe81a90",
+          "company": "5e28380668a37ea4f112546c",
+          "task": "6b656448156cadfd0eefa5eb",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "838ef0db87e634a0abe81a90",
+          "company": "dbc49fbdda5c3f3713a4e822",
+          "task": "9dd85a010bb1dd110649c40a",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "838ef0db87e634a0abe81a90",
+          "company": "6ea1729582d51ed38aa4d2bf",
+          "task": "90045319ee03716d4c0dfb60",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "838ef0db87e634a0abe81a90",
+          "company": "7a0c2898348849cafd753701",
+          "task": "fb87149c967f93325d3e658b",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "838ef0db87e634a0abe81a90",
+          "company": "0dbd03607776ed45cb88e1e3",
+          "task": "0685a3ff3dba72bddc7c8c14",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "e13cf0872fdece559fdeba23",
+          "company": "6600814a81bba012275a1e5e",
+          "task": "6cbc670397b0a818e7ea76c6",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "e13cf0872fdece559fdeba23",
+          "company": "6ea1729582d51ed38aa4d2bf",
+          "task": "aa025da9b71bcf9566712e5a",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "e13cf0872fdece559fdeba23",
+          "company": "9710dfa34181033bbd18826a",
+          "task": "38413134d83a5d40523971ad",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "357e7d8a7d4140afbaaa234b",
+          "company": "2e3aceaa00a77e95dbbaffae",
+          "task": "24bd522988b53824a5b108b4",
+          "fit": 1,
+          "proof": 2,
+          "total": 2,
+          "ps": 100,
+          "cs": 100
+        },
+        {
+          "person": "357e7d8a7d4140afbaaa234b",
+          "company": "872d826def039fcd0fee7b47",
+          "task": "73b3f1d95f293f93d814a952",
+          "fit": 1,
+          "proof": 2,
+          "total": 2,
+          "ps": 100,
+          "cs": 100
+        },
+        {
+          "person": "df11590ccc82004fd14777a7",
+          "company": "687dff2a6948c035250b99b3",
+          "task": "dd895e7998009db2eb54dc74",
+          "fit": 1,
+          "proof": 2,
+          "total": 2,
+          "ps": 100,
+          "cs": 100
+        },
+        {
+          "person": "df11590ccc82004fd14777a7",
+          "company": "6600814a81bba012275a1e5e",
+          "task": "2bf32fd0c5aa043e3bdee870",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "df11590ccc82004fd14777a7",
+          "company": "5e28380668a37ea4f112546c",
+          "task": "897c5ae4847f2713bd11f8b2",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "df11590ccc82004fd14777a7",
+          "company": "dbc49fbdda5c3f3713a4e822",
+          "task": "9dd85a010bb1dd110649c40a",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "df11590ccc82004fd14777a7",
+          "company": "6ea1729582d51ed38aa4d2bf",
+          "task": "90045319ee03716d4c0dfb60",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "df11590ccc82004fd14777a7",
+          "company": "7a0c2898348849cafd753701",
+          "task": "cd0625be5b75a94bc0a6a2d6",
+          "fit": 1,
+          "proof": 2,
+          "total": 2,
+          "ps": 100,
+          "cs": 100
+        },
+        {
+          "person": "df11590ccc82004fd14777a7",
+          "company": "9710dfa34181033bbd18826a",
+          "task": "58a915a8e3f0c0e5ae478254",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "df11590ccc82004fd14777a7",
+          "company": "0dbd03607776ed45cb88e1e3",
+          "task": "0685a3ff3dba72bddc7c8c14",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "5cf361b17145fff1c1199f1b",
+          "company": "2e3aceaa00a77e95dbbaffae",
+          "task": "2ec4952f51afd570158eef48",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "5cf361b17145fff1c1199f1b",
+          "company": "dbc49fbdda5c3f3713a4e822",
+          "task": "7b0fe0158bbe161ffe7dcdc0",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "5cf361b17145fff1c1199f1b",
+          "company": "66d1d6d554d887b3196156d8",
+          "task": "5cc65bf56e5bf708968d3eb9",
+          "fit": 1,
+          "proof": 2,
+          "total": 2,
+          "ps": 100,
+          "cs": 100
+        },
+        {
+          "person": "5cf361b17145fff1c1199f1b",
+          "company": "6ea1729582d51ed38aa4d2bf",
+          "task": "90045319ee03716d4c0dfb60",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "5cf361b17145fff1c1199f1b",
+          "company": "b4c42371fbce0a57cbad191a",
+          "task": "2b6c22d5f53e460398c7aae9",
+          "fit": 1,
+          "proof": 2,
+          "total": 2,
+          "ps": 100,
+          "cs": 100
+        },
+        {
+          "person": "5cf361b17145fff1c1199f1b",
+          "company": "872d826def039fcd0fee7b47",
+          "task": "e8d8b98bc209a7149dab3212",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "ed09b012383b14675b4f33d4",
+          "company": "687dff2a6948c035250b99b3",
+          "task": "369158c5f19a4b3a8a20cac7",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "ed09b012383b14675b4f33d4",
+          "company": "2e3aceaa00a77e95dbbaffae",
+          "task": "a9ee016304855235174eacf5",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "ed09b012383b14675b4f33d4",
+          "company": "6600814a81bba012275a1e5e",
+          "task": "6cbc670397b0a818e7ea76c6",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "ed09b012383b14675b4f33d4",
+          "company": "5e28380668a37ea4f112546c",
+          "task": "897c5ae4847f2713bd11f8b2",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "ed09b012383b14675b4f33d4",
+          "company": "dbc49fbdda5c3f3713a4e822",
+          "task": "9dd85a010bb1dd110649c40a",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "ed09b012383b14675b4f33d4",
+          "company": "6ea1729582d51ed38aa4d2bf",
+          "task": "aa025da9b71bcf9566712e5a",
+          "fit": 1,
+          "proof": 2,
+          "total": 2,
+          "ps": 100,
+          "cs": 100
+        },
+        {
+          "person": "ed09b012383b14675b4f33d4",
+          "company": "7a0c2898348849cafd753701",
+          "task": "fb87149c967f93325d3e658b",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "ed09b012383b14675b4f33d4",
+          "company": "872d826def039fcd0fee7b47",
+          "task": "f39f9a57e0e64c131299672b",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "ed09b012383b14675b4f33d4",
+          "company": "9710dfa34181033bbd18826a",
+          "task": "58a915a8e3f0c0e5ae478254",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "ed09b012383b14675b4f33d4",
+          "company": "0dbd03607776ed45cb88e1e3",
+          "task": "0685a3ff3dba72bddc7c8c14",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "6f59ca637a3123f57c85e0a1",
+          "company": "dbc49fbdda5c3f3713a4e822",
+          "task": "7b0fe0158bbe161ffe7dcdc0",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "6f59ca637a3123f57c85e0a1",
+          "company": "66d1d6d554d887b3196156d8",
+          "task": "5cc65bf56e5bf708968d3eb9",
+          "fit": 1,
+          "proof": 2,
+          "total": 2,
+          "ps": 100,
+          "cs": 100
+        },
+        {
+          "person": "6f59ca637a3123f57c85e0a1",
+          "company": "b4c42371fbce0a57cbad191a",
+          "task": "2b6c22d5f53e460398c7aae9",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "1b57c3a5fd7cfc458f9520e5",
+          "company": "dbc49fbdda5c3f3713a4e822",
+          "task": "7b0fe0158bbe161ffe7dcdc0",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "1b57c3a5fd7cfc458f9520e5",
+          "company": "66d1d6d554d887b3196156d8",
+          "task": "5cc65bf56e5bf708968d3eb9",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "1b57c3a5fd7cfc458f9520e5",
+          "company": "b4c42371fbce0a57cbad191a",
+          "task": "661324cea021e3185e4a711d",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "6378b06f24a4031eb3c7c289",
+          "company": "dbc49fbdda5c3f3713a4e822",
+          "task": "7b0fe0158bbe161ffe7dcdc0",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "6378b06f24a4031eb3c7c289",
+          "company": "66d1d6d554d887b3196156d8",
+          "task": "5cc65bf56e5bf708968d3eb9",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "6378b06f24a4031eb3c7c289",
+          "company": "b4c42371fbce0a57cbad191a",
+          "task": "661324cea021e3185e4a711d",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "1417f46ec1088701a54c96b8",
+          "company": "687dff2a6948c035250b99b3",
+          "task": "369158c5f19a4b3a8a20cac7",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "1417f46ec1088701a54c96b8",
+          "company": "5e28380668a37ea4f112546c",
+          "task": "6b656448156cadfd0eefa5eb",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "1417f46ec1088701a54c96b8",
+          "company": "dbc49fbdda5c3f3713a4e822",
+          "task": "9dd85a010bb1dd110649c40a",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "1417f46ec1088701a54c96b8",
+          "company": "6ea1729582d51ed38aa4d2bf",
+          "task": "90045319ee03716d4c0dfb60",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "1417f46ec1088701a54c96b8",
+          "company": "7a0c2898348849cafd753701",
+          "task": "fb87149c967f93325d3e658b",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "1417f46ec1088701a54c96b8",
+          "company": "0dbd03607776ed45cb88e1e3",
+          "task": "0685a3ff3dba72bddc7c8c14",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "2834e29779496c89dc649722",
+          "company": "6600814a81bba012275a1e5e",
+          "task": "6cbc670397b0a818e7ea76c6",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "2834e29779496c89dc649722",
+          "company": "6ea1729582d51ed38aa4d2bf",
+          "task": "aa025da9b71bcf9566712e5a",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "2834e29779496c89dc649722",
+          "company": "9710dfa34181033bbd18826a",
+          "task": "38413134d83a5d40523971ad",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "7cc2cbd6c4e636f7d3fc2b30",
+          "company": "2e3aceaa00a77e95dbbaffae",
+          "task": "24bd522988b53824a5b108b4",
+          "fit": 1,
+          "proof": 2,
+          "total": 2,
+          "ps": 100,
+          "cs": 100
+        },
+        {
+          "person": "7cc2cbd6c4e636f7d3fc2b30",
+          "company": "872d826def039fcd0fee7b47",
+          "task": "73b3f1d95f293f93d814a952",
+          "fit": 1,
+          "proof": 2,
+          "total": 2,
+          "ps": 100,
+          "cs": 100
+        },
+        {
+          "person": "0e282c4dad382bd9e9af3e90",
+          "company": "687dff2a6948c035250b99b3",
+          "task": "dd895e7998009db2eb54dc74",
+          "fit": 1,
+          "proof": 2,
+          "total": 2,
+          "ps": 100,
+          "cs": 100
+        },
+        {
+          "person": "0e282c4dad382bd9e9af3e90",
+          "company": "6600814a81bba012275a1e5e",
+          "task": "2bf32fd0c5aa043e3bdee870",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "0e282c4dad382bd9e9af3e90",
+          "company": "7a0c2898348849cafd753701",
+          "task": "cd0625be5b75a94bc0a6a2d6",
+          "fit": 1,
+          "proof": 2,
+          "total": 2,
+          "ps": 100,
+          "cs": 100
+        },
+        {
+          "person": "0e282c4dad382bd9e9af3e90",
+          "company": "9710dfa34181033bbd18826a",
+          "task": "58a915a8e3f0c0e5ae478254",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "1ab022f1e1466aa78f31aeee",
+          "company": "2e3aceaa00a77e95dbbaffae",
+          "task": "2ec4952f51afd570158eef48",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "1ab022f1e1466aa78f31aeee",
+          "company": "dbc49fbdda5c3f3713a4e822",
+          "task": "7b0fe0158bbe161ffe7dcdc0",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "1ab022f1e1466aa78f31aeee",
+          "company": "66d1d6d554d887b3196156d8",
+          "task": "5cc65bf56e5bf708968d3eb9",
+          "fit": 1,
+          "proof": 2,
+          "total": 2,
+          "ps": 100,
+          "cs": 100
+        },
+        {
+          "person": "1ab022f1e1466aa78f31aeee",
+          "company": "6ea1729582d51ed38aa4d2bf",
+          "task": "90045319ee03716d4c0dfb60",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "1ab022f1e1466aa78f31aeee",
+          "company": "b4c42371fbce0a57cbad191a",
+          "task": "2b6c22d5f53e460398c7aae9",
+          "fit": 1,
+          "proof": 2,
+          "total": 2,
+          "ps": 100,
+          "cs": 100
+        },
+        {
+          "person": "1ab022f1e1466aa78f31aeee",
+          "company": "872d826def039fcd0fee7b47",
+          "task": "e8d8b98bc209a7149dab3212",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "9437c930cdd235bf0499bbd7",
+          "company": "2e3aceaa00a77e95dbbaffae",
+          "task": "a9ee016304855235174eacf5",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "9437c930cdd235bf0499bbd7",
+          "company": "6600814a81bba012275a1e5e",
+          "task": "6cbc670397b0a818e7ea76c6",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "9437c930cdd235bf0499bbd7",
+          "company": "6ea1729582d51ed38aa4d2bf",
+          "task": "aa025da9b71bcf9566712e5a",
+          "fit": 1,
+          "proof": 2,
+          "total": 2,
+          "ps": 100,
+          "cs": 100
+        },
+        {
+          "person": "9437c930cdd235bf0499bbd7",
+          "company": "872d826def039fcd0fee7b47",
+          "task": "f39f9a57e0e64c131299672b",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "9437c930cdd235bf0499bbd7",
+          "company": "9710dfa34181033bbd18826a",
+          "task": "58a915a8e3f0c0e5ae478254",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "17d7f48982935d1ed80d5610",
+          "company": "dbc49fbdda5c3f3713a4e822",
+          "task": "7b0fe0158bbe161ffe7dcdc0",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "17d7f48982935d1ed80d5610",
+          "company": "66d1d6d554d887b3196156d8",
+          "task": "5cc65bf56e5bf708968d3eb9",
+          "fit": 1,
+          "proof": 2,
+          "total": 2,
+          "ps": 100,
+          "cs": 100
+        },
+        {
+          "person": "17d7f48982935d1ed80d5610",
+          "company": "b4c42371fbce0a57cbad191a",
+          "task": "2b6c22d5f53e460398c7aae9",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "ea7db8cc36527ba922a5fe83",
+          "company": "dbc49fbdda5c3f3713a4e822",
+          "task": "7b0fe0158bbe161ffe7dcdc0",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "ea7db8cc36527ba922a5fe83",
+          "company": "66d1d6d554d887b3196156d8",
+          "task": "5cc65bf56e5bf708968d3eb9",
+          "fit": 1,
+          "proof": 2,
+          "total": 2,
+          "ps": 100,
+          "cs": 100
+        },
+        {
+          "person": "ea7db8cc36527ba922a5fe83",
+          "company": "b4c42371fbce0a57cbad191a",
+          "task": "2b6c22d5f53e460398c7aae9",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "26437371cff057fea21aef29",
+          "company": "dbc49fbdda5c3f3713a4e822",
+          "task": "7b0fe0158bbe161ffe7dcdc0",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "26437371cff057fea21aef29",
+          "company": "66d1d6d554d887b3196156d8",
+          "task": "5cc65bf56e5bf708968d3eb9",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "26437371cff057fea21aef29",
+          "company": "b4c42371fbce0a57cbad191a",
+          "task": "661324cea021e3185e4a711d",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "12142b182ca6ad9a11469914",
+          "company": "687dff2a6948c035250b99b3",
+          "task": "369158c5f19a4b3a8a20cac7",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "12142b182ca6ad9a11469914",
+          "company": "5e28380668a37ea4f112546c",
+          "task": "6b656448156cadfd0eefa5eb",
+          "fit": 1,
+          "proof": 2,
+          "total": 2,
+          "ps": 100,
+          "cs": 100
+        },
+        {
+          "person": "12142b182ca6ad9a11469914",
+          "company": "dbc49fbdda5c3f3713a4e822",
+          "task": "9dd85a010bb1dd110649c40a",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "12142b182ca6ad9a11469914",
+          "company": "6ea1729582d51ed38aa4d2bf",
+          "task": "90045319ee03716d4c0dfb60",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "12142b182ca6ad9a11469914",
+          "company": "7a0c2898348849cafd753701",
+          "task": "fb87149c967f93325d3e658b",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "12142b182ca6ad9a11469914",
+          "company": "0dbd03607776ed45cb88e1e3",
+          "task": "0685a3ff3dba72bddc7c8c14",
+          "fit": 1,
+          "proof": 2,
+          "total": 2,
+          "ps": 100,
+          "cs": 100
+        },
+        {
+          "person": "c4c23837e1e4c9397c7ecb1f",
+          "company": "6600814a81bba012275a1e5e",
+          "task": "6cbc670397b0a818e7ea76c6",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "c4c23837e1e4c9397c7ecb1f",
+          "company": "6ea1729582d51ed38aa4d2bf",
+          "task": "aa025da9b71bcf9566712e5a",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "c4c23837e1e4c9397c7ecb1f",
+          "company": "9710dfa34181033bbd18826a",
+          "task": "38413134d83a5d40523971ad",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "c8f2dc001ad988a1d2b37754",
+          "company": "2e3aceaa00a77e95dbbaffae",
+          "task": "24bd522988b53824a5b108b4",
+          "fit": 1,
+          "proof": 2,
+          "total": 2,
+          "ps": 100,
+          "cs": 100
+        },
+        {
+          "person": "c8f2dc001ad988a1d2b37754",
+          "company": "872d826def039fcd0fee7b47",
+          "task": "73b3f1d95f293f93d814a952",
+          "fit": 1,
+          "proof": 2,
+          "total": 2,
+          "ps": 100,
+          "cs": 100
+        },
+        {
+          "person": "996f9472e307e239c77bd129",
+          "company": "687dff2a6948c035250b99b3",
+          "task": "dd895e7998009db2eb54dc74",
+          "fit": 1,
+          "proof": 2,
+          "total": 2,
+          "ps": 100,
+          "cs": 100
+        },
+        {
+          "person": "996f9472e307e239c77bd129",
+          "company": "6600814a81bba012275a1e5e",
+          "task": "2bf32fd0c5aa043e3bdee870",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "996f9472e307e239c77bd129",
+          "company": "5e28380668a37ea4f112546c",
+          "task": "897c5ae4847f2713bd11f8b2",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "996f9472e307e239c77bd129",
+          "company": "dbc49fbdda5c3f3713a4e822",
+          "task": "9dd85a010bb1dd110649c40a",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "996f9472e307e239c77bd129",
+          "company": "6ea1729582d51ed38aa4d2bf",
+          "task": "90045319ee03716d4c0dfb60",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "996f9472e307e239c77bd129",
+          "company": "7a0c2898348849cafd753701",
+          "task": "cd0625be5b75a94bc0a6a2d6",
+          "fit": 1,
+          "proof": 2,
+          "total": 2,
+          "ps": 100,
+          "cs": 100
+        },
+        {
+          "person": "996f9472e307e239c77bd129",
+          "company": "9710dfa34181033bbd18826a",
+          "task": "58a915a8e3f0c0e5ae478254",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "996f9472e307e239c77bd129",
+          "company": "0dbd03607776ed45cb88e1e3",
+          "task": "0685a3ff3dba72bddc7c8c14",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "9075a4c3c4b3b9442152bea6",
+          "company": "2e3aceaa00a77e95dbbaffae",
+          "task": "2ec4952f51afd570158eef48",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "9075a4c3c4b3b9442152bea6",
+          "company": "dbc49fbdda5c3f3713a4e822",
+          "task": "7b0fe0158bbe161ffe7dcdc0",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "9075a4c3c4b3b9442152bea6",
+          "company": "66d1d6d554d887b3196156d8",
+          "task": "5cc65bf56e5bf708968d3eb9",
+          "fit": 1,
+          "proof": 2,
+          "total": 2,
+          "ps": 100,
+          "cs": 100
+        },
+        {
+          "person": "9075a4c3c4b3b9442152bea6",
+          "company": "6ea1729582d51ed38aa4d2bf",
+          "task": "90045319ee03716d4c0dfb60",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "9075a4c3c4b3b9442152bea6",
+          "company": "b4c42371fbce0a57cbad191a",
+          "task": "2b6c22d5f53e460398c7aae9",
+          "fit": 1,
+          "proof": 2,
+          "total": 2,
+          "ps": 100,
+          "cs": 100
+        },
+        {
+          "person": "9075a4c3c4b3b9442152bea6",
+          "company": "872d826def039fcd0fee7b47",
+          "task": "e8d8b98bc209a7149dab3212",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "7780298dd319113a2d78cfd7",
+          "company": "687dff2a6948c035250b99b3",
+          "task": "369158c5f19a4b3a8a20cac7",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "7780298dd319113a2d78cfd7",
+          "company": "2e3aceaa00a77e95dbbaffae",
+          "task": "a9ee016304855235174eacf5",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "7780298dd319113a2d78cfd7",
+          "company": "6600814a81bba012275a1e5e",
+          "task": "6cbc670397b0a818e7ea76c6",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "7780298dd319113a2d78cfd7",
+          "company": "5e28380668a37ea4f112546c",
+          "task": "897c5ae4847f2713bd11f8b2",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "7780298dd319113a2d78cfd7",
+          "company": "dbc49fbdda5c3f3713a4e822",
+          "task": "9dd85a010bb1dd110649c40a",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "7780298dd319113a2d78cfd7",
+          "company": "6ea1729582d51ed38aa4d2bf",
+          "task": "aa025da9b71bcf9566712e5a",
+          "fit": 1,
+          "proof": 2,
+          "total": 2,
+          "ps": 100,
+          "cs": 100
+        },
+        {
+          "person": "7780298dd319113a2d78cfd7",
+          "company": "7a0c2898348849cafd753701",
+          "task": "fb87149c967f93325d3e658b",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "7780298dd319113a2d78cfd7",
+          "company": "872d826def039fcd0fee7b47",
+          "task": "f39f9a57e0e64c131299672b",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "7780298dd319113a2d78cfd7",
+          "company": "9710dfa34181033bbd18826a",
+          "task": "58a915a8e3f0c0e5ae478254",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "7780298dd319113a2d78cfd7",
+          "company": "0dbd03607776ed45cb88e1e3",
+          "task": "0685a3ff3dba72bddc7c8c14",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "d576025004703e6ac63f7e3e",
+          "company": "687dff2a6948c035250b99b3",
+          "task": "369158c5f19a4b3a8a20cac7",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "d576025004703e6ac63f7e3e",
+          "company": "6600814a81bba012275a1e5e",
+          "task": "6cbc670397b0a818e7ea76c6",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "d576025004703e6ac63f7e3e",
+          "company": "5e28380668a37ea4f112546c",
+          "task": "897c5ae4847f2713bd11f8b2",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "d576025004703e6ac63f7e3e",
+          "company": "dbc49fbdda5c3f3713a4e822",
+          "task": "9dd85a010bb1dd110649c40a",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "d576025004703e6ac63f7e3e",
+          "company": "6ea1729582d51ed38aa4d2bf",
+          "task": "90045319ee03716d4c0dfb60",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "d576025004703e6ac63f7e3e",
+          "company": "7a0c2898348849cafd753701",
+          "task": "fb87149c967f93325d3e658b",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "d576025004703e6ac63f7e3e",
+          "company": "9710dfa34181033bbd18826a",
+          "task": "58a915a8e3f0c0e5ae478254",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "d576025004703e6ac63f7e3e",
+          "company": "0dbd03607776ed45cb88e1e3",
+          "task": "0685a3ff3dba72bddc7c8c14",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "82d6017749d32f42d8b32eb3",
+          "company": "dbc49fbdda5c3f3713a4e822",
+          "task": "7b0fe0158bbe161ffe7dcdc0",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "82d6017749d32f42d8b32eb3",
+          "company": "66d1d6d554d887b3196156d8",
+          "task": "5cc65bf56e5bf708968d3eb9",
+          "fit": 1,
+          "proof": 2,
+          "total": 2,
+          "ps": 100,
+          "cs": 100
+        },
+        {
+          "person": "82d6017749d32f42d8b32eb3",
+          "company": "b4c42371fbce0a57cbad191a",
+          "task": "2b6c22d5f53e460398c7aae9",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "5a8b1d84378994389ebf7321",
+          "company": "dbc49fbdda5c3f3713a4e822",
+          "task": "7b0fe0158bbe161ffe7dcdc0",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "5a8b1d84378994389ebf7321",
+          "company": "66d1d6d554d887b3196156d8",
+          "task": "5cc65bf56e5bf708968d3eb9",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "5a8b1d84378994389ebf7321",
+          "company": "b4c42371fbce0a57cbad191a",
+          "task": "661324cea021e3185e4a711d",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "fb01a44faff6b101c5bce3fa",
+          "company": "687dff2a6948c035250b99b3",
+          "task": "369158c5f19a4b3a8a20cac7",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "fb01a44faff6b101c5bce3fa",
+          "company": "5e28380668a37ea4f112546c",
+          "task": "6b656448156cadfd0eefa5eb",
+          "fit": 1,
+          "proof": 2,
+          "total": 2,
+          "ps": 100,
+          "cs": 100
+        },
+        {
+          "person": "fb01a44faff6b101c5bce3fa",
+          "company": "dbc49fbdda5c3f3713a4e822",
+          "task": "9dd85a010bb1dd110649c40a",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "fb01a44faff6b101c5bce3fa",
+          "company": "6ea1729582d51ed38aa4d2bf",
+          "task": "90045319ee03716d4c0dfb60",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "fb01a44faff6b101c5bce3fa",
+          "company": "7a0c2898348849cafd753701",
+          "task": "fb87149c967f93325d3e658b",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "fb01a44faff6b101c5bce3fa",
+          "company": "0dbd03607776ed45cb88e1e3",
+          "task": "0685a3ff3dba72bddc7c8c14",
+          "fit": 1,
+          "proof": 2,
+          "total": 2,
+          "ps": 100,
+          "cs": 100
+        },
+        {
+          "person": "553100910622c0c94a0e05cc",
+          "company": "6600814a81bba012275a1e5e",
+          "task": "6cbc670397b0a818e7ea76c6",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "553100910622c0c94a0e05cc",
+          "company": "6ea1729582d51ed38aa4d2bf",
+          "task": "aa025da9b71bcf9566712e5a",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "553100910622c0c94a0e05cc",
+          "company": "9710dfa34181033bbd18826a",
+          "task": "38413134d83a5d40523971ad",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "6f2c8ed5e732d705e6bfe78a",
+          "company": "2e3aceaa00a77e95dbbaffae",
+          "task": "24bd522988b53824a5b108b4",
+          "fit": 1,
+          "proof": 2,
+          "total": 2,
+          "ps": 100,
+          "cs": 100
+        },
+        {
+          "person": "6f2c8ed5e732d705e6bfe78a",
+          "company": "872d826def039fcd0fee7b47",
+          "task": "73b3f1d95f293f93d814a952",
+          "fit": 1,
+          "proof": 2,
+          "total": 2,
+          "ps": 100,
+          "cs": 100
+        },
+        {
+          "person": "dff90c8049fc5cd0f81c6025",
+          "company": "687dff2a6948c035250b99b3",
+          "task": "dd895e7998009db2eb54dc74",
+          "fit": 1,
+          "proof": 2,
+          "total": 2,
+          "ps": 100,
+          "cs": 100
+        },
+        {
+          "person": "dff90c8049fc5cd0f81c6025",
+          "company": "6600814a81bba012275a1e5e",
+          "task": "2bf32fd0c5aa043e3bdee870",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "dff90c8049fc5cd0f81c6025",
+          "company": "5e28380668a37ea4f112546c",
+          "task": "897c5ae4847f2713bd11f8b2",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "dff90c8049fc5cd0f81c6025",
+          "company": "dbc49fbdda5c3f3713a4e822",
+          "task": "9dd85a010bb1dd110649c40a",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "dff90c8049fc5cd0f81c6025",
+          "company": "6ea1729582d51ed38aa4d2bf",
+          "task": "90045319ee03716d4c0dfb60",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "dff90c8049fc5cd0f81c6025",
+          "company": "7a0c2898348849cafd753701",
+          "task": "cd0625be5b75a94bc0a6a2d6",
+          "fit": 1,
+          "proof": 2,
+          "total": 2,
+          "ps": 100,
+          "cs": 100
+        },
+        {
+          "person": "dff90c8049fc5cd0f81c6025",
+          "company": "9710dfa34181033bbd18826a",
+          "task": "58a915a8e3f0c0e5ae478254",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "dff90c8049fc5cd0f81c6025",
+          "company": "0dbd03607776ed45cb88e1e3",
+          "task": "0685a3ff3dba72bddc7c8c14",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "3fe20c37673ade6a7fee06b1",
+          "company": "2e3aceaa00a77e95dbbaffae",
+          "task": "2ec4952f51afd570158eef48",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "3fe20c37673ade6a7fee06b1",
+          "company": "dbc49fbdda5c3f3713a4e822",
+          "task": "7b0fe0158bbe161ffe7dcdc0",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "3fe20c37673ade6a7fee06b1",
+          "company": "66d1d6d554d887b3196156d8",
+          "task": "5cc65bf56e5bf708968d3eb9",
+          "fit": 1,
+          "proof": 2,
+          "total": 2,
+          "ps": 100,
+          "cs": 100
+        },
+        {
+          "person": "3fe20c37673ade6a7fee06b1",
+          "company": "6ea1729582d51ed38aa4d2bf",
+          "task": "90045319ee03716d4c0dfb60",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "3fe20c37673ade6a7fee06b1",
+          "company": "b4c42371fbce0a57cbad191a",
+          "task": "2b6c22d5f53e460398c7aae9",
+          "fit": 1,
+          "proof": 2,
+          "total": 2,
+          "ps": 100,
+          "cs": 100
+        },
+        {
+          "person": "3fe20c37673ade6a7fee06b1",
+          "company": "872d826def039fcd0fee7b47",
+          "task": "e8d8b98bc209a7149dab3212",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "2bde8f9b764938923b5fd08e",
+          "company": "687dff2a6948c035250b99b3",
+          "task": "369158c5f19a4b3a8a20cac7",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "2bde8f9b764938923b5fd08e",
+          "company": "2e3aceaa00a77e95dbbaffae",
+          "task": "2ec4952f51afd570158eef48",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "2bde8f9b764938923b5fd08e",
+          "company": "5e28380668a37ea4f112546c",
+          "task": "897c5ae4847f2713bd11f8b2",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "2bde8f9b764938923b5fd08e",
+          "company": "dbc49fbdda5c3f3713a4e822",
+          "task": "7b0fe0158bbe161ffe7dcdc0",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "2bde8f9b764938923b5fd08e",
+          "company": "66d1d6d554d887b3196156d8",
+          "task": "5cc65bf56e5bf708968d3eb9",
+          "fit": 1,
+          "proof": 2,
+          "total": 2,
+          "ps": 100,
+          "cs": 100
+        },
+        {
+          "person": "2bde8f9b764938923b5fd08e",
+          "company": "6ea1729582d51ed38aa4d2bf",
+          "task": "90045319ee03716d4c0dfb60",
+          "fit": 1,
+          "proof": 2,
+          "total": 2,
+          "ps": 100,
+          "cs": 100
+        },
+        {
+          "person": "2bde8f9b764938923b5fd08e",
+          "company": "b4c42371fbce0a57cbad191a",
+          "task": "2b6c22d5f53e460398c7aae9",
+          "fit": 1,
+          "proof": 2,
+          "total": 2,
+          "ps": 100,
+          "cs": 100
+        },
+        {
+          "person": "2bde8f9b764938923b5fd08e",
+          "company": "7a0c2898348849cafd753701",
+          "task": "fb87149c967f93325d3e658b",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "2bde8f9b764938923b5fd08e",
+          "company": "872d826def039fcd0fee7b47",
+          "task": "e8d8b98bc209a7149dab3212",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "2bde8f9b764938923b5fd08e",
+          "company": "0dbd03607776ed45cb88e1e3",
+          "task": "0685a3ff3dba72bddc7c8c14",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "f20798aa7d25447fbb9523d3",
+          "company": "687dff2a6948c035250b99b3",
+          "task": "369158c5f19a4b3a8a20cac7",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "f20798aa7d25447fbb9523d3",
+          "company": "2e3aceaa00a77e95dbbaffae",
+          "task": "a9ee016304855235174eacf5",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "f20798aa7d25447fbb9523d3",
+          "company": "6600814a81bba012275a1e5e",
+          "task": "6cbc670397b0a818e7ea76c6",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "f20798aa7d25447fbb9523d3",
+          "company": "5e28380668a37ea4f112546c",
+          "task": "897c5ae4847f2713bd11f8b2",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "f20798aa7d25447fbb9523d3",
+          "company": "dbc49fbdda5c3f3713a4e822",
+          "task": "9dd85a010bb1dd110649c40a",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "f20798aa7d25447fbb9523d3",
+          "company": "6ea1729582d51ed38aa4d2bf",
+          "task": "aa025da9b71bcf9566712e5a",
+          "fit": 1,
+          "proof": 2,
+          "total": 2,
+          "ps": 100,
+          "cs": 100
+        },
+        {
+          "person": "f20798aa7d25447fbb9523d3",
+          "company": "7a0c2898348849cafd753701",
+          "task": "fb87149c967f93325d3e658b",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "f20798aa7d25447fbb9523d3",
+          "company": "872d826def039fcd0fee7b47",
+          "task": "f39f9a57e0e64c131299672b",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "f20798aa7d25447fbb9523d3",
+          "company": "9710dfa34181033bbd18826a",
+          "task": "58a915a8e3f0c0e5ae478254",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "f20798aa7d25447fbb9523d3",
+          "company": "0dbd03607776ed45cb88e1e3",
+          "task": "0685a3ff3dba72bddc7c8c14",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "903b431dfdc3012ad46bb58f",
+          "company": "dbc49fbdda5c3f3713a4e822",
+          "task": "7b0fe0158bbe161ffe7dcdc0",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "903b431dfdc3012ad46bb58f",
+          "company": "66d1d6d554d887b3196156d8",
+          "task": "5cc65bf56e5bf708968d3eb9",
+          "fit": 1,
+          "proof": 2,
+          "total": 2,
+          "ps": 100,
+          "cs": 100
+        },
+        {
+          "person": "903b431dfdc3012ad46bb58f",
+          "company": "b4c42371fbce0a57cbad191a",
+          "task": "2b6c22d5f53e460398c7aae9",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "407d8dc7008eae4ab5abb84c",
+          "company": "dbc49fbdda5c3f3713a4e822",
+          "task": "7b0fe0158bbe161ffe7dcdc0",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "407d8dc7008eae4ab5abb84c",
+          "company": "66d1d6d554d887b3196156d8",
+          "task": "5cc65bf56e5bf708968d3eb9",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "407d8dc7008eae4ab5abb84c",
+          "company": "b4c42371fbce0a57cbad191a",
+          "task": "661324cea021e3185e4a711d",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "097b3d0d80767be40350fde0",
+          "company": "687dff2a6948c035250b99b3",
+          "task": "369158c5f19a4b3a8a20cac7",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "097b3d0d80767be40350fde0",
+          "company": "5e28380668a37ea4f112546c",
+          "task": "6b656448156cadfd0eefa5eb",
+          "fit": 1,
+          "proof": 2,
+          "total": 2,
+          "ps": 100,
+          "cs": 100
+        },
+        {
+          "person": "097b3d0d80767be40350fde0",
+          "company": "dbc49fbdda5c3f3713a4e822",
+          "task": "9dd85a010bb1dd110649c40a",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "097b3d0d80767be40350fde0",
+          "company": "6ea1729582d51ed38aa4d2bf",
+          "task": "90045319ee03716d4c0dfb60",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "097b3d0d80767be40350fde0",
+          "company": "7a0c2898348849cafd753701",
+          "task": "fb87149c967f93325d3e658b",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "097b3d0d80767be40350fde0",
+          "company": "0dbd03607776ed45cb88e1e3",
+          "task": "0685a3ff3dba72bddc7c8c14",
+          "fit": 1,
+          "proof": 2,
+          "total": 2,
+          "ps": 100,
+          "cs": 100
+        },
+        {
+          "person": "950418b9ca761b058ddda4ad",
+          "company": "6600814a81bba012275a1e5e",
+          "task": "6cbc670397b0a818e7ea76c6",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "950418b9ca761b058ddda4ad",
+          "company": "6ea1729582d51ed38aa4d2bf",
+          "task": "aa025da9b71bcf9566712e5a",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "950418b9ca761b058ddda4ad",
+          "company": "9710dfa34181033bbd18826a",
+          "task": "38413134d83a5d40523971ad",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "3ae28c172cbd3176fe3577f6",
+          "company": "2e3aceaa00a77e95dbbaffae",
+          "task": "24bd522988b53824a5b108b4",
+          "fit": 1,
+          "proof": 2,
+          "total": 2,
+          "ps": 100,
+          "cs": 100
+        },
+        {
+          "person": "3ae28c172cbd3176fe3577f6",
+          "company": "872d826def039fcd0fee7b47",
+          "task": "73b3f1d95f293f93d814a952",
+          "fit": 1,
+          "proof": 2,
+          "total": 2,
+          "ps": 100,
+          "cs": 100
+        },
+        {
+          "person": "57526483d96ea6e7e5015212",
+          "company": "687dff2a6948c035250b99b3",
+          "task": "dd895e7998009db2eb54dc74",
+          "fit": 1,
+          "proof": 2,
+          "total": 2,
+          "ps": 100,
+          "cs": 100
+        },
+        {
+          "person": "57526483d96ea6e7e5015212",
+          "company": "6600814a81bba012275a1e5e",
+          "task": "2bf32fd0c5aa043e3bdee870",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "57526483d96ea6e7e5015212",
+          "company": "5e28380668a37ea4f112546c",
+          "task": "897c5ae4847f2713bd11f8b2",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "57526483d96ea6e7e5015212",
+          "company": "dbc49fbdda5c3f3713a4e822",
+          "task": "9dd85a010bb1dd110649c40a",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "57526483d96ea6e7e5015212",
+          "company": "6ea1729582d51ed38aa4d2bf",
+          "task": "90045319ee03716d4c0dfb60",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "57526483d96ea6e7e5015212",
+          "company": "7a0c2898348849cafd753701",
+          "task": "cd0625be5b75a94bc0a6a2d6",
+          "fit": 1,
+          "proof": 2,
+          "total": 2,
+          "ps": 100,
+          "cs": 100
+        },
+        {
+          "person": "57526483d96ea6e7e5015212",
+          "company": "9710dfa34181033bbd18826a",
+          "task": "58a915a8e3f0c0e5ae478254",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "57526483d96ea6e7e5015212",
+          "company": "0dbd03607776ed45cb88e1e3",
+          "task": "0685a3ff3dba72bddc7c8c14",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "0b418a3183bb4d6d71d61ed7",
+          "company": "687dff2a6948c035250b99b3",
+          "task": "dd895e7998009db2eb54dc74",
+          "fit": 1,
+          "proof": 2,
+          "total": 2,
+          "ps": 100,
+          "cs": 100
+        },
+        {
+          "person": "0b418a3183bb4d6d71d61ed7",
+          "company": "6600814a81bba012275a1e5e",
+          "task": "2bf32fd0c5aa043e3bdee870",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "0b418a3183bb4d6d71d61ed7",
+          "company": "5e28380668a37ea4f112546c",
+          "task": "897c5ae4847f2713bd11f8b2",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "0b418a3183bb4d6d71d61ed7",
+          "company": "dbc49fbdda5c3f3713a4e822",
+          "task": "9dd85a010bb1dd110649c40a",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "0b418a3183bb4d6d71d61ed7",
+          "company": "6ea1729582d51ed38aa4d2bf",
+          "task": "90045319ee03716d4c0dfb60",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "0b418a3183bb4d6d71d61ed7",
+          "company": "7a0c2898348849cafd753701",
+          "task": "cd0625be5b75a94bc0a6a2d6",
+          "fit": 1,
+          "proof": 2,
+          "total": 2,
+          "ps": 100,
+          "cs": 100
+        },
+        {
+          "person": "0b418a3183bb4d6d71d61ed7",
+          "company": "9710dfa34181033bbd18826a",
+          "task": "58a915a8e3f0c0e5ae478254",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "0b418a3183bb4d6d71d61ed7",
+          "company": "0dbd03607776ed45cb88e1e3",
+          "task": "0685a3ff3dba72bddc7c8c14",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "b01fd7ec1fdb1fcbf64007e4",
+          "company": "2e3aceaa00a77e95dbbaffae",
+          "task": "2ec4952f51afd570158eef48",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "b01fd7ec1fdb1fcbf64007e4",
+          "company": "dbc49fbdda5c3f3713a4e822",
+          "task": "7b0fe0158bbe161ffe7dcdc0",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "b01fd7ec1fdb1fcbf64007e4",
+          "company": "66d1d6d554d887b3196156d8",
+          "task": "5cc65bf56e5bf708968d3eb9",
+          "fit": 1,
+          "proof": 2,
+          "total": 2,
+          "ps": 100,
+          "cs": 100
+        },
+        {
+          "person": "b01fd7ec1fdb1fcbf64007e4",
+          "company": "6ea1729582d51ed38aa4d2bf",
+          "task": "90045319ee03716d4c0dfb60",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "b01fd7ec1fdb1fcbf64007e4",
+          "company": "b4c42371fbce0a57cbad191a",
+          "task": "2b6c22d5f53e460398c7aae9",
+          "fit": 1,
+          "proof": 2,
+          "total": 2,
+          "ps": 100,
+          "cs": 100
+        },
+        {
+          "person": "b01fd7ec1fdb1fcbf64007e4",
+          "company": "872d826def039fcd0fee7b47",
+          "task": "e8d8b98bc209a7149dab3212",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "19548ffeda0cdd65567aba46",
+          "company": "687dff2a6948c035250b99b3",
+          "task": "369158c5f19a4b3a8a20cac7",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "19548ffeda0cdd65567aba46",
+          "company": "6600814a81bba012275a1e5e",
+          "task": "6cbc670397b0a818e7ea76c6",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "19548ffeda0cdd65567aba46",
+          "company": "5e28380668a37ea4f112546c",
+          "task": "897c5ae4847f2713bd11f8b2",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "19548ffeda0cdd65567aba46",
+          "company": "dbc49fbdda5c3f3713a4e822",
+          "task": "9dd85a010bb1dd110649c40a",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "19548ffeda0cdd65567aba46",
+          "company": "6ea1729582d51ed38aa4d2bf",
+          "task": "90045319ee03716d4c0dfb60",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "19548ffeda0cdd65567aba46",
+          "company": "7a0c2898348849cafd753701",
+          "task": "fb87149c967f93325d3e658b",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "19548ffeda0cdd65567aba46",
+          "company": "9710dfa34181033bbd18826a",
+          "task": "58a915a8e3f0c0e5ae478254",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "19548ffeda0cdd65567aba46",
+          "company": "0dbd03607776ed45cb88e1e3",
+          "task": "0685a3ff3dba72bddc7c8c14",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "193ac2e406703087c0b9871a",
+          "company": "dbc49fbdda5c3f3713a4e822",
+          "task": "7b0fe0158bbe161ffe7dcdc0",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "193ac2e406703087c0b9871a",
+          "company": "66d1d6d554d887b3196156d8",
+          "task": "5cc65bf56e5bf708968d3eb9",
+          "fit": 1,
+          "proof": 2,
+          "total": 2,
+          "ps": 100,
+          "cs": 100
+        },
+        {
+          "person": "193ac2e406703087c0b9871a",
+          "company": "b4c42371fbce0a57cbad191a",
+          "task": "2b6c22d5f53e460398c7aae9",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "09fb13f738da4cef05f56c31",
+          "company": "dbc49fbdda5c3f3713a4e822",
+          "task": "7b0fe0158bbe161ffe7dcdc0",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "09fb13f738da4cef05f56c31",
+          "company": "66d1d6d554d887b3196156d8",
+          "task": "5cc65bf56e5bf708968d3eb9",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "09fb13f738da4cef05f56c31",
+          "company": "b4c42371fbce0a57cbad191a",
+          "task": "661324cea021e3185e4a711d",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "ebdede877471e2ba6373e94b",
+          "company": "687dff2a6948c035250b99b3",
+          "task": "369158c5f19a4b3a8a20cac7",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "ebdede877471e2ba6373e94b",
+          "company": "5e28380668a37ea4f112546c",
+          "task": "6b656448156cadfd0eefa5eb",
+          "fit": 1,
+          "proof": 2,
+          "total": 2,
+          "ps": 100,
+          "cs": 100
+        },
+        {
+          "person": "ebdede877471e2ba6373e94b",
+          "company": "dbc49fbdda5c3f3713a4e822",
+          "task": "9dd85a010bb1dd110649c40a",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "ebdede877471e2ba6373e94b",
+          "company": "6ea1729582d51ed38aa4d2bf",
+          "task": "90045319ee03716d4c0dfb60",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "ebdede877471e2ba6373e94b",
+          "company": "7a0c2898348849cafd753701",
+          "task": "fb87149c967f93325d3e658b",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "ebdede877471e2ba6373e94b",
+          "company": "0dbd03607776ed45cb88e1e3",
+          "task": "0685a3ff3dba72bddc7c8c14",
+          "fit": 1,
+          "proof": 2,
+          "total": 2,
+          "ps": 100,
+          "cs": 100
+        },
+        {
+          "person": "87dde5da1db52ec52a3ce142",
+          "company": "6600814a81bba012275a1e5e",
+          "task": "6cbc670397b0a818e7ea76c6",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "87dde5da1db52ec52a3ce142",
+          "company": "6ea1729582d51ed38aa4d2bf",
+          "task": "aa025da9b71bcf9566712e5a",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "87dde5da1db52ec52a3ce142",
+          "company": "9710dfa34181033bbd18826a",
+          "task": "38413134d83a5d40523971ad",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "32a5eb91a49d9da7bc299f93",
+          "company": "2e3aceaa00a77e95dbbaffae",
+          "task": "24bd522988b53824a5b108b4",
+          "fit": 1,
+          "proof": 2,
+          "total": 2,
+          "ps": 100,
+          "cs": 100
+        },
+        {
+          "person": "32a5eb91a49d9da7bc299f93",
+          "company": "6ea1729582d51ed38aa4d2bf",
+          "task": "90045319ee03716d4c0dfb60",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "32a5eb91a49d9da7bc299f93",
+          "company": "b4c42371fbce0a57cbad191a",
+          "task": "2b6c22d5f53e460398c7aae9",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "32a5eb91a49d9da7bc299f93",
+          "company": "872d826def039fcd0fee7b47",
+          "task": "73b3f1d95f293f93d814a952",
+          "fit": 1,
+          "proof": 2,
+          "total": 2,
+          "ps": 100,
+          "cs": 100
+        },
+        {
+          "person": "f76f694865ad56edd3c623a2",
+          "company": "2e3aceaa00a77e95dbbaffae",
+          "task": "24bd522988b53824a5b108b4",
+          "fit": 1,
+          "proof": 2,
+          "total": 2,
+          "ps": 100,
+          "cs": 100
+        },
+        {
+          "person": "f76f694865ad56edd3c623a2",
+          "company": "872d826def039fcd0fee7b47",
+          "task": "73b3f1d95f293f93d814a952",
+          "fit": 1,
+          "proof": 2,
+          "total": 2,
+          "ps": 100,
+          "cs": 100
+        },
+        {
+          "person": "632864385a70fbcc5efd97a7",
+          "company": "687dff2a6948c035250b99b3",
+          "task": "dd895e7998009db2eb54dc74",
+          "fit": 1,
+          "proof": 2,
+          "total": 2,
+          "ps": 100,
+          "cs": 100
+        },
+        {
+          "person": "632864385a70fbcc5efd97a7",
+          "company": "6600814a81bba012275a1e5e",
+          "task": "2bf32fd0c5aa043e3bdee870",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "632864385a70fbcc5efd97a7",
+          "company": "5e28380668a37ea4f112546c",
+          "task": "897c5ae4847f2713bd11f8b2",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "632864385a70fbcc5efd97a7",
+          "company": "dbc49fbdda5c3f3713a4e822",
+          "task": "9dd85a010bb1dd110649c40a",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "632864385a70fbcc5efd97a7",
+          "company": "6ea1729582d51ed38aa4d2bf",
+          "task": "90045319ee03716d4c0dfb60",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "632864385a70fbcc5efd97a7",
+          "company": "7a0c2898348849cafd753701",
+          "task": "cd0625be5b75a94bc0a6a2d6",
+          "fit": 1,
+          "proof": 2,
+          "total": 2,
+          "ps": 100,
+          "cs": 100
+        },
+        {
+          "person": "632864385a70fbcc5efd97a7",
+          "company": "9710dfa34181033bbd18826a",
+          "task": "58a915a8e3f0c0e5ae478254",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "632864385a70fbcc5efd97a7",
+          "company": "0dbd03607776ed45cb88e1e3",
+          "task": "0685a3ff3dba72bddc7c8c14",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "aa72aca55e70f600e1753231",
+          "company": "dbc49fbdda5c3f3713a4e822",
+          "task": "7b0fe0158bbe161ffe7dcdc0",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "aa72aca55e70f600e1753231",
+          "company": "66d1d6d554d887b3196156d8",
+          "task": "5cc65bf56e5bf708968d3eb9",
+          "fit": 1,
+          "proof": 2,
+          "total": 2,
+          "ps": 100,
+          "cs": 100
+        },
+        {
+          "person": "aa72aca55e70f600e1753231",
+          "company": "b4c42371fbce0a57cbad191a",
+          "task": "2b6c22d5f53e460398c7aae9",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "607089bf162533abddce6d58",
+          "company": "6600814a81bba012275a1e5e",
+          "task": "6cbc670397b0a818e7ea76c6",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "607089bf162533abddce6d58",
+          "company": "6ea1729582d51ed38aa4d2bf",
+          "task": "aa025da9b71bcf9566712e5a",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "607089bf162533abddce6d58",
+          "company": "9710dfa34181033bbd18826a",
+          "task": "58a915a8e3f0c0e5ae478254",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "23b34fc2181370c5a4dbb057",
+          "company": "dbc49fbdda5c3f3713a4e822",
+          "task": "7b0fe0158bbe161ffe7dcdc0",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "23b34fc2181370c5a4dbb057",
+          "company": "66d1d6d554d887b3196156d8",
+          "task": "5cc65bf56e5bf708968d3eb9",
+          "fit": 1,
+          "proof": 2,
+          "total": 2,
+          "ps": 100,
+          "cs": 100
+        },
+        {
+          "person": "23b34fc2181370c5a4dbb057",
+          "company": "b4c42371fbce0a57cbad191a",
+          "task": "2b6c22d5f53e460398c7aae9",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "2988477a1dc1d1ab94e28b25",
+          "company": "dbc49fbdda5c3f3713a4e822",
+          "task": "7b0fe0158bbe161ffe7dcdc0",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "2988477a1dc1d1ab94e28b25",
+          "company": "66d1d6d554d887b3196156d8",
+          "task": "5cc65bf56e5bf708968d3eb9",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "2988477a1dc1d1ab94e28b25",
+          "company": "b4c42371fbce0a57cbad191a",
+          "task": "661324cea021e3185e4a711d",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "859ee5b05e8fe54b3a781400",
+          "company": "687dff2a6948c035250b99b3",
+          "task": "369158c5f19a4b3a8a20cac7",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "859ee5b05e8fe54b3a781400",
+          "company": "5e28380668a37ea4f112546c",
+          "task": "6b656448156cadfd0eefa5eb",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "859ee5b05e8fe54b3a781400",
+          "company": "dbc49fbdda5c3f3713a4e822",
+          "task": "9dd85a010bb1dd110649c40a",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "859ee5b05e8fe54b3a781400",
+          "company": "6ea1729582d51ed38aa4d2bf",
+          "task": "90045319ee03716d4c0dfb60",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "859ee5b05e8fe54b3a781400",
+          "company": "7a0c2898348849cafd753701",
+          "task": "fb87149c967f93325d3e658b",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "859ee5b05e8fe54b3a781400",
+          "company": "0dbd03607776ed45cb88e1e3",
+          "task": "0685a3ff3dba72bddc7c8c14",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "89b839e7263197fca038a393",
+          "company": "6600814a81bba012275a1e5e",
+          "task": "6cbc670397b0a818e7ea76c6",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "89b839e7263197fca038a393",
+          "company": "6ea1729582d51ed38aa4d2bf",
+          "task": "aa025da9b71bcf9566712e5a",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "89b839e7263197fca038a393",
+          "company": "9710dfa34181033bbd18826a",
+          "task": "38413134d83a5d40523971ad",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "d963aeedcfcccdd2e6244aee",
+          "company": "6600814a81bba012275a1e5e",
+          "task": "6cbc670397b0a818e7ea76c6",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "d963aeedcfcccdd2e6244aee",
+          "company": "6ea1729582d51ed38aa4d2bf",
+          "task": "aa025da9b71bcf9566712e5a",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "d963aeedcfcccdd2e6244aee",
+          "company": "9710dfa34181033bbd18826a",
+          "task": "38413134d83a5d40523971ad",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "f6a3d4c4291d54992022d3ae",
+          "company": "2e3aceaa00a77e95dbbaffae",
+          "task": "24bd522988b53824a5b108b4",
+          "fit": 1,
+          "proof": 2,
+          "total": 2,
+          "ps": 100,
+          "cs": 100
+        },
+        {
+          "person": "f6a3d4c4291d54992022d3ae",
+          "company": "872d826def039fcd0fee7b47",
+          "task": "73b3f1d95f293f93d814a952",
+          "fit": 1,
+          "proof": 2,
+          "total": 2,
+          "ps": 100,
+          "cs": 100
+        },
+        {
+          "person": "14b71722d8fd5e2d5707597b",
+          "company": "687dff2a6948c035250b99b3",
+          "task": "dd895e7998009db2eb54dc74",
+          "fit": 1,
+          "proof": 2,
+          "total": 2,
+          "ps": 100,
+          "cs": 100
+        },
+        {
+          "person": "14b71722d8fd5e2d5707597b",
+          "company": "6600814a81bba012275a1e5e",
+          "task": "2bf32fd0c5aa043e3bdee870",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "14b71722d8fd5e2d5707597b",
+          "company": "5e28380668a37ea4f112546c",
+          "task": "897c5ae4847f2713bd11f8b2",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "14b71722d8fd5e2d5707597b",
+          "company": "dbc49fbdda5c3f3713a4e822",
+          "task": "9dd85a010bb1dd110649c40a",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "14b71722d8fd5e2d5707597b",
+          "company": "6ea1729582d51ed38aa4d2bf",
+          "task": "90045319ee03716d4c0dfb60",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "14b71722d8fd5e2d5707597b",
+          "company": "7a0c2898348849cafd753701",
+          "task": "cd0625be5b75a94bc0a6a2d6",
+          "fit": 1,
+          "proof": 2,
+          "total": 2,
+          "ps": 100,
+          "cs": 100
+        },
+        {
+          "person": "14b71722d8fd5e2d5707597b",
+          "company": "9710dfa34181033bbd18826a",
+          "task": "58a915a8e3f0c0e5ae478254",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "14b71722d8fd5e2d5707597b",
+          "company": "0dbd03607776ed45cb88e1e3",
+          "task": "0685a3ff3dba72bddc7c8c14",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "afd3d931b3cad60d7320daa4",
+          "company": "dbc49fbdda5c3f3713a4e822",
+          "task": "7b0fe0158bbe161ffe7dcdc0",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "afd3d931b3cad60d7320daa4",
+          "company": "66d1d6d554d887b3196156d8",
+          "task": "5cc65bf56e5bf708968d3eb9",
+          "fit": 1,
+          "proof": 2,
+          "total": 2,
+          "ps": 100,
+          "cs": 100
+        },
+        {
+          "person": "afd3d931b3cad60d7320daa4",
+          "company": "b4c42371fbce0a57cbad191a",
+          "task": "2b6c22d5f53e460398c7aae9",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "73493e0b452b33bdf6505e0e",
+          "company": "687dff2a6948c035250b99b3",
+          "task": "369158c5f19a4b3a8a20cac7",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "73493e0b452b33bdf6505e0e",
+          "company": "6600814a81bba012275a1e5e",
+          "task": "6cbc670397b0a818e7ea76c6",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "73493e0b452b33bdf6505e0e",
+          "company": "5e28380668a37ea4f112546c",
+          "task": "897c5ae4847f2713bd11f8b2",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "73493e0b452b33bdf6505e0e",
+          "company": "dbc49fbdda5c3f3713a4e822",
+          "task": "9dd85a010bb1dd110649c40a",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "73493e0b452b33bdf6505e0e",
+          "company": "6ea1729582d51ed38aa4d2bf",
+          "task": "90045319ee03716d4c0dfb60",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "73493e0b452b33bdf6505e0e",
+          "company": "7a0c2898348849cafd753701",
+          "task": "fb87149c967f93325d3e658b",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "73493e0b452b33bdf6505e0e",
+          "company": "9710dfa34181033bbd18826a",
+          "task": "58a915a8e3f0c0e5ae478254",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "73493e0b452b33bdf6505e0e",
+          "company": "0dbd03607776ed45cb88e1e3",
+          "task": "0685a3ff3dba72bddc7c8c14",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "b9c4677d5658f1f1e44bf79c",
+          "company": "dbc49fbdda5c3f3713a4e822",
+          "task": "7b0fe0158bbe161ffe7dcdc0",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "b9c4677d5658f1f1e44bf79c",
+          "company": "66d1d6d554d887b3196156d8",
+          "task": "5cc65bf56e5bf708968d3eb9",
+          "fit": 1,
+          "proof": 2,
+          "total": 2,
+          "ps": 100,
+          "cs": 100
+        },
+        {
+          "person": "b9c4677d5658f1f1e44bf79c",
+          "company": "b4c42371fbce0a57cbad191a",
+          "task": "2b6c22d5f53e460398c7aae9",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "2f7aa91d921aaacddc1d0e59",
+          "company": "dbc49fbdda5c3f3713a4e822",
+          "task": "7b0fe0158bbe161ffe7dcdc0",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "2f7aa91d921aaacddc1d0e59",
+          "company": "66d1d6d554d887b3196156d8",
+          "task": "5cc65bf56e5bf708968d3eb9",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "2f7aa91d921aaacddc1d0e59",
+          "company": "b4c42371fbce0a57cbad191a",
+          "task": "661324cea021e3185e4a711d",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "5101274e0a50cf3ea51845c1",
+          "company": "687dff2a6948c035250b99b3",
+          "task": "369158c5f19a4b3a8a20cac7",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "5101274e0a50cf3ea51845c1",
+          "company": "5e28380668a37ea4f112546c",
+          "task": "6b656448156cadfd0eefa5eb",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "5101274e0a50cf3ea51845c1",
+          "company": "dbc49fbdda5c3f3713a4e822",
+          "task": "9dd85a010bb1dd110649c40a",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "5101274e0a50cf3ea51845c1",
+          "company": "6ea1729582d51ed38aa4d2bf",
+          "task": "90045319ee03716d4c0dfb60",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "5101274e0a50cf3ea51845c1",
+          "company": "7a0c2898348849cafd753701",
+          "task": "fb87149c967f93325d3e658b",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "5101274e0a50cf3ea51845c1",
+          "company": "0dbd03607776ed45cb88e1e3",
+          "task": "0685a3ff3dba72bddc7c8c14",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "56b24ed8004ad05b5ca2e9a2",
+          "company": "687dff2a6948c035250b99b3",
+          "task": "369158c5f19a4b3a8a20cac7",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "56b24ed8004ad05b5ca2e9a2",
+          "company": "5e28380668a37ea4f112546c",
+          "task": "6b656448156cadfd0eefa5eb",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "56b24ed8004ad05b5ca2e9a2",
+          "company": "dbc49fbdda5c3f3713a4e822",
+          "task": "9dd85a010bb1dd110649c40a",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "56b24ed8004ad05b5ca2e9a2",
+          "company": "6ea1729582d51ed38aa4d2bf",
+          "task": "90045319ee03716d4c0dfb60",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "56b24ed8004ad05b5ca2e9a2",
+          "company": "7a0c2898348849cafd753701",
+          "task": "fb87149c967f93325d3e658b",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "56b24ed8004ad05b5ca2e9a2",
+          "company": "0dbd03607776ed45cb88e1e3",
+          "task": "0685a3ff3dba72bddc7c8c14",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "58ff43da57110d631874e778",
+          "company": "6600814a81bba012275a1e5e",
+          "task": "6cbc670397b0a818e7ea76c6",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "58ff43da57110d631874e778",
+          "company": "6ea1729582d51ed38aa4d2bf",
+          "task": "aa025da9b71bcf9566712e5a",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "58ff43da57110d631874e778",
+          "company": "9710dfa34181033bbd18826a",
+          "task": "38413134d83a5d40523971ad",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "40746dcf15da2794fed43115",
+          "company": "2e3aceaa00a77e95dbbaffae",
+          "task": "24bd522988b53824a5b108b4",
+          "fit": 1,
+          "proof": 2,
+          "total": 2,
+          "ps": 100,
+          "cs": 100
+        },
+        {
+          "person": "40746dcf15da2794fed43115",
+          "company": "872d826def039fcd0fee7b47",
+          "task": "73b3f1d95f293f93d814a952",
+          "fit": 1,
+          "proof": 2,
+          "total": 2,
+          "ps": 100,
+          "cs": 100
+        },
+        {
+          "person": "3bfe1180c29069a14d59bdb0",
+          "company": "687dff2a6948c035250b99b3",
+          "task": "dd895e7998009db2eb54dc74",
+          "fit": 1,
+          "proof": 2,
+          "total": 2,
+          "ps": 100,
+          "cs": 100
+        },
+        {
+          "person": "3bfe1180c29069a14d59bdb0",
+          "company": "6600814a81bba012275a1e5e",
+          "task": "2bf32fd0c5aa043e3bdee870",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "3bfe1180c29069a14d59bdb0",
+          "company": "7a0c2898348849cafd753701",
+          "task": "cd0625be5b75a94bc0a6a2d6",
+          "fit": 1,
+          "proof": 2,
+          "total": 2,
+          "ps": 100,
+          "cs": 100
+        },
+        {
+          "person": "3bfe1180c29069a14d59bdb0",
+          "company": "9710dfa34181033bbd18826a",
+          "task": "58a915a8e3f0c0e5ae478254",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "e6028a38072f0f845c691894",
+          "company": "dbc49fbdda5c3f3713a4e822",
+          "task": "7b0fe0158bbe161ffe7dcdc0",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "e6028a38072f0f845c691894",
+          "company": "66d1d6d554d887b3196156d8",
+          "task": "5cc65bf56e5bf708968d3eb9",
+          "fit": 1,
+          "proof": 2,
+          "total": 2,
+          "ps": 100,
+          "cs": 100
+        },
+        {
+          "person": "e6028a38072f0f845c691894",
+          "company": "b4c42371fbce0a57cbad191a",
+          "task": "2b6c22d5f53e460398c7aae9",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "2d4e5e2dc0da5029f10011db",
+          "company": "6600814a81bba012275a1e5e",
+          "task": "6cbc670397b0a818e7ea76c6",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "2d4e5e2dc0da5029f10011db",
+          "company": "6ea1729582d51ed38aa4d2bf",
+          "task": "aa025da9b71bcf9566712e5a",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "2d4e5e2dc0da5029f10011db",
+          "company": "9710dfa34181033bbd18826a",
+          "task": "58a915a8e3f0c0e5ae478254",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "e507e9bf1ad5aa394c22da94",
+          "company": "66d1d6d554d887b3196156d8",
+          "task": "95bd3aca9ffc41d7828bb893",
+          "fit": 1,
+          "proof": 2,
+          "total": 2,
+          "ps": 100,
+          "cs": 100
+        },
+        {
+          "person": "e507e9bf1ad5aa394c22da94",
+          "company": "b4c42371fbce0a57cbad191a",
+          "task": "2b6c22d5f53e460398c7aae9",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "b7effc954188c08e117a0808",
+          "company": "dbc49fbdda5c3f3713a4e822",
+          "task": "81352443ccc76e324bc14b39",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "b7effc954188c08e117a0808",
+          "company": "b4c42371fbce0a57cbad191a",
+          "task": "661324cea021e3185e4a711d",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "cce52025057f061110f62f5a",
+          "company": "dbc49fbdda5c3f3713a4e822",
+          "task": "7b0fe0158bbe161ffe7dcdc0",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "cce52025057f061110f62f5a",
+          "company": "66d1d6d554d887b3196156d8",
+          "task": "5cc65bf56e5bf708968d3eb9",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        },
+        {
+          "person": "cce52025057f061110f62f5a",
+          "company": "b4c42371fbce0a57cbad191a",
+          "task": "661324cea021e3185e4a711d",
+          "fit": 0.5,
+          "proof": 1,
+          "total": 2,
+          "ps": 50,
+          "cs": 50
+        }
+      ],
+      "people": {
+        "b793bc620197b308cd85f77f": [
+          "66d1d6d554d887b3196156d8",
+          "b4c42371fbce0a57cbad191a",
+          "2e3aceaa00a77e95dbbaffae",
+          "6ea1729582d51ed38aa4d2bf",
+          "872d826def039fcd0fee7b47",
+          "dbc49fbdda5c3f3713a4e822"
+        ],
+        "baf92b2dc2d5e2625e159de9": [
+          "0dbd03607776ed45cb88e1e3",
+          "5e28380668a37ea4f112546c",
+          "6600814a81bba012275a1e5e",
+          "687dff2a6948c035250b99b3",
+          "6ea1729582d51ed38aa4d2bf",
+          "7a0c2898348849cafd753701",
+          "9710dfa34181033bbd18826a",
+          "dbc49fbdda5c3f3713a4e822"
+        ],
+        "448a5ddc6ed48e1c21ba85a5": [
+          "66d1d6d554d887b3196156d8",
+          "b4c42371fbce0a57cbad191a",
+          "dbc49fbdda5c3f3713a4e822"
+        ],
+        "4f07fa9a404775ddc0838ca8": [
+          "66d1d6d554d887b3196156d8",
+          "b4c42371fbce0a57cbad191a",
+          "dbc49fbdda5c3f3713a4e822"
+        ],
+        "5e86806fc4ec247ea16ce061": [
+          "0dbd03607776ed45cb88e1e3",
+          "5e28380668a37ea4f112546c",
+          "687dff2a6948c035250b99b3",
+          "6ea1729582d51ed38aa4d2bf",
+          "7a0c2898348849cafd753701",
+          "dbc49fbdda5c3f3713a4e822"
+        ],
+        "89d4e1ac59fe9f467031806f": [
+          "6600814a81bba012275a1e5e",
+          "6ea1729582d51ed38aa4d2bf",
+          "9710dfa34181033bbd18826a"
+        ],
+        "49290eb927c05fb338cc9f47": [
+          "2e3aceaa00a77e95dbbaffae",
+          "872d826def039fcd0fee7b47"
+        ],
+        "1c5d97b9f2bcda4da6983373": [
+          "687dff2a6948c035250b99b3",
+          "7a0c2898348849cafd753701",
+          "0dbd03607776ed45cb88e1e3",
+          "5e28380668a37ea4f112546c",
+          "6600814a81bba012275a1e5e",
+          "6ea1729582d51ed38aa4d2bf",
+          "9710dfa34181033bbd18826a",
+          "dbc49fbdda5c3f3713a4e822"
+        ],
+        "3d31cc1769f2d610542c26bb": [
+          "687dff2a6948c035250b99b3",
+          "7a0c2898348849cafd753701",
+          "0dbd03607776ed45cb88e1e3",
+          "5e28380668a37ea4f112546c",
+          "6600814a81bba012275a1e5e",
+          "6ea1729582d51ed38aa4d2bf",
+          "9710dfa34181033bbd18826a",
+          "dbc49fbdda5c3f3713a4e822"
+        ],
+        "260e75b90c1cb6d476898021": [
+          "66d1d6d554d887b3196156d8",
+          "b4c42371fbce0a57cbad191a",
+          "2e3aceaa00a77e95dbbaffae",
+          "6ea1729582d51ed38aa4d2bf",
+          "872d826def039fcd0fee7b47",
+          "dbc49fbdda5c3f3713a4e822"
+        ],
+        "bbd97876c8fde72cba1dedff": [
+          "6ea1729582d51ed38aa4d2bf",
+          "0dbd03607776ed45cb88e1e3",
+          "2e3aceaa00a77e95dbbaffae",
+          "5e28380668a37ea4f112546c",
+          "6600814a81bba012275a1e5e",
+          "687dff2a6948c035250b99b3",
+          "7a0c2898348849cafd753701",
+          "872d826def039fcd0fee7b47",
+          "9710dfa34181033bbd18826a",
+          "dbc49fbdda5c3f3713a4e822"
+        ],
+        "a32e1f413bebc6fc6d81ce8d": [
+          "66d1d6d554d887b3196156d8",
+          "b4c42371fbce0a57cbad191a",
+          "dbc49fbdda5c3f3713a4e822"
+        ],
+        "ef97ae21dfa6f5956e37cd47": [
+          "66d1d6d554d887b3196156d8",
+          "b4c42371fbce0a57cbad191a",
+          "dbc49fbdda5c3f3713a4e822"
+        ],
+        "bb10523a67bf990069da593a": [
+          "0dbd03607776ed45cb88e1e3",
+          "5e28380668a37ea4f112546c",
+          "687dff2a6948c035250b99b3",
+          "6ea1729582d51ed38aa4d2bf",
+          "7a0c2898348849cafd753701",
+          "dbc49fbdda5c3f3713a4e822"
+        ],
+        "eabe46fe27618c34490b6497": [
+          "6600814a81bba012275a1e5e",
+          "6ea1729582d51ed38aa4d2bf",
+          "9710dfa34181033bbd18826a"
+        ],
+        "372e838ded43ed56fafb0a3a": [
+          "2e3aceaa00a77e95dbbaffae",
+          "6ea1729582d51ed38aa4d2bf",
+          "872d826def039fcd0fee7b47",
+          "0dbd03607776ed45cb88e1e3",
+          "5e28380668a37ea4f112546c",
+          "687dff2a6948c035250b99b3",
+          "7a0c2898348849cafd753701",
+          "b4c42371fbce0a57cbad191a",
+          "dbc49fbdda5c3f3713a4e822"
+        ],
+        "ad77e569ad32137f37c16edf": [
+          "2e3aceaa00a77e95dbbaffae",
+          "872d826def039fcd0fee7b47"
+        ],
+        "ffae31bc37cd3b0a411660e5": [
+          "687dff2a6948c035250b99b3",
+          "7a0c2898348849cafd753701",
+          "0dbd03607776ed45cb88e1e3",
+          "5e28380668a37ea4f112546c",
+          "6600814a81bba012275a1e5e",
+          "6ea1729582d51ed38aa4d2bf",
+          "9710dfa34181033bbd18826a",
+          "dbc49fbdda5c3f3713a4e822"
+        ],
+        "ca9916568d69d40cea999267": [
+          "66d1d6d554d887b3196156d8",
+          "b4c42371fbce0a57cbad191a",
+          "dbc49fbdda5c3f3713a4e822"
+        ],
+        "fb86d27a79d49f93eacb7fba": [
+          "0dbd03607776ed45cb88e1e3",
+          "5e28380668a37ea4f112546c",
+          "6600814a81bba012275a1e5e",
+          "687dff2a6948c035250b99b3",
+          "6ea1729582d51ed38aa4d2bf",
+          "7a0c2898348849cafd753701",
+          "9710dfa34181033bbd18826a",
+          "dbc49fbdda5c3f3713a4e822"
+        ],
+        "e71a97d4690f75e747d7c1a2": [
+          "66d1d6d554d887b3196156d8",
+          "b4c42371fbce0a57cbad191a",
+          "dbc49fbdda5c3f3713a4e822"
+        ],
+        "047eecd0110608ae7f8151a3": [
+          "66d1d6d554d887b3196156d8",
+          "b4c42371fbce0a57cbad191a",
+          "dbc49fbdda5c3f3713a4e822"
+        ],
+        "6269095a24572017f6644ec1": [
+          "0dbd03607776ed45cb88e1e3",
+          "5e28380668a37ea4f112546c",
+          "687dff2a6948c035250b99b3",
+          "6ea1729582d51ed38aa4d2bf",
+          "7a0c2898348849cafd753701",
+          "dbc49fbdda5c3f3713a4e822"
+        ],
+        "1774bf2db01b4002bc16353a": [
+          "6600814a81bba012275a1e5e",
+          "6ea1729582d51ed38aa4d2bf",
+          "9710dfa34181033bbd18826a"
+        ],
+        "e437955ab8966499a552a412": [
+          "6600814a81bba012275a1e5e",
+          "6ea1729582d51ed38aa4d2bf",
+          "9710dfa34181033bbd18826a"
+        ],
+        "2816dd134cd802c877bc0e48": [
+          "2e3aceaa00a77e95dbbaffae",
+          "872d826def039fcd0fee7b47"
+        ],
+        "0e8d34dc2db51c05250e749e": [
+          "687dff2a6948c035250b99b3",
+          "7a0c2898348849cafd753701",
+          "0dbd03607776ed45cb88e1e3",
+          "5e28380668a37ea4f112546c",
+          "6600814a81bba012275a1e5e",
+          "6ea1729582d51ed38aa4d2bf",
+          "9710dfa34181033bbd18826a",
+          "dbc49fbdda5c3f3713a4e822"
+        ],
+        "2b0b140913cc2db4c7918569": [
+          "66d1d6d554d887b3196156d8",
+          "b4c42371fbce0a57cbad191a",
+          "dbc49fbdda5c3f3713a4e822"
+        ],
+        "4caa93f91aff2168c7ee0c95": [
+          "0dbd03607776ed45cb88e1e3",
+          "5e28380668a37ea4f112546c",
+          "6600814a81bba012275a1e5e",
+          "687dff2a6948c035250b99b3",
+          "6ea1729582d51ed38aa4d2bf",
+          "7a0c2898348849cafd753701",
+          "9710dfa34181033bbd18826a",
+          "dbc49fbdda5c3f3713a4e822"
+        ],
+        "0e44065e7f8a73aa3a70cf0b": [
+          "66d1d6d554d887b3196156d8",
+          "b4c42371fbce0a57cbad191a",
+          "dbc49fbdda5c3f3713a4e822"
+        ],
+        "fb510d076837505cf68d40d0": [
+          "66d1d6d554d887b3196156d8",
+          "b4c42371fbce0a57cbad191a",
+          "dbc49fbdda5c3f3713a4e822"
+        ],
+        "7058e1515548897cfaec551f": [
+          "0dbd03607776ed45cb88e1e3",
+          "5e28380668a37ea4f112546c",
+          "687dff2a6948c035250b99b3",
+          "6ea1729582d51ed38aa4d2bf",
+          "7a0c2898348849cafd753701",
+          "dbc49fbdda5c3f3713a4e822"
+        ],
+        "838ef0db87e634a0abe81a90": [
+          "0dbd03607776ed45cb88e1e3",
+          "5e28380668a37ea4f112546c",
+          "687dff2a6948c035250b99b3",
+          "6ea1729582d51ed38aa4d2bf",
+          "7a0c2898348849cafd753701",
+          "dbc49fbdda5c3f3713a4e822"
+        ],
+        "e13cf0872fdece559fdeba23": [
+          "6600814a81bba012275a1e5e",
+          "6ea1729582d51ed38aa4d2bf",
+          "9710dfa34181033bbd18826a"
+        ],
+        "357e7d8a7d4140afbaaa234b": [
+          "2e3aceaa00a77e95dbbaffae",
+          "872d826def039fcd0fee7b47"
+        ],
+        "df11590ccc82004fd14777a7": [
+          "687dff2a6948c035250b99b3",
+          "7a0c2898348849cafd753701",
+          "0dbd03607776ed45cb88e1e3",
+          "5e28380668a37ea4f112546c",
+          "6600814a81bba012275a1e5e",
+          "6ea1729582d51ed38aa4d2bf",
+          "9710dfa34181033bbd18826a",
+          "dbc49fbdda5c3f3713a4e822"
+        ],
+        "5cf361b17145fff1c1199f1b": [
+          "66d1d6d554d887b3196156d8",
+          "b4c42371fbce0a57cbad191a",
+          "2e3aceaa00a77e95dbbaffae",
+          "6ea1729582d51ed38aa4d2bf",
+          "872d826def039fcd0fee7b47",
+          "dbc49fbdda5c3f3713a4e822"
+        ],
+        "ed09b012383b14675b4f33d4": [
+          "6ea1729582d51ed38aa4d2bf",
+          "0dbd03607776ed45cb88e1e3",
+          "2e3aceaa00a77e95dbbaffae",
+          "5e28380668a37ea4f112546c",
+          "6600814a81bba012275a1e5e",
+          "687dff2a6948c035250b99b3",
+          "7a0c2898348849cafd753701",
+          "872d826def039fcd0fee7b47",
+          "9710dfa34181033bbd18826a",
+          "dbc49fbdda5c3f3713a4e822"
+        ],
+        "6f59ca637a3123f57c85e0a1": [
+          "66d1d6d554d887b3196156d8",
+          "b4c42371fbce0a57cbad191a",
+          "dbc49fbdda5c3f3713a4e822"
+        ],
+        "1b57c3a5fd7cfc458f9520e5": [
+          "66d1d6d554d887b3196156d8",
+          "b4c42371fbce0a57cbad191a",
+          "dbc49fbdda5c3f3713a4e822"
+        ],
+        "6378b06f24a4031eb3c7c289": [
+          "66d1d6d554d887b3196156d8",
+          "b4c42371fbce0a57cbad191a",
+          "dbc49fbdda5c3f3713a4e822"
+        ],
+        "1417f46ec1088701a54c96b8": [
+          "0dbd03607776ed45cb88e1e3",
+          "5e28380668a37ea4f112546c",
+          "687dff2a6948c035250b99b3",
+          "6ea1729582d51ed38aa4d2bf",
+          "7a0c2898348849cafd753701",
+          "dbc49fbdda5c3f3713a4e822"
+        ],
+        "2834e29779496c89dc649722": [
+          "6600814a81bba012275a1e5e",
+          "6ea1729582d51ed38aa4d2bf",
+          "9710dfa34181033bbd18826a"
+        ],
+        "7cc2cbd6c4e636f7d3fc2b30": [
+          "2e3aceaa00a77e95dbbaffae",
+          "872d826def039fcd0fee7b47"
+        ],
+        "0e282c4dad382bd9e9af3e90": [
+          "687dff2a6948c035250b99b3",
+          "7a0c2898348849cafd753701",
+          "6600814a81bba012275a1e5e",
+          "9710dfa34181033bbd18826a"
+        ],
+        "1ab022f1e1466aa78f31aeee": [
+          "66d1d6d554d887b3196156d8",
+          "b4c42371fbce0a57cbad191a",
+          "2e3aceaa00a77e95dbbaffae",
+          "6ea1729582d51ed38aa4d2bf",
+          "872d826def039fcd0fee7b47",
+          "dbc49fbdda5c3f3713a4e822"
+        ],
+        "9437c930cdd235bf0499bbd7": [
+          "6ea1729582d51ed38aa4d2bf",
+          "2e3aceaa00a77e95dbbaffae",
+          "6600814a81bba012275a1e5e",
+          "872d826def039fcd0fee7b47",
+          "9710dfa34181033bbd18826a"
+        ],
+        "17d7f48982935d1ed80d5610": [
+          "66d1d6d554d887b3196156d8",
+          "b4c42371fbce0a57cbad191a",
+          "dbc49fbdda5c3f3713a4e822"
+        ],
+        "ea7db8cc36527ba922a5fe83": [
+          "66d1d6d554d887b3196156d8",
+          "b4c42371fbce0a57cbad191a",
+          "dbc49fbdda5c3f3713a4e822"
+        ],
+        "26437371cff057fea21aef29": [
+          "66d1d6d554d887b3196156d8",
+          "b4c42371fbce0a57cbad191a",
+          "dbc49fbdda5c3f3713a4e822"
+        ],
+        "12142b182ca6ad9a11469914": [
+          "0dbd03607776ed45cb88e1e3",
+          "5e28380668a37ea4f112546c",
+          "687dff2a6948c035250b99b3",
+          "6ea1729582d51ed38aa4d2bf",
+          "7a0c2898348849cafd753701",
+          "dbc49fbdda5c3f3713a4e822"
+        ],
+        "c4c23837e1e4c9397c7ecb1f": [
+          "6600814a81bba012275a1e5e",
+          "6ea1729582d51ed38aa4d2bf",
+          "9710dfa34181033bbd18826a"
+        ],
+        "c8f2dc001ad988a1d2b37754": [
+          "2e3aceaa00a77e95dbbaffae",
+          "872d826def039fcd0fee7b47"
+        ],
+        "996f9472e307e239c77bd129": [
+          "687dff2a6948c035250b99b3",
+          "7a0c2898348849cafd753701",
+          "0dbd03607776ed45cb88e1e3",
+          "5e28380668a37ea4f112546c",
+          "6600814a81bba012275a1e5e",
+          "6ea1729582d51ed38aa4d2bf",
+          "9710dfa34181033bbd18826a",
+          "dbc49fbdda5c3f3713a4e822"
+        ],
+        "9075a4c3c4b3b9442152bea6": [
+          "66d1d6d554d887b3196156d8",
+          "b4c42371fbce0a57cbad191a",
+          "2e3aceaa00a77e95dbbaffae",
+          "6ea1729582d51ed38aa4d2bf",
+          "872d826def039fcd0fee7b47",
+          "dbc49fbdda5c3f3713a4e822"
+        ],
+        "7780298dd319113a2d78cfd7": [
+          "6ea1729582d51ed38aa4d2bf",
+          "0dbd03607776ed45cb88e1e3",
+          "2e3aceaa00a77e95dbbaffae",
+          "5e28380668a37ea4f112546c",
+          "6600814a81bba012275a1e5e",
+          "687dff2a6948c035250b99b3",
+          "7a0c2898348849cafd753701",
+          "872d826def039fcd0fee7b47",
+          "9710dfa34181033bbd18826a",
+          "dbc49fbdda5c3f3713a4e822"
+        ],
+        "d576025004703e6ac63f7e3e": [
+          "0dbd03607776ed45cb88e1e3",
+          "5e28380668a37ea4f112546c",
+          "6600814a81bba012275a1e5e",
+          "687dff2a6948c035250b99b3",
+          "6ea1729582d51ed38aa4d2bf",
+          "7a0c2898348849cafd753701",
+          "9710dfa34181033bbd18826a",
+          "dbc49fbdda5c3f3713a4e822"
+        ],
+        "82d6017749d32f42d8b32eb3": [
+          "66d1d6d554d887b3196156d8",
+          "b4c42371fbce0a57cbad191a",
+          "dbc49fbdda5c3f3713a4e822"
+        ],
+        "5a8b1d84378994389ebf7321": [
+          "66d1d6d554d887b3196156d8",
+          "b4c42371fbce0a57cbad191a",
+          "dbc49fbdda5c3f3713a4e822"
+        ],
+        "fb01a44faff6b101c5bce3fa": [
+          "0dbd03607776ed45cb88e1e3",
+          "5e28380668a37ea4f112546c",
+          "687dff2a6948c035250b99b3",
+          "6ea1729582d51ed38aa4d2bf",
+          "7a0c2898348849cafd753701",
+          "dbc49fbdda5c3f3713a4e822"
+        ],
+        "553100910622c0c94a0e05cc": [
+          "6600814a81bba012275a1e5e",
+          "6ea1729582d51ed38aa4d2bf",
+          "9710dfa34181033bbd18826a"
+        ],
+        "6f2c8ed5e732d705e6bfe78a": [
+          "2e3aceaa00a77e95dbbaffae",
+          "872d826def039fcd0fee7b47"
+        ],
+        "dff90c8049fc5cd0f81c6025": [
+          "687dff2a6948c035250b99b3",
+          "7a0c2898348849cafd753701",
+          "0dbd03607776ed45cb88e1e3",
+          "5e28380668a37ea4f112546c",
+          "6600814a81bba012275a1e5e",
+          "6ea1729582d51ed38aa4d2bf",
+          "9710dfa34181033bbd18826a",
+          "dbc49fbdda5c3f3713a4e822"
+        ],
+        "3fe20c37673ade6a7fee06b1": [
+          "66d1d6d554d887b3196156d8",
+          "b4c42371fbce0a57cbad191a",
+          "2e3aceaa00a77e95dbbaffae",
+          "6ea1729582d51ed38aa4d2bf",
+          "872d826def039fcd0fee7b47",
+          "dbc49fbdda5c3f3713a4e822"
+        ],
+        "2bde8f9b764938923b5fd08e": [
+          "66d1d6d554d887b3196156d8",
+          "6ea1729582d51ed38aa4d2bf",
+          "b4c42371fbce0a57cbad191a",
+          "0dbd03607776ed45cb88e1e3",
+          "2e3aceaa00a77e95dbbaffae",
+          "5e28380668a37ea4f112546c",
+          "687dff2a6948c035250b99b3",
+          "7a0c2898348849cafd753701",
+          "872d826def039fcd0fee7b47",
+          "dbc49fbdda5c3f3713a4e822"
+        ],
+        "f20798aa7d25447fbb9523d3": [
+          "6ea1729582d51ed38aa4d2bf",
+          "0dbd03607776ed45cb88e1e3",
+          "2e3aceaa00a77e95dbbaffae",
+          "5e28380668a37ea4f112546c",
+          "6600814a81bba012275a1e5e",
+          "687dff2a6948c035250b99b3",
+          "7a0c2898348849cafd753701",
+          "872d826def039fcd0fee7b47",
+          "9710dfa34181033bbd18826a",
+          "dbc49fbdda5c3f3713a4e822"
+        ],
+        "903b431dfdc3012ad46bb58f": [
+          "66d1d6d554d887b3196156d8",
+          "b4c42371fbce0a57cbad191a",
+          "dbc49fbdda5c3f3713a4e822"
+        ],
+        "407d8dc7008eae4ab5abb84c": [
+          "66d1d6d554d887b3196156d8",
+          "b4c42371fbce0a57cbad191a",
+          "dbc49fbdda5c3f3713a4e822"
+        ],
+        "097b3d0d80767be40350fde0": [
+          "0dbd03607776ed45cb88e1e3",
+          "5e28380668a37ea4f112546c",
+          "687dff2a6948c035250b99b3",
+          "6ea1729582d51ed38aa4d2bf",
+          "7a0c2898348849cafd753701",
+          "dbc49fbdda5c3f3713a4e822"
+        ],
+        "950418b9ca761b058ddda4ad": [
+          "6600814a81bba012275a1e5e",
+          "6ea1729582d51ed38aa4d2bf",
+          "9710dfa34181033bbd18826a"
+        ],
+        "3ae28c172cbd3176fe3577f6": [
+          "2e3aceaa00a77e95dbbaffae",
+          "872d826def039fcd0fee7b47"
+        ],
+        "57526483d96ea6e7e5015212": [
+          "687dff2a6948c035250b99b3",
+          "7a0c2898348849cafd753701",
+          "0dbd03607776ed45cb88e1e3",
+          "5e28380668a37ea4f112546c",
+          "6600814a81bba012275a1e5e",
+          "6ea1729582d51ed38aa4d2bf",
+          "9710dfa34181033bbd18826a",
+          "dbc49fbdda5c3f3713a4e822"
+        ],
+        "0b418a3183bb4d6d71d61ed7": [
+          "687dff2a6948c035250b99b3",
+          "7a0c2898348849cafd753701",
+          "0dbd03607776ed45cb88e1e3",
+          "5e28380668a37ea4f112546c",
+          "6600814a81bba012275a1e5e",
+          "6ea1729582d51ed38aa4d2bf",
+          "9710dfa34181033bbd18826a",
+          "dbc49fbdda5c3f3713a4e822"
+        ],
+        "b01fd7ec1fdb1fcbf64007e4": [
+          "66d1d6d554d887b3196156d8",
+          "b4c42371fbce0a57cbad191a",
+          "2e3aceaa00a77e95dbbaffae",
+          "6ea1729582d51ed38aa4d2bf",
+          "872d826def039fcd0fee7b47",
+          "dbc49fbdda5c3f3713a4e822"
+        ],
+        "19548ffeda0cdd65567aba46": [
+          "0dbd03607776ed45cb88e1e3",
+          "5e28380668a37ea4f112546c",
+          "6600814a81bba012275a1e5e",
+          "687dff2a6948c035250b99b3",
+          "6ea1729582d51ed38aa4d2bf",
+          "7a0c2898348849cafd753701",
+          "9710dfa34181033bbd18826a",
+          "dbc49fbdda5c3f3713a4e822"
+        ],
+        "193ac2e406703087c0b9871a": [
+          "66d1d6d554d887b3196156d8",
+          "b4c42371fbce0a57cbad191a",
+          "dbc49fbdda5c3f3713a4e822"
+        ],
+        "09fb13f738da4cef05f56c31": [
+          "66d1d6d554d887b3196156d8",
+          "b4c42371fbce0a57cbad191a",
+          "dbc49fbdda5c3f3713a4e822"
+        ],
+        "ebdede877471e2ba6373e94b": [
+          "0dbd03607776ed45cb88e1e3",
+          "5e28380668a37ea4f112546c",
+          "687dff2a6948c035250b99b3",
+          "6ea1729582d51ed38aa4d2bf",
+          "7a0c2898348849cafd753701",
+          "dbc49fbdda5c3f3713a4e822"
+        ],
+        "87dde5da1db52ec52a3ce142": [
+          "6600814a81bba012275a1e5e",
+          "6ea1729582d51ed38aa4d2bf",
+          "9710dfa34181033bbd18826a"
+        ],
+        "32a5eb91a49d9da7bc299f93": [
+          "2e3aceaa00a77e95dbbaffae",
+          "872d826def039fcd0fee7b47",
+          "6ea1729582d51ed38aa4d2bf",
+          "b4c42371fbce0a57cbad191a"
+        ],
+        "f76f694865ad56edd3c623a2": [
+          "2e3aceaa00a77e95dbbaffae",
+          "872d826def039fcd0fee7b47"
+        ],
+        "632864385a70fbcc5efd97a7": [
+          "687dff2a6948c035250b99b3",
+          "7a0c2898348849cafd753701",
+          "0dbd03607776ed45cb88e1e3",
+          "5e28380668a37ea4f112546c",
+          "6600814a81bba012275a1e5e",
+          "6ea1729582d51ed38aa4d2bf",
+          "9710dfa34181033bbd18826a",
+          "dbc49fbdda5c3f3713a4e822"
+        ],
+        "aa72aca55e70f600e1753231": [
+          "66d1d6d554d887b3196156d8",
+          "b4c42371fbce0a57cbad191a",
+          "dbc49fbdda5c3f3713a4e822"
+        ],
+        "607089bf162533abddce6d58": [
+          "6600814a81bba012275a1e5e",
+          "6ea1729582d51ed38aa4d2bf",
+          "9710dfa34181033bbd18826a"
+        ],
+        "23b34fc2181370c5a4dbb057": [
+          "66d1d6d554d887b3196156d8",
+          "b4c42371fbce0a57cbad191a",
+          "dbc49fbdda5c3f3713a4e822"
+        ],
+        "2988477a1dc1d1ab94e28b25": [
+          "66d1d6d554d887b3196156d8",
+          "b4c42371fbce0a57cbad191a",
+          "dbc49fbdda5c3f3713a4e822"
+        ],
+        "859ee5b05e8fe54b3a781400": [
+          "0dbd03607776ed45cb88e1e3",
+          "5e28380668a37ea4f112546c",
+          "687dff2a6948c035250b99b3",
+          "6ea1729582d51ed38aa4d2bf",
+          "7a0c2898348849cafd753701",
+          "dbc49fbdda5c3f3713a4e822"
+        ],
+        "89b839e7263197fca038a393": [
+          "6600814a81bba012275a1e5e",
+          "6ea1729582d51ed38aa4d2bf",
+          "9710dfa34181033bbd18826a"
+        ],
+        "d963aeedcfcccdd2e6244aee": [
+          "6600814a81bba012275a1e5e",
+          "6ea1729582d51ed38aa4d2bf",
+          "9710dfa34181033bbd18826a"
+        ],
+        "f6a3d4c4291d54992022d3ae": [
+          "2e3aceaa00a77e95dbbaffae",
+          "872d826def039fcd0fee7b47"
+        ],
+        "14b71722d8fd5e2d5707597b": [
+          "687dff2a6948c035250b99b3",
+          "7a0c2898348849cafd753701",
+          "0dbd03607776ed45cb88e1e3",
+          "5e28380668a37ea4f112546c",
+          "6600814a81bba012275a1e5e",
+          "6ea1729582d51ed38aa4d2bf",
+          "9710dfa34181033bbd18826a",
+          "dbc49fbdda5c3f3713a4e822"
+        ],
+        "afd3d931b3cad60d7320daa4": [
+          "66d1d6d554d887b3196156d8",
+          "b4c42371fbce0a57cbad191a",
+          "dbc49fbdda5c3f3713a4e822"
+        ],
+        "73493e0b452b33bdf6505e0e": [
+          "0dbd03607776ed45cb88e1e3",
+          "5e28380668a37ea4f112546c",
+          "6600814a81bba012275a1e5e",
+          "687dff2a6948c035250b99b3",
+          "6ea1729582d51ed38aa4d2bf",
+          "7a0c2898348849cafd753701",
+          "9710dfa34181033bbd18826a",
+          "dbc49fbdda5c3f3713a4e822"
+        ],
+        "b9c4677d5658f1f1e44bf79c": [
+          "66d1d6d554d887b3196156d8",
+          "b4c42371fbce0a57cbad191a",
+          "dbc49fbdda5c3f3713a4e822"
+        ],
+        "2f7aa91d921aaacddc1d0e59": [
+          "66d1d6d554d887b3196156d8",
+          "b4c42371fbce0a57cbad191a",
+          "dbc49fbdda5c3f3713a4e822"
+        ],
+        "5101274e0a50cf3ea51845c1": [
+          "0dbd03607776ed45cb88e1e3",
+          "5e28380668a37ea4f112546c",
+          "687dff2a6948c035250b99b3",
+          "6ea1729582d51ed38aa4d2bf",
+          "7a0c2898348849cafd753701",
+          "dbc49fbdda5c3f3713a4e822"
+        ],
+        "56b24ed8004ad05b5ca2e9a2": [
+          "0dbd03607776ed45cb88e1e3",
+          "5e28380668a37ea4f112546c",
+          "687dff2a6948c035250b99b3",
+          "6ea1729582d51ed38aa4d2bf",
+          "7a0c2898348849cafd753701",
+          "dbc49fbdda5c3f3713a4e822"
+        ],
+        "58ff43da57110d631874e778": [
+          "6600814a81bba012275a1e5e",
+          "6ea1729582d51ed38aa4d2bf",
+          "9710dfa34181033bbd18826a"
+        ],
+        "40746dcf15da2794fed43115": [
+          "2e3aceaa00a77e95dbbaffae",
+          "872d826def039fcd0fee7b47"
+        ],
+        "3bfe1180c29069a14d59bdb0": [
+          "687dff2a6948c035250b99b3",
+          "7a0c2898348849cafd753701",
+          "6600814a81bba012275a1e5e",
+          "9710dfa34181033bbd18826a"
+        ],
+        "e6028a38072f0f845c691894": [
+          "66d1d6d554d887b3196156d8",
+          "b4c42371fbce0a57cbad191a",
+          "dbc49fbdda5c3f3713a4e822"
+        ],
+        "2d4e5e2dc0da5029f10011db": [
+          "6600814a81bba012275a1e5e",
+          "6ea1729582d51ed38aa4d2bf",
+          "9710dfa34181033bbd18826a"
+        ],
+        "e507e9bf1ad5aa394c22da94": [
+          "66d1d6d554d887b3196156d8",
+          "b4c42371fbce0a57cbad191a"
+        ],
+        "b7effc954188c08e117a0808": [
+          "b4c42371fbce0a57cbad191a",
+          "dbc49fbdda5c3f3713a4e822"
+        ],
+        "cce52025057f061110f62f5a": [
+          "66d1d6d554d887b3196156d8",
+          "b4c42371fbce0a57cbad191a",
+          "dbc49fbdda5c3f3713a4e822"
+        ]
+      },
+      "companies": {
+        "687dff2a6948c035250b99b3": [
+          "0b418a3183bb4d6d71d61ed7",
+          "0e282c4dad382bd9e9af3e90",
+          "0e8d34dc2db51c05250e749e",
+          "14b71722d8fd5e2d5707597b",
+          "1c5d97b9f2bcda4da6983373",
+          "3bfe1180c29069a14d59bdb0",
+          "3d31cc1769f2d610542c26bb",
+          "57526483d96ea6e7e5015212",
+          "632864385a70fbcc5efd97a7",
+          "996f9472e307e239c77bd129",
+          "df11590ccc82004fd14777a7",
+          "dff90c8049fc5cd0f81c6025",
+          "ffae31bc37cd3b0a411660e5",
+          "097b3d0d80767be40350fde0",
+          "12142b182ca6ad9a11469914",
+          "1417f46ec1088701a54c96b8",
+          "19548ffeda0cdd65567aba46",
+          "2bde8f9b764938923b5fd08e",
+          "372e838ded43ed56fafb0a3a",
+          "4caa93f91aff2168c7ee0c95",
+          "5101274e0a50cf3ea51845c1",
+          "56b24ed8004ad05b5ca2e9a2",
+          "5e86806fc4ec247ea16ce061",
+          "6269095a24572017f6644ec1",
+          "7058e1515548897cfaec551f",
+          "73493e0b452b33bdf6505e0e",
+          "7780298dd319113a2d78cfd7",
+          "838ef0db87e634a0abe81a90",
+          "859ee5b05e8fe54b3a781400",
+          "baf92b2dc2d5e2625e159de9",
+          "bb10523a67bf990069da593a",
+          "bbd97876c8fde72cba1dedff",
+          "d576025004703e6ac63f7e3e",
+          "ebdede877471e2ba6373e94b",
+          "ed09b012383b14675b4f33d4",
+          "f20798aa7d25447fbb9523d3",
+          "fb01a44faff6b101c5bce3fa",
+          "fb86d27a79d49f93eacb7fba"
+        ],
+        "2e3aceaa00a77e95dbbaffae": [
+          "2816dd134cd802c877bc0e48",
+          "32a5eb91a49d9da7bc299f93",
+          "357e7d8a7d4140afbaaa234b",
+          "372e838ded43ed56fafb0a3a",
+          "3ae28c172cbd3176fe3577f6",
+          "40746dcf15da2794fed43115",
+          "49290eb927c05fb338cc9f47",
+          "6f2c8ed5e732d705e6bfe78a",
+          "7cc2cbd6c4e636f7d3fc2b30",
+          "ad77e569ad32137f37c16edf",
+          "c8f2dc001ad988a1d2b37754",
+          "f6a3d4c4291d54992022d3ae",
+          "f76f694865ad56edd3c623a2",
+          "1ab022f1e1466aa78f31aeee",
+          "260e75b90c1cb6d476898021",
+          "2bde8f9b764938923b5fd08e",
+          "3fe20c37673ade6a7fee06b1",
+          "5cf361b17145fff1c1199f1b",
+          "7780298dd319113a2d78cfd7",
+          "9075a4c3c4b3b9442152bea6",
+          "9437c930cdd235bf0499bbd7",
+          "b01fd7ec1fdb1fcbf64007e4",
+          "b793bc620197b308cd85f77f",
+          "bbd97876c8fde72cba1dedff",
+          "ed09b012383b14675b4f33d4",
+          "f20798aa7d25447fbb9523d3"
+        ],
+        "6600814a81bba012275a1e5e": [
+          "0b418a3183bb4d6d71d61ed7",
+          "0e282c4dad382bd9e9af3e90",
+          "0e8d34dc2db51c05250e749e",
+          "14b71722d8fd5e2d5707597b",
+          "1774bf2db01b4002bc16353a",
+          "19548ffeda0cdd65567aba46",
+          "1c5d97b9f2bcda4da6983373",
+          "2834e29779496c89dc649722",
+          "2d4e5e2dc0da5029f10011db",
+          "3bfe1180c29069a14d59bdb0",
+          "3d31cc1769f2d610542c26bb",
+          "4caa93f91aff2168c7ee0c95",
+          "553100910622c0c94a0e05cc",
+          "57526483d96ea6e7e5015212",
+          "58ff43da57110d631874e778",
+          "607089bf162533abddce6d58",
+          "632864385a70fbcc5efd97a7",
+          "73493e0b452b33bdf6505e0e",
+          "7780298dd319113a2d78cfd7",
+          "87dde5da1db52ec52a3ce142",
+          "89b839e7263197fca038a393",
+          "89d4e1ac59fe9f467031806f",
+          "9437c930cdd235bf0499bbd7",
+          "950418b9ca761b058ddda4ad",
+          "996f9472e307e239c77bd129",
+          "baf92b2dc2d5e2625e159de9",
+          "bbd97876c8fde72cba1dedff",
+          "c4c23837e1e4c9397c7ecb1f",
+          "d576025004703e6ac63f7e3e",
+          "d963aeedcfcccdd2e6244aee",
+          "df11590ccc82004fd14777a7",
+          "dff90c8049fc5cd0f81c6025",
+          "e13cf0872fdece559fdeba23",
+          "e437955ab8966499a552a412",
+          "eabe46fe27618c34490b6497",
+          "ed09b012383b14675b4f33d4",
+          "f20798aa7d25447fbb9523d3",
+          "fb86d27a79d49f93eacb7fba",
+          "ffae31bc37cd3b0a411660e5"
+        ],
+        "5e28380668a37ea4f112546c": [
+          "097b3d0d80767be40350fde0",
+          "12142b182ca6ad9a11469914",
+          "5e86806fc4ec247ea16ce061",
+          "bb10523a67bf990069da593a",
+          "ebdede877471e2ba6373e94b",
+          "fb01a44faff6b101c5bce3fa",
+          "0b418a3183bb4d6d71d61ed7",
+          "0e8d34dc2db51c05250e749e",
+          "1417f46ec1088701a54c96b8",
+          "14b71722d8fd5e2d5707597b",
+          "19548ffeda0cdd65567aba46",
+          "1c5d97b9f2bcda4da6983373",
+          "2bde8f9b764938923b5fd08e",
+          "372e838ded43ed56fafb0a3a",
+          "3d31cc1769f2d610542c26bb",
+          "4caa93f91aff2168c7ee0c95",
+          "5101274e0a50cf3ea51845c1",
+          "56b24ed8004ad05b5ca2e9a2",
+          "57526483d96ea6e7e5015212",
+          "6269095a24572017f6644ec1",
+          "632864385a70fbcc5efd97a7",
+          "7058e1515548897cfaec551f",
+          "73493e0b452b33bdf6505e0e",
+          "7780298dd319113a2d78cfd7",
+          "838ef0db87e634a0abe81a90",
+          "859ee5b05e8fe54b3a781400",
+          "996f9472e307e239c77bd129",
+          "baf92b2dc2d5e2625e159de9",
+          "bbd97876c8fde72cba1dedff",
+          "d576025004703e6ac63f7e3e",
+          "df11590ccc82004fd14777a7",
+          "dff90c8049fc5cd0f81c6025",
+          "ed09b012383b14675b4f33d4",
+          "f20798aa7d25447fbb9523d3",
+          "fb86d27a79d49f93eacb7fba",
+          "ffae31bc37cd3b0a411660e5"
+        ],
+        "dbc49fbdda5c3f3713a4e822": [
+          "047eecd0110608ae7f8151a3",
+          "097b3d0d80767be40350fde0",
+          "09fb13f738da4cef05f56c31",
+          "0b418a3183bb4d6d71d61ed7",
+          "0e44065e7f8a73aa3a70cf0b",
+          "0e8d34dc2db51c05250e749e",
+          "12142b182ca6ad9a11469914",
+          "1417f46ec1088701a54c96b8",
+          "14b71722d8fd5e2d5707597b",
+          "17d7f48982935d1ed80d5610",
+          "193ac2e406703087c0b9871a",
+          "19548ffeda0cdd65567aba46",
+          "1ab022f1e1466aa78f31aeee",
+          "1b57c3a5fd7cfc458f9520e5",
+          "1c5d97b9f2bcda4da6983373",
+          "23b34fc2181370c5a4dbb057",
+          "260e75b90c1cb6d476898021",
+          "26437371cff057fea21aef29",
+          "2988477a1dc1d1ab94e28b25",
+          "2b0b140913cc2db4c7918569",
+          "2bde8f9b764938923b5fd08e",
+          "2f7aa91d921aaacddc1d0e59",
+          "372e838ded43ed56fafb0a3a",
+          "3d31cc1769f2d610542c26bb",
+          "3fe20c37673ade6a7fee06b1",
+          "407d8dc7008eae4ab5abb84c",
+          "448a5ddc6ed48e1c21ba85a5",
+          "4caa93f91aff2168c7ee0c95",
+          "4f07fa9a404775ddc0838ca8",
+          "5101274e0a50cf3ea51845c1",
+          "56b24ed8004ad05b5ca2e9a2",
+          "57526483d96ea6e7e5015212",
+          "5a8b1d84378994389ebf7321",
+          "5cf361b17145fff1c1199f1b",
+          "5e86806fc4ec247ea16ce061",
+          "6269095a24572017f6644ec1",
+          "632864385a70fbcc5efd97a7",
+          "6378b06f24a4031eb3c7c289",
+          "6f59ca637a3123f57c85e0a1",
+          "7058e1515548897cfaec551f",
+          "73493e0b452b33bdf6505e0e",
+          "7780298dd319113a2d78cfd7",
+          "82d6017749d32f42d8b32eb3",
+          "838ef0db87e634a0abe81a90",
+          "859ee5b05e8fe54b3a781400",
+          "903b431dfdc3012ad46bb58f",
+          "9075a4c3c4b3b9442152bea6",
+          "996f9472e307e239c77bd129",
+          "a32e1f413bebc6fc6d81ce8d",
+          "aa72aca55e70f600e1753231",
+          "afd3d931b3cad60d7320daa4",
+          "b01fd7ec1fdb1fcbf64007e4",
+          "b793bc620197b308cd85f77f",
+          "b7effc954188c08e117a0808",
+          "b9c4677d5658f1f1e44bf79c",
+          "baf92b2dc2d5e2625e159de9",
+          "bb10523a67bf990069da593a",
+          "bbd97876c8fde72cba1dedff",
+          "ca9916568d69d40cea999267",
+          "cce52025057f061110f62f5a",
+          "d576025004703e6ac63f7e3e",
+          "df11590ccc82004fd14777a7",
+          "dff90c8049fc5cd0f81c6025",
+          "e6028a38072f0f845c691894",
+          "e71a97d4690f75e747d7c1a2",
+          "ea7db8cc36527ba922a5fe83",
+          "ebdede877471e2ba6373e94b",
+          "ed09b012383b14675b4f33d4",
+          "ef97ae21dfa6f5956e37cd47",
+          "f20798aa7d25447fbb9523d3",
+          "fb01a44faff6b101c5bce3fa",
+          "fb510d076837505cf68d40d0",
+          "fb86d27a79d49f93eacb7fba",
+          "ffae31bc37cd3b0a411660e5"
+        ],
+        "66d1d6d554d887b3196156d8": [
+          "0e44065e7f8a73aa3a70cf0b",
+          "17d7f48982935d1ed80d5610",
+          "193ac2e406703087c0b9871a",
+          "1ab022f1e1466aa78f31aeee",
+          "23b34fc2181370c5a4dbb057",
+          "260e75b90c1cb6d476898021",
+          "2b0b140913cc2db4c7918569",
+          "2bde8f9b764938923b5fd08e",
+          "3fe20c37673ade6a7fee06b1",
+          "448a5ddc6ed48e1c21ba85a5",
+          "5cf361b17145fff1c1199f1b",
+          "6f59ca637a3123f57c85e0a1",
+          "82d6017749d32f42d8b32eb3",
+          "903b431dfdc3012ad46bb58f",
+          "9075a4c3c4b3b9442152bea6",
+          "a32e1f413bebc6fc6d81ce8d",
+          "aa72aca55e70f600e1753231",
+          "afd3d931b3cad60d7320daa4",
+          "b01fd7ec1fdb1fcbf64007e4",
+          "b793bc620197b308cd85f77f",
+          "b9c4677d5658f1f1e44bf79c",
+          "ca9916568d69d40cea999267",
+          "e507e9bf1ad5aa394c22da94",
+          "e6028a38072f0f845c691894",
+          "e71a97d4690f75e747d7c1a2",
+          "ea7db8cc36527ba922a5fe83",
+          "047eecd0110608ae7f8151a3",
+          "09fb13f738da4cef05f56c31",
+          "1b57c3a5fd7cfc458f9520e5",
+          "26437371cff057fea21aef29",
+          "2988477a1dc1d1ab94e28b25",
+          "2f7aa91d921aaacddc1d0e59",
+          "407d8dc7008eae4ab5abb84c",
+          "4f07fa9a404775ddc0838ca8",
+          "5a8b1d84378994389ebf7321",
+          "6378b06f24a4031eb3c7c289",
+          "cce52025057f061110f62f5a",
+          "ef97ae21dfa6f5956e37cd47",
+          "fb510d076837505cf68d40d0"
+        ],
+        "6ea1729582d51ed38aa4d2bf": [
+          "2bde8f9b764938923b5fd08e",
+          "372e838ded43ed56fafb0a3a",
+          "7780298dd319113a2d78cfd7",
+          "9437c930cdd235bf0499bbd7",
+          "bbd97876c8fde72cba1dedff",
+          "ed09b012383b14675b4f33d4",
+          "f20798aa7d25447fbb9523d3",
+          "097b3d0d80767be40350fde0",
+          "0b418a3183bb4d6d71d61ed7",
+          "0e8d34dc2db51c05250e749e",
+          "12142b182ca6ad9a11469914",
+          "1417f46ec1088701a54c96b8",
+          "14b71722d8fd5e2d5707597b",
+          "1774bf2db01b4002bc16353a",
+          "19548ffeda0cdd65567aba46",
+          "1ab022f1e1466aa78f31aeee",
+          "1c5d97b9f2bcda4da6983373",
+          "260e75b90c1cb6d476898021",
+          "2834e29779496c89dc649722",
+          "2d4e5e2dc0da5029f10011db",
+          "32a5eb91a49d9da7bc299f93",
+          "3d31cc1769f2d610542c26bb",
+          "3fe20c37673ade6a7fee06b1",
+          "4caa93f91aff2168c7ee0c95",
+          "5101274e0a50cf3ea51845c1",
+          "553100910622c0c94a0e05cc",
+          "56b24ed8004ad05b5ca2e9a2",
+          "57526483d96ea6e7e5015212",
+          "58ff43da57110d631874e778",
+          "5cf361b17145fff1c1199f1b",
+          "5e86806fc4ec247ea16ce061",
+          "607089bf162533abddce6d58",
+          "6269095a24572017f6644ec1",
+          "632864385a70fbcc5efd97a7",
+          "7058e1515548897cfaec551f",
+          "73493e0b452b33bdf6505e0e",
+          "838ef0db87e634a0abe81a90",
+          "859ee5b05e8fe54b3a781400",
+          "87dde5da1db52ec52a3ce142",
+          "89b839e7263197fca038a393",
+          "89d4e1ac59fe9f467031806f",
+          "9075a4c3c4b3b9442152bea6",
+          "950418b9ca761b058ddda4ad",
+          "996f9472e307e239c77bd129",
+          "b01fd7ec1fdb1fcbf64007e4",
+          "b793bc620197b308cd85f77f",
+          "baf92b2dc2d5e2625e159de9",
+          "bb10523a67bf990069da593a",
+          "c4c23837e1e4c9397c7ecb1f",
+          "d576025004703e6ac63f7e3e",
+          "d963aeedcfcccdd2e6244aee",
+          "df11590ccc82004fd14777a7",
+          "dff90c8049fc5cd0f81c6025",
+          "e13cf0872fdece559fdeba23",
+          "e437955ab8966499a552a412",
+          "eabe46fe27618c34490b6497",
+          "ebdede877471e2ba6373e94b",
+          "fb01a44faff6b101c5bce3fa",
+          "fb86d27a79d49f93eacb7fba",
+          "ffae31bc37cd3b0a411660e5"
+        ],
+        "b4c42371fbce0a57cbad191a": [
+          "1ab022f1e1466aa78f31aeee",
+          "260e75b90c1cb6d476898021",
+          "2bde8f9b764938923b5fd08e",
+          "3fe20c37673ade6a7fee06b1",
+          "5cf361b17145fff1c1199f1b",
+          "9075a4c3c4b3b9442152bea6",
+          "b01fd7ec1fdb1fcbf64007e4",
+          "b793bc620197b308cd85f77f",
+          "047eecd0110608ae7f8151a3",
+          "09fb13f738da4cef05f56c31",
+          "0e44065e7f8a73aa3a70cf0b",
+          "17d7f48982935d1ed80d5610",
+          "193ac2e406703087c0b9871a",
+          "1b57c3a5fd7cfc458f9520e5",
+          "23b34fc2181370c5a4dbb057",
+          "26437371cff057fea21aef29",
+          "2988477a1dc1d1ab94e28b25",
+          "2b0b140913cc2db4c7918569",
+          "2f7aa91d921aaacddc1d0e59",
+          "32a5eb91a49d9da7bc299f93",
+          "372e838ded43ed56fafb0a3a",
+          "407d8dc7008eae4ab5abb84c",
+          "448a5ddc6ed48e1c21ba85a5",
+          "4f07fa9a404775ddc0838ca8",
+          "5a8b1d84378994389ebf7321",
+          "6378b06f24a4031eb3c7c289",
+          "6f59ca637a3123f57c85e0a1",
+          "82d6017749d32f42d8b32eb3",
+          "903b431dfdc3012ad46bb58f",
+          "a32e1f413bebc6fc6d81ce8d",
+          "aa72aca55e70f600e1753231",
+          "afd3d931b3cad60d7320daa4",
+          "b7effc954188c08e117a0808",
+          "b9c4677d5658f1f1e44bf79c",
+          "ca9916568d69d40cea999267",
+          "cce52025057f061110f62f5a",
+          "e507e9bf1ad5aa394c22da94",
+          "e6028a38072f0f845c691894",
+          "e71a97d4690f75e747d7c1a2",
+          "ea7db8cc36527ba922a5fe83",
+          "ef97ae21dfa6f5956e37cd47",
+          "fb510d076837505cf68d40d0"
+        ],
+        "7a0c2898348849cafd753701": [
+          "0b418a3183bb4d6d71d61ed7",
+          "0e282c4dad382bd9e9af3e90",
+          "0e8d34dc2db51c05250e749e",
+          "14b71722d8fd5e2d5707597b",
+          "1c5d97b9f2bcda4da6983373",
+          "3bfe1180c29069a14d59bdb0",
+          "3d31cc1769f2d610542c26bb",
+          "57526483d96ea6e7e5015212",
+          "632864385a70fbcc5efd97a7",
+          "996f9472e307e239c77bd129",
+          "df11590ccc82004fd14777a7",
+          "dff90c8049fc5cd0f81c6025",
+          "ffae31bc37cd3b0a411660e5",
+          "097b3d0d80767be40350fde0",
+          "12142b182ca6ad9a11469914",
+          "1417f46ec1088701a54c96b8",
+          "19548ffeda0cdd65567aba46",
+          "2bde8f9b764938923b5fd08e",
+          "372e838ded43ed56fafb0a3a",
+          "4caa93f91aff2168c7ee0c95",
+          "5101274e0a50cf3ea51845c1",
+          "56b24ed8004ad05b5ca2e9a2",
+          "5e86806fc4ec247ea16ce061",
+          "6269095a24572017f6644ec1",
+          "7058e1515548897cfaec551f",
+          "73493e0b452b33bdf6505e0e",
+          "7780298dd319113a2d78cfd7",
+          "838ef0db87e634a0abe81a90",
+          "859ee5b05e8fe54b3a781400",
+          "baf92b2dc2d5e2625e159de9",
+          "bb10523a67bf990069da593a",
+          "bbd97876c8fde72cba1dedff",
+          "d576025004703e6ac63f7e3e",
+          "ebdede877471e2ba6373e94b",
+          "ed09b012383b14675b4f33d4",
+          "f20798aa7d25447fbb9523d3",
+          "fb01a44faff6b101c5bce3fa",
+          "fb86d27a79d49f93eacb7fba"
+        ],
+        "872d826def039fcd0fee7b47": [
+          "2816dd134cd802c877bc0e48",
+          "32a5eb91a49d9da7bc299f93",
+          "357e7d8a7d4140afbaaa234b",
+          "372e838ded43ed56fafb0a3a",
+          "3ae28c172cbd3176fe3577f6",
+          "40746dcf15da2794fed43115",
+          "49290eb927c05fb338cc9f47",
+          "6f2c8ed5e732d705e6bfe78a",
+          "7cc2cbd6c4e636f7d3fc2b30",
+          "ad77e569ad32137f37c16edf",
+          "c8f2dc001ad988a1d2b37754",
+          "f6a3d4c4291d54992022d3ae",
+          "f76f694865ad56edd3c623a2",
+          "1ab022f1e1466aa78f31aeee",
+          "260e75b90c1cb6d476898021",
+          "2bde8f9b764938923b5fd08e",
+          "3fe20c37673ade6a7fee06b1",
+          "5cf361b17145fff1c1199f1b",
+          "7780298dd319113a2d78cfd7",
+          "9075a4c3c4b3b9442152bea6",
+          "9437c930cdd235bf0499bbd7",
+          "b01fd7ec1fdb1fcbf64007e4",
+          "b793bc620197b308cd85f77f",
+          "bbd97876c8fde72cba1dedff",
+          "ed09b012383b14675b4f33d4",
+          "f20798aa7d25447fbb9523d3"
+        ],
+        "9710dfa34181033bbd18826a": [
+          "0b418a3183bb4d6d71d61ed7",
+          "0e282c4dad382bd9e9af3e90",
+          "0e8d34dc2db51c05250e749e",
+          "14b71722d8fd5e2d5707597b",
+          "1774bf2db01b4002bc16353a",
+          "19548ffeda0cdd65567aba46",
+          "1c5d97b9f2bcda4da6983373",
+          "2834e29779496c89dc649722",
+          "2d4e5e2dc0da5029f10011db",
+          "3bfe1180c29069a14d59bdb0",
+          "3d31cc1769f2d610542c26bb",
+          "4caa93f91aff2168c7ee0c95",
+          "553100910622c0c94a0e05cc",
+          "57526483d96ea6e7e5015212",
+          "58ff43da57110d631874e778",
+          "607089bf162533abddce6d58",
+          "632864385a70fbcc5efd97a7",
+          "73493e0b452b33bdf6505e0e",
+          "7780298dd319113a2d78cfd7",
+          "87dde5da1db52ec52a3ce142",
+          "89b839e7263197fca038a393",
+          "89d4e1ac59fe9f467031806f",
+          "9437c930cdd235bf0499bbd7",
+          "950418b9ca761b058ddda4ad",
+          "996f9472e307e239c77bd129",
+          "baf92b2dc2d5e2625e159de9",
+          "bbd97876c8fde72cba1dedff",
+          "c4c23837e1e4c9397c7ecb1f",
+          "d576025004703e6ac63f7e3e",
+          "d963aeedcfcccdd2e6244aee",
+          "df11590ccc82004fd14777a7",
+          "dff90c8049fc5cd0f81c6025",
+          "e13cf0872fdece559fdeba23",
+          "e437955ab8966499a552a412",
+          "eabe46fe27618c34490b6497",
+          "ed09b012383b14675b4f33d4",
+          "f20798aa7d25447fbb9523d3",
+          "fb86d27a79d49f93eacb7fba",
+          "ffae31bc37cd3b0a411660e5"
+        ],
+        "0dbd03607776ed45cb88e1e3": [
+          "097b3d0d80767be40350fde0",
+          "12142b182ca6ad9a11469914",
+          "5e86806fc4ec247ea16ce061",
+          "bb10523a67bf990069da593a",
+          "ebdede877471e2ba6373e94b",
+          "fb01a44faff6b101c5bce3fa",
+          "0b418a3183bb4d6d71d61ed7",
+          "0e8d34dc2db51c05250e749e",
+          "1417f46ec1088701a54c96b8",
+          "14b71722d8fd5e2d5707597b",
+          "19548ffeda0cdd65567aba46",
+          "1c5d97b9f2bcda4da6983373",
+          "2bde8f9b764938923b5fd08e",
+          "372e838ded43ed56fafb0a3a",
+          "3d31cc1769f2d610542c26bb",
+          "4caa93f91aff2168c7ee0c95",
+          "5101274e0a50cf3ea51845c1",
+          "56b24ed8004ad05b5ca2e9a2",
+          "57526483d96ea6e7e5015212",
+          "6269095a24572017f6644ec1",
+          "632864385a70fbcc5efd97a7",
+          "7058e1515548897cfaec551f",
+          "73493e0b452b33bdf6505e0e",
+          "7780298dd319113a2d78cfd7",
+          "838ef0db87e634a0abe81a90",
+          "859ee5b05e8fe54b3a781400",
+          "996f9472e307e239c77bd129",
+          "baf92b2dc2d5e2625e159de9",
+          "bbd97876c8fde72cba1dedff",
+          "d576025004703e6ac63f7e3e",
+          "df11590ccc82004fd14777a7",
+          "dff90c8049fc5cd0f81c6025",
+          "ed09b012383b14675b4f33d4",
+          "f20798aa7d25447fbb9523d3",
+          "fb86d27a79d49f93eacb7fba",
+          "ffae31bc37cd3b0a411660e5"
+        ]
+      }
+    },
     "meetings_count": 140,
     "unplaced_count": 0,
     "blocking_pairs": {
@@ -7798,6 +13956,69 @@
     "person_key": "b793bc620197b308cd85f77f",
     "company_key": "b4c42371fbce0a57cbad191a",
     "task_id": "2b6c22d5f53e460398c7aae9",
+    "task_snapshot": {
+      "id": "2b6c22d5f53e460398c7aae9",
+      "line": "Build a simple tracker for late deliveries using the driver export.",
+      "skills": [
+        {
+          "query": "perform data analysis",
+          "uri": "http://data.europa.eu/esco/skill/2b92a5b2-6758-4ee3-9fb4-b6387a55cc8f",
+          "label": "perform data analysis",
+          "description": "Collect data and statistics to test and evaluate in order to generate assertions and pattern predictions, with the aim of discovering useful information in a decision-making process.",
+          "narrower": [
+            "http://data.europa.eu/esco/skill/c544a9f3-5945-4b54-afed-de0697852817",
+            "http://data.europa.eu/esco/skill/062320e5-79d1-45e8-8b7e-5deeb53279a2",
+            "http://data.europa.eu/esco/skill/c95c29fe-3971-46b7-80e9-1f7e75ba99b3",
+            "http://data.europa.eu/esco/skill/47a49cd6-097d-457a-9f7b-c290c14930d5"
+          ]
+        },
+        {
+          "query": "use spreadsheets software",
+          "uri": "http://data.europa.eu/esco/skill/1973c966-f236-40c9-b2d4-5d71a89019be",
+          "label": "use spreadsheets software",
+          "description": "Use software tools to create and edit tabular data to carry out mathematical calculations, organise data and information, create diagrams based on data and to retrieve them.",
+          "narrower": [
+            "http://data.europa.eu/esco/skill/1225b032-7ead-464c-9072-64097d9a4b62"
+          ]
+        }
+      ]
+    },
+    "proof_snapshot": [
+      {
+        "skill": {
+          "query": "perform data analysis",
+          "uri": "http://data.europa.eu/esco/skill/2b92a5b2-6758-4ee3-9fb4-b6387a55cc8f",
+          "label": "perform data analysis",
+          "description": "Collect data and statistics to test and evaluate in order to generate assertions and pattern predictions, with the aim of discovering useful information in a decision-making process.",
+          "narrower": [
+            "http://data.europa.eu/esco/skill/c544a9f3-5945-4b54-afed-de0697852817",
+            "http://data.europa.eu/esco/skill/062320e5-79d1-45e8-8b7e-5deeb53279a2",
+            "http://data.europa.eu/esco/skill/c95c29fe-3971-46b7-80e9-1f7e75ba99b3",
+            "http://data.europa.eu/esco/skill/47a49cd6-097d-457a-9f7b-c290c14930d5"
+          ]
+        },
+        "line": "I compared the totals each week and found that most waste came from sandwiches prepared after lunch.",
+        "mark": "compared the totals each week and found that most waste came from sandwiches prepared after lunch",
+        "lang": "en"
+      },
+      {
+        "skill": {
+          "query": "use spreadsheets software",
+          "uri": "http://data.europa.eu/esco/skill/1973c966-f236-40c9-b2d4-5d71a89019be",
+          "label": "use spreadsheets software",
+          "description": "Use software tools to create and edit tabular data to carry out mathematical calculations, organise data and information, create diagrams based on data and to retrieve them.",
+          "narrower": [
+            "http://data.europa.eu/esco/skill/1225b032-7ead-464c-9072-64097d9a4b62"
+          ]
+        },
+        "line": "I built a spreadsheet that logged everything we threw away, by day and by reason.",
+        "mark": "built a spreadsheet",
+        "lang": "en"
+      }
+    ],
+    "missing_skills_snapshot": [],
+    "skills_with_proof": 2,
+    "skills_total": 2,
     "table": 12,
     "slot": "14:30",
     "state": "proposed",
@@ -7812,7 +14033,7 @@
     "companies_ranked": 6,
     "rank_of_person_for_company": 8,
     "people_ranked": 42,
-    "created_by": "build-0-2026-11-14T23:03:48.319Z",
-    "created_at": "2026-11-14T23:03:48.319Z"
+    "created_by": "build-0-2026-11-14T23:36:23.539Z",
+    "created_at": "2026-11-14T23:36:23.539Z"
   }
 }

@@ -1,0 +1,103 @@
+{
+  "model": "gemini-3.8-flash",
+  "prompt_version": "cg-2.1",
+  "at": "2026-11-15T00:11:14.272Z",
+  "kind": "advert-tailored-cvs",
+  "input_hash": "531104434fccb299e743528d7f73e536ad71ba58d164cf2d9fc3fc8be1ee5c98",
+  "answer": {
+    "cvs": [
+      {
+        "id": 100,
+        "text": "Experienced café manager and customer support professional skilled in stock management, process improvement, and staff training. Created shared order systems that eliminated order duplication and built waste-tracking spreadsheets that cut losses by one third. Organised regular stock checks, adjusted ordering sheet formulas for supplier changes, and trained six new team members using step-by-step guides and practical practice sessions. Proven ability to handle customer requests, track stock shortages, and train teams to maintain consistent, reliable records."
+      },
+      {
+        "id": 101,
+        "text": "Detail-oriented technician experienced with spreadsheet reporting, measurement recording, and documentation. Accurately logged workshop testing data, matched original readings with summaries, and diagnosed faulty equipment by analysing patterns across repeated tests. Produced clear, step-by-step documentation featuring diagrams and error-handling steps, validating procedures with colleagues to ensure ease of use. Brings strong transferable skills in tracking discrepancies, recording root causes, and standardising team procedures."
+      },
+      {
+        "id": 102,
+        "text": "Experienced equipment rental coordinator with expertise in customer support, stock management, and team onboarding. Managed inventory spreadsheets using formulas to track low stock and overdue returns, enabling timely repairs and reordering. Handled customer enquiries for broken tools, resolved requests with replacements, and logged causes to group repeated issues for long-term improvement. Trained team members using practical scenarios and checklists to maintain consistent case notes and stock records."
+      },
+      {
+        "id": 103,
+        "text": "Organised coordinator experienced in volunteer management, workflow improvement, and practical testing. Streamlined support processes by consolidating duplicate logs into a single shared request form and clearly defining update responsibilities. Trained team members on logging repairs and accessing safety instructions using practical exercises, iteratively refining guides based on feedback. Offers strong transferable capabilities in recording customer requests, coordinating resources, and establishing consistent documentation habits across teams."
+      },
+      {
+        "id": 104,
+        "text": "Customer support and community operations organiser skilled in process refinement and training. Replaced duplicate record-keeping systems with a single shared request form, defining responsibilities to ensure accurate data capture. Managed service rollouts and adapted plans around supplier delays. Trained volunteers on recording repairs and using documentation through structured practice exercises and clear reference guides. Well-equipped to handle support enquiries, maintain accurate records, and train teams on consistent note-taking."
+      },
+      {
+        "id": 105,
+        "text": "Technical support professional with strong background in systems administration, monitoring, and documentation. Monitored media server performance, identified operational bottlenecks, and adjusted schedules to ensure smooth service delivery. Audited user access and maintained system recovery documentation. Wrote clear runbooks for incident handling and validated them with new volunteers to ensure procedural clarity. Strong transferable strengths in investigating root causes, maintaining accurate logs, and training staff on standardized procedures."
+      },
+      {
+        "id": 106,
+        "text": "Quality assurance and business tools specialist experienced in testing member services, reproducing issues, and tracking defect trends. Automated system checks, created incident reports for team volunteers, and isolated intermittent booking errors with repeatable test cases. Grouped recurring system failures by screen type to drive root-cause fixes and updated testing checklists. Brings strong transferable skills in logging recurring customer issues, documenting defects, and maintaining consistent tracking systems."
+      },
+      {
+        "id": 107,
+        "text": "Data-focused operations specialist experienced in reporting, database administration, and inventory reconciliation. Consolidated order datasets using mapping tables and SQL queries to ensure end-to-end traceability. Reconciled weekly returns against warehouse records, pinpointed duplicate entries, and worked with packing teams to correct stock discrepancies. Documented data models and reporting procedures to train colleagues. Well-suited to monitoring stock shortages, diagnosing root causes, and establishing consistent logging standards."
+      },
+      {
+        "id": 108,
+        "text": "Customer support and technical development professional experienced in creating booking tools and user documentation. Designed user-friendly booking interfaces based on direct user feedback and resolved edge-case errors by analyzing request logs. Authored comprehensive administration guides detailing how to correct bookings, update sessions, and restore data, successfully training volunteers via hands-on tasks. Brings practical strengths in resolving user requests, tracking system issues, and coaching teams to follow consistent procedures."
+      },
+      {
+        "id": 109,
+        "text": "Experienced café manager with extensive background in spreadsheet reporting, stock control, and team training. Implemented shared order sheets that prevented duplicate orders and created spreadsheets logging waste by reason to reduce losses by a third. Conducted stock checks, updated reorder formulas to reflect supplier changes, and trained six colleagues through hands-on practice and written guides. Highly capable in tracking stock shortages, resolving customer issues, and coaching staff on consistent record-keeping."
+      },
+      {
+        "id": 110,
+        "text": "Detail-focused operations specialist skilled in measurement tracking, spreadsheet reporting, and technical documentation. Logged workshop data systematically, cross-referenced original and summary figures, and identified root causes of testing discrepancies through methodical analysis. Developed clear procedural guides complete with diagrams and troubleshooting protocols, verified through peer testing. Brings transferable strengths in maintaining accurate stock records, investigating recurring issues, and training teams on consistent case documentation."
+      },
+      {
+        "id": 111,
+        "text": "Equipment rental coordinator with strong practical testing and stock control experience. Maintained rental inventory spreadsheets, applying formulas to flag overdue returns and identify low stock for prompt reordering. Managed customer issues regarding malfunctioning tools, issued replacements, and categorized case notes to address repeat problems. Instructed colleagues on inspection workflows and record updates using practical exercises and checklists, ensuring consistent documentation across the team."
+      },
+      {
+        "id": 112,
+        "text": "Customer support specialist and rental desk coordinator experienced in stock management and process training. Built and maintained inventory spreadsheets to flag low stock and overdue items, guiding reordering and repairs. Handled customer inquiries regarding damaged tools, arranged replacements, and maintained a case log to identify recurring causes. Trained team members on return procedures and stock updates using checklists and practical simulations to ensure reliable, consistent case notes."
+      },
+      {
+        "id": 113,
+        "text": "Operations organiser experienced in workflow design, spreadsheet reporting, and team coaching. Streamlined repair intake workflows by replacing multiple notebooks with a single shared form, establishing clear ownership for every field. Adapted service plans during supplier delays and trained volunteers using targeted exercises and example-driven guides. Offers solid transferable experience in managing support requests, monitoring resource shortages, and training colleagues to record accurate case notes."
+      },
+      {
+        "id": 114,
+        "text": "Systems and operations support professional experienced in monitoring, issue resolution, and runbook authoring. Monitored server operations, identified scheduling conflicts causing delays, and maintained access controls. Authored clear, step-by-step incident response runbooks and verified their usability by training new team members through simulated failures. Possesses strong transferable abilities in tracking recurring operational problems, documenting standard procedures, and coaching colleagues to keep reliable notes."
+      },
+      {
+        "id": 115,
+        "text": "Quality assurance and technical testing specialist skilled in tracking defect patterns and standardising test procedures. Created automated test coverage for membership services and identified root causes of booking errors using isolated test scenarios. Analysed multi-run test data to group recurring failures by device type, driving permanent fixes and updating team checklists. Demonstrates strong analytical abilities to track stock or service issues, record recurring causes, and train others on consistent processes."
+      },
+      {
+        "id": 116,
+        "text": "Data reporting specialist with customer support experience, adept at reconciling records and identifying discrepancy causes. Unified disparate order files into structured database tables to ensure complete order tracking. Audited returns reports against physical warehouse counts, uncovered duplicate entries, and documented adjustments to restore data accuracy. Produced clear data workflows and guides to assist colleagues, demonstrating strong capabilities in tracking stock records, resolving issues, and training others on case consistency."
+      },
+      {
+        "id": 117,
+        "text": "Community systems builder experienced in spreadsheet reporting, user support, and technical documentation. Created and refined booking systems based on direct volunteer feedback, investigated request logs to eliminate duplicate booking errors, and authored detailed operational guides. Trained volunteers on resolving incorrect entries and maintaining systems through self-directed practice. Well-prepared to assist with customer requests, identify recurring issues, and guide team members in keeping accurate records."
+      },
+      {
+        "id": 118,
+        "text": "Experienced operations and café manager skilled in stock control, spreadsheet analysis, and staff instruction. Created shared order systems to prevent duplicate meal preparation and analysed waste data by reason to cut surplus by one third. Organised stock checks, adjusted reorder formulas for supplier changes, and trained six team members using concise written guides and supervised practice. Strong background in monitoring stock shortages, handling customer needs, and establishing consistent note-taking standards."
+      },
+      {
+        "id": 119,
+        "text": "Methodical technician experienced in practical testing, measurement logging, and instructional writing. Maintained accurate workshop logs by pairing original and summary test data, and diagnosed faulty equipment by analysing recurring variance patterns. Authored clear measurement guides with visual diagrams, edge-case examples, and escalation points, validated through peer testing. Brings transferable capabilities in tracking inventory shortages, documenting recurring causes, and training support colleagues to maintain precise records."
+      }
+    ]
+  },
+  "usage": {
+    "promptTokenCount": 5433,
+    "candidatesTokenCount": 1820,
+    "totalTokenCount": 7253,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 5433
+      }
+    ],
+    "serviceTier": "standard"
+  }
+}

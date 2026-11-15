@@ -1,0 +1,47 @@
+{
+  "model": "gemini-3.8-flash",
+  "prompt_version": "cg-2.1",
+  "at": "2026-11-14T23:58:55.311Z",
+  "kind": "tasks",
+  "input_hash": "81a1dc5175dce9a0f23bb1ad6d554aec79c18a1247c19672be5b571d76cfd0d6",
+  "answer": {
+    "tasks": [
+      {
+        "line": "Build the customer sign-up and order flow web interface and user interaction logic.",
+        "skills": [
+          "implement front-end website design",
+          "JavaScript",
+          "develop software prototype"
+        ]
+      },
+      {
+        "line": "Consolidate and analyse operational data from scattered spreadsheets to standardise order records.",
+        "skills": [
+          "perform data analysis",
+          "use spreadsheets software",
+          "manage data"
+        ]
+      },
+      {
+        "line": "Create an automated reporting view to replace manual status email updates.",
+        "skills": [
+          "manage database",
+          "create data models",
+          "SQL"
+        ]
+      }
+    ]
+  },
+  "usage": {
+    "promptTokenCount": 2799,
+    "candidatesTokenCount": 179,
+    "totalTokenCount": 2978,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 2799
+      }
+    ],
+    "serviceTier": "standard"
+  }
+}

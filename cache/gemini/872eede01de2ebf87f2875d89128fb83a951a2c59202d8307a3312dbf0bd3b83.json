@@ -1,0 +1,103 @@
+{
+  "model": "gemini-3.8-flash",
+  "prompt_version": "cg-2.1",
+  "at": "2026-11-15T00:08:56.781Z",
+  "kind": "advert-tailored-cvs",
+  "input_hash": "872eede01de2ebf87f2875d89128fb83a951a2c59202d8307a3312dbf0bd3b83",
+  "answer": {
+    "cvs": [
+      {
+        "id": 80,
+        "text": "Full-stack software developer with skills in Python, SQL, APIs, software engineering, and testing. Experienced in building structured data solutions, including setting up a PostgreSQL database, mapping data structures, and validating records using SQL queries. Strong background in investigating discrepancies and debugging reporting data. Proficient at creating documentation and practical team guides with step-by-step examples to ensure reliable processes."
+      },
+      {
+        "id": 81,
+        "text": "Developer experienced in building practical web tools and forms using JavaScript and web servers. Skilled at creating prototypes directly from user requirements, troubleshooting issues through request logs, and implementing bug fixes with targeted test cases prior to release. Adept at writing accessible user and maintenance guides, having validated instructions directly with team members to ensure clarity and smooth adoption."
+      },
+      {
+        "id": 82,
+        "text": "Experienced in streamlining operational processes and designing tracking tools. Created shared systems to manage daily incoming requests, eliminating duplicate orders. Skilled at reviewing logs, identifying root causes of issues, and making adjustments that delivered measurable improvements. Experienced in writing clear documentation, including practice guides and formulas, and onboarding team members through hands-on instruction."
+      },
+      {
+        "id": 83,
+        "text": "Detail-oriented professional experienced in testing, precise tracking, and documentation. Proficient at recording structured data, isolating tool and system issues through methodical testing, and verifying fixes before return to use. Skilled in drafting clear, procedural team guides with diagrams and troubleshooting examples, validated by colleagues to ensure effective and independent use."
+      },
+      {
+        "id": 84,
+        "text": "Experienced in coordinating operations, customer support, and system tracking. Built tracking sheets using automated formulas to manage workflows, monitor statuses, and identify pending actions. Skilled at investigating reported tool issues, logging root causes, and categorising trends to prevent recurring problems. Proven ability to create checklists and train team members on new processes."
+      },
+      {
+        "id": 85,
+        "text": "Full-stack software developer with expertise in software engineering, APIs, Python, SQL, cloud, and testing. Experienced in designing workflows, mapping request pathways, and streamlining processes into single shared forms to eliminate duplicate data entry. Skilled at identifying team needs, structuring documentation, and writing guides reinforced with practical examples to support internal users."
+      },
+      {
+        "id": 86,
+        "text": "Experienced in maintaining technical systems and monitoring server performance. Skilled at diagnosing operational issues through response times and logs, adjusting scheduled jobs to prevent delays, and testing recovery workflows before release. Proficient in producing practical documentation, including runbooks and step-by-step failure recovery guides validated with users using screenshots and testing."
+      },
+      {
+        "id": 87,
+        "text": "Experienced in software testing and quality assurance. Proficient in writing automated browser tests for user actions like booking and account updates, integrating checks into release processes. Skilled at reproducing edge-case bugs using log capture, filing precise defect reports, and updating regression checklists to identify portal issues prior to deployment."
+      },
+      {
+        "id": 88,
+        "text": "Quality assurance and customer-facing specialist skilled in web application testing and issue analysis. Proficient in automated browser testing for end-user flows, isolating intermittent bugs using request logs, and documenting clear defect reports for development teams. Experienced in compiling run results to catch portal bugs before release and updating team checklists."
+      },
+      {
+        "id": 89,
+        "text": "Data reporting specialist experienced with PostgreSQL, SQL queries, and mapping complex datasets. Proficient in verifying records, identifying discrepancies between tracking reports, and documenting corrective actions. Skilled at designing clear data structures and authoring user guides with practical examples to help internal colleagues manage reporting tools accurately."
+      },
+      {
+        "id": 90,
+        "text": "Full-stack developer with expertise in JavaScript, web servers, Python, SQL, APIs, and software engineering. Demonstrated ability to develop web tools from prototype to launch, trace request logs to identify and patch bugs, and write automated tests prior to release. Experienced in authoring clear team guides and validating them directly with internal users."
+      },
+      {
+        "id": 91,
+        "text": "Experienced in workflow coordination, process improvement, and tracking tools. Designed shared ordering systems that eliminated duplicated operational work, analysed waste logs to identify issues, and updated tracking formulas. Skilled at creating concise, single-page instruction guides with real-world examples and training colleagues through hands-on walkthroughs."
+      },
+      {
+        "id": 92,
+        "text": "Experienced in methodical testing, structured record keeping, and issue diagnosis. Skilled in tracking technical measurements, isolating hardware and system faults through controlled testing, and verifying replacements. Experienced in writing clear technical instructions and diagrams, incorporating edge-case guidance to help colleagues follow standardized procedures."
+      },
+      {
+        "id": 93,
+        "text": "Experienced in managing tracking systems, inventory sheets, and customer support workflows. Proficient in using formulas to flag pending items and identify shortages. Skilled at logging user-reported issues, analysing recurring trends to improve instructions, and creating clear operational checklists to train team members effectively."
+      },
+      {
+        "id": 94,
+        "text": "Skilled in process design and workflow organisation. Experienced in mapping out request lifecycles to eliminate duplicate tracking, consolidating steps into single shared forms. Adept at testing streamlined processes with teams, documenting clear field ownership, and producing practical training exercises and guides tailored with user-focused examples."
+      },
+      {
+        "id": 95,
+        "text": "Full-stack developer skilled in software engineering, testing, Python, SQL, APIs, and cloud technologies. Experienced in monitoring server performance, diagnosing bottlenecks via response logs, and testing system restore processes prior to live use. Proven ability to author practical team runbooks and step-by-step procedural guides with user-tested failure examples."
+      },
+      {
+        "id": 96,
+        "text": "Systems and customer support specialist experienced in server monitoring, access management, and troubleshooting. Skilled at identifying performance bottlenecks through usage logs and testing recovery procedures prior to deployment. Experienced in authoring clear technical documentation, runbooks, and failure recovery guides tested directly with team members."
+      },
+      {
+        "id": 97,
+        "text": "Quality assurance specialist experienced in automated browser testing and release readiness. Skilled at designing test suites covering critical user journeys, isolating complex portal bugs through log analysis, and providing clear issue documentation. Experienced in refining test checklists to prevent release defects and creating readable test reporting summaries."
+      },
+      {
+        "id": 98,
+        "text": "Data specialist skilled in database management, SQL queries, and tracking workflows. Experienced in consolidating complex data into PostgreSQL, creating mapping tables, and auditing discrepancies between reporting records. Adept at authoring comprehensive data models and operational guides with practical examples to guide internal team execution."
+      },
+      {
+        "id": 99,
+        "text": "Web developer with hands-on experience building internal tools using JavaScript and web servers. Proven track record of tracing logs to fix duplicate request bugs, creating test cases for release validation, and building user-tested prototypes. Skilled in writing clear operational documentation to enable teams to manage tools independently."
+      }
+    ]
+  },
+  "usage": {
+    "promptTokenCount": 5467,
+    "candidatesTokenCount": 1362,
+    "totalTokenCount": 6829,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 5467
+      }
+    ],
+    "serviceTier": "standard"
+  }
+}

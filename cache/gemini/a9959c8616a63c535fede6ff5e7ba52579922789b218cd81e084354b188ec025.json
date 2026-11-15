@@ -1,0 +1,103 @@
+{
+  "model": "gemini-3.8-flash",
+  "prompt_version": "cg-2.1",
+  "at": "2026-11-15T00:09:24.419Z",
+  "kind": "advert-tailored-cvs",
+  "input_hash": "a9959c8616a63c535fede6ff5e7ba52579922789b218cd81e084354b188ec025",
+  "answer": {
+    "cvs": [
+      {
+        "id": 40,
+        "text": "Full-stack software developer with expertise in SQL, Python, data analytics, testing, and API integration. Experienced in streamlining data workflows by mapping processes, eliminating duplicated records, and auditing shared data inputs to verify no information is missing. Skilled at structuring tasks, documenting field-level update responsibilities, and producing clear procedural documentation to ensure reliable and repeatable operations."
+      },
+      {
+        "id": 41,
+        "text": "Systems specialist experienced with spreadsheet reports, system maintenance, and operational documentation. Strong track record of monitoring system metrics, comparing performance logs against schedules, and identifying anomalies. Methodical approach to maintaining data integrity through account audits, systematic checks, and writing detailed runbooks to ensure repeatable, reliable procedures."
+      },
+      {
+        "id": 42,
+        "text": "Quality assurance and testing professional experienced with business tools and automated workflows. Skilled in comparing test results, identifying data discrepancies across systems, and creating clear reports on failed checks. Adept at isolating edge cases, documenting expected outcomes, and maintaining structured checklists to support reliable data tracking and reporting."
+      },
+      {
+        "id": 43,
+        "text": "Reporting and data specialist experienced in combining multi-source order exports into PostgreSQL databases using mapping tables to standardise identifiers and resolve duplicates. Proficient in writing SQL queries to validate totals against source files and comparing weekly return reports against warehouse data to trace missing or duplicated records. Skilled in designing data models linking customers, orders, and returns, complete with import validation checks to enable repeatable monthly reporting."
+      },
+      {
+        "id": 44,
+        "text": "Software builder experienced with customer support, JavaScript, web servers, and systematic testing. Proven experience tracing request logs to catch missing data checks, handling edge cases such as duplicate submissions, and writing comprehensive test cases. Skilled at creating structured procedural guides that enable teams to maintain data tools reliably and independently."
+      },
+      {
+        "id": 45,
+        "text": "Full-stack developer with skills in SQL, Python, data analytics, and spreadsheet reporting. Experienced in replacing fragmented paper records with centralised tracking sheets to prevent duplicate entries. Proven ability to compare weekly performance data, identify trends and anomalies, and adjust operations based on data analysis. Adept at creating structured guides and maintaining formula-driven tracking tools for consistent reporting."
+      },
+      {
+        "id": 46,
+        "text": "Data-focused professional experienced in recording and validating technical measurements using business tools. Skilled in maintaining consistent identifiers across items, logging baseline measurements alongside summaries, and tracing discrepancies back to root causes. Experienced in comparing repeated test datasets, documenting step-by-step procedures, and establishing clear guidelines for handling unexpected values to ensure reliable reporting."
+      },
+      {
+        "id": 47,
+        "text": "Operations coordinator experienced in spreadsheet reporting, practical testing, and inventory tracking. Skilled in maintaining structured stock records, using formulas to flag discrepancies and overdue items, and conducting regular physical audits. Proven ability to aggregate monthly incident logs to identify recurring trends and write standardised checklists that ensure consistent, repeatable data entry."
+      },
+      {
+        "id": 48,
+        "text": "Coordinator experienced with customer support, structured record-keeping, and spreadsheet management. Proficient in designing spreadsheets with automated formulas to highlight discrepancies, missing returns, and low stock levels. Experienced in performing weekly audits, grouping monthly support logs to identify operational issues, and documenting processes to maintain reliable, consistent records."
+      },
+      {
+        "id": 49,
+        "text": "Organiser experienced in spreadsheet reporting and workflow optimisation. Proven track record of auditing information flows, eliminating duplicated records between systems, and establishing unified data entry forms. Skilled in verifying missing fields, assigning data ownership, and producing clear guides with examples to maintain repeatable, dependable record-keeping processes."
+      },
+      {
+        "id": 50,
+        "text": "Full-stack software developer skilled in SQL, Python, data analytics, and cloud systems. Experienced in monitoring performance logs, comparing metrics against schedules, and diagnosing operational anomalies. Adept at auditing shared server data, establishing secure and repeatable procedures, and creating detailed technical documentation to maintain system reliability and reporting accuracy."
+      },
+      {
+        "id": 51,
+        "text": "Testing specialist experienced in practical testing, automated validation, and issue reporting. Skilled in generating automated test runs, aggregating failure metrics across systems, and isolating specific data anomalies. Experienced in comparing system logs against expected results, identifying missing or faulty data fields, and updating reporting checklists to ensure reliable, repeatable quality."
+      },
+      {
+        "id": 52,
+        "text": "Data and reporting specialist experienced in merging monthly order files into PostgreSQL databases by creating mapping tables to standardise identifiers and eliminate duplicate entries. Expert in using SQL to reconcile totals and conducting weekly report comparisons against physical inventory to detect and resolve discrepancies. Skilled in designing data models connecting customers, orders, and returns, complete with documentation for monthly reporting."
+      },
+      {
+        "id": 53,
+        "text": "Technical builder experienced with spreadsheet reports, web tools, and logging mechanisms. Proven ability to analyse request logs, detect missing validation checks, and resolve duplicate record errors. Skilled in designing test cases for edge cases and documenting clear maintenance guides, supporting reliable system functionality and consistent tracking."
+      },
+      {
+        "id": 54,
+        "text": "Operations manager experienced in business tools, structured tracking, and spreadsheet reports. Experienced in designing unified order sheets to prevent duplicate records and building weekly tracking models to log and analyse operational waste. Proven ability to compare periodic totals, update calculation formulas, and train team members on standard reporting sheets to ensure data consistency."
+      },
+      {
+        "id": 55,
+        "text": "Full-stack software developer with expertise in SQL, Python, data analytics, software engineering, and practical testing. Experienced in systematically collecting and organising datasets with consistent identifiers to enable direct comparisons between historical and current records. Skilled in comparing repeated test results, isolating anomalies, and documenting step-by-step validation procedures to ensure data integrity."
+      },
+      {
+        "id": 56,
+        "text": "Detail-oriented specialist experienced with customer support, business tools, and technical measurement recording. Skilled in maintaining data traceability by assigning clear labels to items and preserving baseline data alongside summaries. Adept at comparing datasets to identify discrepancies, investigating root causes, and writing clear procedures for handling anomalous values to keep reporting reliable."
+      },
+      {
+        "id": 57,
+        "text": "Inventory coordinator experienced in spreadsheet reports and operational testing. Proficient in building structured tracking spreadsheets, using formulas to highlight discrepancies, and performing regular weekly reconciliation audits. Skilled in grouping monthly case data to identify trends and creating step-by-step checklists to ensure accurate, repeatable data maintenance."
+      },
+      {
+        "id": 58,
+        "text": "Operations organiser experienced with business tools and process improvement. Skilled in mapping information handoffs to eliminate duplicate records and designing single, consolidated data forms. Proven ability to audit fields for completeness, assign update responsibilities, and document repeatable workflows that ensure accurate, reliable data capture."
+      },
+      {
+        "id": 59,
+        "text": "Systems technician experienced in practical testing, performance logging, and infrastructure maintenance. Skilled in tracking response metrics, comparing operational data against schedules, and resolving conflicting processes. Experienced in auditing shared system records, validating data restore procedures, and producing structured runbooks to support repeatable, reliable operations."
+      }
+    ]
+  },
+  "usage": {
+    "promptTokenCount": 5471,
+    "candidatesTokenCount": 1389,
+    "totalTokenCount": 6860,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 5471
+      }
+    ],
+    "serviceTier": "standard"
+  }
+}

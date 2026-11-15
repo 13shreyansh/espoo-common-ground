@@ -1,0 +1,103 @@
+{
+  "model": "gemini-3.8-flash",
+  "prompt_version": "cg-2.1",
+  "at": "2026-11-15T00:09:55.639Z",
+  "kind": "advert-tailored-cvs",
+  "input_hash": "4fc7dfb71e75139ae1246bf605f8eeac3e9092e03eee71799b547be1be458792",
+  "answer": {
+    "cvs": [
+      {
+        "id": 80,
+        "text": "Full-stack software developer experienced in testing, SQL, and Python, with a strong background in verifying data integrity and documenting processes. Skilled at systematically comparing reporting datasets, grouping discrepancy patterns by product and cause, and tracing inconsistencies back to source records. Experienced in writing import validation checks, mapping disparate data codes, and producing clear procedural documentation to ensure reliable, reproducible operations across teams."
+      },
+      {
+        "id": 81,
+        "text": "Experienced in building web tools and improving software release reliability. Proven ability to isolate and reproduce intermittent bugs by analysing request logs, successfully identifying race conditions caused by retried requests. Writes automated test cases covering edge cases—such as duplicate submissions and missing input fields—and executes them prior to releases. Skilled in documenting technical workflows and maintenance runbooks to support stable deployments."
+      },
+      {
+        "id": 82,
+        "text": "Operations-focused professional experienced in designing reliable workflows, systematic tracking, and discrepancy analysis. Built shared order and waste-tracking systems, regularly comparing weekly logs by reason and timing to identify root causes of recurring operational problems. Experienced in creating practical guides with concrete error examples, training colleagues, and verifying process updates to eliminate duplicate work and ensure consistent day-to-day results."
+      },
+      {
+        "id": 83,
+        "text": "Detail-oriented technician with extensive experience in practical testing, validation, and comparative analysis. Experienced in isolating hardware and measurement faults by comparing results across test runs and isolating variables to find root causes, such as faulty leads. Methodically documents test setups, tool settings, and verification sequences, establishing clear protocols and reference baselines that enable others to repeat checks accurately and spot anomalies."
+      },
+      {
+        "id": 84,
+        "text": "Skilled in process coordination, tracking, and systematic issue resolution. Experienced in logging customer-reported tool malfunctions, categorising repeated problems by cause, and analysing trends to improve documentation and prevent future issues. Adept at building structured tracking sheets with automated exception flags, performing regular audits against physical stock, and writing step-by-step verification checklists for colleagues to maintain operational reliability."
+      },
+      {
+        "id": 85,
+        "text": "Full-stack developer with experience in software engineering, testing, and workflow optimisation. Skilled at mapping multi-step processes, identifying redundant steps, and consolidating disparate inputs into single, reliable workflows. Experienced in developing instructional guides with real failure examples, validating workflows through user trials, and adapting deployment plans to maintain continuous progress and operational consistency."
+      },
+      {
+        "id": 86,
+        "text": "Experienced in technical systems maintenance, server monitoring, and incident response. Proven ability to diagnose intermittent performance bottlenecks by correlating system metrics with operational schedules, successfully resolving upload delays during peak times. Adept at creating structured runbooks detailing sequential diagnostic steps, testing recovery and restore procedures, and validating documentation through simulated failure drills."
+      },
+      {
+        "id": 87,
+        "text": "Experienced tester specialising in release reliability and automated quality assurance. Creates automated browser tests for core customer journeys, including onboarding and cancellations, and embeds them directly into release pipelines. Highly adept at reproducing intermittent issues under concurrent request conditions, analysing server logs, and categorising failures across test runs to identify recurring defects and update pre-release checklists."
+      },
+      {
+        "id": 88,
+        "text": "Quality assurance and customer support professional experienced in automated testing and release validation. Built automated browser suites covering primary user journeys such as account creation and service cancellation, integrating checks directly into the release process. Skilled at diagnosing intermittent errors using targeted concurrency testing and log analysis, as well as comparing multi-run test logs to isolate recurring browser-specific issues."
+      },
+      {
+        "id": 89,
+        "text": "Experienced in data management, verification, and systematic root-cause analysis. Expert in tracking discrepancies across datasets, grouping issues by category, and verifying physical counts against system records to eliminate duplicate entries. Skilled in using SQL to reconcile legacy records against updated databases, designing import validation rules, and writing comprehensive technical documentation to maintain reliable operations."
+      },
+      {
+        "id": 90,
+        "text": "Full-stack developer skilled in testing, API development, and software reliability. Proven track record in diagnosing intermittent web application bugs by investigating request logs and recreating race conditions from slow network retries. Implements pre-release test suites covering edge cases and missing parameters, while producing detailed maintenance and rollback documentation to safeguard release quality."
+      },
+      {
+        "id": 91,
+        "text": "Experienced in operational tracking, quality control, and procedural reliability. Skilled at replacing chaotic manual workflows with standardised tracking sheets, eliminating duplicate processing during peak hours. Experienced in logging, categorising, and comparing weekly waste and inventory data to identify recurring operational bottlenecks, updating formulas, and writing practical procedural documentation to maintain high standards."
+      },
+      {
+        "id": 92,
+        "text": "Practical testing specialist experienced in structured data collection and defect diagnosis. Skilled in comparing repeated test results across different environmental conditions, systematically isolating variables to pinpoint faulty components. Diligently records test parameters, baseline metrics, and step-by-step measurement guides, ensuring edge cases are properly documented and test runs remain reproducible and reliable."
+      },
+      {
+        "id": 93,
+        "text": "Process-oriented coordinator experienced in inventory tracking, customer issue management, and workflow verification. Adept at categorising recurring equipment faults from case logs to uncover root causes and refine guidance materials. Experienced in maintaining automated spreadsheet trackers to identify anomalies, conducting regular physical audits, and establishing practical verification checklists to ensure reliable, error-free operations."
+      },
+      {
+        "id": 94,
+        "text": "Experienced in operational planning, workflow refinement, and error reduction. Adept at mapping operational journeys, removing duplicated data entry, and piloting simplified, unified recording systems. Skilled at identifying where users experience friction, developing instructional guides with concrete troubleshooting examples, and iteratively refining processes to ensure stable and consistent execution."
+      },
+      {
+        "id": 95,
+        "text": "Full-stack software developer with strong testing, cloud, and systems monitoring expertise. Skilled at analysing system telemetry and performance logs to uncover the root causes of intermittent service degradations during peak operations. Experienced in authoring ordered diagnostic runbooks, validating failure recovery procedures through practical tests, and ensuring operational reliability prior to and during live events."
+      },
+      {
+        "id": 96,
+        "text": "Systems and customer support specialist experienced in performance monitoring and reliability management. Proven skill in tracking server metrics, identifying scheduling conflicts that trigger performance drops, and confirming resolutions across consecutive live events. Experienced in writing clear emergency runbooks with ordered diagnostic steps, testing restore protocols, and verifying operational readiness through simulated failures."
+      },
+      {
+        "id": 97,
+        "text": "Testing specialist focused on improving software release confidence. Builds automated browser checks for critical user flows and integrates them into deployment workflows with readable failure reports. Strong track record in reproducing complex, intermittent concurrency bugs using request logs, as well as aggregating test runs to identify recurring screen-specific flaws and improve quality assurance checklists."
+      },
+      {
+        "id": 98,
+        "text": "Data reporting specialist with deep experience in reconciliation, validation, and process documentation. Adept at querying databases to identify discrepancies, categorising variances to resolve duplicated entries, and designing import checks for missing data. Produces transparent data models and step-by-step guides with edge-case examples, ensuring recurring issues are caught and operational handovers remain reliable."
+      },
+      {
+        "id": 99,
+        "text": "Web developer with hands-on testing experience focused on release stability. Successfully diagnosed and resolved intermittent double-booking defects by inspecting server logs and reproducing network retry scenarios. Writes and executes automated test cases covering repeated submissions and invalid input prior to release, and authors clear operational guides detailing error resolution and rollback procedures."
+      }
+    ]
+  },
+  "usage": {
+    "promptTokenCount": 5469,
+    "candidatesTokenCount": 1494,
+    "totalTokenCount": 6963,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 5469
+      }
+    ],
+    "serviceTier": "standard"
+  }
+}

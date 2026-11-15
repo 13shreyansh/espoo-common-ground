@@ -1,0 +1,103 @@
+{
+  "model": "gemini-3.8-flash",
+  "prompt_version": "cg-2.1",
+  "at": "2026-11-15T00:10:23.941Z",
+  "kind": "advert-tailored-cvs",
+  "input_hash": "fbb76cf6135e8876e5c481611d9cdc5a2e9ab3e07906f1d1eb1c68326e8efa80",
+  "answer": {
+    "cvs": [
+      {
+        "id": 40,
+        "text": "Full-stack software developer with skills in cloud, API, SQL, Python, software engineering, and testing, alongside extensive customer support experience. Proven track record in coordinating technical volunteer operations, structuring operational workflows, and drafting clear procedural guidance. Adept at simplifying handoffs, defining operational steps, and documenting repeatable practices through testing and team feedback. Brings strong transferable analytical abilities, technical documentation rigor, and process improvement methods directly applicable to supporting cloud operations and standard operating procedures."
+      },
+      {
+        "id": 41,
+        "text": "Experienced in maintaining studio servers and systems, delivering reliable operational support. Monitored server response times and resource usage during live operations, successfully identifying and resolving bottlenecks. Conducted service access reviews, managed account security, and documented safe data recovery procedures validated by restore testing. Authored comprehensive, tested runbooks complete with step-by-step checks and escalation paths for handling service interruptions. Well-prepared to monitor cloud services, analyse performance logs, and maintain essential operational documentation."
+      },
+      {
+        "id": 42,
+        "text": "Software and service tester experienced with business tools and automated testing. Skilled in tracking service issues through system logs, isolating complex faults under concurrent loads, and delivering actionable diagnostic reports. Regularly integrates validation checks into release procedures and updates testing checklists based on failure analysis. Strong analytical and log-tracing capabilities make them well-suited to monitoring services, explaining anomalous request behavior, and contributing to reliable recovery workflows."
+      },
+      {
+        "id": 43,
+        "text": "Reporting and data professional with practical testing experience in PostgreSQL and SQL. Skilled in managing data integrity, tracing discrepancies between operational logs and outputs, and documenting systematic validation workflows. Experienced in creating architectural and workflow diagrams alongside clear operational instructions, validating procedures directly with colleagues to ensure accuracy. Brings a disciplined, analytical approach to monitoring operational flows and writing robust, repeatable recovery procedures."
+      },
+      {
+        "id": 44,
+        "text": "Technical developer experienced with customer support, web servers, and JavaScript tooling. Diagnosed and resolved performance and state issues by tracing request logs under retry and load conditions. Authored practical, user-tested operational guides for service maintenance, covering configuration updates, data corrections, and rollback recovery procedures. Well-positioned to assist cloud operations by tracking down slow requests in server logs and creating accessible runbooks for service management."
+      },
+      {
+        "id": 45,
+        "text": "Full-stack software developer with expertise in cloud, APIs, SQL, Python, software engineering, and testing, complemented by four years of operations management. Experienced in identifying operational bottlenecks through systematic logging, data analysis, and iterative tracking. Skilled at designing unified operational workflows, standardising handovers, and writing straightforward instructional guides to prevent errors. Offers strong analytical and software skills to monitor service health, interpret logs, and structure clear incident procedures."
+      },
+      {
+        "id": 46,
+        "text": "Detail-oriented technician experienced with business tools, systematic instrumentation, and diagnostics. Skilled at tracking operational measurements, maintaining strict record-keeping standards, and isolating faulty hardware leads through methodical comparison. Experienced in writing structured procedural guides, complete with diagrams and escalation boundaries detailing when to halt operations. Offers strong transferable rigor for monitoring operational metrics, diagnosing anomalies, and creating structured incident runbooks."
+      },
+      {
+        "id": 47,
+        "text": "Operations coordinator experienced with practical testing, inventory systems, and service workflows. Methodical in tracking operational status, monitoring trends, and categorising recurring issues to improve supporting instructions. Experienced in developing actionable checklists and training team members on safety and operational recovery steps. Transferable skills in systematic monitoring, root-cause categorization, and clear procedural documentation support key cloud operations and runbook needs."
+      },
+      {
+        "id": 48,
+        "text": "Service coordinator experienced in customer support, issue tracking, and operational log maintenance. Methodical in monitoring service availability, identifying repeat issues, and updating guidance to prevent recurring failures. Skilled in training team members using clear checklists that prioritise critical safety and recovery actions. Brings valuable transferable capabilities in tracking operational health, managing access documentation, and developing straightforward runbooks for service disruptions."
+      },
+      {
+        "id": 49,
+        "text": "Experienced operations and volunteer group organiser with expertise in spreadsheet reports. Skilled in mapping multi-step processes, removing administrative bottlenecks, and structuring shared workflows. Proactive in developing practical training materials, validating guides with users, and maintaining clear operational records for team transitions. Brings strong organizational and documentation skills to assist in drafting safe operational procedures and team runbooks."
+      },
+      {
+        "id": 50,
+        "text": "Full-stack developer with expertise in cloud, APIs, Python, and SQL, experienced in maintaining media studio systems. Directly monitored live servers, tracking response times and system metrics to identify and resolve performance bottlenecks. Conducted access reviews, audited permissions, and documented and tested safe data restoration procedures. Authored detailed operational runbooks for service outages, validating troubleshooting steps via simulated failures. Directly aligned with monitoring cloud services, investigating slow request logs, and drafting incident procedures."
+      },
+      {
+        "id": 51,
+        "text": "Quality assurance tester experienced with automated testing and log analysis. Proven track record in reproducing complex service failures, capturing request logs during race conditions, and documenting precise technical findings for engineering teams. Maintains clear failure reports and updates operational checklists following incidents. Offers strong diagnostics, log evaluation skills, and methodical documentation to support cloud service monitoring and incident runbook creation."
+      },
+      {
+        "id": 52,
+        "text": "Data reporting specialist with customer support experience, skilled in SQL and PostgreSQL environments. Experienced in auditing discrepancies across systems, analyzing transactional records, and designing clear data workflow documentation. Adept at creating import checks, exception-handling guides, and structured reference materials tested with team members. Brings valuable attention to detail, log tracing abilities, and documentation rigor to cloud service operations and recovery planning."
+      },
+      {
+        "id": 53,
+        "text": "Web developer experienced with community tools, server environments, and spreadsheet reporting. Proven ability in tracing request logs to identify and resolve issues caused by slow or retried connections. Wrote clear operational manuals covering maintenance, record correction, and version recovery, validating instructions directly with end-users. Well-equipped to monitor cloud services, analyze log data for slow requests, and author resilient runbooks for service outages."
+      },
+      {
+        "id": 54,
+        "text": "Operations manager with four years of leadership experience and strong skills in business tools and spreadsheet reporting. Experienced in identifying workflow bottlenecks through data tracking, resolving operational waste, and unifying team communication channels. Skilled in writing accessible procedural guides and training staff with clear examples to prevent operational errors. Offers reliable organizational discipline, process monitoring, and runbook drafting capabilities for operational support."
+      },
+      {
+        "id": 55,
+        "text": "Full-stack developer with skills in cloud, API, SQL, Python, software engineering, and practical testing. Experienced in setting up diagnostic checks, tracing hardware and system anomalies through methodical comparative analysis, and maintaining complete data records. Skilled at authoring precise technical specifications, visual diagrams, and explicit escalation procedures. Strong background for monitoring cloud operations, diagnosing latency from logs, and documenting robust recovery protocols."
+      },
+      {
+        "id": 56,
+        "text": "Technical support and repair specialist experienced with business tools and diagnostic workflows. Methodical in recording operational measurements, tracking deviations against baseline data, and isolating the root causes of abnormal readings. Documented comprehensive procedural setups with clear steps and defined thresholds for escalating issues. Offers strong transferable skills in monitoring system health metrics, following log trails, and drafting safe, step-by-step runbooks."
+      },
+      {
+        "id": 57,
+        "text": "Operational coordinator experienced in spreadsheet reporting, stock monitoring, and practical testing. Accustomed to auditing system status, tracking anomalous delays, and cataloging recurring issues to drive procedural improvements. Developed clear, safety-first checklists and guided colleagues through operational routines to ensure consistency. Brings solid transferable skills in service tracking, access validation, and authoring clear procedures for interruption management."
+      },
+      {
+        "id": 58,
+        "text": "Operations organiser experienced in business tools and workflow coordination. Skilled in mapping out cross-functional operational steps, eliminating duplicate work, and creating unified forms for team handoffs. Experienced in drafting instructional guides, running user walkthroughs, and refining procedures based on direct feedback. Transferable skills provide strong support for standardising cloud operational tasks, documenting recovery paths, and maintaining clear team runbooks."
+      },
+      {
+        "id": 59,
+        "text": "Experienced systems support specialist with a strong background in practical testing. Monitored server response times and storage metrics during live activity, using performance data to diagnose and resolve service slowdowns. Reviewed server user access, enforced appropriate permissions, and documented tested backup recovery procedures. Authored step-by-step incident runbooks with verified escalation paths and tested them using failure simulations. Fully equipped to support cloud operations, monitor logs, and manage service interruptions."
+      }
+    ]
+  },
+  "usage": {
+    "promptTokenCount": 5473,
+    "candidatesTokenCount": 1738,
+    "totalTokenCount": 7211,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 5473
+      }
+    ],
+    "serviceTier": "standard"
+  }
+}
