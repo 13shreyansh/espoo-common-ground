@@ -5,7 +5,7 @@ Calm civic event-operations software. Rebuilt Sun 15 Nov 2026 after the owner ju
 ## System
 - Surfaces: white paper, `--desk` #f5f6f3 for quiet fills, hairline borders (`--line`, `--line-soft`). Panels are bordered, never grey-filled. Radius 8 for controls, 12 for panels, 16 for landing figures.
 - Colour: ink #111613; one accent, spruce #0e5c4c, for the primary action, selection, agreed state and focus rings. One amber (`--proof`) reserved for proof lines: a person's own sentence, highlighted and underlined. Status dots use `--ok` and amber.
-- Type: Atkinson Hyperlegible Next, self-hosted. Workspace 15/24 body, 13/20 meta, 24/32 page titles. Landing 56/60 display, 38/44 section titles. Numerals are tabular where they align.
+- Type: Atkinson Hyperlegible Next, self-hosted. Workspace 15/24 body, 13/20 meta, 24/32 page titles. Landing 56/60 display, 38/44 section titles. Digits and the time colon come from a Public Sans subset with a plain zero (`fonts/digits.woff2`, family `CG Figures`, unicode-range U+0030-003A, size-adjust 93.3%), listed ahead of Atkinson. Numerals are tabular where they align.
 - Controls: one primary button per screen. Inputs are white with a border and a tinted focus ring. Segments are a sunk track with a raised selection. Tags and chips are pills. Hit targets 24px or more, 44px or more under 700px.
 - Motion: 120 to 140 ms ease-out on hover and press; one authored entrance on the landing pairing card; the schedule build animation is the real round trace. Reduced motion removes animations and transitions.
 

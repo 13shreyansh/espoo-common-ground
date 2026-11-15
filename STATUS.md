@@ -1,4 +1,4 @@
-UI REBUILD / Sun 15 Nov 2026 04:20 Helsinki (02:20 UTC) / https://espoo-common-ground.vercel.app
+UI REBUILD / Sun 15 Nov 2026 04:25 Helsinki (02:25 UTC), polish pass included / https://espoo-common-ground.vercel.app
 
 WHAT CHANGED (front end only; server/, src/, matching, ESCO and Gemini calls, persistence and the day-page renderer are untouched):
 - New static landing page at `/`: problem at the top, how it works in four steps with real event fragments, honest proof, what it never does, one call to action "Open the Espoo event workspace", one footer line "Synthetic event data". No script or data fetch is needed to paint it. The workspace now starts at `/e/espoo-nov-2026`.
@@ -8,9 +8,13 @@ WHAT CHANGED (front end only; server/, src/, matching, ESCO and Gemini calls, pe
 
 SPEED (measured, deployed URL, headless Playwright Chromium, cold context, 5 runs each, `scripts/fable-perf.mjs`, results in `screenshots/fable/perf.json`):
 - Before: first paint median 200 ms but of an empty skeleton; no first-contentful-paint entry at load; real content visible at median 936 ms (854 to 1193).
-- After, landing: first contentful paint median 212 ms at 1440 wide and 236 ms at 390 wide (max 276). With Chromium network throttling (150 ms latency, 1.6 Mbit/s down): median 672 ms and 664 ms (max 732). 7 requests, 58.7 KB transferred including the font.
+- After, landing (with the figures subset): first contentful paint median 224 ms at 1440 wide and 268 ms at 390 wide (max 288). With Chromium network throttling (150 ms latency, 1.6 Mbit/s down): median 668 ms and 664 ms (max 724). 8 requests, 62.3 KB transferred including both fonts.
 
-TESTS: `npm test` 47 of 47 pass, before and after (no assertion needed changing). `node scripts/fable-e2e.mjs` on the deployed URL passes at 1440x900 and 390x844 with no console errors: landing, call to action, company need to questions to three tasks, person stories to evidence card to approval, schedule build (160 meetings, 0 unplaced, 0 blocking pairs), both sides say yes, introduction card, day page saved and reloaded offline, JavaScript-off day page (50,026 bytes without fonts), Method, Report and follow-up. Each run uses an isolated visitor copy that is deleted in `finally`.
+TESTS: `npm test` 47 of 47 pass, before and after (no assertion needed changing). `node scripts/fable-e2e.mjs` on the deployed URL passes at 1440x900 and 390x844 with no console errors: landing, call to action, company need to questions to three tasks, person stories to evidence card to approval, schedule build (160 meetings, 0 unplaced, 0 blocking pairs), both sides say yes, introduction card, day page saved and reloaded offline, JavaScript-off day page (50,328 bytes without fonts), Method, Report and follow-up. Each run uses an isolated visitor copy that is deleted in `finally`.
+
+FIGURES: digits and the time colon now come from a 3.2 KB self-hosted Public Sans subset (`fonts/digits.woff2`, licence `fonts/OFL-public-sans.md`) with a plain zero, limited by unicode-range to U+0030-003A, scaled 93.3% to Atkinson's figure height, listed ahead of Atkinson in the stack. It applies on landing, workspace and the static day page, and is in the offline cache (cg-day-v5). Zoomed check at regular and bold: `screenshots/fable/figures-zoom-before.png`, `figures-zoom-after.png`.
+
+OTHER RUNNERS on the deployed site (each in an isolated visitor copy deleted in `finally`): `node scripts/e2e-extras.mjs` passes unmodified, 11 checks, no console errors (manual brief fallback, live ESCO search, keyboard help/search/move/build/send, real drag-and-drop, open-slot rail, three agreed meetings fixed on refill, 200 concurrent day-page loads with zero database reads, offline follow-up queue, reduced motion). `node scripts/visual-audit.mjs` passes after being pointed at the new entry path, the figures face and the live palette. Contrast is computed from palette pairs, not sampled per element: text minimum 4.63:1 (success green on its tint); next lowest 5.18 (tertiary ink on sunk), 5.32, 5.58, 6.05; body ink on white 18.29; accent on white 7.91; white on accent 7.91. Graphical marks minimum 3.22:1 (slate on white); baseline comparison bars were darkened from 1.94 to 3.62.
 
 SCREENSHOTS: `screenshots/fable/` (60 captures from the deployed site; `before/` holds the old UI; `CRITIQUE.md` is the critique and direction).
 - Desktop first screen: `screenshots/fable/00-landing-desktop.png`
@@ -18,9 +22,8 @@ SCREENSHOTS: `screenshots/fable/` (60 captures from the deployed site; `before/`
 - Key moment: `screenshots/fable/15-schedule-agreed-desktop.png`
 
 NOT DONE / FRAGILE:
-- The typeface (Atkinson Hyperlegible Next) has a slashed zero with no alternate; it stays as the face's character.
-- `scripts/e2e.mjs` (old runner) now opens `/e/espoo-nov-2026` directly; it was not rerun. `scripts/e2e-extras.mjs` and `scripts/visual-audit.mjs` were not rerun against the new styles.
-- A returning browser that cached the old stylesheet through the day-page service worker gets the new one after the worker updates (cache name bumped to cg-day-v4); one stale load is possible.
+- `scripts/e2e.mjs` (old runner) now opens `/e/espoo-nov-2026` directly; it was not rerun (`scripts/fable-e2e.mjs` is the same flow plus the landing page).
+- A returning browser that cached the old stylesheet through the day-page service worker gets the new one after the worker updates (cache name bumped to cg-day-v5); one stale load is possible.
 - DESIGN-DIRECTION.md visual prescriptions (colours, sizes, placement) are superseded by this rebuild; its product decisions still hold.
 
 ---- Previous status (Job 02) follows ----
