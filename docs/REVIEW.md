@@ -1,10 +1,9 @@
 # Independent review
 
-Separate gpt-6-astra review, source f6710e11f47e98f307f90f2510d4b49b9f43e45a.
-Two passes: spec fit passes with documented literal screenshot contradictions; build quality passes.
-Independently reran npm test (46/46) and npm run build. Verified consent, approved-evidence privacy, empty-card, refill Undo, polling and caret regressions. Verified runtime release/health source markers and deployed full-flow, offline, no-JavaScript, outbox and static-load receipts. Inspected screenshots including settled zero-count.
-No remaining blocking findings. Benchmark weakness remains a separate limitation.
+A separate gpt-6-astra reviewer passed spec fit and build quality, independently rerunning all 46 tests and the build. Consent, approved-evidence privacy, empty cards, refill Undo, polling and caret fixes were independently reproduced.
 
-The subsequent release commit contains documentation, evidence-runner framing and generated-output exclusions only. Runtime application source is unchanged from the reviewed f6710e1. Final deployment markers and receipts are generated after testing HEAD in artifacts/e2e/.
+The reviewer inspected deployed desktop/phone, offline, no-JavaScript, outbox, static-load and screenshot receipts. It accepted the explicit overview height-budget and mutually exclusive tab-capture exceptions. It found no remaining engineering blocker.
 
-A final greyscale audit caught the general disabled-button rule hiding the held-slip border. The held-state CSS now explicitly preserves the dashed outline; the deployed E2E asserts both dashed style and a nontransparent border during the actual third round. Final receipts supersede earlier runtime hashes.
+The final held-state correction explicitly restores its dashed border against the generic disabled-control style. The reviewer checked this rule and reran quality commands. The deployed browser test asserts the visible dashed desktop hold during the real third round and the separate phone build representation.
+
+Final HEAD, release.json and health must agree. The post-commit receipts and all 30 required screenshots are saved in artifacts/e2e/ and screenshots/commonground/. Benchmark weakness is separate from engineering acceptance: 72.1% Common Ground versus41.7% keyword and86.6% advert-tailored AI CV ranking on synthetic held-out labels.
