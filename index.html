@@ -1,1 +1,155 @@
-<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#ffffff"><meta name="description" content="Run recruitment events around concrete work and people's own words. Propose ten-minute meetings. Both sides choose."><title>Common Ground</title><link rel="icon" href="/favicon.svg" type="image/svg+xml"><link rel="stylesheet" href="/styles.css"><link rel="preload" href="/fonts/next-latin.woff2" as="font" type="font/woff2" crossorigin><script type="module" src="/client/boot.mjs"></script></head><body><a class="skip" href="#main">Skip to content</a><div id="app"><main class="loading" aria-label="Loading the event"><div class="skeleton"></div><div class="skeleton"></div></main></div><div id="live" class="sr-only" aria-live="polite"></div></body></html>
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="#ffffff">
+<meta name="description" content="Common Ground runs recruitment events on concrete work and people's own words. Companies say what they need done, people show what they have done, and a stable matching builds the day. Both sides choose.">
+<title>Common Ground · Recruitment events built on real work</title>
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<script src="/client/route.js"></script>
+<link rel="preload" href="/fonts/next-latin.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="/styles.css">
+<link rel="stylesheet" href="/client/app.css">
+<link rel="stylesheet" href="/client/landing.css">
+<script type="module" src="/client/boot.mjs"></script>
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+<div id="landing">
+<header class="lp-nav">
+<a class="brand" href="/" aria-label="Common Ground home"><svg class="brand-mark" viewBox="0 0 22 14" aria-hidden="true"><circle cx="7" cy="7" r="6.25"/><circle cx="15" cy="7" r="6.25"/><path d="M11 2.2a6.25 6.25 0 0 1 0 9.6 6.25 6.25 0 0 1 0-9.6Z" fill="currentColor"/></svg><span class="wordmark">Common Ground</span></a>
+<nav aria-label="Page sections"><a href="#problem">The problem</a><a href="#how">How it works</a><a href="#proof">Proof</a><a href="#limits">What it never does</a></nav>
+<a class="lp-nav-link" href="/method">Method and benchmark</a>
+</header>
+
+<main id="main" class="lp">
+<section class="lp-hero">
+<div class="lp-hero-copy">
+<h1>At recruitment events, both sides now speak through AI.</h1>
+<p class="lp-lede">Polished CVs meet AI screeners, and nobody learns what anyone can actually do. Common Ground runs the event on real work instead: companies say what they need done, people show what they have done in their own words, and a stable matching builds the day.</p>
+<div class="lp-cta-row"><a class="button primary lp-cta" href="/e/espoo-nov-2026">Open the Espoo event workspace</a><span class="lp-cta-note">No sign-up. You get a private copy of the event.</span></div>
+</div>
+<figure class="lp-pair" aria-label="An agreed meeting from the Espoo event data">
+<div class="lp-pair-head"><span class="lp-token"><b>14:20</b> Table 11</span><span class="pair-state"><svg viewBox="0 0 22 12" class="pair-mark" aria-hidden="true"><circle cx="8.5" cy="6" r="4" fill="currentColor"/><circle cx="13.5" cy="6" r="4" fill="currentColor"/></svg>Both said yes</span></div>
+<div class="lp-pair-body">
+<div><p class="lp-label">Ruska Health needs</p><p class="lp-task">Document the measurement setup so the team can repeat it.</p></div>
+<div><p class="lp-label">Daniela, a café manager, did</p><blockquote class="quote">I <mark>compared the totals each week</mark> and found that most waste came from sandwiches prepared after lunch.</blockquote></div>
+</div>
+<figcaption>Ten minutes, one table, one reason to talk. Neither side sent a CV.</figcaption>
+</figure>
+</section>
+
+<section class="lp-section lp-problem" id="problem">
+<h2>The event is fine. The information going into it is not.</h2>
+<div class="lp-problem-grid">
+<p class="lp-problem-lede">Organisers in Espoo fill the room. What they cannot see is who should talk to whom, because both sides describe themselves badly, late, and increasingly through a model.</p>
+<dl class="lp-facts">
+<div><dt>Companies</dt><dd>send a job title a week before the day. “A full-stack dev” says nothing about the work waiting on Monday.</dd></div>
+<div><dt>People</dt><dd>with transferable skills cannot get them past a keyword filter. A café manager who cut waste by a third is not a “data analyst”.</dd></div>
+<div><dt>Organisers</dt><dd>get hundreds of machine-written applications and no way to tell real capability from fluent text.</dd></div>
+</dl>
+</div>
+</section>
+
+<section class="lp-section" id="how">
+<h2>How it works</h2>
+<p class="lp-section-lede">Four steps, each one a screen in the workspace. Nothing below is a mock-up: the examples are from the Espoo event data.</p>
+
+<article class="lp-step">
+<div class="lp-step-copy"><span class="lp-step-n">1</span><h3>A company’s need becomes three concrete tasks</h3><p>A company types what it would say to a colleague. Three short questions turn that into three tasks someone could start on Monday, each tied to skills from ESCO, the European skills classification. The company edits and sends them.</p></div>
+<div class="lp-frag">
+<p class="lp-typed">a developer for internal tools</p>
+<ul class="lp-tasks">
+<li><span>Build an internal web tool to track support requests.</span><em>about 13 people</em></li>
+<li><span>Find and fix bugs in the customer portal before release.</span><em>about 13 people</em></li>
+<li><span>Write a short guide for the team using the new tool.</span><em>about 36 people</em></li>
+</ul>
+<p class="lp-frag-note">The count is people at this event with proof for that work.</p>
+</div>
+</article>
+
+<article class="lp-step lp-step-flip">
+<div class="lp-step-copy"><span class="lp-step-n">2</span><h3>Work stories become skills, each with a proof line</h3><p>People write three short stories about work they did. No CV, no titles. A model suggests ESCO skills, but a skill only counts if an exact sentence the person wrote proves it. The person sees every skill and its sentence, changes or removes any of them, and approves the card.</p></div>
+<div class="lp-frag">
+<p class="lp-story">I built a spreadsheet that logged everything we threw away, by day and by reason. I <mark>compared the totals each week</mark> and found that most waste came from sandwiches prepared after lunch.</p>
+<div class="skill-tags"><span class="skill-tag"><span class="proof-mark filled"></span>perform data analysis</span><span class="skill-tag"><span class="proof-mark filled"></span>use spreadsheets software</span></div>
+<p class="lp-frag-note">Companies see the sentence, without a name, until both sides say yes.</p>
+</div>
+</article>
+
+<article class="lp-step">
+<div class="lp-step-copy"><span class="lp-step-n">3</span><h3>A stable matching builds the day</h3><p>People ask for the tables they prefer; each table holds the people with the most proof for its tasks. This is deferred acceptance, the method behind the doctor–hospital match. Meetings are then fitted into ten-minute slots, and an independent check counts blocking pairs: a person and a company who would both rather meet each other than the meetings they got.</p></div>
+<div class="lp-frag">
+<table class="lp-rounds"><thead><tr><th>Round</th><th>Asked</th><th>Held</th><th>Passed on</th></tr></thead><tbody>
+<tr><td>1</td><td>313</td><td>158</td><td>155</td></tr>
+<tr><td>2</td><td>50</td><td>160</td><td>48</td></tr>
+<tr><td>3</td><td>34</td><td>160</td><td>34</td></tr>
+<tr><td>8</td><td colspan="3">settled</td></tr>
+</tbody></table>
+<p class="lp-result"><b>160 meetings, 0 blocking pairs.</b> Nobody would rather swap.</p>
+</div>
+</article>
+
+<article class="lp-step lp-step-flip">
+<div class="lp-step-copy"><span class="lp-step-n">4</span><h3>Everyone gets a day page that works offline</h3><p>The organiser sends proposals; nothing is booked until both sides say yes. Each person and company then gets one plain page: time, table, why you two, and a first question. It is a static document, saved on the phone, so it opens when the venue wifi does not and when everyone logs in at once.</p></div>
+<div class="lp-frag lp-day">
+<p class="lp-day-name">Daniela Rojas</p>
+<p class="lp-day-meta">Thu 26 Nov 2026, 13:00–15:00 · Keilaniemi, Espoo</p>
+<div class="lp-day-meeting"><div><b>14:20</b><span>Table 11</span></div><p class="lp-day-co">Ruska Health</p><p class="lp-label">They need</p><p>Document the measurement setup so the team can repeat it.</p></div>
+<p class="lp-saved"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m5 12 4 4 10-10"/></svg>Saved on this device. It opens without a connection.</p>
+</div>
+</article>
+</section>
+
+<section class="lp-section lp-proof" id="proof">
+<h2>Proof, including where it loses</h2>
+<p class="lp-section-lede">One synthetic event of 120 people and 15 companies, scored against hidden labels that were frozen before any matching. Held-out split, 20 scheduling runs per method.</p>
+<div class="lp-charts">
+<figure class="lp-chart">
+<figcaption><h3>Blocking pairs per schedule</h3><p>Pairs who would both rather meet each other than a meeting they were given. Lower is better.</p></figcaption>
+<div class="lp-bars">
+<div class="lp-bar is-cg"><span>Common Ground</span><i style="width:0"></i><b>0</b></div>
+<div class="lp-bar"><span>Keyword CV matching</span><i style="width:80.2%"></i><b>179</b></div>
+<div class="lp-bar"><span>AI-polished CV ranking</span><i style="width:100%"></i><b>223</b></div>
+</div>
+<p class="lp-chart-read">Common Ground’s schedule is stable: no person and company would both prefer each other to what they got. Both ranking methods leave about two hundred such pairs in every schedule.</p>
+</figure>
+<figure class="lp-chart">
+<figcaption><h3>Meetings that were a good fit</h3><p>Share of scheduled meetings whose hidden label was 4 or 5 out of 5. Higher is better.</p></figcaption>
+<div class="lp-bars">
+<div class="lp-bar is-cg"><span>Common Ground</span><i style="width:72%"></i><b>72%</b></div>
+<div class="lp-bar"><span>Keyword CV matching</span><i style="width:42%"></i><b>42%</b></div>
+<div class="lp-bar"><span>AI-polished CV ranking</span><i style="width:87%"></i><b>87%</b></div>
+</div>
+<p class="lp-chart-read">Far better than keyword matching. Not better than a model ranking AI-polished CVs: on this measure that baseline wins, 87% to 72%. We show it because it is the honest result.</p>
+</figure>
+</div>
+<p class="lp-proof-foot">What Common Ground offers a city is a schedule that is stable, explainable sentence by sentence, and blind to names, nationality, language and school. These are scenario fixtures with labels we wrote, not field results. <a href="/method#benchmark-results">Read the full method, the benchmark and its limits</a>.</p>
+</section>
+
+<section class="lp-section lp-limits" id="limits">
+<h2>What it never does</h2>
+<div class="lp-never">
+<ul>
+<li><b>It never ranks people for a job or rejects anyone.</b> It proposes ten-minute meetings. The organiser sends them and both sides answer each one.</li>
+<li><b>It never reads a name, nationality, language, school, age or photo.</b> Group data is kept in a separate file and used only to count who gets meetings.</li>
+<li><b>It never shows a company a name before both sides say yes.</b> Until then a company sees one sentence of proof.</li>
+<li><b>It never keeps a CV.</b> Stories and the evidence card can be deleted by the person at any time.</li>
+</ul>
+<p class="lp-never-note">Recruitment software may be high-risk under Annex III of the EU AI Act. This prototype has not been assessed against it; the controls above support human oversight and do not establish compliance.</p>
+</div>
+</section>
+
+<section class="lp-close">
+<h2>See the November event the way an organiser would.</h2>
+<p>Fifteen companies, 120 people, 18 tables. Write a brief, approve an evidence card, build the schedule and open a day page.</p>
+<a class="button lp-cta lp-cta-light" href="/e/espoo-nov-2026">Open the Espoo event workspace</a>
+</section>
+</main>
+<footer class="lp-footer"><span>Common Ground · built for the City of Espoo challenge, Junction 2026</span><span>Synthetic event data</span></footer>
+</div>
+<div id="app"><div class="loading" aria-label="Loading the event"><div class="skeleton-bar"></div><div class="skeleton"></div><div class="skeleton"></div></div></div>
+<div id="live" class="sr-only" aria-live="polite"></div>
+</body>
+</html>
