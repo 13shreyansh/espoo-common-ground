@@ -41,7 +41,9 @@ npx playwright install chromium
 npm run test:e2e
 ```
 
-The E2E runner targets the deployed URL by default, at 1440×900 and 390×844, and checks that its frontend and backend commits equal HEAD. It creates an isolated visitor workspace and deletes it in `finally`. `E2E_URL` can select a local test server. Screenshots and receipts are in `artifacts/e2e/` and `screenshots/commonground/`. Run `node scripts/e2e-extras.mjs` for manual fallback, drag, fixed agreements, offline outbox and static-load checks; `node scripts/visual-audit.mjs` checks fonts and contrast. The current recording path and cloud release procedure are in [docs/HANDOFF-v2.md](docs/HANDOFF-v2.md).
+The E2E runner requires a configured writing helper and targets the deployed URL by default, at 1440×900 and 390×844, and checks that its frontend and backend commits equal HEAD. It creates an isolated visitor workspace and deletes it in `finally`. `E2E_URL` can select a local test server. Screenshots and receipts are in `artifacts/e2e/` and `screenshots/commonground/`. Run `node scripts/e2e-extras.mjs` for manual fallback, drag, fixed agreements, offline outbox and static-load checks; `node scripts/visual-audit.mjs` checks fonts and contrast. The current recording path and cloud release procedure are in [docs/HANDOFF-v2.md](docs/HANDOFF-v2.md).
+
+`node scripts/e2e-cold-model.mjs` checks a separate brief and edited story through the production helper, retaining output provenance. `REQUIRE_FRESH=1` requires uncached responses and is used only before those inputs have been cached.
 
 `npm run eval` reruns the frozen evaluation using cached polished CVs and model rankings. It does not make model calls. `scripts/targeted-baseline.mjs` generates the primary advert-tailored baseline; `scripts/polish-baseline.mjs` retains the earlier generic control. Both are explicit model-calling steps. Existing engine tests remain; the retired UI test is archived under `tests/archive-v1/`.
 

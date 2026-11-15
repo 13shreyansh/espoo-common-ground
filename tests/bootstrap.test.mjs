@@ -1,0 +1,2 @@
+import {test} from 'node:test';import assert from 'node:assert/strict';import {spawnSync} from 'node:child_process';
+test('cloud bootstrap fails before serving a cached application when its credential pipe is empty',()=>{const run=spawnSync(process.execPath,['server/bootstrap.mjs'],{input:' \n',encoding:'utf8',timeout:3000});assert.equal(run.status,1);assert.match(run.stderr,/Runtime writing helper credential was not provided/);assert(!run.stdout.includes('listening'));});
