@@ -6,3 +6,9 @@ work/
 .impeccable/
 .codex*.log
 artifacts/phase-a/*error*
+
+# Generated deployed-browser evidence is saved locally after testing HEAD.
+artifacts/e2e/
+screenshots/commonground/
+artifacts/backend-deploy.log
+artifacts/vercel-cli-fallback.log
