@@ -30,7 +30,7 @@ flowchart LR
 
 Gemini asks follow-up questions, generates small work tasks and checks whether claimed skills have supporting spans. Deterministic matching and scheduling code uses those outputs. Identity and audit-group inputs do not enter the matcher. That design choice does not by itself establish fairness.
 
-The current service uses Node.js and SQLite on cloud-hosted infrastructure, reached through the Vercel entry point. It does not rely on the builder's Mac. Live release `d858ba1` includes application changes that were not yet in the public branch when this README work began. This README-only publication does not publish the pending application commits.
+The current service uses Node.js and SQLite on cloud-hosted infrastructure, reached through the Vercel entry point. It does not rely on the builder's Mac. The sponsor integration branch incorporates the repaired live application and the previously unpublished application commits. Cloud releases stage the exact Git archive on an isolated HTTPS canary before promotion.
 
 ## Sponsor and model roles
 
@@ -39,14 +39,14 @@ The current service uses Node.js and SQLite on cloud-hosted infrastructure, reac
 | Gemini API | Implemented. Follow-up questions, work tasks and evidence-span checks help participants describe skills. The model does not make a real hiring decision. |
 | ESCO | Implemented. Shared skill concepts connect participant evidence and company needs. |
 | Codex | Used to build, debug and verify the application. |
-| CRACI | **Planned, not implemented.** Run the existing tests and build on CRACI CI. |
-| Context.dev | **Planned, not implemented.** Fetch public company brand information and logos during employer onboarding. Matching remains based on skills and slots, without brand or identity inputs. |
+| CRACI | Implemented workflow configuration. `.github/workflows/sponsor-ci.yml` runs the tests and build with `runs-on: craci`. A completed runner execution is still required as prize evidence. |
+| Context.dev | Implemented. Employer website lookup calls `/v1/brand/retrieve`, saves the returned public profile, and displays its logo, source website and description in onboarding. Matching remains based on skills and slots, without brand or identity inputs. |
 
-The Context.dev plan must visibly support onboarding to meet the core-flow requirement. Fictional demo companies will not receive invented factual brand claims. Planned prize selections remain conditional on implementation and verification.
+Employers explicitly supply a public website. Fictional fixture companies start without a real brand profile. The application never invents a factual brand connection or feeds website details into skill matching. Provider failures preserve the brief and leave manual entry available.
 
 ## Run locally
 
-Use Node.js 24. Supply `GEMINI_API_KEY` securely in the process environment for new model requests. Existing cached evaluation outputs can be inspected without billing new requests.
+Use Node.js 24. Supply `GEMINI_API_KEY` securely in the process environment for new model requests and `CONTEXT_DEV_API_KEY` for employer website lookup. Existing cached evaluation outputs can be inspected without billing new requests.
 
 ```bash
 npm ci
@@ -63,7 +63,7 @@ npm run build
 npm run eval
 ```
 
-The evaluation uses cached outputs. The newer live release has a `scripts/fable-e2e.mjs` flow check, but that script is still in the unpublished application backlog. The published `npm run test:e2e` uses `scripts/e2e.mjs` and targets an older flow; it is not current live-release acceptance proof. Browser tests that write must use an isolated visitor copy and clean up. Do not run write checks or deploy while an active recording uses the shared product.
+The evaluation uses cached outputs. Use `E2E_URL=<deployed URL> EXPECTED_COMMIT=<commit> node scripts/fable-e2e.mjs` for the complete current flow, then `node scripts/brand-e2e.mjs` with the same environment to check website lookup, image loading, persistence and unchanged matching at desktop and phone widths. Both scripts delete their isolated visitor copies. The older `npm run test:e2e` targets an earlier flow. Browser tests that write must use an isolated visitor copy and clean up. Do not run write checks or deploy while an active recording uses the shared product.
 
 ## What the evaluation says
 
@@ -73,18 +73,20 @@ These are measured results from author-labelled synthetic cases and 20 repeated 
 
 Before a real participant pilot, the project needs authenticated invitations, privacy and retention controls, transport hardening, and the appropriate assessment of employment-related AI use. Current consent screens do not complete that work.
 
-## Planned architecture and completion checks
+## Website enrichment and verification
 
 ```mermaid
 flowchart LR
-    D[Employer public website] -. planned fetch .-> C[Context.dev brand data]
-    C -. source-linked preview .-> O[Employer onboarding]
+    D[Employer public website] --> C[Context.dev brand data]
+    C --> O[Source-linked onboarding preview]
     O --> S[Existing company slots]
     S --> M[Existing skill and slot matcher]
-    R[CRACI CI] -. planned .-> T[Tests and build]
+    R[CRACI CI workflow] --> T[Tests and build]
 ```
 
-After implementation approval, the brand step needs a real public-company lookup, source attribution, logo fallback and a visible onboarding preview. A regression check must establish that brand data never changes skill scores. CRACI needs an actual successful GitHub Actions run on `runs-on: craci` with build and tests. Neither planned integration is active today.
+`server/brand.mjs` validates public domains, calls Context.dev, caches the public profile for a day and limits daily lookup attempts. Only Context.dev-hosted `media.brand.dev` logo URLs can load. The provider key stays server-side; encrypted cloud credentials enter the container over stdin.
+
+Measured verification includes a real Stripe lookup with the returned logo, wide and phone browser checks, persistence after reload, and unchanged rankings. `tests/brand.test.mjs` also proves brand fields cannot affect matcher input and a website lookup preserves unsaved task edits. CRACI qualification requires a successful real runner execution in addition to the configured workflow. [Integration code](server/brand.mjs) · [Browser check](scripts/brand-e2e.mjs).
 
 ## Repository guide
 
