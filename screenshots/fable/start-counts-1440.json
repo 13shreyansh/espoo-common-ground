@@ -1,0 +1,259 @@
+{
+  "summary": {
+    "companies": 15,
+    "people": 120,
+    "ready_companies": 12,
+    "approved": 104,
+    "tables": 18,
+    "meetings": 0,
+    "agreed": 0,
+    "waiting_both": 0,
+    "waiting_one": 0
+  },
+  "companies": [
+    {
+      "name": "Routa Logistics",
+      "people_count": 0,
+      "tasks": []
+    },
+    {
+      "name": "Kuura Cloud",
+      "people_count": 38,
+      "tasks": [
+        {
+          "line": "Build an internal web tool to track support requests.",
+          "people_count": 13
+        },
+        {
+          "line": "Find and fix bugs in the customer portal before release.",
+          "people_count": 13
+        },
+        {
+          "line": "Write a short guide for the team using the new tool.",
+          "people_count": 36
+        }
+      ]
+    },
+    {
+      "name": "Havu Robotics",
+      "people_count": 25,
+      "tasks": [
+        {
+          "line": "Combine order exports into a database with consistent identifiers.",
+          "people_count": 13
+        },
+        {
+          "line": "Compare weekly changes and explain which records are missing.",
+          "people_count": 20
+        },
+        {
+          "line": "Create a data model for repeatable monthly reports.",
+          "people_count": 14
+        }
+      ]
+    },
+    {
+      "name": "Vellamo Marine Systems",
+      "people_count": 39,
+      "tasks": [
+        {
+          "line": "Automate checks for the main customer journeys before each release.",
+          "people_count": 13
+        },
+        {
+          "line": "Reproduce intermittent errors and record the steps to fix them.",
+          "people_count": 13
+        },
+        {
+          "line": "Compare failed test runs to find recurring release problems.",
+          "people_count": 39
+        }
+      ]
+    },
+    {
+      "name": "Sirkka Analytics",
+      "people_count": 36,
+      "tasks": [
+        {
+          "line": "Monitor the service and explain slow requests from the logs.",
+          "people_count": 13
+        },
+        {
+          "line": "Review service access and document a safe recovery procedure.",
+          "people_count": 36
+        },
+        {
+          "line": "Write a runbook for the team handling service interruptions.",
+          "people_count": 36
+        }
+      ]
+    },
+    {
+      "name": "Lakka Payments",
+      "people_count": 73,
+      "tasks": [
+        {
+          "line": "Teach the service team to use the new case-management tool.",
+          "people_count": 37
+        },
+        {
+          "line": "Map the handover process and remove repeated manual steps.",
+          "people_count": 14
+        },
+        {
+          "line": "Document the rollout and organise practice sessions.",
+          "people_count": 50
+        }
+      ]
+    },
+    {
+      "name": "Tyrsky Games",
+      "people_count": 38,
+      "tasks": [
+        {
+          "line": "Track stock shortages and show the team what to reorder.",
+          "people_count": 20
+        },
+        {
+          "line": "Resolve customer requests and record recurring causes.",
+          "people_count": 25
+        },
+        {
+          "line": "Train the support team to keep consistent case notes.",
+          "people_count": 38
+        }
+      ]
+    },
+    {
+      "name": "Ruska Health",
+      "people_count": 59,
+      "tasks": [
+        {
+          "line": "Collect sensor measurements and flag readings outside the expected range.",
+          "people_count": 26
+        },
+        {
+          "line": "Compare bench test results and explain repeatable faults.",
+          "people_count": 35
+        },
+        {
+          "line": "Document the measurement setup so the team can repeat it.",
+          "people_count": 43
+        }
+      ]
+    },
+    {
+      "name": "Merituuli Grid",
+      "people_count": 41,
+      "tasks": [
+        {
+          "line": "Build a simple tracker for late deliveries using the driver export.",
+          "people_count": 27
+        },
+        {
+          "line": "Find out each week why deliveries arrive late, using the app export.",
+          "people_count": 39
+        },
+        {
+          "line": "Help dispatchers use the tracker and document what changed.",
+          "people_count": 34
+        }
+      ]
+    },
+    {
+      "name": "Sarastus Software",
+      "people_count": 38,
+      "tasks": [
+        {
+          "line": "Build an internal web tool to track support requests.",
+          "people_count": 13
+        },
+        {
+          "line": "Find and fix bugs in the customer portal before release.",
+          "people_count": 13
+        },
+        {
+          "line": "Write a short guide for the team using the new tool.",
+          "people_count": 36
+        }
+      ]
+    },
+    {
+      "name": "Kelo Sensors",
+      "people_count": 25,
+      "tasks": [
+        {
+          "line": "Combine order exports into a database with consistent identifiers.",
+          "people_count": 13
+        },
+        {
+          "line": "Compare weekly changes and explain which records are missing.",
+          "people_count": 20
+        },
+        {
+          "line": "Create a data model for repeatable monthly reports.",
+          "people_count": 14
+        }
+      ]
+    },
+    {
+      "name": "Louhi Security Works",
+      "people_count": 39,
+      "tasks": [
+        {
+          "line": "Automate checks for the main customer journeys before each release.",
+          "people_count": 13
+        },
+        {
+          "line": "Reproduce intermittent errors and record the steps to fix them.",
+          "people_count": 13
+        },
+        {
+          "line": "Compare failed test runs to find recurring release problems.",
+          "people_count": 39
+        }
+      ]
+    },
+    {
+      "name": "Nuotio Learning",
+      "people_count": 36,
+      "tasks": [
+        {
+          "line": "Monitor the service and explain slow requests from the logs.",
+          "people_count": 13
+        },
+        {
+          "line": "Review service access and document a safe recovery procedure.",
+          "people_count": 36
+        },
+        {
+          "line": "Write a runbook for the team handling service interruptions.",
+          "people_count": 36
+        }
+      ]
+    },
+    {
+      "name": "Pilke Mobility",
+      "people_count": 73,
+      "tasks": [
+        {
+          "line": "Teach the service team to use the new case-management tool.",
+          "people_count": 37
+        },
+        {
+          "line": "Map the handover process and remove repeated manual steps.",
+          "people_count": 14
+        },
+        {
+          "line": "Document the rollout and organise practice sessions.",
+          "people_count": 50
+        }
+      ]
+    },
+    {
+      "name": "Pohjanvalo Energy",
+      "people_count": 0,
+      "tasks": []
+    }
+  ]
+}

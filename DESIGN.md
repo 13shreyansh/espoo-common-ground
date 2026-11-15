@@ -1,9 +1,19 @@
 # Design
 
-An event organiser's working desk in a bright public venue. Clear running order, warm paper, dark forest-green wayfinding, leaf-green selection, an inset why-you-two sheet, and a practical table token. Operate mode. The right-hand sheet explains the currently selected introduction; it becomes a printable card only after both demo answers.
+Calm civic event-operations software. Rebuilt Sun 15 Nov 2026 after the owner judged the previous look bad; critique and direction are in `screenshots/fable/CRITIQUE.md`. Product decisions in DESIGN-DIRECTION.md section 17 still bind; its visual prescriptions do not.
 
-The approved brief delegated the narrow workflow and required excellent product quality. No extra design approval is assumed. Seven considered references: municipal service form, library catalogue, conference room booking board, workshop attendance register, event running-order sheet, transit interchange map, volunteer welcome pack. The direction seed selected candidate five, the event running-order sheet. The boarding-pass challenger was competitive on handoff clarity; it raised persistent table/time identity. Character popularity ranking was declined because it implies ranking people; it raised identity continuity. Marketing-canon and type-specimen challengers were declined because they obscure an operating task; they raised typography discipline. The zoo guide was declined for task clarity; its wayfinding discipline raised text-plus-table-letter navigation. No external reference images were fetched because IAB was unavailable.
+## System
+- Surfaces: white paper, `--desk` #f5f6f3 for quiet fills, hairline borders (`--line`, `--line-soft`). Panels are bordered, never grey-filled. Radius 8 for controls, 12 for panels, 16 for landing figures.
+- Colour: ink #111613; one accent, spruce #0e5c4c, for the primary action, selection, agreed state and focus rings. One amber (`--proof`) reserved for proof lines: a person's own sentence, highlighted and underlined. Status dots use `--ok` and amber.
+- Type: Atkinson Hyperlegible Next, self-hosted. Workspace 15/24 body, 13/20 meta, 24/32 page titles. Landing 56/60 display, 38/44 section titles. Numerals are tabular where they align.
+- Controls: one primary button per screen. Inputs are white with a border and a tinted focus ring. Segments are a sunk track with a raised selection. Tags and chips are pills. Hit targets 24px or more, 44px or more under 700px.
+- Motion: 120 to 140 ms ease-out on hover and press; one authored entrance on the landing pairing card; the schedule build animation is the real round trace. Reduced motion removes animations and transitions.
 
-Self-hosted Public Sans with its retained license; Georgia italic provides a quiet editorial emphasis. The working order uses tabular time numerals. No human portraits or synthetic photorealistic claims. The sidebar becomes a horizontal navigation strip on mobile; the explanation follows the schedule. Colour always has a text equivalent. Keyboard focus, reduced motion, empty/missing-evidence states and print layout are included. The authored interaction is proposal-to-agreement-to-card; no decorative entrance animation.
+## Files
+- `styles.css`: tokens and everything the static day page needs (kept small; the day page loads only this).
+- `client/app.css`: workspace layer, loaded by `index.html` after `styles.css`.
+- `client/landing.css`: landing page and the comparison bars reused on Method.
+- `client/route.js`: sets `landing` or `workspace` on the root element before first paint.
 
-Visual QA is pending Chief IAB desktop/mobile checks. DOM workflow tests do not establish visual quality. Acknowledged deviation from Impeccable's interactive concept rounds: the user's explicit autonomous build instruction and chosen workflow take priority; no unanswered design questions were made into blockers.
+## Screens
+Landing (`/`, static): problem, how it works in four steps, proof with the honest comparison, what it never does, one call to action. Workspace: overview with table first and a status rail; company and person pages with a four-step rail; schedule board with a detail rail; report; method. Day page: one bordered sheet, time large, table as a pill.

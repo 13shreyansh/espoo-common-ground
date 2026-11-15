@@ -1,3 +1,30 @@
+UI REBUILD / Sun 15 Nov 2026 04:20 Helsinki (02:20 UTC) / https://espoo-common-ground.vercel.app
+
+WHAT CHANGED (front end only; server/, src/, matching, ESCO and Gemini calls, persistence and the day-page renderer are untouched):
+- New static landing page at `/`: problem at the top, how it works in four steps with real event fragments, honest proof, what it never does, one call to action "Open the Espoo event workspace", one footer line "Synthetic event data". No script or data fetch is needed to paint it. The workspace now starts at `/e/espoo-nov-2026`.
+- One visual system across landing, workspace and day page: spruce accent replaces default blue, bordered white inputs and panels replace grey fills, proof lines keep the single amber highlight, mono numerals removed, pill tags, calmer board slips, themed focus rings and selection.
+- Workspace structure: overview puts the working table first with "Where things stand" as a side rail; company and person pages get a four-step rail; Method leads the benchmark with stability and fit bars; the not-yet-built fairness table is one sentence instead of repeated cells; report columns align; the phone top bar has a labelled Menu.
+- Benchmark wording, landing and Method: 0 blocking pairs against 179 and 223; 72% good meetings against 42% keyword and 87% AI-polished CV ranking, stated as a loss on that measure. Numbers are the held-out rows in the table below.
+
+SPEED (measured, deployed URL, headless Playwright Chromium, cold context, 5 runs each, `scripts/fable-perf.mjs`, results in `screenshots/fable/perf.json`):
+- Before: first paint median 200 ms but of an empty skeleton; no first-contentful-paint entry at load; real content visible at median 936 ms (854 to 1193).
+- After, landing: first contentful paint median 212 ms at 1440 wide and 236 ms at 390 wide (max 276). With Chromium network throttling (150 ms latency, 1.6 Mbit/s down): median 672 ms and 664 ms (max 732). 7 requests, 58.7 KB transferred including the font.
+
+TESTS: `npm test` 47 of 47 pass, before and after (no assertion needed changing). `node scripts/fable-e2e.mjs` on the deployed URL passes at 1440x900 and 390x844 with no console errors: landing, call to action, company need to questions to three tasks, person stories to evidence card to approval, schedule build (160 meetings, 0 unplaced, 0 blocking pairs), both sides say yes, introduction card, day page saved and reloaded offline, JavaScript-off day page (50,026 bytes without fonts), Method, Report and follow-up. Each run uses an isolated visitor copy that is deleted in `finally`.
+
+SCREENSHOTS: `screenshots/fable/` (60 captures from the deployed site; `before/` holds the old UI; `CRITIQUE.md` is the critique and direction).
+- Desktop first screen: `screenshots/fable/00-landing-desktop.png`
+- 390px first screen: `screenshots/fable/00-landing-phone.png`
+- Key moment: `screenshots/fable/15-schedule-agreed-desktop.png`
+
+NOT DONE / FRAGILE:
+- The typeface (Atkinson Hyperlegible Next) has a slashed zero with no alternate; it stays as the face's character.
+- `scripts/e2e.mjs` (old runner) now opens `/e/espoo-nov-2026` directly; it was not rerun. `scripts/e2e-extras.mjs` and `scripts/visual-audit.mjs` were not rerun against the new styles.
+- A returning browser that cached the old stylesheet through the day-page service worker gets the new one after the worker updates (cache name bumped to cg-day-v4); one stale load is possible.
+- DESIGN-DIRECTION.md visual prescriptions (colours, sizes, placement) are superseded by this rebuild; its product decisions still hold.
+
+---- Previous status (Job 02) follows ----
+
 NEEDS CHIEF: benchmark weak
 
 ENTRY: Espoo / Job 02 / Sun 15 Nov 2026 02:57 Helsinki / commit HEAD, verified by release.json and health / https://espoo-common-ground.vercel.app

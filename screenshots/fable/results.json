@@ -1,0 +1,102 @@
+{
+  "origin": "https://espoo-common-ground.vercel.app",
+  "commit": "48ab3386b54a68f19d30d57a170a43a77655810a",
+  "at": "2026-11-15T02:16:02.315Z",
+  "runs": [
+    {
+      "width": 1440,
+      "screenshots": [
+        "01-overview-desktop.png",
+        "03-company-need-desktop.png",
+        "04-company-questions-desktop.png",
+        "05-company-tasks-desktop.png",
+        "07-person-stories-desktop.png",
+        "08-person-card-desktop.png",
+        "09-person-card-change-desktop.png",
+        "10-person-tasks-desktop.png",
+        "11-schedule-empty-desktop.png",
+        "12-schedule-build-round-desktop.png",
+        "13-schedule-draft-desktop.png",
+        "14-schedule-why-desktop.png",
+        "20-company-meetings-anonymous-desktop.png",
+        "20-company-meetings-agreed-desktop.png",
+        "15-schedule-agreed-desktop.png",
+        "19-schedule-list-desktop.png",
+        "18-schedule-without-desktop.png",
+        "18-schedule-fairness-desktop.png",
+        "22-method-how-desktop.png",
+        "23-method-benchmark-desktop.png",
+        "24-method-groups-desktop.png",
+        "21-report-desktop.png",
+        "02-overview-people-desktop.png"
+      ],
+      "checks": [
+        "offline reload with meetings and saved-time line",
+        "follow-up adds one answer for its own side",
+        "video path complete",
+        "independent stability is zero",
+        "company response anonymous until both yes",
+        "one primary per screenshot",
+        "no horizontal overflow",
+        "JavaScript-off static day schedule under 60KB"
+      ],
+      "task_count": 9,
+      "meeting": {
+        "id": "m-b793bc620197b308cd85f77f-6ea1729582d51ed38aa4d2bf",
+        "person": "Daniela Rojas",
+        "company": "Ruska Health",
+        "slot": "14:20",
+        "table": 11
+      },
+      "day_bytes_without_fonts": 50026,
+      "console_errors": []
+    },
+    {
+      "width": 390,
+      "screenshots": [
+        "01-overview-phone.png",
+        "03-company-need-phone.png",
+        "04-company-questions-phone.png",
+        "05-company-tasks-phone.png",
+        "07-person-stories-phone.png",
+        "08-person-card-phone.png",
+        "09-person-card-change-phone.png",
+        "10-person-tasks-phone.png",
+        "11-schedule-empty-phone.png",
+        "12-schedule-build-round-phone.png",
+        "13-schedule-draft-phone.png",
+        "14-schedule-why-phone.png",
+        "20-company-meetings-anonymous-phone.png",
+        "20-company-meetings-agreed-phone.png",
+        "15-schedule-agreed-phone.png",
+        "18-schedule-without-phone.png",
+        "18-schedule-fairness-phone.png",
+        "22-method-how-phone.png",
+        "23-method-benchmark-phone.png",
+        "24-method-groups-phone.png",
+        "21-report-phone.png",
+        "02-overview-people-phone.png"
+      ],
+      "checks": [
+        "offline reload with meetings and saved-time line",
+        "follow-up adds one answer for its own side",
+        "video path complete",
+        "independent stability is zero",
+        "company response anonymous until both yes",
+        "one primary per screenshot",
+        "no horizontal overflow",
+        "JavaScript-off static day schedule under 60KB"
+      ],
+      "task_count": 9,
+      "meeting": {
+        "id": "m-b793bc620197b308cd85f77f-6ea1729582d51ed38aa4d2bf",
+        "person": "Daniela Rojas",
+        "company": "Ruska Health",
+        "slot": "14:20",
+        "table": 11
+      },
+      "day_bytes_without_fonts": 50026,
+      "console_errors": []
+    }
+  ]
+}

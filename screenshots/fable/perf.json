@@ -1,0 +1,202 @@
+{
+ "unthrottled-1440": {
+  "median_ttfb": 68,
+  "median_fp": 212,
+  "median_fcp": 212,
+  "max_fcp": 276,
+  "requests": 7,
+  "transfer_bytes": 58700,
+  "runs": [
+   {
+    "ttfb": 90,
+    "fp": 276,
+    "fcp": 276,
+    "h1": true,
+    "bytes": 58700,
+    "requests": 7
+   },
+   {
+    "ttfb": 71,
+    "fp": 256,
+    "fcp": 256,
+    "h1": true,
+    "bytes": 58700,
+    "requests": 7
+   },
+   {
+    "ttfb": 68,
+    "fp": 192,
+    "fcp": 192,
+    "h1": true,
+    "bytes": 58700,
+    "requests": 7
+   },
+   {
+    "ttfb": 45,
+    "fp": 212,
+    "fcp": 212,
+    "h1": true,
+    "bytes": 58700,
+    "requests": 7
+   },
+   {
+    "ttfb": 50,
+    "fp": 192,
+    "fcp": 192,
+    "h1": true,
+    "bytes": 58700,
+    "requests": 7
+   }
+  ]
+ },
+ "unthrottled-390": {
+  "median_ttfb": 55,
+  "median_fp": 236,
+  "median_fcp": 236,
+  "max_fcp": 256,
+  "requests": 7,
+  "transfer_bytes": 58700,
+  "runs": [
+   {
+    "ttfb": 55,
+    "fp": 224,
+    "fcp": 224,
+    "h1": true,
+    "bytes": 58700,
+    "requests": 7
+   },
+   {
+    "ttfb": 49,
+    "fp": 172,
+    "fcp": 172,
+    "h1": true,
+    "bytes": 58700,
+    "requests": 7
+   },
+   {
+    "ttfb": 66,
+    "fp": 236,
+    "fcp": 236,
+    "h1": true,
+    "bytes": 58700,
+    "requests": 7
+   },
+   {
+    "ttfb": 54,
+    "fp": 256,
+    "fcp": 256,
+    "h1": true,
+    "bytes": 58700,
+    "requests": 7
+   },
+   {
+    "ttfb": 115,
+    "fp": 244,
+    "fcp": 244,
+    "h1": true,
+    "bytes": 58700,
+    "requests": 7
+   }
+  ]
+ },
+ "slow-4g-1440": {
+  "median_ttfb": 185,
+  "median_fp": 672,
+  "median_fcp": 672,
+  "max_fcp": 732,
+  "requests": 7,
+  "transfer_bytes": 58700,
+  "runs": [
+   {
+    "ttfb": 183,
+    "fp": 664,
+    "fcp": 664,
+    "h1": true,
+    "bytes": 58700,
+    "requests": 7
+   },
+   {
+    "ttfb": 185,
+    "fp": 672,
+    "fcp": 672,
+    "h1": true,
+    "bytes": 58700,
+    "requests": 7
+   },
+   {
+    "ttfb": 185,
+    "fp": 656,
+    "fcp": 656,
+    "h1": true,
+    "bytes": 58700,
+    "requests": 7
+   },
+   {
+    "ttfb": 242,
+    "fp": 732,
+    "fcp": 732,
+    "h1": true,
+    "bytes": 58700,
+    "requests": 7
+   },
+   {
+    "ttfb": 190,
+    "fp": 680,
+    "fcp": 680,
+    "h1": true,
+    "bytes": 58700,
+    "requests": 7
+   }
+  ]
+ },
+ "slow-4g-390": {
+  "median_ttfb": 184,
+  "median_fp": 664,
+  "median_fcp": 664,
+  "max_fcp": 704,
+  "requests": 7,
+  "transfer_bytes": 58700,
+  "runs": [
+   {
+    "ttfb": 184,
+    "fp": 660,
+    "fcp": 660,
+    "h1": true,
+    "bytes": 58700,
+    "requests": 7
+   },
+   {
+    "ttfb": 182,
+    "fp": 664,
+    "fcp": 664,
+    "h1": true,
+    "bytes": 58700,
+    "requests": 7
+   },
+   {
+    "ttfb": 183,
+    "fp": 664,
+    "fcp": 664,
+    "h1": true,
+    "bytes": 58700,
+    "requests": 7
+   },
+   {
+    "ttfb": 229,
+    "fp": 704,
+    "fcp": 704,
+    "h1": true,
+    "bytes": 58700,
+    "requests": 7
+   },
+   {
+    "ttfb": 193,
+    "fp": 680,
+    "fcp": 680,
+    "h1": true,
+    "bytes": 58700,
+    "requests": 7
+   }
+  ]
+ }
+}
